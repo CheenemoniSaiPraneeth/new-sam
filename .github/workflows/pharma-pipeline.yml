@@ -51,10 +51,10 @@ jobs:
               'gene_editing',
           ]
           QUERIES = {
-              'bispecific_antibodies': 'bispecific antibody BiTE T-cell engager CrossMab',
-              'monoclonal_antibodies': 'monoclonal antibody mAb therapeutic humanized',
-              'molecular_glues':       'molecular glue PROTAC TPD degrader E3 ligase',
-              'gene_editing':          'CRISPR gene editing Cas9 base editing prime editing',
+              'bispecific_antibodies': 'bispecific',
+              'monoclonal_antibodies': 'monoclonal',
+              'molecular_glues':       'molecular glue',
+              'gene_editing':          'CRISPR gene editing',
           }
 
           today = date.today()
