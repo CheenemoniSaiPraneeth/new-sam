@@ -31,10 +31,7 @@ jobs:
           playwright install-deps chromium
 
       # ── STEP 4: Inject API keys from GitHub Secrets ──────────────────────
-      - name: Set API keys
-        run: |
-          echo "NVIDIA_API_KEY=${{ secrets.NVIDIA_API_KEY }}" >> $GITHUB_ENV
-          echo "GROQ_API_KEY=${{ secrets.GROQ_API_KEY }}"     >> $GITHUB_ENV
+     
 
       # ── STEP 5: Decide today's modality ──────────────────────────────────
       - name: Determine today modality
