@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Pharma Intelligence</title>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet"/>
+<style>
+:root {
+  --bg:#080b12;--surface:#0f1219;--surface2:#161b26;
+  --border:#1a2035;--border-hi:#2a3355;
+  --text:#c8d0e8;--text-dim:#4a5270;--text-mid:#7a84a8;
+  --accent:#4af4b0;--accent2:#6e8cff;--accent3:#f4a24a;--danger:#f46a6a;
+  --r:8px;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html,body{background:var(--bg);color:var(--text);font-family:'DM Mono',monospace;font-size:14px;line-height:1.6;min-height:100vh}
+::-webkit-scrollbar{width:5px}::-webkit-scrollbar-track{background:var(--bg)}::-webkit-scrollbar-thumb{background:var(--border-hi);border-radius:3px}
+#app{display:flex;flex-direction:column;min-height:100vh}
+
+/* HEADER */
+.header{display:flex;align-items:center;justify-content:space-between;padding:16px 32px;border-bottom:1px solid var(--border);background:rgba(8,11,18,0.95);backdrop-filter:blur(16px);position:sticky;top:0;z-index:100}
+.logo{font-family:'Syne',sans-serif;font-weight:800;font-size:18px;color:#fff;letter-spacing:-0.5px}
+.logo span{color:var(--accent)}
+.logo-sub{font-size:10px;color:var(--text-dim);text-transform:uppercase;letter-spacing:0.1em;margin-left:10px}
+.header-right{display:flex;align-items:center;gap:12px}
+.today-pill{background:rgba(74,244,176,0.08);border:1px solid rgba(74,244,176,0.2);border-radius:20px;padding:4px 12px;font-size:11px;color:var(--accent)}
+
+/* MAIN */
+.main{flex:1;padding:28px 32px;max-width:1300px;margin:0 auto;width:100%}
+
+/* MODALITY CARDS */
+.cards-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:14px;margin-bottom:32px}
+.mod-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);padding:20px;cursor:pointer;transition:all 0.2s;position:relative;overflow:hidden}
+.mod-card::after{content:'';position:absolute;bottom:0;left:0;right:0;height:2px;background:var(--c,var(--accent));opacity:0.4;transition:opacity 0.2s}
+.mod-card:hover{border-color:var(--border-hi);transform:translateY(-2px);box-shadow:0 8px 32px rgba(0,0,0,0.5)}
+.mod-card:hover::after{opacity:1}
+.mod-card.active{border-color:var(--c,var(--accent));background:rgba(74,244,176,0.03)}
+.card-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}
+.card-icon{font-size:18px}
+.card-status{font-size:10px;padding:2px 8px;border-radius:3px;letter-spacing:0.06em;text-transform:uppercase}
+.status-live{background:rgba(74,244,176,0.1);color:var(--accent);border:1px solid rgba(74,244,176,0.2)}
+.status-waiting{background:rgba(74,100,176,0.1);color:var(--text-mid);border:1px solid rgba(74,100,176,0.2)}
+.status-today{background:rgba(244,162,74,0.1);color:var(--accent3);border:1px solid rgba(244,162,74,0.2)}
+.card-title{font-family:'Syne',sans-serif;font-weight:700;font-size:14px;color:#fff;margin-bottom:4px}
+.card-query{font-size:10px;color:var(--text-dim);margin-bottom:12px;font-style:italic}
+.card-stats{display:flex;gap:12px}
+.card-stat{text-align:center}
+.card-stat-num{font-family:'Instrument Serif',serif;font-size:24px;line-height:1}
+.card-stat-lbl{font-size:9px;color:var(--text-dim);text-transform:uppercase;letter-spacing:0.08em}
+.card-next{font-size:10px;color:var(--text-dim);margin-top:10px;padding-top:10px;border-top:1px solid var(--border)}
+
+/* BRIEF VIEW */
+.brief-header{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:24px;gap:16px;flex-wrap:wrap}
+.brief-title{font-family:'Syne',sans-serif;font-weight:800;font-size:22px;color:#fff}
+.brief-title span{font-style:italic}
+.brief-meta{font-size:11px;color:var(--text-dim);margin-top:4px}
+.back-btn{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);padding:7px 14px;font-family:'DM Mono',monospace;font-size:11px;color:var(--text-mid);cursor:pointer;transition:all 0.15s;white-space:nowrap}
+.back-btn:hover{border-color:var(--border-hi);color:var(--text)}
+
+/* SECTIONS */
+.sections{display:flex;flex-direction:column;gap:20px}
+.section-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);overflow:hidden}
+.section-heading{padding:14px 20px;background:var(--surface2);border-bottom:1px solid var(--border);font-family:'Syne',sans-serif;font-weight:700;font-size:13px;color:#fff;display:flex;align-items:center;gap:10px;cursor:pointer;user-select:none}
+.section-heading-icon{font-size:14px}
+.section-count{margin-left:auto;font-family:'DM Mono',monospace;font-weight:400;font-size:10px;color:var(--text-dim);background:var(--bg);padding:2px 8px;border-radius:20px}
+.section-toggle{font-size:10px;color:var(--text-dim);margin-left:6px;transition:transform 0.2s}
+.section-toggle.open{transform:rotate(180deg)}
+.section-points{padding:0}
+.section-points.hidden{display:none}
+.point-item{display:flex;align-items:flex-start;gap:12px;padding:12px 20px;border-bottom:1px solid var(--border);transition:background 0.1s}
+.point-item:last-child{border-bottom:none}
+.point-item:hover{background:rgba(255,255,255,0.02)}
+.point-dot{width:5px;height:5px;border-radius:50%;background:var(--accent);margin-top:8px;flex-shrink:0}
+.point-text{flex:1;font-size:12px;color:var(--text-mid);line-height:1.6}
+.point-text strong{color:var(--text)}
+.point-link{flex-shrink:0;margin-top:2px}
+.point-link a{color:var(--accent2);font-size:10px;text-decoration:none;padding:2px 7px;border:1px solid rgba(110,140,255,0.2);border-radius:3px;background:rgba(110,140,255,0.05);transition:all 0.15s;white-space:nowrap}
+.point-link a:hover{background:rgba(110,140,255,0.15);border-color:rgba(110,140,255,0.4)}
+
+/* NOT AVAILABLE */
+.not-available{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);padding:60px;text-align:center}
+.na-icon{font-size:48px;margin-bottom:16px;opacity:0.4}
+.na-title{font-family:'Syne',sans-serif;font-weight:700;font-size:20px;color:var(--text-mid);margin-bottom:8px}
+.na-sub{font-size:12px;color:var(--text-dim);line-height:1.8}
+.na-next{display:inline-block;margin-top:16px;background:rgba(74,244,176,0.08);border:1px solid rgba(74,244,176,0.2);border-radius:20px;padding:6px 16px;font-size:11px;color:var(--accent)}
+
+/* SECTION ICONS */
+.section-icons{"Overview":"📊","Key Developments":"🔬","Companies in Focus":"🏢","Clinical & Scientific Highlights":"🧪","Business & Deals":"💼"}
+
+/* LOADING */
+.loading{display:flex;align-items:center;justify-content:center;padding:80px;color:var(--text-dim);font-size:12px;gap:10px}
+.spinner{width:16px;height:16px;border:2px solid var(--border-hi);border-top-color:var(--accent);border-radius:50%;animation:spin 0.7s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.fade-in{animation:fadeIn 0.3s ease}
+@keyframes fadeIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+
+@media(max-width:700px){.header,.main{padding:14px 16px}.card-stats{flex-wrap:wrap}}
+</style>
+</head>
+<body>
+<div id="app"></div>
+<script type="module">
+const COLORS={
+  bispecific_antibodies:{c:'#4af4b0',icon:'⬡'},
+  monoclonal_antibodies:{c:'#6e8cff',icon:'◎'},
+  molecular_glues:{c:'#f4a24a',icon:'◈'},
+  gene_editing:{c:'#f46a6a',icon:'⟐'},
+};
+
+const SECTION_ICONS={
+  'Overview':'📊',
+  'Key Developments':'🔬',
+  'Companies in Focus':'🏢',
+  'Clinical & Scientific Highlights':'🧪',
+  'Business & Deals':'💼',
+};
+
+let state={tab:'dashboard',modalities:[],brief:null,activeModality:null,loading:false,stats:null};
+function setState(p){state={...state,...p};render();}
+
+async function api(url){const r=await fetch(url);if(!r.ok)throw new Error(r.status);return r.json();}
+
+async function boot(){
+  setState({loading:true});
+  try{
+    const[mods,stats]=await Promise.all([api('/api/modalities'),api('/api/stats')]);
+    setState({modalities:mods,stats,loading:false});
+  }catch{setState({loading:false});}
+}
+
+async function openModality(key){
+  setState({loading:true,tab:'brief',activeModality:key,brief:null});
+  try{
+    const data=await api(`/api/modalities/${key}`);
+    setState({brief:data,loading:false});
+  }catch{setState({loading:false});}
+}
+
+function fmtDate(s){if(!s)return'—';return new Date(s).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric',hour:'2-digit',minute:'2-digit'});}
+
+function renderHeader(){
+  const s=state.stats;
+  return`<header class="header">
+    <div style="display:flex;align-items:baseline;gap:4px">
+      <div class="logo">Pharma<span>Intelligence</span></div>
+      <div class="logo-sub">News Brief</div>
+    </div>
+    <div class="header-right">
+      ${s?`<div class="today-pill">Today: ${s.today_label}</div>`:''}
+      ${s?`<div class="today-pill" style="background:rgba(110,140,255,0.08);border-color:rgba(110,140,255,0.2);color:var(--accent2)">${s.available_count}/4 briefs ready</div>`:''}
+    </div>
+  </header>`;
+}
+
+function renderCards(){
+  if(!state.modalities.length)return`<div class="loading"><div class="spinner"></div> Loading…</div>`;
+  return`<div class="cards-grid fade-in">
+    ${state.modalities.map(m=>{
+      const ci=COLORS[m.key]||{c:'#4af4b0',icon:'◉'};
+      let statusHtml='';
+      if(m.is_today&&!m.available)statusHtml=`<span class="card-status status-today">Running today</span>`;
+      else if(m.available)statusHtml=`<span class="card-status status-live">Brief ready</span>`;
+      else statusHtml=`<span class="card-status status-waiting">Pending</span>`;
+      return`<div class="mod-card ${state.activeModality===m.key&&state.tab==='brief'?'active':''}" style="--c:${ci.c}" onclick="window._open('${m.key}')">
+        <div class="card-top">
+          <span class="card-icon">${ci.icon}</span>
+          ${statusHtml}
+        </div>
+        <div class="card-title">${m.label}</div>
+        <div class="card-query">${m.query}</div>
+        <div class="card-stats">
+          <div class="card-stat">
+            <div class="card-stat-num" style="color:${ci.c}">${m.article_count||'—'}</div>
+            <div class="card-stat-lbl">Articles</div>
+          </div>
+          <div class="card-stat">
+            <div class="card-stat-num" style="color:${ci.c}">${m.section_count||'—'}</div>
+            <div class="card-stat-lbl">Sections</div>
+          </div>
+          ${m.generated_at?`<div class="card-stat">
+            <div class="card-stat-num" style="font-family:'DM Mono',monospace;font-size:11px;color:var(--text-mid);padding-top:4px">${new Date(m.generated_at).toLocaleDateString('en-US',{month:'short',day:'numeric'})}</div>
+            <div class="card-stat-lbl">Generated</div>
+          </div>`:''}
+        </div>
+        ${!m.available?`<div class="card-next">⏰ Next run: ${m.next_run}</div>`:''}
+      </div>`;
+    }).join('')}
+  </div>`;
+}
+
+function renderBrief(){
+  if(state.loading)return`<div class="loading"><div class="spinner"></div> Loading brief…</div>`;
+  const b=state.brief;if(!b)return'';
+  const ci=COLORS[b.modality]||{c:'#4af4b0'};
+
+  if(!b.available){
+    return`<div>
+      <button class="back-btn" onclick="window._back()" style="margin-bottom:20px">← All Modalities</button>
+      <div class="not-available">
+        <div class="na-icon">📭</div>
+        <div class="na-title">${b.label} brief not yet available</div>
+        <div class="na-sub">
+          This modality runs on a 4-day rotation.<br>
+          The pipeline will automatically generate this brief on its next scheduled run.
+        </div>
+        <div class="na-next">⏰ Next run: ${b.next_run}</div>
+      </div>
+    </div>`;
+  }
+
+  const sections=b.sections||[];
+  return`<div class="fade-in">
+    <div class="brief-header">
+      <div>
+        <button class="back-btn" onclick="window._back()">← All Modalities</button>
+        <div class="brief-title" style="margin-top:14px;color:${ci.c}">${b.label} <span style="color:#fff">Intelligence Brief</span></div>
+        <div class="brief-meta">
+          ${b.article_count} articles analysed · Generated ${fmtDate(b.generated_at)}
+          · Query: <em>${b.query}</em>
+        </div>
+      </div>
+    </div>
+    <div class="sections">
+      ${sections.map((sec,si)=>{
+        const icon=SECTION_ICONS[sec.heading]||'📌';
+        const points=sec.points||[];
+        return`<div class="section-card">
+          <div class="section-heading" onclick="window._toggleSection(${si})">
+            <span class="section-heading-icon">${icon}</span>
+            ${sec.heading}
+            <span class="section-count">${points.length} points</span>
+            <span class="section-toggle open" id="toggle-${si}">▼</span>
+          </div>
+          <div class="section-points" id="section-${si}">
+            ${points.map(pt=>`<div class="point-item">
+              <div class="point-dot" style="background:${ci.c}"></div>
+              <div class="point-text">${pt.text||''}</div>
+              ${pt.url?`<div class="point-link"><a href="${pt.url}" target="_blank" rel="noopener">Source ↗</a></div>`:''}
+            </div>`).join('')}
+          </div>
+        </div>`;
+      }).join('')}
+    </div>
+  </div>`;
+}
+
+function render(){
+  const app=document.getElementById('app');
+  let main='';
+  if(state.tab==='brief')main=renderBrief();
+  else main=renderCards();
+  app.innerHTML=`${renderHeader()}<main class="main">${main}</main>`;
+}
+
+window._open=(key)=>openModality(key);
+window._back=()=>setState({tab:'dashboard',brief:null,activeModality:null});
+window._toggleSection=(idx)=>{
+  const el=document.getElementById(`section-${idx}`);
+  const tog=document.getElementById(`toggle-${idx}`);
+  if(el){el.classList.toggle('hidden');tog&&tog.classList.toggle('open');}
+};
+
+render();
+boot();
+</script>
+</body>
+</html>
