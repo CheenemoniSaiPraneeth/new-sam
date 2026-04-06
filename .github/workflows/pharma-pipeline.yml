@@ -54,7 +54,7 @@ jobs:
               'bispecific_antibodies': 'bispecific',
               'monoclonal_antibodies': 'monoclonal',
               'molecular_glues':       'molecular glue',
-              'gene_editing':          'CRISPR gene editing',
+              'gene_editing':          'CRISPR',
           }
 
           today = date.today()
