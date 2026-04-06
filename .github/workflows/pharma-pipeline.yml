@@ -1,0 +1,152 @@
+name: Pharma Intelligence Pipeline
+
+on:
+  schedule:
+    - cron: '30 4 * * *'   # 10:00 AM IST every day
+  workflow_dispatch:         # allows manual trigger from GitHub
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      # ── STEP 1: Get code ─────────────────────────────────────────────────
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # ── STEP 2: Python setup ─────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # ── STEP 3: Install all libraries ────────────────────────────────────
+      - name: Install dependencies
+        run: |
+          pip install aiohttp beautifulsoup4 python-dateutil certifi \
+                      playwright requests groq python-dotenv
+
+          playwright install chromium
+          playwright install-deps chromium
+
+      # ── STEP 4: Inject API keys from GitHub Secrets ──────────────────────
+      - name: Set API keys
+        run: |
+          echo "NVIDIA_API_KEY=${{ secrets.NVIDIA_API_KEY }}" >> $GITHUB_ENV
+          echo "GROQ_API_KEY=${{ secrets.GROQ_API_KEY }}"     >> $GITHUB_ENV
+
+      # ── STEP 5: Decide today's modality ──────────────────────────────────
+      - name: Determine today modality
+        id: modality
+        run: |
+          python - <<'EOF'
+          from datetime import date
+          import os
+
+          MODALITIES = [
+              'bispecific_antibodies',
+              'monoclonal_antibodies',
+              'molecular_glues',
+              'gene_editing',
+          ]
+          QUERIES = {
+              'bispecific_antibodies': 'bispecific antibody BiTE T-cell engager CrossMab',
+              'monoclonal_antibodies': 'monoclonal antibody mAb therapeutic humanized',
+              'molecular_glues':       'molecular glue PROTAC TPD degrader E3 ligase',
+              'gene_editing':          'CRISPR gene editing Cas9 base editing prime editing',
+          }
+
+          today = date.today()
+          idx   = today.toordinal() % len(MODALITIES)
+          mod   = MODALITIES[idx]
+          query = QUERIES[mod]
+
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write(f'modality={mod}\n')
+              f.write(f'query={query}\n')
+
+          print(f'Today modality : {mod}')
+          print(f'Query          : {query}')
+          EOF
+
+      # ── STEP 6: Run extraction pipeline (no summarize yet) ────────────────
+      - name: Run Stage 1 — Harvester
+        run: |
+          python run_pipeline.py \
+            --query "${{ steps.modality.outputs.query }}" \
+            --days 7 \
+            --no-summarize
+
+      # ── STEP 7: Merge all domain JSONs into allinone.json ─────────────────
+      - name: Run Stage 2 — Delta Engine
+        run: python merge.py
+
+      # ── STEP 8: Count articles ────────────────────────────────────────────
+      - name: Check if new articles exist
+        id: check
+        run: |
+          python - <<'EOF'
+          import json, os
+          from pathlib import Path
+
+          f = Path('allinone.json')
+          count = 0
+          if f.exists():
+              data  = json.loads(f.read_text(encoding='utf-8'))
+              count = len(data.get('articles', []))
+
+          print(f'Articles found: {count}')
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as out:
+              out.write(f'count={count}\n')
+          EOF
+
+      - name: Run Stage 3 — Text Extractor
+        run: echo "Articles ready for summariser ${{ steps.check.outputs.count }}"
+
+      # ── STEP 9: Run summariser for today's modality ───────────────────────
+      - name: Run Stage 4 — Summariser (bispecific antibodies)
+        if: steps.modality.outputs.modality == 'bispecific_antibodies' && steps.check.outputs.count != '0'
+        run: |
+          python SUMMARIZER.py \
+            --input allinone.json \
+            --query "bispecific antibody BiTE T-cell engager CrossMab" \
+            --output brief_bispecific_antibodies.json
+
+      - name: Run Stage 4 — Summariser (monoclonal antibodies)
+        if: steps.modality.outputs.modality == 'monoclonal_antibodies' && steps.check.outputs.count != '0'
+        run: |
+          python SUMMARIZER.py \
+            --input allinone.json \
+            --query "monoclonal antibody mAb therapeutic humanized" \
+            --output brief_monoclonal_antibodies.json
+
+      - name: Run Stage 4 — Summariser (molecular glues)
+        if: steps.modality.outputs.modality == 'molecular_glues' && steps.check.outputs.count != '0'
+        run: |
+          python SUMMARIZER.py \
+            --input allinone.json \
+            --query "molecular glue PROTAC targeted protein degradation TPD" \
+            --output brief_molecular_glues.json
+
+      - name: Run Stage 4 — Summariser (gene editing)
+        if: steps.modality.outputs.modality == 'gene_editing' && steps.check.outputs.count != '0'
+        run: |
+          python SUMMARIZER.py \
+            --input allinone.json \
+            --query "CRISPR gene editing Cas9 base editing prime editing" \
+            --output brief_gene_editing.json
+
+      # ── STEP 10: Push brief JSON back to GitHub ───────────────────────────
+      - name: Commit and push results
+        run: |
+          git config user.name  "github-actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git stash || true
+          git pull --rebase origin main || true
+          git stash pop || true
+          git add brief_*.json allinone.json || true
+          git diff --staged --quiet || \
+            git commit -m "Auto pharma brief $(date +'%Y-%m-%d')"
+          git push
