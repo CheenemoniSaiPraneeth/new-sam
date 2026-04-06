@@ -110,7 +110,7 @@ jobs:
         run: |
           python SUMMARIZER.py \
             --input allinone.json \
-            --query "bispecific antibody BiTE T-cell engager CrossMab" \
+            --query "bispecific" \
             --output brief_bispecific_antibodies.json
 
       - name: Run Stage 4 — Summariser (monoclonal antibodies)
@@ -118,7 +118,7 @@ jobs:
         run: |
           python SUMMARIZER.py \
             --input allinone.json \
-            --query "monoclonal antibody mAb therapeutic humanized" \
+            --query "monoclonal" \
             --output brief_monoclonal_antibodies.json
 
       - name: Run Stage 4 — Summariser (molecular glues)
@@ -126,7 +126,7 @@ jobs:
         run: |
           python SUMMARIZER.py \
             --input allinone.json \
-            --query "molecular glue PROTAC targeted protein degradation TPD" \
+            --query "molecular glue" \
             --output brief_molecular_glues.json
 
       - name: Run Stage 4 — Summariser (gene editing)
@@ -134,7 +134,7 @@ jobs:
         run: |
           python SUMMARIZER.py \
             --input allinone.json \
-            --query "CRISPR gene editing Cas9 base editing prime editing" \
+            --query "CRISPR" \
             --output brief_gene_editing.json
 
       # ── STEP 10: Push brief JSON back to GitHub ───────────────────────────
