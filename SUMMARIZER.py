@@ -11,6 +11,14 @@ JSON output schema:
   "sections": [
     {
       "heading": "Overview",
+      "paragraph": "Full flowing paragraph text...",
+      "sources": [
+        { "url": "https://...", "label": "Short source label" },
+        ...
+      ]
+    },
+    {
+      "heading": "Key Developments",
       "points": [
         { "text": "...", "url": "https://..." },
         ...
@@ -61,8 +69,9 @@ OUTPUT FORMAT — strict JSON, nothing else:
   "sections": [
     {
       "heading": "Overview",
-      "points": [
-        { "text": "...", "url": "source article URL or null" }
+      "paragraph": "A single cohesive, densely-written paragraph of 150–250 words that synthesises the most important developments across ALL articles. The paragraph must read as flowing editorial prose — not a list, not separate sentences. Weave together companies, drugs, indications, and regulatory/deal highlights into a unified narrative. Reference all major entities and developments. Do NOT use bullet points, numbered items, or line breaks inside this paragraph.",
+      "sources": [
+        { "url": "source article URL or null", "label": "Company or drug name" }
       ]
     },
     {
@@ -93,7 +102,7 @@ OUTPUT FORMAT — strict JSON, nothing else:
 }
 
 SECTION RULES:
-1. Overview — 5-10 sentences summarising the most important developments across all articles. Each sentence is a separate point with its source URL.
+1. Overview — A single flowing editorial paragraph (150–250 words) that weaves together all major developments, companies, drugs, and deals into a unified narrative. This MUST be a paragraph field, not a points array. Additionally include a "sources" array listing every unique source URL referenced across all articles, each with a short label (company or drug name).
 2. Key Developments — one bullet per major development. Format: Company — Drug — Indication — Development.
 3. Companies in Focus — one bullet per company: name, strategic objective, associated drug/program.
 4. Clinical & Scientific Highlights — drug mechanism, trial phase, patient population, comparator (if any), clinical endpoints/results. Only explicitly stated information.
@@ -137,6 +146,8 @@ def build_merge_prompt(partial_jsons: list[str], query: str) -> str:
         f"each already in the required JSON format.\n"
         f"Merge them into ONE unified brief using the same JSON schema.\n"
         f"Deduplicate overlapping points. Keep the most specific version of each point.\n"
+        f"For the Overview section: merge all partial paragraphs into ONE cohesive flowing paragraph (150-250 words). "
+        f"Combine all unique sources into the sources array.\n"
         f"Return ONLY the final merged JSON object — nothing else.\n\n"
         f"{joined}"
     )
@@ -186,12 +197,10 @@ def call_api_streaming(system_prompt: str, user_prompt: str) -> str:
 def parse_json_response(raw: str) -> dict | None:
     """Strip markdown fences and parse JSON; return None on failure."""
     cleaned = re.sub(r"```(?:json)?|```", "", raw).strip()
-    # Try full parse first
     try:
         return json.loads(cleaned)
     except json.JSONDecodeError:
         pass
-    # Fallback: find the outermost { ... }
     match = re.search(r"\{.*\}", cleaned, re.DOTALL)
     if match:
         try:
@@ -203,12 +212,6 @@ def parse_json_response(raw: str) -> dict | None:
 
 
 def normalise_sections(obj: dict) -> list:
-    """
-    Accept both top-level shapes:
-      { "sections": [...] }          ← standard
-      { "brief": { "sections": [...] } }  ← occasional wrapper
-    Returns the sections list, or [] on failure.
-    """
     if not obj:
         return []
     if "sections" in obj:
@@ -219,11 +222,7 @@ def normalise_sections(obj: dict) -> list:
 
 
 def merge_section_lists(all_sections: list[list]) -> list:
-    """
-    Merge multiple section lists (from multiple chunks) into one,
-    combining points under matching headings and deduplicating by text.
-    """
-    merged: dict[str, list] = {}  # heading -> list of points
+    merged: dict[str, dict] = {}
     heading_order: list[str] = []
 
     for sections in all_sections:
@@ -231,17 +230,34 @@ def merge_section_lists(all_sections: list[list]) -> list:
             h = sec.get("heading", "").strip()
             if not h:
                 continue
-            if h not in merged:
-                merged[h] = []
-                heading_order.append(h)
-            seen_texts = {p.get("text","").lower() for p in merged[h]}
-            for pt in sec.get("points", []):
-                t = (pt.get("text") or "").strip()
-                if t and t.lower() not in seen_texts:
-                    merged[h].append(pt)
-                    seen_texts.add(t.lower())
 
-    return [{"heading": h, "points": merged[h]} for h in heading_order]
+            if h == "Overview":
+                if h not in merged:
+                    merged[h] = {"heading": h, "paragraph": "", "sources": []}
+                    heading_order.append(h)
+                # Append partial paragraphs
+                existing = merged[h].get("paragraph", "")
+                new_para = sec.get("paragraph", "")
+                if new_para:
+                    merged[h]["paragraph"] = (existing + " " + new_para).strip() if existing else new_para
+                # Merge sources deduplicating by URL
+                seen_urls = {s.get("url") for s in merged[h].get("sources", [])}
+                for src in sec.get("sources", []):
+                    if src.get("url") not in seen_urls:
+                        merged[h].setdefault("sources", []).append(src)
+                        seen_urls.add(src.get("url"))
+            else:
+                if h not in merged:
+                    merged[h] = {"heading": h, "points": []}
+                    heading_order.append(h)
+                seen_texts = {p.get("text", "").lower() for p in merged[h].get("points", [])}
+                for pt in sec.get("points", []):
+                    t = (pt.get("text") or "").strip()
+                    if t and t.lower() not in seen_texts:
+                        merged[h].setdefault("points", []).append(pt)
+                        seen_texts.add(t.lower())
+
+    return [merged[h] for h in heading_order]
 
 
 def chunk_articles(articles: list, chunk_size: int = 9):
@@ -294,8 +310,8 @@ def main():
         sys.exit("[WARN] No articles with usable text found.")
 
     chunks       = list(chunk_articles(valid, chunk_size=args.chunk_size))
-    partial_raw  = []   # raw JSON strings from each chunk (for LLM merge)
-    partial_secs = []   # parsed section lists (for local merge fallback)
+    partial_raw  = []
+    partial_secs = []
 
     print(f"[INFO] Processing {len(chunks)} chunk(s)...\n")
 
@@ -319,7 +335,6 @@ def main():
     if not partial_secs:
         sys.exit("[FATAL] No usable output from any chunk.")
 
-    # ── Merge ────────────────────────────────────────────────────────────────
     if len(partial_secs) == 1:
         final_sections = partial_secs[0]
         print("\n[INFO] Single chunk — no merge needed.")
@@ -340,7 +355,6 @@ def main():
             print(f"[WARN] LLM merge failed ({e}), falling back to local merge.")
             final_sections = merge_section_lists(partial_secs)
 
-    # ── Build final output object ─────────────────────────────────────────────
     output = {
         "query":        args.query,
         "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
@@ -356,11 +370,15 @@ def main():
     else:
         print("\n" + out_str)
 
-    # ── Quick preview ─────────────────────────────────────────────────────────
     print("\n── PREVIEW ─────────────────────────────────────────────────────")
     for sec in final_sections:
-        pts = sec.get("points", [])
-        print(f"  {sec.get('heading','?')}  ({len(pts)} points)")
+        if sec.get("heading") == "Overview":
+            para_len = len((sec.get("paragraph") or "").split())
+            src_count = len(sec.get("sources") or [])
+            print(f"  Overview  ({para_len} words, {src_count} sources)")
+        else:
+            pts = sec.get("points", [])
+            print(f"  {sec.get('heading','?')}  ({len(pts)} points)")
     print("─────────────────────────────────────────────────────────────\n")
 
 
