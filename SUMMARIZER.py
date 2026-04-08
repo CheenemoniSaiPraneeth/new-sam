@@ -17,9 +17,8 @@ JSON output schema:
   "sections": [
     {
       "heading": "Overview",
-      "paragraph": "Full flowing paragraph text...",
-      "sources": [
-        { "url": "https://...", "label": "Short source label" },
+      "points": [
+        { "text": "...", "url": "https://..." },
         ...
       ]
     },
@@ -122,13 +121,10 @@ MERGE_SYSTEM_PROMPT = """You are merging multiple partial pharmaceutical intelli
 STRICT MERGE RULES:
 - Return ONLY valid JSON in the exact same schema as the input chunks — no markdown, no explanations.
 - ZERO signal loss — preserve ALL points from ALL partial briefs.
-- For list sections (Key Developments, Companies in Focus, Clinical & Scientific Highlights, Business & Deals):
+- For ALL sections (including Overview):
     - Combine all points into a single flat list per section.
     - Remove only exact duplicates (identical text). Keep the most specific version of near-duplicates.
     - Do NOT summarise, compress, or rewrite any point.
-- For the Overview section:
-    - Merge all partial paragraphs into ONE cohesive flowing paragraph (150–250 words).
-    - Combine all unique sources into the sources array (deduplicate by URL).
 - Do NOT hallucinate new content.
 - The output must contain every unique point from every input brief.
 
@@ -137,8 +133,7 @@ OUTPUT FORMAT (strict JSON, nothing else):
   "sections": [
     {
       "heading": "Overview",
-      "paragraph": "...",
-      "sources": [ { "url": "...", "label": "..." } ]
+      "points": [ { "text": "...", "url": "..." } ]
     },
     {
       "heading": "Key Developments",
@@ -283,6 +278,7 @@ def merge_section_lists(all_sections: list[list]) -> list:
     Fallback merge: combine section lists locally in Python.
     Used when the LLM merge call fails. Zero signal loss — only exact
     duplicate point texts are dropped.
+    All sections (including Overview) use the points-based schema.
     """
     merged: dict[str, dict] = {}
     heading_order: list[str] = []
@@ -292,30 +288,15 @@ def merge_section_lists(all_sections: list[list]) -> list:
             h = sec.get("heading", "").strip()
             if not h:
                 continue
-
-            if h == "Overview":
-                if h not in merged:
-                    merged[h] = {"heading": h, "paragraph": "", "sources": []}
-                    heading_order.append(h)
-                existing = merged[h].get("paragraph", "")
-                new_para = sec.get("paragraph", "")
-                if new_para:
-                    merged[h]["paragraph"] = (existing + " " + new_para).strip() if existing else new_para
-                seen_urls = {s.get("url") for s in merged[h].get("sources", [])}
-                for src in sec.get("sources", []):
-                    if src.get("url") not in seen_urls:
-                        merged[h].setdefault("sources", []).append(src)
-                        seen_urls.add(src.get("url"))
-            else:
-                if h not in merged:
-                    merged[h] = {"heading": h, "points": []}
-                    heading_order.append(h)
-                seen_texts = {p.get("text", "").lower() for p in merged[h].get("points", [])}
-                for pt in sec.get("points", []):
-                    t = (pt.get("text") or "").strip()
-                    if t and t.lower() not in seen_texts:
-                        merged[h].setdefault("points", []).append(pt)
-                        seen_texts.add(t.lower())
+            if h not in merged:
+                merged[h] = {"heading": h, "points": []}
+                heading_order.append(h)
+            seen_texts = {p.get("text", "").lower() for p in merged[h].get("points", [])}
+            for pt in sec.get("points", []):
+                t = (pt.get("text") or "").strip()
+                if t and t.lower() not in seen_texts:
+                    merged[h].setdefault("points", []).append(pt)
+                    seen_texts.add(t.lower())
 
     return [merged[h] for h in heading_order]
 
@@ -467,13 +448,8 @@ def main():
     # ── Preview ───────────────────────────────────────────────────────────────
     print("\n── PREVIEW ─────────────────────────────────────────────────────")
     for sec in final_sections:
-        if sec.get("heading") == "Overview":
-            para_len  = len((sec.get("paragraph") or "").split())
-            src_count = len(sec.get("sources") or [])
-            print(f"  Overview  ({para_len} words, {src_count} sources)")
-        else:
-            pts = sec.get("points", [])
-            print(f"  {sec.get('heading','?')}  ({len(pts)} points)")
+        pts = sec.get("points", [])
+        print(f"  {sec.get('heading', '?')}  ({len(pts)} points)")
     print("─────────────────────────────────────────────────────────────\n")
 
 
