@@ -76,9 +76,8 @@ OUTPUT FORMAT — strict JSON, nothing else:
   "sections": [
     {
       "heading": "Overview",
-      "paragraph": "A single cohesive, densely-written paragraph of 150–250 words that synthesises the most important developments across ALL articles. The paragraph must read as flowing editorial prose — not a list, not separate sentences. Weave together companies, drugs, indications, and regulatory/deal highlights into a unified narrative. Reference all major entities and developments. Do NOT use bullet points, numbered items, or line breaks inside this paragraph.",
-      "sources": [
-        { "url": "source article URL or null", "label": "Company or drug name" }
+      "points": [
+        { "text": "...", "url": "source article URL or null" }
       ]
     },
     {
@@ -109,7 +108,7 @@ OUTPUT FORMAT — strict JSON, nothing else:
 }
 
 SECTION RULES:
-1. Overview — A single flowing editorial paragraph (150–250 words) that weaves together all major developments, companies, drugs, and deals into a unified narrative. This MUST be a paragraph field, not a points array. Additionally include a "sources" array listing every unique source URL referenced across all articles, each with a short label (company or drug name).
+1. Overview — 5-10 sentences summarising the most important developments across all articles. Each sentence is a separate point with its source URL.
 2. Key Developments — one bullet per major development. Format: Company — Drug — Indication — Development.
 3. Companies in Focus — one bullet per company: name, strategic objective, associated drug/program.
 4. Clinical & Scientific Highlights — drug mechanism, trial phase, patient population, comparator (if any), clinical endpoints/results. Only explicitly stated information.
