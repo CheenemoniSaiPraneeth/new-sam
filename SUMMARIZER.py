@@ -48,7 +48,7 @@ from pathlib import Path
 INVOKE_URL  = "https://integrate.api.nvidia.com/v1/chat/completions"
 API_KEY     = "Bearer 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"
 MODEL       = "qwen/qwen3.5-122b-a10b"
-CHUNK_SIZE  = 5     # articles per LLM call
+CHUNK_SIZE  = 3     # articles per LLM call
 
 HEADERS = {
     "Authorization": API_KEY,
