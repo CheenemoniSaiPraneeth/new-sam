@@ -1,125 +1,144 @@
 """
-summarizer.py  —  Pharma Intelligence Brief Generator
+summary.py — Pharma Intelligence Brief Generator
 
-Takes filtered articles JSON and summarizes ALL articles into a single
-combined MONTHLY PHARMA INTELLIGENCE BRIEF returned as structured JSON.
+Reads extracted article text (text.json), calls the LLM with guaranteed
+JSON output, validates the schema, and writes structured news items to
+a clean JSON file.
 
-JSON output schema:
-{
-  "query": "...",
-  "generated_at": "...",
-  "sections": [
-    {
-      "heading": "Overview",
-      "paragraph": "Full flowing paragraph text...",
-      "sources": [
-        { "url": "https://...", "label": "Short source label" },
-        ...
-      ]
+Pipeline:
+1. Chunk articles (CHUNK_SIZE each) → per-chunk news items
+2. Merge all chunk results into one unified list (zero signal loss)
+3. Validate schema and write output
+
+After each run, results are also appended to briefs_history.json:
+
+  {
+    "2026-04-02": {
+      "bispecific antibodies": [ { company, modality, news, url }, ... ],
+      "CAR-T":                 [ ... ]
     },
-    {
-      "heading": "Key Developments",
-      "points": [
-        { "text": "...", "url": "https://..." },
-        ...
-      ]
-    },
-    ...
-  ]
-}
+    "2026-04-01": { ... }
+  }
 
 Usage:
-  python summarizer.py --input filtered_files.json --query "PROTAC"
-  python summarizer.py --input filtered_files.json --query "CAR-T" --output briefs.json
+  python summary.py --query "PROTAC"
+  python summary.py --query "CAR-T" --input text.json --output briefs.json
 """
 
-import argparse, json, sys, requests, re
+import argparse
+import json
+import re
+import sys
+import time
+import requests
 from datetime import datetime
 from pathlib import Path
 
-# ── NVIDIA CONFIG ─────────────────────────────────────────────────────────────
+# ── CONFIG ────────────────────────────────────────────────────────────────────
+INVOKE_URL      = "https://integrate.api.nvidia.com/v1/chat/completions"
+API_KEY         = "Bearer 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"
+MODEL           = "qwen/qwen3.5-122b-a10b"
+MAX_RETRIES     = 3
+BACKOFF_BASE    = 1      # seconds — attempt 1: no wait, 2: 1s, 3: 2s, 4: 4s
+REQUEST_TIMEOUT = 180    # seconds per attempt
+CHUNK_SIZE      = 5      # articles per chunk
 
-INVOKE_URL = "https://integrate.api.nvidia.com/v1/chat/completions"
-API_KEY    = "Bearer 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"
-MODEL      = "qwen/qwen3.5-122b-a10b"
+BRIEFS_HISTORY_FILE = "briefs_history.json"
 
 HEADERS = {
     "Authorization": API_KEY,
-    "Accept": "text/event-stream",
+    "Content-Type":  "application/json",
+    "Accept":        "application/json",
+}
+
+VALID_MODALITIES = {
+    "bispecific antibodies",
+    "monoclonal antibodies",
+    "gene editing",
+    "molecular glues",
 }
 
 # ── SYSTEM PROMPT ─────────────────────────────────────────────────────────────
 
 SYSTEM_PROMPT = """
-You are a pharmaceutical intelligence analyst specializing in biotechnology, drug development, and clinical trial reporting.
-Your task is to convert a collection of pharmaceutical news articles into a single unified MONTHLY PHARMA INTELLIGENCE BRIEF.
+You are a pharmaceutical news extraction assistant.
 
-STRICT RULES:
-- Return ONLY valid JSON — no markdown fences, no explanations, no preamble.
-- Use only information explicitly present in the articles. Do NOT hallucinate.
-- Do NOT invent statistics or trial results.
-- Every point must reference a real entity (company, drug, trial, or regulator).
-- Avoid generic language such as "the company aims to improve outcomes".
-- Only include data related to the query topic.
-- Write in a formal pharmaceutical intelligence tone.
-- Each point must include the source URL from the article it came from (set to null if unknown).
+Your job is to scan pharmaceutical articles and extract structured news events
+related to specific therapeutic modalities:
+  - bispecific antibodies
+  - monoclonal antibodies
+  - gene editing
+  - molecular glues
 
-OUTPUT FORMAT — strict JSON, nothing else:
+RULES:
+- Extract ONLY real news events: clinical trials, approvals, partnerships,
+  acquisitions, funding rounds, or scientific breakthroughs.
+- Ignore background/explainer content and unrelated topics.
+- Do NOT hallucinate company names, drug names, or URLs.
+- If multiple companies are involved, choose the primary one.
+- If URL is unavailable, set it to null.
+- Avoid duplicate entries.
+- Return ONLY valid JSON — no explanations, no markdown fences.
+
+OUTPUT FORMAT (strict JSON, nothing else):
 {
-  "sections": [
+  "news": [
     {
-      "heading": "Overview",
-      "paragraph": "A single cohesive, densely-written paragraph of 150–250 words that synthesises the most important developments across ALL articles. The paragraph must read as flowing editorial prose — not a list, not separate sentences. Weave together companies, drugs, indications, and regulatory/deal highlights into a unified narrative. Reference all major entities and developments. Do NOT use bullet points, numbered items, or line breaks inside this paragraph.",
-      "sources": [
-        { "url": "source article URL or null", "label": "Company or drug name" }
-      ]
-    },
-    {
-      "heading": "Key Developments",
-      "points": [
-        { "text": "Company — Drug — Indication — Development", "url": "source article URL or null" }
-      ]
-    },
-    {
-      "heading": "Companies in Focus",
-      "points": [
-        { "text": "Company: strategic objective and associated drug or program.", "url": "source article URL or null" }
-      ]
-    },
-    {
-      "heading": "Clinical & Scientific Highlights",
-      "points": [
-        { "text": "Drug mechanism, trial phase, patient population, endpoints or results.", "url": "source article URL or null" }
-      ]
-    },
-    {
-      "heading": "Business & Deals",
-      "points": [
-        { "text": "Acquisition/partnership/licensing deal description.", "url": "source article URL or null" }
-      ]
+      "company": "string",
+      "modality": "one of the four predefined modalities",
+      "news": "2-3 line description of the event",
+      "url": "source article URL or null"
     }
   ]
 }
-
-SECTION RULES:
-1. Overview — A single flowing editorial paragraph (150–250 words) that weaves together all major developments, companies, drugs, and deals into a unified narrative. This MUST be a paragraph field, not a points array. Additionally include a "sources" array listing every unique source URL referenced across all articles, each with a short label (company or drug name).
-2. Key Developments — one bullet per major development. Format: Company — Drug — Indication — Development.
-3. Companies in Focus — one bullet per company: name, strategic objective, associated drug/program.
-4. Clinical & Scientific Highlights — drug mechanism, trial phase, patient population, comparator (if any), clinical endpoints/results. Only explicitly stated information.
-5. Business & Deals — acquisitions, partnerships, licensing, pipeline positioning. If none, return a single point: { "text": "No relevant business developments reported.", "url": null }.
 """
 
-# ── HELPERS ───────────────────────────────────────────────────────────────────
+# ── MERGE SYSTEM PROMPT ───────────────────────────────────────────────────────
 
-def build_chunk_prompt(articles: list, query: str) -> str:
+MERGE_SYSTEM_PROMPT = """You are merging multiple structured pharmaceutical news JSON outputs into one unified list.
+
+STRICT MERGE RULES:
+- Return ONLY JSON in the exact same schema as the input chunks.
+- ZERO signal loss — preserve ALL news items from ALL chunks.
+- Combine all "news" arrays into a single flat list.
+- Remove only exact duplicates (same company + same news text).
+- Do NOT summarise, compress, or rewrite any news item.
+- Do NOT hallucinate new content.
+- The output must contain every unique item from every input chunk.
+
+OUTPUT FORMAT (strict JSON, nothing else):
+{
+  "news": [
+    {
+      "company": "string",
+      "modality": "one of the four predefined modalities",
+      "news": "2-3 line description of the event",
+      "url": "source article URL or null"
+    }
+  ]
+}
+"""
+
+# ── CHUNKING ──────────────────────────────────────────────────────────────────
+
+def chunk_articles(articles, chunk_size=CHUNK_SIZE):
+    for i in range(0, len(articles), chunk_size):
+        yield articles[i:i + chunk_size]
+
+# ── PROMPT BUILDERS ───────────────────────────────────────────────────────────
+
+def build_chunk_prompt(articles: list, query: str) -> str | None:
     sections = []
+
     for i, art in enumerate(articles, 1):
         title  = art.get("title", "Untitled")
         source = art.get("url", "Unknown")
-        date   = art.get("date", "")
-        body   = (art.get("text") or "").strip()
+        date   = art.get("date") or art.get("period", "")
+        body   = (art.get("body") or "").strip()
+
         if not body:
             continue
+
         sections.append(
             f"--- ARTICLE {i} ---\n"
             f"Source : {source}\n"
@@ -127,259 +146,442 @@ def build_chunk_prompt(articles: list, query: str) -> str:
             f"Title  : {title}\n\n"
             f"{body}"
         )
+
+    if not sections:
+        return None
+
     return (
         f"Query focus: {query}\n\n"
         f"Below are {len(sections)} pharmaceutical news articles.\n"
-        f"Synthesize ALL of them into a single unified MONTHLY PHARMA INTELLIGENCE BRIEF.\n"
-        f"Return ONLY the JSON object described in your instructions — nothing else.\n\n"
+        f"Extract all relevant news events matching the query focus.\n\n"
         + "\n\n".join(sections)
     )
 
 
-def build_merge_prompt(partial_jsons: list[str], query: str) -> str:
-    joined = "\n\n".join(
-        f"--- PARTIAL BRIEF {i+1} ---\n{p}" for i, p in enumerate(partial_jsons)
-    )
+def build_merge_prompt(chunk_results: list, query: str) -> str:
+    """Build a prompt to merge multiple chunk JSON outputs into one unified list."""
+    all_chunks = "\n\n".join(chunk_results)
     return (
         f"Query focus: {query}\n\n"
-        f"You are given {len(partial_jsons)} partial pharmaceutical intelligence briefs, "
-        f"each already in the required JSON format.\n"
-        f"Merge them into ONE unified brief using the same JSON schema.\n"
-        f"Deduplicate overlapping points. Keep the most specific version of each point.\n"
-        f"For the Overview section: merge all partial paragraphs into ONE cohesive flowing paragraph (150-250 words). "
-        f"Combine all unique sources into the sources array.\n"
-        f"Return ONLY the final merged JSON object — nothing else.\n\n"
-        f"{joined}"
+        f"Below are {len(chunk_results)} structured pharmaceutical news outputs "
+        f"from different article chunks.\n"
+        f"Merge them into ONE unified news list with ZERO signal loss — "
+        f"preserve every unique item, remove only exact duplicates.\n\n"
+        f"{all_chunks}"
     )
 
+# ── LLM CALL ─────────────────────────────────────────────────────────────────
 
-def call_api_streaming(system_prompt: str, user_prompt: str) -> str:
-    """Stream from NVIDIA API, return full accumulated text."""
+def call_llm(system_prompt: str, user_prompt: str) -> str:
     payload = {
-        "model": MODEL,
+        "model":   MODEL,
         "messages": [
             {"role": "system", "content": system_prompt},
             {"role": "user",   "content": user_prompt},
         ],
-        "max_tokens": 16384,
-        "temperature": 0.30,
-        "top_p": 0.95,
-        "stream": True,
-        "chat_template_kwargs": {"enable_thinking": True},
+        "max_tokens":      16384,
+        "temperature":     0.3,
+        "top_p":           0.95,
+        "stream":          False,
+        "response_format": {"type": "json_object"},
     }
 
-    resp = requests.post(INVOKE_URL, headers=HEADERS, json=payload, stream=True)
-    resp.raise_for_status()
+    last_error: str = "unknown"
 
-    output = ""
-    for line in resp.iter_lines():
-        if not line:
+    for attempt in range(1, MAX_RETRIES + 1):
+
+        if attempt > 1:
+            wait = BACKOFF_BASE * (2 ** (attempt - 2))
+            print(f"[LLM] Retry {attempt}/{MAX_RETRIES} — backing off {wait}s...")
+            time.sleep(wait)
+
+        print(f"[LLM] Attempt {attempt}/{MAX_RETRIES} — sending request...", flush=True)
+
+        try:
+            resp = requests.post(
+                INVOKE_URL,
+                headers=HEADERS,
+                json=payload,
+                timeout=REQUEST_TIMEOUT,
+            )
+            resp.raise_for_status()
+
+        except requests.exceptions.Timeout:
+            last_error = f"timed out after {REQUEST_TIMEOUT}s"
+            print(f"[LLM] ✗ Attempt {attempt} failed: {last_error}")
             continue
-        decoded = line.decode("utf-8")
-        if decoded.startswith("data: "):
-            data_str = decoded[6:]
-            if data_str.strip() == "[DONE]":
-                break
-            try:
-                chunk   = json.loads(data_str)
-                delta   = chunk.get("choices", [{}])[0].get("delta", {})
-                content = delta.get("content", "")
-                if content:
-                    output += content
-                    print(content, end="", flush=True)
-            except json.JSONDecodeError:
-                continue
 
-    print()  # newline after streaming
-    return output.strip()
+        except requests.exceptions.HTTPError as exc:
+            code = exc.response.status_code if exc.response is not None else 0
+            last_error = f"HTTP {code}"
+            if 400 <= code < 500:
+                raise RuntimeError(
+                    f"HTTP {code} — aborting retries (client error): {exc}"
+                ) from exc
+            print(f"[LLM] ✗ Attempt {attempt} failed: {last_error}")
+            continue
+
+        except requests.exceptions.RequestException as exc:
+            last_error = str(exc)
+            print(f"[LLM] ✗ Attempt {attempt} network error: {last_error}")
+            continue
+
+        try:
+            envelope = resp.json()
+        except json.JSONDecodeError as exc:
+            last_error = f"response body not valid JSON: {exc}"
+            print(f"[LLM] ✗ Attempt {attempt} failed: {last_error}")
+            continue
+
+        content = (
+            envelope
+            .get("choices", [{}])[0]
+            .get("message", {})
+            .get("content", "")
+            .strip()
+        )
+
+        if not content:
+            last_error = "empty content in API response"
+            print(f"[LLM] ✗ Attempt {attempt} failed: {last_error}")
+            continue
+
+        print(f"[LLM] ✓ Response received ({len(content):,} chars)")
+        return content
+
+    raise RuntimeError(
+        f"LLM call failed after {MAX_RETRIES} attempts. Last error: {last_error}"
+    )
+
+# ── CHUNK PROCESSING ──────────────────────────────────────────────────────────
+
+def generate_chunk_results(articles: list, query: str) -> list[str]:
+    """Process articles in chunks of CHUNK_SIZE, return list of raw JSON strings."""
+    chunks = list(chunk_articles(articles, CHUNK_SIZE))
+    print(f"[INFO] Total article chunks : {len(chunks)}")
+
+    results = []
+    for idx, chunk in enumerate(chunks, 1):
+        print(f"\n[INFO] Processing chunk {idx}/{len(chunks)} ({len(chunk)} articles)...")
+        print("─" * 60)
+
+        prompt = build_chunk_prompt(chunk, query)
+        if not prompt:
+            print(f"[WARN] Chunk {idx}: no valid article bodies — skipping")
+            continue
+
+        try:
+            raw = call_llm(SYSTEM_PROMPT, prompt)
+            if raw:
+                results.append(raw)
+        except RuntimeError as e:
+            print(f"[ERROR] Chunk {idx} failed: {e} — skipping")
+
+    return results
 
 
-def parse_json_response(raw: str) -> dict | None:
-    """Strip markdown fences and parse JSON; return None on failure."""
-    cleaned = re.sub(r"```(?:json)?|```", "", raw).strip()
+def merge_chunk_results(chunk_results: list[str], query: str) -> str:
+    """
+    If only one chunk result exists, return it directly.
+    Otherwise send all chunk results to the LLM for lossless merging.
+    """
+    if len(chunk_results) == 1:
+        print("\n[INFO] Single chunk — skipping merge step.")
+        return chunk_results[0]
+
+    print(f"\n[INFO] Merging {len(chunk_results)} chunk results...\n")
+    print("─" * 60)
+
+    merge_prompt = build_merge_prompt(chunk_results, query)
+
     try:
-        return json.loads(cleaned)
+        merged = call_llm(MERGE_SYSTEM_PROMPT, merge_prompt)
+        return merged
+    except RuntimeError as e:
+        print(f"[ERROR] Merge failed: {e} — falling back to concatenating all chunk items")
+        # Fallback: manually concatenate all parsed items from every chunk
+        all_items = []
+        for raw in chunk_results:
+            all_items.extend(parse_llm_response(raw))
+        return json.dumps({"news": all_items})
+
+# ── JSON PARSER ───────────────────────────────────────────────────────────────
+
+def parse_llm_response(raw: str) -> list:
+    cleaned = re.sub(r"```(?:json)?|```", "", raw).strip()
+
+    try:
+        obj = json.loads(cleaned)
+        if isinstance(obj, dict):
+            return obj.get("news", [])
+        if isinstance(obj, list):
+            return obj
     except json.JSONDecodeError:
         pass
+
     match = re.search(r"\{.*\}", cleaned, re.DOTALL)
     if match:
         try:
-            return json.loads(match.group())
+            obj = json.loads(match.group())
+            return obj.get("news", [])
         except json.JSONDecodeError:
             pass
-    print("[WARN] Could not parse JSON from model response.")
-    return None
 
-
-def normalise_sections(obj: dict) -> list:
-    if not obj:
-        return []
-    if "sections" in obj:
-        return obj["sections"]
-    if "brief" in obj and "sections" in obj["brief"]:
-        return obj["brief"]["sections"]
+    print("[WARN] parse_llm_response: could not extract JSON — returning []")
     return []
 
+# ── SCHEMA VALIDATOR ──────────────────────────────────────────────────────────
 
-def merge_section_lists(all_sections: list[list]) -> list:
-    merged: dict[str, dict] = {}
-    heading_order: list[str] = []
+REQUIRED_KEYS = {"company", "modality", "news", "url"}
 
-    for sections in all_sections:
-        for sec in sections:
-            h = sec.get("heading", "").strip()
-            if not h:
-                continue
+def validate_items(raw_items: list) -> tuple[list, int]:
+    valid   = []
+    dropped = 0
 
-            if h == "Overview":
-                if h not in merged:
-                    merged[h] = {"heading": h, "paragraph": "", "sources": []}
-                    heading_order.append(h)
-                # Append partial paragraphs
-                existing = merged[h].get("paragraph", "")
-                new_para = sec.get("paragraph", "")
-                if new_para:
-                    merged[h]["paragraph"] = (existing + " " + new_para).strip() if existing else new_para
-                # Merge sources deduplicating by URL
-                seen_urls = {s.get("url") for s in merged[h].get("sources", [])}
-                for src in sec.get("sources", []):
-                    if src.get("url") not in seen_urls:
-                        merged[h].setdefault("sources", []).append(src)
-                        seen_urls.add(src.get("url"))
-            else:
-                if h not in merged:
-                    merged[h] = {"heading": h, "points": []}
-                    heading_order.append(h)
-                seen_texts = {p.get("text", "").lower() for p in merged[h].get("points", [])}
-                for pt in sec.get("points", []):
-                    t = (pt.get("text") or "").strip()
-                    if t and t.lower() not in seen_texts:
-                        merged[h].setdefault("points", []).append(pt)
-                        seen_texts.add(t.lower())
+    for idx, item in enumerate(raw_items, 1):
+        if not isinstance(item, dict):
+            print(f"[VALIDATE] Item {idx}: not a dict — dropped")
+            dropped += 1
+            continue
 
-    return [merged[h] for h in heading_order]
+        missing = REQUIRED_KEYS - item.keys()
+        if missing:
+            print(f"[VALIDATE] Item {idx}: missing keys {missing} — dropped")
+            dropped += 1
+            continue
+
+        if item["modality"] not in VALID_MODALITIES:
+            print(f"[VALIDATE] Item {idx}: invalid modality '{item['modality']}' — dropped")
+            dropped += 1
+            continue
+
+        if not isinstance(item["company"], str) or not item["company"].strip():
+            print(f"[VALIDATE] Item {idx}: empty company — dropped")
+            dropped += 1
+            continue
+
+        if not isinstance(item["news"], str) or not item["news"].strip():
+            print(f"[VALIDATE] Item {idx}: empty news text — dropped")
+            dropped += 1
+            continue
+
+        if item["url"] is not None and not isinstance(item["url"], str):
+            item["url"] = str(item["url"])
+
+        valid.append(item)
+
+    return valid, dropped
+
+# ── OUTPUT BUILDER ────────────────────────────────────────────────────────────
+
+def build_output(news_items: list, query: str, article_count: int, dropped: int) -> dict:
+    return {
+        "meta": {
+            "query":           query,
+            "articles_used":   article_count,
+            "items_extracted": len(news_items),
+            "items_dropped":   dropped,
+            "generated_at":    datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        },
+        "news": news_items,
+    }
+
+# ── DATEWISE HISTORY ──────────────────────────────────────────────────────────
+
+def append_to_history(
+    news_items: list,
+    query: str,
+    history_file: str = BRIEFS_HISTORY_FILE,
+) -> None:
+    """
+    Append today's validated news items into briefs_history.json.
+
+    Structure:
+      {
+        "2026-04-02": {
+          "bispecific antibodies": [ {company, modality, news, url}, ... ],
+          "CAR-T": [ ... ]
+        },
+        "2026-04-01": { ... }
+      }
+
+    - Items are stored under their actual modality key (not the query),
+      so you can look up "what bispecific news ran on 2026-04-02" directly.
+    - Duplicate URLs within the same date+modality are skipped.
+    - Dates are kept sorted newest-first.
+    """
+    today = datetime.now().strftime("%Y-%m-%d")
+
+    p = Path(history_file)
+    if p.exists():
+        try:
+            history = json.loads(p.read_text(encoding="utf-8"))
+        except Exception:
+            history = {}
+    else:
+        history = {}
+
+    if today not in history:
+        history[today] = {}
+
+    added = 0
+    for item in news_items:
+        modality = item.get("modality", "unknown")
+        url      = item.get("url")
+
+        if modality not in history[today]:
+            history[today][modality] = []
+
+        existing_sigs = {
+            (r.get("company"), r.get("news")) for r in history[today][modality]
+        }
+        if (item.get("company"), item.get("news")) in existing_sigs:
+            continue
+
+        history[today][modality].append({
+            "company":  item.get("company"),
+            "modality": modality,
+            "news":     item.get("news"),
+            "url":      url,
+            "query":    query,
+        })
+        added += 1
+
+    history = dict(sorted(history.items(), reverse=True))
+
+    p.write_text(json.dumps(history, indent=2, ensure_ascii=False), encoding="utf-8")
+
+    print(f"[HISTORY] Appended {added} items → {history_file}")
+    print(f"[HISTORY] Dates stored: {list(history.keys())[:5]} ...")
 
 
-def chunk_articles(articles: list, chunk_size: int = 9):
-    for i in range(0, len(articles), chunk_size):
-        yield articles[i:i + chunk_size]
+def print_history_summary(history_file: str = BRIEFS_HISTORY_FILE) -> None:
+    """Pretty-print a summary table of briefs_history.json."""
+    p = Path(history_file)
+    if not p.exists():
+        return
 
+    try:
+        history = json.loads(p.read_text(encoding="utf-8"))
+    except Exception:
+        return
+
+    print("\n" + "═" * 64)
+    print("  BRIEFS HISTORY SUMMARY")
+    print("═" * 64)
+    print(f"  {'Date':<14}  {'Modality':<28}  {'Items':>5}")
+    print("  " + "─" * 52)
+
+    for date in sorted(history.keys(), reverse=True):
+        modalities = history[date]
+        for modality, items in modalities.items():
+            print(f"  {date:<14}  {modality:<28}  {len(items):>5}")
+
+    total = sum(
+        len(items)
+        for day in history.values()
+        for items in day.values()
+    )
+    print("═" * 64)
+    print(f"  Total items stored : {total}")
+    print(f"  Total dates        : {len(history)}")
+    print("═" * 64 + "\n")
 
 # ── CLI ───────────────────────────────────────────────────────────────────────
 
 def parse_args():
-    p = argparse.ArgumentParser(
-        description="Summarize pharma articles into a structured JSON intelligence brief."
+    p = argparse.ArgumentParser(description="Pharma Intelligence Brief Generator")
+    p.add_argument("--input",  "-i", default="text.json",   help="Extracted articles JSON")
+    p.add_argument("--output", "-o", default="briefs.json", help="Output JSON file")
+    p.add_argument("--query",  "-q", required=True,         help="Therapeutic focus e.g. 'PROTAC'")
+    p.add_argument(
+        "--no-history", action="store_true",
+        help="Skip writing to briefs_history.json"
     )
-    p.add_argument("--input",  "-i", default="filtered_files.json")
-    p.add_argument("--output", "-o", default=None,
-                   help="Save brief to a .json file.")
-    p.add_argument("--query",  "-q", required=True,
-                   help='Topic focus e.g. "PROTAC" or "CAR-T"')
-    p.add_argument("--chunk-size", type=int, default=5,
-                   help="Articles per LLM call (default 5)")
-    p.add_argument("--no-merge-llm", action="store_true",
-                   help="Merge sections locally instead of a final LLM merge pass")
     return p.parse_args()
 
+# ── MAIN ──────────────────────────────────────────────────────────────────────
 
 def main():
     args = parse_args()
 
-    path = Path(args.input)
-    if not path.exists():
-        sys.exit(f"[ERROR] File not found: {path}")
+    # ── Load input ────────────────────────────────────────────────────────────
+    src = Path(args.input)
+    if not src.exists():
+        sys.exit(f"[ERROR] Input file not found: {src}")
 
-    with open(path, encoding="utf-8") as f:
-        data = json.load(f)
+    try:
+        with open(src, encoding="utf-8") as f:
+            raw_data = json.load(f)
+    except Exception as e:
+        sys.exit(f"[ERROR] Failed to load JSON: {e}")
 
-    articles = data.get("articles", data) if isinstance(data, dict) else data
-    if not isinstance(articles, list):
-        sys.exit("[ERROR] JSON must contain a list of articles")
+    if isinstance(raw_data, dict) and "articles" in raw_data:
+        articles = raw_data["articles"]
+    elif isinstance(raw_data, list):
+        articles = raw_data
+    else:
+        sys.exit("[ERROR] Unexpected JSON format in input file.")
 
-    valid   = [a for a in articles if (a.get("text") or "").strip()]
-    skipped = len(articles) - len(valid)
+    valid_articles = [a for a in articles if (a.get("body") or "").strip()]
+    skipped        = len(articles) - len(valid_articles)
 
     print(f"[INFO] Loaded   : {len(articles)} articles")
+    print(f"[INFO] Valid    : {len(valid_articles)}")
     if skipped:
-        print(f"[INFO] Skipped  : {skipped} (empty text)")
-    print(f"[INFO] Using    : {len(valid)} articles")
-    print(f"[INFO] Query    : {args.query}\n")
+        print(f"[INFO] Skipped  : {skipped} (no body text)")
+    print(f"[INFO] Query    : {args.query}")
+    print(f"[INFO] Chunk sz : {CHUNK_SIZE} articles per chunk\n")
 
-    if not valid:
-        sys.exit("[WARN] No articles with usable text found.")
+    if not valid_articles:
+        sys.exit("[WARN] No valid articles found.")
 
-    chunks       = list(chunk_articles(valid, chunk_size=args.chunk_size))
-    partial_raw  = []
-    partial_secs = []
+    # ── STEP 1: Process articles in chunks ────────────────────────────────────
+    print("[INFO] Generating per-chunk news items...\n")
+    print("─" * 60)
 
-    print(f"[INFO] Processing {len(chunks)} chunk(s)...\n")
+    chunk_results = generate_chunk_results(valid_articles, args.query)
 
-    for i, chunk in enumerate(chunks, 1):
-        print(f"[INFO] ── Chunk {i}/{len(chunks)} ──────────────────────")
-        prompt = build_chunk_prompt(chunk, args.query)
-        try:
-            raw = call_api_streaming(SYSTEM_PROMPT, prompt)
-        except Exception as e:
-            print(f"[ERROR] Chunk {i} failed: {e}")
-            continue
+    if not chunk_results:
+        sys.exit("[WARN] No chunk results generated.")
 
-        obj  = parse_json_response(raw)
-        secs = normalise_sections(obj)
-        if secs:
-            partial_secs.append(secs)
-            partial_raw.append(json.dumps({"sections": secs}, ensure_ascii=False))
-        else:
-            print(f"[WARN] Chunk {i}: no valid sections extracted.")
+    # ── STEP 2: Merge all chunk results into one ──────────────────────────────
+    raw_response = merge_chunk_results(chunk_results, args.query)
 
-    if not partial_secs:
-        sys.exit("[FATAL] No usable output from any chunk.")
+    if not raw_response:
+        sys.exit("[WARN] Empty response from merge step.")
 
-    if len(partial_secs) == 1:
-        final_sections = partial_secs[0]
-        print("\n[INFO] Single chunk — no merge needed.")
-    elif args.no_merge_llm:
-        final_sections = merge_section_lists(partial_secs)
-        print(f"\n[INFO] Local merge → {len(final_sections)} sections.")
-    else:
-        print("\n[INFO] ── Final LLM merge pass ──────────────────────")
-        merge_prompt = build_merge_prompt(partial_raw, args.query)
-        try:
-            raw_merged = call_api_streaming(SYSTEM_PROMPT, merge_prompt)
-            obj_merged = parse_json_response(raw_merged)
-            final_sections = normalise_sections(obj_merged)
-            if not final_sections:
-                raise ValueError("Empty sections after LLM merge")
-            print(f"[INFO] LLM merge → {len(final_sections)} sections.")
-        except Exception as e:
-            print(f"[WARN] LLM merge failed ({e}), falling back to local merge.")
-            final_sections = merge_section_lists(partial_secs)
+    # ── STEP 3: Parse + validate ──────────────────────────────────────────────
+    raw_items            = parse_llm_response(raw_response)
+    news_items, dropped  = validate_items(raw_items)
 
-    output = {
-        "query":        args.query,
-        "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-        "article_count": len(valid),
-        "sections":     final_sections,
-    }
+    print(f"\n[INFO] Chunk results         : {len(chunk_results)}")
+    print(f"[INFO] Raw items parsed      : {len(raw_items)}")
+    print(f"[INFO] Passed validation     : {len(news_items)}")
+    if dropped:
+        print(f"[WARN] Dropped bad items     : {dropped}")
 
-    out_str = json.dumps(output, indent=2, ensure_ascii=False)
+    # ── STEP 4: Write briefs.json ─────────────────────────────────────────────
+    output_data = build_output(news_items, args.query, len(valid_articles), dropped)
+    out_path    = Path(args.output)
 
-    if args.output:
-        Path(args.output).write_text(out_str, encoding="utf-8")
-        print(f"\n[INFO] Saved → {args.output}")
-    else:
-        print("\n" + out_str)
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(output_data, f, indent=2, ensure_ascii=False)
 
-    print("\n── PREVIEW ─────────────────────────────────────────────────────")
-    for sec in final_sections:
-        if sec.get("heading") == "Overview":
-            para_len = len((sec.get("paragraph") or "").split())
-            src_count = len(sec.get("sources") or [])
-            print(f"  Overview  ({para_len} words, {src_count} sources)")
-        else:
-            pts = sec.get("points", [])
-            print(f"  {sec.get('heading','?')}  ({len(pts)} points)")
-    print("─────────────────────────────────────────────────────────────\n")
+    print(f"[INFO] Saved → {out_path}")
+
+    # ── STEP 5: Append to datewise history ────────────────────────────────────
+    if not args.no_history and news_items:
+        append_to_history(news_items, args.query)
+        print_history_summary()
+
+    # ── Preview ───────────────────────────────────────────────────────────────
+    if news_items:
+        print("\n── PREVIEW (first 3 items) ──────────────────────────────────")
+        for item in news_items[:3]:
+            print(f"  [{item.get('modality','?')}] {item.get('company','?')}")
+            print(f"  {item.get('news','')[:110]}...")
+        print("─────────────────────────────────────────────────────────────\n")
 
 
 if __name__ == "__main__":
