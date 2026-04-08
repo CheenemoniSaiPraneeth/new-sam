@@ -83,25 +83,25 @@ OUTPUT FORMAT — strict JSON, nothing else:
     {
       "heading": "Key Developments",
       "points": [
-        { "text": "Company — Drug — Indication — Development", "url": "source article URL or null" }
+        { "text": "proper and good news headline of 2-3 lines", "url": "source article URL or null" }
       ]
     },
     {
       "heading": "Companies in Focus",
       "points": [
-        { "text": "Company: strategic objective and associated drug or program.", "url": "source article URL or null" }
+        { "text": "proper and good news headline of 2-3 lines", "url": "source article URL or null" }
       ]
     },
     {
       "heading": "Clinical & Scientific Highlights",
       "points": [
-        { "text": "Drug mechanism, trial phase, patient population, endpoints or results.", "url": "source article URL or null" }
+        { "text": "proper and good news headline of 2-3 lines", "url": "source article URL or null" }
       ]
     },
     {
       "heading": "Business & Deals",
       "points": [
-        { "text": "Acquisition/partnership/licensing deal description.", "url": "source article URL or null" }
+        { "text": "proper and good news headline of 2-3 lines", "url": "source article URL or null" }
       ]
     }
   ]
