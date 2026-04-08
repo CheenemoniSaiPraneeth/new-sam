@@ -127,7 +127,7 @@ STRICT MERGE RULES:
     - Do NOT summarise, compress, or rewrite any point.
 - Do NOT hallucinate new content.
 - The output must contain every unique point from every input brief.
-
+- Do remove the part which says No relevant information
 OUTPUT FORMAT (strict JSON, nothing else):
 {
   "sections": [
