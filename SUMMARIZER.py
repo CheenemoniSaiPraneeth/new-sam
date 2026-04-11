@@ -79,7 +79,12 @@ ABSOLUTE RULES
 1. Return ONLY valid JSON — no markdown fences, no preamble, no explanation. The very first character of your response must be { and the last must be }.
 2. Use ONLY information explicitly stated in the provided articles. Do NOT hallucinate, extrapolate, or invent.
 3. Do NOT produce filler points. Every single point must contain: company name + drug/program name + indication + specific data (trial phase, endpoint result, regulatory action, deal value, or mechanism).
-4. If an article has no relevance to the query topic, skip it entirely. Do not write a point explaining its irrelevance.
+4. STRICT RELEVANCE FILTER — THIS IS THE MOST IMPORTANT RULE:
+   - A point is ONLY allowed if the article explicitly mentions the query topic (e.g. "{query}") by name, mechanism, drug class, or direct association.
+   - If the word or concept "{query}" does not appear anywhere in the article, the article MUST be skipped entirely.
+   - Tangential, loosely related, or background context does NOT qualify. The connection must be direct and explicit.
+   - If an article is irrelevant, skip it with zero output — do not write any point, explanation, or mention of the article.
+   - When in doubt, leave it out.
 5. Do not repeat the same fact in multiple sections. Each fact belongs in exactly one section.
 6. Write in a terse, data-dense intelligence style. No hedging. No preamble. No soft language.
 7. Include the exact source URL for every point. If no URL is available, use null.
@@ -217,16 +222,20 @@ def build_chunk_prompt(articles: list, query: str) -> str:
             f"{body}"
         )
 
-    # System prompt prepended inside user message (model rejects system role)
+    # Inject actual query into rule 4 placeholder, then build prompt
+    active_prompt = SYSTEM_PROMPT.replace("{query}", query)
+
     return (
-        f"{SYSTEM_PROMPT}\n\n"
+        f"{active_prompt}\n\n"
         f"{'=' * 60}\n\n"
-        f"Query focus: {query}\n\n"
-        f"Below are {len(sections)} pharmaceutical news articles.\n"
-        f"Extract all information relevant to '{query}' and synthesize into a MONTHLY PHARMA INTELLIGENCE BRIEF.\n"
-        f"If an article has no relevance to '{query}', skip it silently — do not mention it.\n"
-        f"Return ONLY the JSON object described above — nothing else.\n\n"
+        f"QUERY: {query}\n\n"
+        f"RELEVANCE GATE — before processing each article ask: does this article explicitly\n"
+        f"discuss '{query}' by name, mechanism, or direct association?\n"
+        f"If NO → skip the article entirely. Zero output. No explanation. When in doubt — leave it out.\n\n"
+        f"Below are {len(sections)} pharmaceutical news articles to process:\n\n"
         + "\n\n".join(sections)
+        + f"\n\n{'=' * 60}\n"
+        f"Return ONLY the JSON object. First character must be {{. Last character must be }}."
     )
 
 
