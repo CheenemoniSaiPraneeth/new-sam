@@ -1,622 +1,66 @@
 {
   "query": "monoclonal",
-  "generated_at": "2026-04-11 16:14:50",
-  "article_count": 54,
+  "generated_at": "2026-04-11 19:20:51",
+  "article_count": 52,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Eli Lilly received FDA approval for its oral obesity drug Foundayo, launching it approximately three months after competitor Novo Nordisk introduced its oral Wegovy pill.",
-          "url": "https://biopharmadive.com/news/lilly-foundayo-obesity-pill-launch-price-wegovy/817052/"
-        },
-        {
-          "text": "The launch of Foundayo initiates a direct market competition in the oral GLP-1 segment, where Novo Nordisk currently holds a three-month lead.",
-          "url": "https://biopharmadive.com/news/lilly-foundayo-obesity-pill-launch-price-wegovy/817052/"
-        },
-        {
-          "text": "Eli Lilly priced the lowest dose of Foundayo at $149 per month for self-pay patients, matching the pricing strategy established by Novo Nordisk for oral Wegovy.",
-          "url": "https://biopharmadive.com/news/lilly-foundayo-obesity-pill-launch-price-wegovy/817052/"
-        },
-        {
-          "text": "Vera Therapeutics granted inducement awards to Jane Wright-Mitchell, its new Chief Legal Officer, consisting of stock options and restricted stock units under its 2024 Inducement Plan.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3272048/0/en/Vera-Therapeutics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html"
-        },
-        {
-          "text": "Vera Therapeutics continues to advance atacicept, a fusion protein targeting BAFF and APRIL, as its lead candidate for treating immunoglobulin A nephropathy and lupus nephritis.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3272048/0/en/Vera-Therapeutics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html"
-        },
-        {
-          "text": "The global bispecific antibodies market is projected to reach $22.3 billion by 2030, driven by accelerated R&D investment and innovation in immuno-oncology.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
-        },
-        {
-          "text": "BCC Research reports that the global noninvasive cancer diagnostics market will grow from $112.8 billion in 2024 to $165.2 billion by 2030 at a CAGR of 6.6%.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
-        },
-        {
-          "text": "North America holds a 40.4% market share in noninvasive cancer diagnostics due to advanced infrastructure and high healthcare R&D spending.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
-        },
-        {
-          "text": "Liquid biopsy technologies, including circulating tumor DNA analysis and exosome-based assays, are accelerating clinical and commercial momentum in cancer detection.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
-        },
-        {
-          "text": "The interstitial lung disease market size in the 7MM was USD 6 billion in 2025, with the United States accounting for 83% of the treatment market.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "Approximately 1.3 million diagnosed prevalent cases of interstitial lung disease were recorded in the 7MM in 2025.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "Emerging pipeline candidates for interstitial lung disease include seralutinib, L606, N-115, and efzofitimod, which address multiple disease pathways.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "Key companies in the interstitial lung disease space include GSK, Insmed, Gossamer Bio, Chiesi Farmaceutici, Liquidia Corporation, and Bristol-Myers Squibb.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "InflaRx N.V. reported new mechanistic data supporting izicopan as a best-in-class C5aR inhibitor and announced participation in the Raymond James 2026 Biotech Innovation Symposium.",
+          "text": "InflaRx N.V. — vilobelimab — anti-C5a monoclonal antibody — First-in-class intravenously delivered agent selectively binding free C5a with demonstrated disease-modifying clinical activity in multiple studies.",
           "url": "https://globenewswire.com/news-release/2026/04/09/3270828/0/en/InflaRx-Reports-New-Mechanistic-Data-for-Izicopan-Supporting-its-Potential-as-a-Best-in-Class-C5aR-Inhibitor.html"
         },
         {
-          "text": "InflaRx continues development of vilobelimab, a first-in-class, intravenously delivered anti-C5a monoclonal antibody that selectively binds to free C5a.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270828/0/en/InflaRx-Reports-New-Mechanistic-Data-for-Izicopan-Supporting-its-Potential-as-a-Best-in-Class-C5aR-Inhibitor.html"
-        },
-        {
-          "text": "Invivyd, Inc. announced the launch of the 'Antibodies for Any Body' national education campaign in partnership with Lindsey Vonn to elevate public understanding of antibodies.",
+          "text": "Invivyd Inc. — VMS063 — Measles treatment and prevention — Novel potential first- and best-in-class measles monoclonal antibody candidate advanced under the REVOLUTION program.",
           "url": "https://globenewswire.com/news-release/2026/04/09/3270803/0/en/Invivyd-Announces-REVOLUTION-Program-Progress-and-Advancement-of-Novel-Potential-First-and-Best-in-Class-Measles-Monoclonal-Antibody-Candidate-VMS063-for-Treatment-and-Prevention-o.html"
         },
         {
-          "text": "Invivyd advanced its REVOLUTION program with the development of VMS063, a novel potential first- and best-in-class measles monoclonal antibody candidate for treatment and prevention.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270803/0/en/Invivyd-Announces-REVOLUTION-Program-Progress-and-Advancement-of-Novel-Potential-First-and-Best-in-Class-Measles-Monoclonal-Antibody-Candidate-VMS063-for-Treatment-and-Prevention-o.html"
-        },
-        {
-          "text": "Invivyd unveiled AntibodiesforAnyBody.com, an online resource featuring an interactive wellness assessment to help individuals understand the relationship between daily habits and antibody function.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270803/0/en/Invivyd-Announces-REVOLUTION-Program-Progress-and-Advancement-of-Novel-Potential-First-and-Best-in-Class-Measles-Monoclonal-Antibody-Candidate-VMS063-for-Treatment-and-Prevention-o.html"
-        },
-        {
-          "text": "The provided articles contain no information regarding monoclonal antibodies, biopharmaceutical development, or clinical trials, as the content exclusively focuses on the electric taps market and general logistics reports.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270705/28124/en/Active-Pharmaceutical-Ingredients-CDMO-Market-Research-and-Global-Forecast-Report-2025-2032-Exploring-Service-Models-Analytical-Services-Process-Developments-and-More.html"
-        },
-        {
-          "text": "Article 1 details the global electric taps market, projecting a value of US$1.15 trillion by 2030, driven by hygiene awareness and smart home technologies rather than pharmaceutical trends.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270705/28124/en/Active-Pharmaceutical-Ingredients-CDMO-Market-Research-and-Global-Forecast-Report-2025-2032-Exploring-Service-Models-Analytical-Services-Process-Developments-and-More.html"
-        },
-        {
-          "text": "Article 2 repeats the electric taps market analysis, noting a CAGR of 10.62% for the period 2025-2030, with no mention of monoclonal antibody manufacturing or distribution.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270697/28124/en/Biopharmaceutical-Third-Party-Logistics-Distribution-Management-Packaging-Labeling-Transportation-Warehousing-Market-Research-and-Global-Forecast-Report-2026-2032.html"
-        },
-        {
-          "text": "Despite the title of Article 2 referencing 'Biopharmaceutical Third Party Logistics,' the body text exclusively discusses electric tap segmentation into touchless and instant heating categories.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270697/28124/en/Biopharmaceutical-Third-Party-Logistics-Distribution-Management-Packaging-Labeling-Transportation-Warehousing-Market-Research-and-Global-Forecast-Report-2026-2032.html"
-        },
-        {
-          "text": "No data points, company names, or drug candidates related to monoclonal antibodies are present in the source material provided for synthesis.",
-          "url": null
-        },
-        {
-          "text": "Kainova Therapeutics announced the expansion of its Phase I/II trial for DT-7012, a Treg-depleting anti-CCR8 monoclonal antibody, with the first patient dosed in Europe.",
+          "text": "Kainova Therapeutics initiated dosing in Europe for DT-7012, a Treg-depleting anti-CCR8 monoclonal antibody, expanding its Phase I/II trial in immuno-oncology.",
           "url": "https://globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
         },
         {
-          "text": "The company also reported positive topline results from its Phase I EPRAD study evaluating DT-9081, an oral EP4 receptor antagonist, in patients with advanced solid tumors.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
-        },
-        {
-          "text": "Phase I data for DT-9081 demonstrated a favorable safety profile, robust pharmacokinetic characteristics, and sustained EP4 receptor engagement across all tested doses.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
-        },
-        {
-          "text": "No dose-limiting toxicities were reported for DT-9081, confirming its clinical tolerability and validating its mechanism of action in overcoming immunotherapy resistance.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
-        },
-        {
-          "text": "The provided market research report on biopharmaceutical CMO and CRO services does not contain specific data regarding monoclonal antibody development or clinical trials.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270696/28124/en/Biopharmaceutical-CMO-CRO-Analytical-Cell-Culture-Clinical-Development-Fill-Finish-Formulation-Preclinical-Development-Process-Development-Market-Research-Global-Forecast-Report-20.html"
-        },
-        {
-          "text": "HUTCHMED initiated a registrational Phase III clinical trial of HMPL-760, a third-generation BTK inhibitor, in combination with R-GemOx for relapsed/refractory diffuse large B-cell lymphoma in China as of March 20, 2026.",
+          "text": "Hutchmed initiated a registrational Phase III trial of HMPL-760 in combination with R-GemOx (including the monoclonal antibody rituximab) for relapsed/refractory diffuse large B-cell lymphoma in China, enrolling approximately 240 patients.",
           "url": "https://globenewswire.com/news-release/2026/04/09/3270617/0/en/HUTCHMED-Highlights-Data-to-be-Presented-at-AACR-Annual-Meeting-2026.html"
         },
         {
-          "text": "HMPL-760 is designed to target both wild-type and C481S-mutated BTK, addressing resistance mechanisms associated with prior BTK inhibitor therapies.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270617/0/en/HUTCHMED-Highlights-Data-to-be-Presented-at-AACR-Annual-Meeting-2026.html"
-        },
-        {
-          "text": "The Phase III trial plans to enroll approximately 240 patients and will evaluate progression-free survival and overall survival as primary endpoints.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270617/0/en/HUTCHMED-Highlights-Data-to-be-Presented-at-AACR-Annual-Meeting-2026.html"
-        },
-        {
-          "text": "New data published in JAMA Pediatrics indicates that the risk of hospitalization for respiratory syncytial virus doubles for extremely preterm infants during their second RSV season.",
+          "text": "New JAMA Pediatrics data indicates hospitalization risk doubles for extremely preterm infants in their second RSV season, challenging current guidelines that do not recommend RSV monoclonal antibodies for this group during the second season.",
           "url": "https://www.healio.com/news/pediatrics/20260409/rsv-hospitalization-risk-spikes-for-preemies-in-second-season"
         },
         {
-          "text": "Current CDC and AAP guidelines do not recommend RSV monoclonal antibodies for premature infants during their second season, despite findings suggesting potential benefit.",
+          "text": "CDC and AAP guidelines recommend nirsevimab (Beyfortus) or clesrovimab (Enflonsia) monoclonal antibodies for infants under 8 months if maternal vaccination was not administered, and for high-risk children aged 8–19 months during their second season.",
           "url": "https://www.healio.com/news/pediatrics/20260409/rsv-hospitalization-risk-spikes-for-preemies-in-second-season"
         },
         {
-          "text": "Nirsevimab (Beyfortus) and clesrovimab (Enflonsia) are indicated for high-risk children aged 8 through 19 months for second-season protection, but not specifically for preterm infants beyond the first season under current US recommendations.",
-          "url": "https://www.healio.com/news/pediatrics/20260409/rsv-hospitalization-risk-spikes-for-preemies-in-second-season"
-        },
-        {
-          "text": "Kyowa Kirin has discontinued all clinical trials for the anti-OX40 monoclonal antibody rocatinlimab following a safety review that identified emerging concerns regarding malignancies.",
+          "text": "Sanofi — Amlitelimab (SAR445229) — Atopic Dermatitis — Fully human, nondepleting anti-OX40L immunoglobulin G4 monoclonal antibody demonstrated durable, progressive skin clearance in Phase 2b STREAM-AD study with maintained improvement through week 52 post-discontinuation.",
           "url": "https://www.healio.com/news/dermatology/20260407/durable-progressive-eczema-improvement-seen-with-ox40-inhibitor-amlitelimab"
         },
         {
-          "text": "The decision to halt rocatinlimab development was driven by the identification of one new confirmed case and one suspected case of Kaposi's sarcoma, alongside a previously confirmed case.",
+          "text": "Sanofi — Amlitelimab — Atopic Dermatitis — Phase 3 COAST-1, COAST-2, and SHORE trials evaluated 500 mg dosing every 4 or 12 weeks in >1,800 adults/adolescents with moderate-to-severe disease, targeting IGA 0/1 at week 24 as primary endpoint.",
           "url": "https://www.healio.com/news/dermatology/20260407/durable-progressive-eczema-improvement-seen-with-ox40-inhibitor-amlitelimab"
         },
         {
-          "text": "Kyowa Kirin executives stated that while overall malignancy rates remain below background expectations, the specific characteristics of the Kaposi's sarcoma cases raise a plausible biological concern linked to OX40 pathway modulation.",
-          "url": "https://www.healio.com/news/dermatology/20260407/durable-progressive-eczema-improvement-seen-with-ox40-inhibitor-amlitelimab"
-        },
-        {
-          "text": "Rocatinlimab was being evaluated in multiple Phase 2 and 3 trials for moderate to severe atopic dermatitis, moderate to severe uncontrolled asthma, and prurigo nodularis prior to the trial suspension.",
-          "url": "https://www.healio.com/news/dermatology/20260407/durable-progressive-eczema-improvement-seen-with-ox40-inhibitor-amlitelimab"
-        },
-        {
-          "text": "Eli Lilly launched its oral GLP-1 receptor agonist Foundayo for obesity treatment, initiating direct competition with Novo Nordisk's oral Wegovy in the oral weight loss market.",
-          "url": "https://biopharmadive.com/news/lilly-foundayo-obesity-pill-launch-price-wegovy/817052/"
-        },
-        {
-          "text": "Foundayo received FDA approval approximately three months after Novo Nordisk secured marketing authorization for the oral formulation of Wegovy, marking a significant entry into the oral GLP-1 sector.",
-          "url": "https://biopharmadive.com/news/lilly-foundayo-obesity-pill-launch-price-wegovy/817052/"
-        },
-        {
-          "text": "Eli Lilly has priced the lowest dose of Foundayo at $149 per month for self-pay patients, matching the pricing strategy employed by Novo Nordisk for its oral Wegovy product.",
-          "url": "https://biopharmadive.com/news/lilly-foundayo-obesity-pill-launch-price-wegovy/817052/"
-        },
-        {
-          "text": "Vera Therapeutics, a late clinical-stage biotechnology company, continues to advance atacicept, a fusion protein targeting B-cell Activating Factor (BAFF) and A PRoliferation-Inducing Ligand (APRIL) for immunoglobulin A nephropathy and lupus nephritis.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3272048/0/en/Vera-Therapeutics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html"
-        },
-        {
-          "text": "The company holds an exclusive license with Stanford University for VT-109, a next-generation fusion protein targeting BAFF and APRIL with potential across B-cell-mediated diseases.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3272048/0/en/Vera-Therapeutics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html"
-        },
-        {
-          "text": "BCC Research projects the global bispecific antibodies market will reach $22.3 billion by 2030, driven by immuno-oncology innovation and accelerated R&D investment.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
-        },
-        {
-          "text": "While the bispecific antibody market expands, the global noninvasive cancer diagnostics market is simultaneously projected to grow from $112.8 billion in 2024 to $165.2 billion by 2030 at a 6.6% CAGR.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
-        },
-        {
-          "text": "North America maintains a dominant 40.4% share of the noninvasive cancer diagnostics market due to advanced infrastructure and high healthcare R&D spending.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
-        },
-        {
-          "text": "The interstitial lung disease market reached USD 6 billion in the 7MM in 2025, with the United States accounting for 83% of the total treatment market size.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "Approximately 1.3 million diagnosed prevalent cases of interstitial lung disease were recorded in the 7MM in 2025, driving demand for advanced pipeline candidates.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "Current treatment landscapes rely on foundational therapies including corticosteroids, immunosuppressants, and biologics alongside adjunct therapies like cough suppressants.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "Emerging therapies such as seralutinib, L606, N-115, and efzofitimod are expanding the treatment landscape by addressing multiple disease pathways in interstitial lung disease.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "InflaRx is developing vilobelimab, a first-in-class, intravenously delivered anti-C5a monoclonal antibody that selectively binds to free C5a.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270828/0/en/InflaRx-Reports-New-Mechanistic-Data-for-Izicopan-Supporting-its-Potential-as-a-Best-in-Class-C5aR-Inhibitor.html"
-        },
-        {
-          "text": "Vilobelimab has demonstrated disease-modifying clinical activity and tolerability in multiple clinical studies for inflammatory diseases.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270828/0/en/InflaRx-Reports-New-Mechanistic-Data-for-Izicopan-Supporting-its-Potential-as-a-Best-in-Class-C5aR-Inhibitor.html"
-        },
-        {
-          "text": "InflaRx is also advancing izicopan, an orally administered small molecule inhibitor of C5a-induced signaling via the C5a receptor, for hidradenitis suppurativa.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270828/0/en/InflaRx-Reports-New-Mechanistic-Data-for-Izicopan-Supporting-its-Potential-as-a-Best-in-Class-C5aR-Inhibitor.html"
-        },
-        {
-          "text": "The interstitial lung disease market is forecast to grow at a CAGR of 8.7% during the period 2026–2036 due to the launch of emerging therapies.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "Invivyd, Inc. announced the advancement of VMS063, a novel potential first- and best-in-class measles monoclonal antibody candidate, under its REVOLUTION program for the treatment and prevention of measles.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270803/0/en/Invivyd-Announces-REVOLUTION-Program-Progress-and-Advancement-of-Novel-Potential-First-and-Best-in-Class-Measles-Monoclonal-Antibody-Candidate-VMS063-for-Treatment-and-Prevention-o.html"
-        },
-        {
-          "text": "Invivyd launched the 'Antibodies for Any Body' national education campaign in partnership with world champion skier Lindsey Vonn to elevate public understanding of antibodies and their role in immune health.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270803/0/en/Invivyd-Announces-REVOLUTION-Program-Progress-and-Advancement-of-Novel-Potential-First-and-Best-in-Class-Measles-Monoclonal-Antibody-Candidate-VMS063-for-Treatment-and-Prevention-o.html"
-        },
-        {
-          "text": "The 'Antibodies for Any Body' campaign includes the launch of AntibodiesforAnyBody.com, an interactive resource featuring a wellness assessment to help individuals understand the relationship between daily habits and antibody production.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270803/0/en/Invivyd-Announces-REVOLUTION-Program-Progress-and-Advancement-of-Novel-Potential-First-and-Best-in-Class-Measles-Monoclonal-Antibody-Candidate-VMS063-for-Treatment-and-Prevention-o.html"
-        },
-        {
-          "text": "Invivyd's Board Chairman Marc Elia stated that the campaign aims to clarify the role of antibodies in the immune system and how lifestyle habits influence their function during a period of high interest in infectious disease prevention.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270803/0/en/Invivyd-Announces-REVOLUTION-Program-Progress-and-Advancement-of-Novel-Potential-First-and-Best-in-Class-Measles-Monoclonal-Antibody-Candidate-VMS063-for-Treatment-and-Prevention-o.html"
-        },
-        {
-          "text": "The provided market research report on Active Pharmaceutical Ingredients CDMO and Electric Taps does not contain specific data regarding monoclonal antibody development, clinical trials, or regulatory approvals.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270705/28124/en/Active-Pharmaceutical-Ingredients-CDMO-Market-Research-and-Global-Forecast-Report-2025-2032-Exploring-Service-Models-Analytical-Services-Process-Developments-and-More.html"
-        },
-        {
-          "text": "The provided articles contain no information regarding monoclonal antibodies, biopharmaceutical drug development, or clinical trials.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270697/28124/en/Biopharmaceutical-Third-Party-Logistics-Distribution-Management-Packaging-Labeling-Transportation-Warehousing-Market-Research-and-Global-Forecast-Report-2026-2032.html"
-        },
-        {
-          "text": "Both source documents exclusively report on market research for electric taps and unrelated infrastructure trends.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270696/28124/en/Biopharmaceutical-CMO-CRO-Analytical-Cell-Culture-Clinical-Development-Fill-Finish-Formulation-Preclinical-Development-Process-Development-Market-Research-Global-Forecast-Report-20.html"
-        },
-        {
-          "text": "No pharmaceutical entities, drug candidates, or regulatory updates related to monoclonal therapies are mentioned in the text.",
-          "url": null
-        },
-        {
-          "text": "The content focuses on the global electric taps market value reaching US$1.15 trillion by 2030, which is irrelevant to the query.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270697/28124/en/Biopharmaceutical-Third-Party-Logistics-Distribution-Management-Packaging-Labeling-Transportation-Warehousing-Market-Research-and-Global-Forecast-Report-2026-2032.html"
-        },
-        {
-          "text": "There is no data available to synthesize a pharmaceutical intelligence brief on monoclonal antibodies from the provided sources.",
-          "url": null
-        },
-        {
-          "text": "Kainova Therapeutics expanded its Phase I/II trial of DT-7012, a Treg-depleting anti-CCR8 monoclonal antibody, with the first patient dosed in Europe.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
-        },
-        {
-          "text": "Kainova Therapeutics reported positive topline Phase I results for DT-9081, an oral EP4 receptor antagonist, demonstrating a favorable safety profile and early anti-tumor activity in advanced solid tumors.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
-        },
-        {
-          "text": "HUTCHMED initiated a registrational Phase III trial of HMPL-760, a third-generation BTK inhibitor, in combination with R-GemOx for relapsed/refractory diffuse large B-cell lymphoma in China.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270617/0/en/HUTCHMED-Highlights-Data-to-be-Presented-at-AACR-Annual-Meeting-2026.html"
-        },
-        {
-          "text": "The Phase I EPRAD study for DT-9081 met all primary objectives, showing robust pharmacokinetic and pharmacodynamic characteristics with dose-proportional exposure across tested doses.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
-        },
-        {
-          "text": "HMPL-760 is designed as a non-covalent, reversible inhibitor targeting both wild-type and C481S-mutated BTK to address resistance mechanisms in hematological cancers.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270617/0/en/HUTCHMED-Highlights-Data-to-be-Presented-at-AACR-Annual-Meeting-2026.html"
-        },
-        {
-          "text": "The Phase III trial for HMPL-760 plans to enroll approximately 240 patients with relapsed or refractory DLBCL who are ineligible for transplantation.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270617/0/en/HUTCHMED-Highlights-Data-to-be-Presented-at-AACR-Annual-Meeting-2026.html"
-        },
-        {
-          "text": "Principal investigator Professor Weili Zhao will lead the HMPL-760 Phase III study, which uses investigator-assessed progression-free survival and overall survival as primary endpoints.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270617/0/en/HUTCHMED-Highlights-Data-to-be-Presented-at-AACR-Annual-Meeting-2026.html"
-        },
-        {
-          "text": "New findings published in JAMA Pediatrics indicate that the risk of hospitalization for respiratory syncytial virus (RSV) doubles for extremely preterm infants during their second RSV season, challenging current guidelines that do not recommend monoclonal antibody immunization for this group in a second season.",
-          "url": "https://www.healio.com/news/pediatrics/20260409/rsv-hospitalization-risk-spikes-for-preemies-in-second-season"
-        },
-        {
-          "text": "Current CDC and AAP recommendations support nirsevimab (Beyfortus) or clesrovimab (Enflonsia) for infants under 8 months if maternal vaccination was not administered, and for high-risk children aged 8 to 19 months during their second season, but exclude premature infants without other specific risk factors.",
-          "url": "https://www.healio.com/news/pediatrics/20260409/rsv-hospitalization-risk-spikes-for-preemies-in-second-season"
-        },
-        {
-          "text": "Kyowa Kirin has discontinued all clinical trials for the anti-OX40 monoclonal antibody rocatinlimab following a safety review that identified emerging concerns regarding malignancies, specifically Kaposi's sarcoma.",
-          "url": "https://www.healio.com/news/dermatology/20260407/durable-progressive-eczema-improvement-seen-with-ox40-inhibitor-amlitelimab"
-        },
-        {
-          "text": "The safety review for rocatinlimab identified one new confirmed case and one suspected case of Kaposi's sarcoma, alongside a previously confirmed case, raising plausible biological concerns regarding OX40 pathway modulation despite overall malignancy rates remaining below background expectations.",
-          "url": "https://www.healio.com/news/dermatology/20260407/durable-progressive-eczema-improvement-seen-with-ox40-inhibitor-amlitelimab"
-        },
-        {
-          "text": "Health Canada approved clesrovimab earlier in 2026, though it has not yet been incorporated into national immunization recommendations for RSV prevention in infants.",
-          "url": "https://www.healio.com/news/pediatrics/20260409/rsv-hospitalization-risk-spikes-for-preemies-in-second-season"
-        },
-        {
-          "text": "ModeX Therapeutics has initiated patient dosing in a Phase 1 clinical trial for MDX2301, a monoclonal antibody candidate intended for the prevention of Covid-19.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185276&sid=2"
-        },
-        {
-          "text": "Biocon has commenced the commercial launch of two denosumab biosimilars, Bosaya and Aukelso, in the United States market.",
+          "text": "Biocon launched Bosaya and Aukelso, denosumab biosimilars, in the US market for osteoporosis and bone metastasis indications.",
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185252&sid=2"
         },
         {
-          "text": "The reported developments highlight concurrent progress in novel monoclonal antibody therapeutics for infectious disease prevention and the commercialization of biosimilar monoclonal antibodies for bone health indications.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185276&sid=2"
-        },
-        {
-          "text": "Biocon's entry with Bosaya and Aukelso represents a strategic expansion of its biosimilar portfolio in the US regulatory environment.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185252&sid=2"
-        },
-        {
-          "text": "ModeX Therapeutics is advancing its early-stage pipeline with MDX2301 targeting viral prophylaxis through monoclonal antibody mechanisms.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185276&sid=2"
-        },
-        {
-          "text": "No specific developments regarding monoclonal antibodies were reported in the provided articles from April 2026.",
-          "url": null
-        },
-        {
-          "text": "The available news focuses on general manufacturing scale-up strategies and regulatory reporting norms rather than specific biologic drug candidates.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185228&sid=1"
-        },
-        {
-          "text": "Kiran Mazumdar-Shaw emphasized the importance of building global scale facilities to leverage PLI and RDI incentives, without mentioning monoclonal antibody production specifically.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185228&sid=1"
-        },
-        {
-          "text": "The Drug Technical Advisory Board (DTAB) recommended amendments to PSUR reporting period norms under NDCT Rules, a regulatory change applicable to all drug classes including biologics.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185208&sid=1"
-        },
-        {
-          "text": "Neither article contains data on clinical trial phases, patient populations, or efficacy results for any monoclonal antibody program.",
-          "url": null
-        },
-        {
-          "text": "OneCyte and Kemp Proteins established a strategic partnership to accelerate high-performance cell line development specifically for next-generation biologics.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185191&sid=2"
-        },
-        {
-          "text": "Researchers at the University of Geneva developed a programmable synthetic DNA drug system that targets cancer cells with extreme precision by activating only upon detection of specific tumor markers.",
+          "text": "University of Geneva researchers developed a synthetic DNA drug system that references monoclonal antibodies as the current standard for antibody-drug conjugates (ADCs) in cancer therapy, noting ADCs' limitations in tumor penetration and drug payload capacity compared to the new smaller DNA-based approach.",
           "url": "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
         },
         {
-          "text": "The University of Geneva study highlights limitations in current antibody-drug conjugates (ADCs), noting that their large size restricts tumor penetration and limits drug payload capacity.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
-        },
-        {
-          "text": "The new DNA-based system utilizes a 'two-key' activation mechanism requiring two distinct cancer markers to trigger drug assembly and release at the tumor site.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
-        },
-        {
-          "text": "Findings regarding the synthetic DNA drug system were published in Nature Biotechnology, marking a step toward responsive, machine-like medicines.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
-        },
-        {
-          "text": "Unlike traditional monoclonal antibody-based therapies, the new DNA strands are significantly smaller, allowing for easier movement through tumor tissue.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
-        },
-        {
-          "text": "Monoclonal antibodies lecanemab and donanemab have demonstrated modest benefits in slowing cognitive decline in Alzheimer's disease but fail to reverse the condition or restore normal brain function.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
-        },
-        {
-          "text": "A review by Professor Yan-Jiang Wang and colleagues in Science China Life Sciences argues that single-target therapies are insufficient due to the complex interplay of amyloid-beta buildup, Tau protein tangles, and genetic risk factors in Alzheimer's.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
-        },
-        {
-          "text": "Researchers propose a shift toward multi-pronged strategies for Alzheimer's treatment, including gene editing and interventions targeting aging and gut health, rather than relying solely on amyloid-targeting monoclonal antibodies.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
-        },
-        {
-          "text": "While monoclonal antibodies address amyloid-beta, scientists emphasize the necessity of simultaneously addressing Tau hyperphosphorylation to effectively slow disease progression in Alzheimer's.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
-        },
-        {
-          "text": "Current Alzheimer's therapies, including monoclonal antibodies, are limited by the disease's multifactorial nature involving metabolism, aging, and genetic variants beyond the APOE ε4 allele.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
-        },
-        {
-          "text": "Five years after an initial breakthrough in treating lupus with CAR-T cell therapy, the approach continues to demonstrate sustained remission in patients and has generated significant interest from the pharmaceutical industry.",
-          "url": "https://statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/"
-        },
-        {
-          "text": "A landmark case involving a patient treated by Georg Schett at the University of Erlangen-Nuremberg resulted in long-term remission, challenging previous fears that T-cell therapies might exacerbate autoimmune conditions.",
-          "url": "https://statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/"
-        },
-        {
-          "text": "The success of CAR-T therapy in autoimmune diseases has driven a surge in experimentation and investment, positioning the modality as a potential transformative treatment for millions of patients.",
-          "url": "https://statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/"
-        },
-        {
-          "text": "Antibody production methodologies remain critical for research and translational applications, with distinct in vivo and in vitro approaches offering varying levels of specificity and scalability.",
-          "url": "https://the-scientist.com/borrowing-from-biology-to-better-produce-antibodies-74296"
-        },
-        {
-          "text": "Hybridoma technology continues to be a standard method for generating stable cell lines that produce monoclonal antibodies by fusing B cells with immortal myeloma cells.",
-          "url": "https://the-scientist.com/borrowing-from-biology-to-better-produce-antibodies-74296"
-        },
-        {
-          "text": "Single B-cell isolation from human donors provides a direct route to recovering high-affinity human antibodies by amplifying paired heavy and light-chain genes without fusion strategies.",
-          "url": "https://the-scientist.com/borrowing-from-biology-to-better-produce-antibodies-74296"
-        },
-        {
-          "text": "Animal immunization models, including mice, rabbits, and goats, remain widely utilized to stimulate B-cell responses that yield target-specific antibodies with mature variable region repertoires.",
-          "url": "https://the-scientist.com/borrowing-from-biology-to-better-produce-antibodies-74296"
-        },
-        {
-          "text": "Real-world evidence from a community-based chart review of 181 US patients confirms the efficacy of the tafasitamab-lenalidomide regimen in relapsed or refractory diffuse large B-cell lymphoma (R/R DLBCL) across a racially diverse population.",
+          "text": "Tafasitamab-cxix (Monjuvi), a humanized Fc-modified CD19-targeting monoclonal antibody, demonstrated robust real-world efficacy in relapsed/refractory diffuse large B-cell lymphoma (R/R DLBCL) across a racially diverse US cohort of 181 patients.",
           "url": "https://cancernetwork.com/view/real-world-evidence-confirms-tafasitamab-benefit-in-r-r-dlbcl"
         },
         {
-          "text": "The retrospective study highlights that earlier-line use of tafasitamab, a humanized Fc-modified CD19-targeting monoclonal antibody, serves as a critical determinant for improved patient outcomes outside of clinical trial settings.",
-          "url": "https://cancernetwork.com/view/real-world-evidence-confirms-tafasitamab-benefit-in-r-r-dlbcl"
-        },
-        {
-          "text": "Phase 3 trial data published in Nature Medicine demonstrates that the isatuximab-carfilzomib-lenalidomide-dexamethasone (Isa-KRd) regimen significantly improves minimal residual disease (MRD) negativity compared to KRd alone in transplant-eligible newly diagnosed multiple myeloma (NDMM).",
-          "url": "https://cancernetwork.com/view/isatuximab-regimen-improves-mrd-negativity-in-transplant-eligible-ndmm"
-        },
-        {
-          "text": "At a sensitivity of 10^-6, the Isa-KRd arm achieved a 68% MRD-negative rate versus 48% in the control arm, with consistent benefits observed across high-risk and ultra-high-risk patient subgroups.",
-          "url": "https://cancernetwork.com/view/isatuximab-regimen-improves-mrd-negativity-in-transplant-eligible-ndmm"
-        },
-        {
-          "text": "The real-world tafasitamab cohort included 22% Black or African American and 17% Hispanic or Latino patients, addressing demographic gaps present in the pivotal L-MIND trial which was predominantly White.",
-          "url": "https://cancernetwork.com/view/real-world-evidence-confirms-tafasitamab-benefit-in-r-r-dlbcl"
-        },
-        {
-          "text": "Despite the significant improvement in MRD negativity with the isatuximab-containing regimen, the 4-year progression-free survival rate remained at 80% for both treatment arms due to a limited number of events.",
-          "url": "https://cancernetwork.com/view/isatuximab-regimen-improves-mrd-negativity-in-transplant-eligible-ndmm"
-        },
-        {
-          "text": "The FDA approved the combination of teclistamab-cqyv (Tecvayli) and daratumumab with hyaluronidase-fihj (Darzalex Faspro) in March 2026 for patients with relapsed/refractory multiple myeloma who have received at least one prior line of therapy.",
+          "text": "Janssen received FDA approval for teclistamab-cqyv (Tecvayli) plus daratumumab and hyaluronidase-fihj (Darzalex Faspro), the first BCMA-targeted bispecific monoclonal antibody combination for relapsed/refractory multiple myeloma after at least one prior line of therapy.",
           "url": "https://cancernetwork.com/view/teclistamab-combo-approval-is-excellent-for-r-r-multiple-myeloma"
         },
         {
-          "text": "This regulatory decision marks the first approval of a B-cell maturation antigen (BCMA) bispecific monoclonal antibody-based combination for this specific patient population.",
-          "url": "https://cancernetwork.com/view/teclistamab-combo-approval-is-excellent-for-r-r-multiple-myeloma"
+          "text": "Sanofi's isatuximab-irfc (Sarclisa) combined with carfilzomib, lenalidomide, and dexamethasone (Isa-KRd) significantly improved minimal residual disease (MRD) negativity in transplant-eligible newly diagnosed multiple myeloma patients in a Phase 3 study.",
+          "url": "https://cancernetwork.com/view/isatuximab-regimen-improves-mrd-negativity-in-transplant-eligible-ndmm"
         },
         {
-          "text": "María-Victoria Mateos, MD, PhD, investigator of the phase 3 MajesTEC-3 trial, characterized the efficacy data from the teclistamab/daratumumab combination as among the best reported in the relapsed/refractory treatment setting.",
-          "url": "https://cancernetwork.com/view/teclistamab-combo-approval-is-excellent-for-r-r-multiple-myeloma"
-        },
-        {
-          "text": "Evommune successfully executed an initial public offering late in the previous year, bucking the biotech IPO drought to fund its long-term strategic objectives in immunology.",
-          "url": "https://pharmavoice.com/news/evommune-ipo-biotech-immunology-dupixent-ebglyss/816798/"
-        },
-        {
-          "text": "Evommune is currently addressing stiff competition in the immunology sector following a recent mid-stage clinical win for its pipeline programs.",
-          "url": "https://pharmavoice.com/news/evommune-ipo-biotech-immunology-dupixent-ebglyss/816798/"
-        },
-        {
-          "text": "Biocon has commenced the commercial launch of its denosumab biosimilars, Bosaya and Aukelso, in the United States market.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185252&sid=2"
-        },
-        {
-          "text": "The reported developments highlight concurrent progress in early-stage monoclonal antibody development for infectious diseases and late-stage commercialization of biosimilar monoclonal antibodies for bone health indications.",
-          "url": null
-        },
-        {
-          "text": "These activities occurred in early April 2026, marking significant milestones for both biotechnology innovation and biosimilar market expansion within the monoclonal antibody sector.",
-          "url": null
-        },
-        {
-          "text": "The provided articles do not contain specific data regarding monoclonal antibody development, clinical trials, or regulatory approvals for such biologics.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185228&sid=1"
-        },
-        {
-          "text": "Article 1 focuses on Kiran Mazumdar-Shaw's commentary regarding the strategic necessity of building global scale facilities to leverage Production Linked Incentive (PLI) and Research and Development Incentive (RDI) schemes.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185228&sid=1"
-        },
-        {
-          "text": "Article 2 reports that the Drug Technical Advisory Board (DTAB) has recommended amendments to the Post-Market Safety Update Report (PSUR) reporting period norms under the NDCT Rules.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185208&sid=1"
-        },
-        {
-          "text": "No explicit mentions of monoclonal antibody candidates, mechanisms of action, or specific biologic trial outcomes were found in the source texts.",
-          "url": null
-        },
-        {
-          "text": "The regulatory discussion in Article 2 pertains to general pharmacovigilance reporting periods rather than specific safety signals for monoclonal therapies.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185208&sid=1"
-        },
-        {
-          "text": "The University of Geneva team's findings regarding the DNA-based delivery system were published in the journal Nature Biotechnology.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
-        },
-        {
-          "text": "Current antibody-drug conjugate (ADC) therapies, which utilize monoclonal antibodies, face limitations regarding tumor penetration due to their large molecular size and limited drug payload capacity.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
-        },
-        {
-          "text": "The new DNA-based system offers a smaller molecular alternative to monoclonal antibodies, enabling easier movement through tumor tissue and the potential to deliver multiple drug components simultaneously.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
-        },
-        {
-          "text": "Alzheimer's disease is increasingly recognized as a complex system involving amyloid-beta buildup, Tau protein tangles, genetic risk factors, and aging-related changes rather than a single-factor pathology.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
-        },
-        {
-          "text": "Monoclonal antibody therapies such as lecanemab and donanemab have demonstrated modest benefits in slowing cognitive decline but have failed to reverse disease progression or restore normal brain function.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
-        },
-        {
-          "text": "A review published in Science China Life Sciences by Professor Yan-Jiang Wang argues that future Alzheimer's treatments must adopt multi-pronged strategies targeting multiple biological pathways simultaneously.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
-        },
-        {
-          "text": "Research indicates that addressing both amyloid-beta and Tau hyperphosphorylation is necessary to effectively slow Alzheimer's disease progression, as single-target approaches have yielded limited results.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
-        },
-        {
-          "text": "Scientists at McMaster University and The Hospital for Sick Children identified that oligodendrocytes, previously thought to only support nerve function, actively assist glioblastoma tumor growth through specific signaling mechanisms.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260405003933.htm"
-        },
-        {
-          "text": "Blocking the communication signals between oligodendrocytes and glioblastoma cells significantly reduced tumor growth in laboratory models, revealing a new therapeutic vulnerability in brain cancer.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260405003933.htm"
-        },
-        {
-          "text": "Existing HIV medications have been identified as potential candidates to interfere with the signaling network between brain cells and glioblastoma tumors, offering a repurposing opportunity for incurable brain cancer.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260405003933.htm"
-        },
-        {
-          "text": "Five years after an initial breakthrough, CAR-T cell therapy continues to demonstrate efficacy in treating systemic lupus erythematosus, with a landmark patient remaining in remission and employed at the treating clinic.",
-          "url": "https://statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/"
-        },
-        {
-          "text": "The success of early CAR-T applications in autoimmunity has generated significant interest from the pharmaceutical industry, shifting the therapeutic paradigm away from traditional immunosuppression.",
-          "url": "https://statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/"
-        },
-        {
-          "text": "Initial fears that T-cell therapies might exacerbate autoimmune conditions have been challenged by clinical observations where patients achieved sustained remission.",
-          "url": "https://statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/"
-        },
-        {
-          "text": "Researchers are increasingly utilizing single B-cell isolation from human donors to rapidly recover high-affinity antibodies for translational research and therapeutic development.",
+          "text": "Hybridoma technology remains a standard method for producing monoclonal antibodies by fusing B cells with immortal myeloma cells to create stable cell lines.",
           "url": "https://the-scientist.com/borrowing-from-biology-to-better-produce-antibodies-74296"
-        },
-        {
-          "text": "Hybridoma technology remains a standard method for producing monoclonal antibodies by fusing B cells with immortal myeloma cells to create stable, continuous production lines.",
-          "url": "https://the-scientist.com/borrowing-from-biology-to-better-produce-antibodies-74296"
-        },
-        {
-          "text": "Antibody production strategies now encompass a spectrum of in vivo and in vitro approaches, each selected based on target specificity requirements and scalability needs.",
-          "url": "https://the-scientist.com/borrowing-from-biology-to-better-produce-antibodies-74296"
-        },
-        {
-          "text": "Animal immunization models, including mice, rabbits, and goats, continue to be widely used to generate antibodies with mature variable region repertoires for research applications.",
-          "url": "https://the-scientist.com/borrowing-from-biology-to-better-produce-antibodies-74296"
-        },
-        {
-          "text": "Real-world evidence from a community-based chart review of 181 US patients confirms the robust efficacy of the tafasitamab and lenalidomide regimen in relapsed or refractory diffuse large B-cell lymphoma (R/R DLBCL).",
-          "url": "https://cancernetwork.com/view/real-world-evidence-confirms-tafasitamab-benefit-in-r-r-dlbcl"
-        },
-        {
-          "text": "The real-world cohort demonstrated a more racially diverse demographic than the pivotal L-MIND trial, with 22% Black or African American and 17% Hispanic or Latino patients compared to 11% non-White in the trial population.",
-          "url": "https://cancernetwork.com/view/real-world-evidence-confirms-tafasitamab-benefit-in-r-r-dlbcl"
-        },
-        {
-          "text": "Earlier-line administration of tafasitamab was identified as the single most modifiable determinant of improved outcomes in the real-world setting for R/R DLBCL patients ineligible for autologous stem-cell transplantation.",
-          "url": "https://cancernetwork.com/view/real-world-evidence-confirms-tafasitamab-benefit-in-r-r-dlbcl"
-        },
-        {
-          "text": "A phase 3 study published in Nature Medicine demonstrated that the isatuximab, carfilzomib, lenalidomide, and dexamethasone (Isa-KRd) regimen significantly improved minimal residual disease (MRD) negativity compared to KRd alone in transplant-eligible newly diagnosed multiple myeloma (NDMM).",
-          "url": "https://cancernetwork.com/view/isatuximab-regimen-improves-mrd-negativity-in-transplant-eligible-ndmm"
-        },
-        {
-          "text": "At a sensitivity of 10^-6, the Isa-KRd arm achieved a 68% MRD-negative rate versus 48% in the KRd control arm, with an odds ratio of 2.36 and a p-value of .0004.",
-          "url": "https://cancernetwork.com/view/isatuximab-regimen-improves-mrd-negativity-in-transplant-eligible-ndmm"
-        },
-        {
-          "text": "Consistent MRD negativity benefits for the Isa-KRd regimen were observed across all patient subgroups, including those with high-risk and ultra-high-risk disease features following autologous stem cell transplant consolidation.",
-          "url": "https://cancernetwork.com/view/isatuximab-regimen-improves-mrd-negativity-in-transplant-eligible-ndmm"
-        },
-        {
-          "text": "The 4-year progression-free survival rate was reported as 80% for both treatment arms in the NDMM phase 3 trial, though a limited number of events prevented adequate statistical comparison of PFS outcomes.",
-          "url": "https://cancernetwork.com/view/isatuximab-regimen-improves-mrd-negativity-in-transplant-eligible-ndmm"
-        },
-        {
-          "text": "Tafasitamab-cxix (Monjuvi) is a humanized Fc-modified CD19-targeting monoclonal antibody that received accelerated approval in 2020 in combination with lenalidomide for R/R DLBCL.",
-          "url": "https://cancernetwork.com/view/real-world-evidence-confirms-tafasitamab-benefit-in-r-r-dlbcl"
-        },
-        {
-          "text": "Isatuximab-irfc (Sarclisa) is a monoclonal antibody targeting CD38, utilized in the Isa-KRd regimen to enhance deep responses in multiple myeloma patients.",
-          "url": "https://cancernetwork.com/view/isatuximab-regimen-improves-mrd-negativity-in-transplant-eligible-ndmm"
-        },
-        {
-          "text": "The FDA approved teclistamab-cqyv (Tecvayli) in combination with daratumumab and hyaluronidase-fihj (Darzalex Faspro) in March 2026 for patients with relapsed/refractory multiple myeloma who have received at least one prior line of therapy.",
-          "url": "https://cancernetwork.com/view/teclistamab-combo-approval-is-excellent-for-r-r-multiple-myeloma"
-        },
-        {
-          "text": "This regulatory decision marks the first BCMA-targeted bispecific monoclonal antibody-based combination approved for relapsed/refractory multiple myeloma after at least one prior line of therapy.",
-          "url": "https://cancernetwork.com/view/teclistamab-combo-approval-is-excellent-for-r-r-multiple-myeloma"
-        },
-        {
-          "text": "Evommune successfully completed an initial public offering late in the previous year, bucking the biotech IPO drought to fund its immunology pipeline.",
-          "url": "https://pharmavoice.com/news/evommune-ipo-biotech-immunology-dupixent-ebglyss/816798/"
-        },
-        {
-          "text": "Evommune is currently addressing stiff competition in the immunology sector following a recent mid-stage clinical win for its lead program.",
-          "url": "https://pharmavoice.com/news/evommune-ipo-biotech-immunology-dupixent-ebglyss/816798/"
         }
       ]
     },
@@ -624,224 +68,48 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Eli Lilly — Foundayo — Obesity — FDA approval granted and commercial launch initiated with pricing at $149/month for self-pay patients.",
-          "url": "https://biopharmadive.com/news/lilly-foundayo-obesity-pill-launch-price-wegovy/817052/"
-        },
-        {
-          "text": "Vera Therapeutics — Atacicept — IgAN and Lupus Nephritis — Late clinical-stage development of a subcutaneous fusion protein blocking BAFF and APRIL.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3272048/0/en/Vera-Therapeutics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html"
-        },
-        {
-          "text": "Bispecific Antibodies — Immuno-Oncology — Market Expansion — Projected to reach $22.3 billion by 2030 driven by R&D investment.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
-        },
-        {
-          "text": "Noninvasive Cancer Diagnostics — Liquid Biopsy & AI — Market Growth — Projected CAGR of 6.6% from 2024 to 2030 reaching $165.2 billion.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
-        },
-        {
-          "text": "Interstitial Lung Disease — Seralutinib, L606, N-115, Efzofitimod — Pipeline Expansion — Advanced candidates addressing multiple disease pathways.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "InflaRx — Vilobelimab — Inflammatory Diseases — First-in-class anti-C5a monoclonal antibody demonstrating disease-modifying clinical activity.",
+          "text": "InflaRx N.V. — vilobelimab — Anti-C5a monoclonal antibody — First-in-class intravenously delivered agent selectively binding free C5a; demonstrated disease-modifying clinical activity and tolerability in multiple clinical studies.",
           "url": "https://globenewswire.com/news-release/2026/04/09/3270828/0/en/InflaRx-Reports-New-Mechanistic-Data-for-Izicopan-Supporting-its-Potential-as-a-Best-in-Class-C5aR-Inhibitor.html"
         },
         {
-          "text": "Invivyd — VMS063 — Measles — Novel potential first- and best-in-class monoclonal antibody candidate for treatment and prevention.",
+          "text": "Invivyd Inc. — VMS063 — Measles — Novel potential first- and best-in-class measles monoclonal antibody candidate advanced under the REVOLUTION program for treatment and prevention.",
           "url": "https://globenewswire.com/news-release/2026/04/09/3270803/0/en/Invivyd-Announces-REVOLUTION-Program-Progress-and-Advancement-of-Novel-Potential-First-and-Best-in-Class-Measles-Monoclonal-Antibody-Candidate-VMS063-for-Treatment-and-Prevention-o.html"
         },
         {
-          "text": "Kainova Therapeutics — DT-7012 — Advanced Solid Tumors — Phase I/II trial expansion initiated in Europe with first patient dosed.",
+          "text": "Kainova Therapeutics — DT-7012 — Advanced Solid Tumors — First patient dosed in Europe for Phase I/II trial of Treg-depleting anti-CCR8 monoclonal antibody.",
           "url": "https://globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
         },
         {
-          "text": "Kainova Therapeutics — DT-9081 — Advanced Solid Tumors — Phase I EPRAD study met all primary objectives with positive topline results.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
-        },
-        {
-          "text": "HUTCHMED — HMPL-760 — Relapsed/Refractory DLBCL — Phase III trial initiated in China combining HMPL-760 with R-GemOx.",
+          "text": "Hutchmed — HMPL-760 + R-GemOx (rituximab) — Relapsed/Refractory Diffuse Large B-cell Lymphoma — Phase III trial initiated March 20, 2026 in China; randomized, double-blind, positive-controlled study vs placebo + R-GemOx with primary endpoints of PFS and OS.",
           "url": "https://globenewswire.com/news-release/2026/04/09/3270617/0/en/HUTCHMED-Highlights-Data-to-be-Presented-at-AACR-Annual-Meeting-2026.html"
         },
         {
-          "text": "Clinical Research — Nirsevimab/Clesrovimab — Second Season RSV in Preemies — JAMA Pediatrics study highlights doubled hospitalization risk in second season for extremely preterm infants.",
-          "url": "https://www.healio.com/news/pediatrics/20260409/rsv-hospitalization-risk-spikes-for-preemies-in-second-season"
-        },
-        {
-          "text": "Kyowa Kirin — Rocatinlimab — Atopic Dermatitis/Asthma/Prurigo Nodularis — Clinical trials discontinued due to safety concerns regarding Kaposi's sarcoma.",
+          "text": "Sanofi — Amlitelimab — Atopic Dermatitis — Phase 2b STREAM-AD study showed progressive IGA and EASI score improvements without plateau; durable effect observed after drug cessation, prompting Phase 3 investigation.",
           "url": "https://www.healio.com/news/dermatology/20260407/durable-progressive-eczema-improvement-seen-with-ox40-inhibitor-amlitelimab"
         },
         {
-          "text": "Eli Lilly — Foundayo — Obesity — Oral GLP-1 agonist launched in the US market with pricing aligned to competitor Novo Nordisk.",
-          "url": "https://biopharmadive.com/news/lilly-foundayo-obesity-pill-launch-price-wegovy/817052/"
-        },
-        {
-          "text": "Vera Therapeutics — atacicept — Immunoglobulin A Nephropathy and Lupus Nephritis — Late clinical-stage fusion protein blocking BAFF and APRIL.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3272048/0/en/Vera-Therapeutics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html"
-        },
-        {
-          "text": "Vera Therapeutics — VT-109 — B-cell-mediated diseases — Next-generation fusion protein targeting BAFF and APRIL under exclusive license from Stanford University.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3272048/0/en/Vera-Therapeutics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html"
-        },
-        {
-          "text": "BCC Research — Market Analysis — Global Bispecific Antibodies — Forecasting market value to reach $22.3 billion by 2030.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
-        },
-        {
-          "text": "InflaRx — Vilobelimab — Inflammatory Diseases — First-in-class anti-C5a monoclonal antibody showing disease-modifying clinical activity.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270828/0/en/InflaRx-Reports-New-Mechanistic-Data-for-Izicopan-Supporting-its-Potential-as-a-Best-in-Class-C5aR-Inhibitor.html"
-        },
-        {
-          "text": "Gossamer Bio/Chiesi Farmaceutici — Seralutinib — Interstitial Lung Disease — Advanced pipeline candidate addressing multiple disease pathways.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "Liquidia Corporation — L606 — Interstitial Lung Disease — Emerging therapy expanding the treatment landscape.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "Emphycorp — N-115 — Interstitial Lung Disease — Advanced pipeline candidate contributing to market growth.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "aTyr Pharma — Efzofitimod — Interstitial Lung Disease — Emerging therapy addressing multiple disease pathways.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "Invivyd — VMS063 — Measles — Advancement of novel potential first- and best-in-class monoclonal antibody candidate for treatment and prevention under the REVOLUTION program.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270803/0/en/Invivyd-Announces-REVOLUTION-Program-Progress-and-Advancement-of-Novel-Potential-First-and-Best-in-Class-Measles-Monoclonal-Antibody-Candidate-VMS063-for-Treatment-and-Prevention-o.html"
-        },
-        {
-          "text": "Kainova Therapeutics — DT-7012 — Advanced Solid Tumors — Phase I/II trial expansion with first patient dosed in Europe.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
-        },
-        {
-          "text": "HUTCHMED — HMPL-760 — Relapsed/Refractory DLBCL — Initiation of registrational Phase III trial in China.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270617/0/en/HUTCHMED-Highlights-Data-to-be-Presented-at-AACR-Annual-Meeting-2026.html"
-        },
-        {
-          "text": "Kainova Therapeutics — DT-9081 — Advanced Solid Tumors — Positive Phase I results with favorable safety and early anti-tumor activity.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
-        },
-        {
-          "text": "JAMA Pediatrics Study — RSV Monoclonal Antibodies — Preterm Infants — Data shows hospitalization risk doubles in second season, contradicting current US and Canadian guidelines.",
-          "url": "https://www.healio.com/news/pediatrics/20260409/rsv-hospitalization-risk-spikes-for-preemies-in-second-season"
-        },
-        {
-          "text": "Kyowa Kirin — Rocatinlimab — Atopic Dermatitis/Asthma/Prurigo Nodularis — All clinical trials halted due to safety signals of Kaposi's sarcoma linked to OX40 inhibition.",
+          "text": "Sanofi — Amlitelimab — Atopic Dermatitis — Phase 3 COAST-1, COAST-2, and SHORE studies initiated with >1,800 participants; COAST trials assess monotherapy, SHORE combines with topical corticosteroids or calcineurin inhibitors.",
           "url": "https://www.healio.com/news/dermatology/20260407/durable-progressive-eczema-improvement-seen-with-ox40-inhibitor-amlitelimab"
         },
         {
-          "text": "ModeX Therapeutics — MDX2301 — Covid-19 Prevention — Phase 1 patient dosing initiated.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185276&sid=2"
-        },
-        {
-          "text": "Biocon — Bosaya and Aukelso — Denosumab Biosimilars — US commercial launch completed.",
+          "text": "Biocon — Bosaya / Aukelso — Osteoporosis and Bone Metastasis — US commercial launch of denosumab biosimilars initiated.",
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185252&sid=2"
         },
         {
-          "text": "No monoclonal antibody-specific developments reported; focus remains on general manufacturing infrastructure and regulatory reporting norms.",
-          "url": null
-        },
-        {
-          "text": "OneCyte — Cell Line Development Platform — Next-Generation Biologics — Strategic partnership formed to accelerate development.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185191&sid=2"
-        },
-        {
-          "text": "University of Geneva — Synthetic DNA Drug — Oncology — Development of a programmable system for precise cancer cell targeting.",
+          "text": "University of Geneva — Synthetic DNA 'smart' drug — Cancer — New programmable system uses short DNA strands to overcome monoclonal antibody limitations in ADCs by enabling deeper tumor penetration and multi-drug delivery upon detection of dual tumor markers.",
           "url": "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
         },
         {
-          "text": "Alzheimer's Research — Monoclonal Antibodies (Lecanemab/Donanemab) — Cognitive Decline — Limited Efficacy in Reversing Disease Progression.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
-        },
-        {
-          "text": "Glioblastoma Research — Oligodendrocyte Signaling Inhibition — Tumor Growth — Identification of HIV Drug Repurposing Potential.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260405003933.htm"
-        },
-        {
-          "text": "University of Erlangen-Nuremberg — CAR-T Cell Therapy — Systemic Lupus Erythematosus — Sustained remission observed five years post-treatment in a pivotal patient case.",
-          "url": "https://statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/"
-        },
-        {
-          "text": "Research Community — Hybridoma Technology — General Research Tools — Continued reliance on B-cell and myeloma fusion for stable monoclonal antibody production lines.",
-          "url": "https://the-scientist.com/borrowing-from-biology-to-better-produce-antibodies-74296"
-        },
-        {
-          "text": "Biotechnology Sector — Single B-Cell Isolation — Human Antibody Discovery — Adoption of direct cloning methods to bypass fusion strategies for rapid high-affinity antibody recovery.",
-          "url": "https://the-scientist.com/borrowing-from-biology-to-better-produce-antibodies-74296"
-        },
-        {
-          "text": "Incyte — Tafasitamab — Relapsed/Refractory DLBCL — Real-world evidence confirms robust response rates and identifies earlier-line administration as a key outcome driver in a diverse US population.",
+          "text": "Ingenus / MorphoSys — Tafasitamab (Monjuvi) — Relapsed/Refractory Diffuse Large B-Cell Lymphoma — Real-world chart review of 181 patients confirmed efficacy in community settings; 72% treated in second-line, median age 71.1 years, with 22% Black and 17% Hispanic/Latino representation.",
           "url": "https://cancernetwork.com/view/real-world-evidence-confirms-tafasitamab-benefit-in-r-r-dlbcl"
         },
         {
-          "text": "Sanofi — Isatuximab — Newly Diagnosed Multiple Myeloma — Phase 3 data shows significant improvement in MRD negativity at 10^-6 sensitivity with the Isa-KRd regimen compared to KRd alone in transplant-eligible patients.",
-          "url": "https://cancernetwork.com/view/isatuximab-regimen-improves-mrd-negativity-in-transplant-eligible-ndmm"
-        },
-        {
-          "text": "Janssen/Jazz Pharmaceuticals — Teclistamab + Daratumumab — Relapsed/Refractory Multiple Myeloma — FDA Approval of first BCMA bispecific monoclonal antibody combination for patients with at least one prior line of therapy.",
+          "text": "Janssen — Teclistamab + Daratumumab — Relapsed/Refractory Multiple Myeloma — FDA approved first BCMA-targeted bispecific monoclonal antibody combination for patients with ≥1 prior line of therapy; based on Phase 3 MajesTEC-3 trial data.",
           "url": "https://cancernetwork.com/view/teclistamab-combo-approval-is-excellent-for-r-r-multiple-myeloma"
         },
         {
-          "text": "Evommune — Efgartigimod alfa (Efgny) — Immunology — Successful mid-stage clinical trial results driving strategic positioning post-IPO.",
-          "url": "https://pharmavoice.com/news/evommune-ipo-biotech-immunology-dupixent-ebglyss/816798/"
-        },
-        {
-          "text": "Biocon — Bosaya and Aukelso (denosumab biosimilars) — Osteoporosis/Bone Health — US commercial launch commenced.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185252&sid=2"
-        },
-        {
-          "text": "No monoclonal antibody-specific developments reported; general industry focus on PLI/RDI incentives for manufacturing scale-up.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185228&sid=1"
-        },
-        {
-          "text": "No monoclonal antibody-specific developments reported; DTAB recommends amendments to PSUR reporting period norms under NDCT Rules.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185208&sid=1"
-        },
-        {
-          "text": "OneCyte — Cell Line Development Platform — Biologics Manufacturing — Partnership with Kemp Proteins to accelerate high-performance cell line development.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185191&sid=2"
-        },
-        {
-          "text": "University of Geneva — Synthetic DNA Drug System — Oncology — Development of a 'smart' programmable drug that activates only when two distinct cancer markers are present.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
-        },
-        {
-          "text": "Alzheimer's Research Community — Monoclonal Antibodies (Lecanemab, Donanemab) — Alzheimer's Disease — Limited efficacy in slowing decline without reversing disease, prompting shift to multi-target strategies.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
-        },
-        {
-          "text": "McMaster University/SickKids — Oligodendrocyte Signaling Inhibition — Glioblastoma — Discovery that blocking brain cell-to-tumor communication slows tumor growth, with potential repurposing of HIV drugs.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260405003933.htm"
-        },
-        {
-          "text": "University of Erlangen-Nuremberg — CAR-T Cell Therapy — Systemic Lupus Erythematosus — Sustained remission observed in a patient treated five years prior, validating the approach for autoimmune indications.",
-          "url": "https://statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/"
-        },
-        {
-          "text": "Life Science Sector — Single B-Cell Isolation — Human Antibody Production — Adoption of direct cloning from human donors to bypass fusion strategies and accelerate high-affinity antibody recovery.",
-          "url": "https://the-scientist.com/borrowing-from-biology-to-better-produce-antibodies-74296"
-        },
-        {
-          "text": "Biotechnology Industry — Hybridoma Technology — Monoclonal Antibody Manufacturing — Continued reliance on stable cell lines derived from B-cell and myeloma fusion for reproducible specificity.",
-          "url": "https://the-scientist.com/borrowing-from-biology-to-better-produce-antibodies-74296"
-        },
-        {
-          "text": "Incyte — Tafasitamab — Relapsed/Refractory DLBCL — Real-world evidence confirms efficacy in diverse, community-based populations with earlier-line use driving improved outcomes.",
-          "url": "https://cancernetwork.com/view/real-world-evidence-confirms-tafasitamab-benefit-in-r-r-dlbcl"
-        },
-        {
-          "text": "Sanofi — Isatuximab — Transplant-Eligible Newly Diagnosed Multiple Myeloma — Phase 3 data shows significant improvement in MRD negativity at 10^-6 sensitivity compared to KRd alone.",
+          "text": "Sanofi — Isatuximab (Sarclisa) — Newly Diagnosed Multiple Myeloma — Phase 3 trial: Isa-KRd regimen achieved 77% MRD negativity at 10⁻⁵ sensitivity vs 67% for KRd alone (OR 1.67, p=0.049); 68% vs 48% at 10⁻⁶ sensitivity (OR 2.36, p=0.0004).",
           "url": "https://cancernetwork.com/view/isatuximab-regimen-improves-mrd-negativity-in-transplant-eligible-ndmm"
-        },
-        {
-          "text": "Janssen/Johnson & Johnson — Teclistamab-cqyv + Daratumumab — Relapsed/Refractory Multiple Myeloma — FDA approval granted for combination therapy after at least one prior line of treatment.",
-          "url": "https://cancernetwork.com/view/teclistamab-combo-approval-is-excellent-for-r-r-multiple-myeloma"
-        },
-        {
-          "text": "Evommune — Efgartigimod alfa (Efgartigimod) — Immunology — Recent mid-stage clinical win reported following the company's initial public offering.",
-          "url": "https://pharmavoice.com/news/evommune-ipo-biotech-immunology-dupixent-ebglyss/816798/"
         }
       ]
     },
@@ -849,228 +117,44 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Eli Lilly is executing a strategy to capture the oral GLP-1 market with Foundayo, aiming to close the gap with Novo Nordisk's established oral Wegovy presence.",
-          "url": "https://biopharmadive.com/news/lilly-foundayo-obesity-pill-launch-price-wegovy/817052/"
-        },
-        {
-          "text": "Vera Therapeutics is focused on changing the standard of care for serious immunological diseases through its lead program atacicept and next-generation fusion protein VT-109.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3272048/0/en/Vera-Therapeutics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html"
-        },
-        {
-          "text": "Gossamer Bio and Chiesi Farmaceutici — Developing seralutinib for interstitial lung disease to expand treatment options.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "Liquidia Corporation — Advancing L606 as an emerging therapy for interstitial lung disease.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "Emphycorp — Developing N-115 to address multiple disease pathways in interstitial lung disease.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "aTyr Pharma — Advancing efzofitimod as a pipeline candidate for interstitial lung disease treatment.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "F. Hoffmann-La Roche, Thermo Fisher Scientific, and Guardant Health — Leading the noninvasive cancer diagnostics market with liquid biopsy and AI-enabled tools.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
-        },
-        {
-          "text": "InflaRx N.V. is pioneering anti-inflammatory therapeutics targeting the complement system with a focus on developing vilobelimab, an anti-C5a monoclonal antibody.",
+          "text": "InflaRx N.V. — Complement system targeting — vilobelimab (anti-C5a monoclonal antibody) + izicopan (C5aR inhibitor) — vilobelimab demonstrated disease-modifying activity; izicopan in Phase 1/2a for hidradenitis suppurativa.",
           "url": "https://globenewswire.com/news-release/2026/04/09/3270828/0/en/InflaRx-Reports-New-Mechanistic-Data-for-Izicopan-Supporting-its-Potential-as-a-Best-in-Class-C5aR-Inhibitor.html"
         },
         {
-          "text": "Invivyd, Inc. is advancing the REVOLUTION program to develop VMS063, a monoclonal antibody candidate for measles, while launching public education initiatives on immune health.",
+          "text": "Invivyd Inc. — Measles monoclonal antibody development — VMS063 — Novel potential first- and best-in-class candidate advanced under REVOLUTION program for treatment and prevention.",
           "url": "https://globenewswire.com/news-release/2026/04/09/3270803/0/en/Invivyd-Announces-REVOLUTION-Program-Progress-and-Advancement-of-Novel-Potential-First-and-Best-in-Class-Measles-Monoclonal-Antibody-Candidate-VMS063-for-Treatment-and-Prevention-o.html"
         },
         {
-          "text": "No pharmaceutical companies or monoclonal antibody programs identified in the source text.",
-          "url": null
-        },
-        {
-          "text": "Kainova Therapeutics is advancing its immuno-oncology pipeline by expanding clinical evaluation of DT-7012, a Treg-depleting anti-CCR8 monoclonal antibody.",
+          "text": "Kainova Therapeutics — Advancing immuno-oncology pipeline — DT-7012 (anti-CCR8 mAb) + DT-9081 (EP4 antagonist) — Phase I/II trial expansion in Europe; Phase I EPRAD study for DT-9081 met primary objectives with favorable safety.",
           "url": "https://globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
         },
         {
-          "text": "Kainova Therapeutics is leveraging positive Phase I data for DT-9081 to validate EP4 receptor antagonism as a strategy to overcome immunotherapy resistance.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
-        },
-        {
-          "text": "HUTCHMED (China) Limited is advancing HMPL-760, a non-covalent third-generation BTK inhibitor, through a registrational Phase III trial for hematological malignancies.",
+          "text": "Hutchmed — Advancing BTK inhibitor pipeline in combination with monoclonal antibody rituximab — HMPL-760 — Phase III registrational trial launched for DLBCL in China with 240-patient enrollment target.",
           "url": "https://globenewswire.com/news-release/2026/04/09/3270617/0/en/HUTCHMED-Highlights-Data-to-be-Presented-at-AACR-Annual-Meeting-2026.html"
         },
         {
-          "text": "AstraZeneca and Merck are referenced regarding their monoclonal antibody products nirsevimab and clesrovimab, which are currently under review for expanded use in second-season preterm infant protection.",
+          "text": "AstraZeneca / Merck — RSV monoclonal antibody commercialization and guideline adherence — Nirsevimab (Beyfortus) / Clesrovimab (Enflonsia) — Current recommendations limit second-season use to high-risk children aged 8–19 months, excluding most preterm infants.",
           "url": "https://www.healio.com/news/pediatrics/20260409/rsv-hospitalization-risk-spikes-for-preemies-in-second-season"
         },
         {
-          "text": "Kyowa Kirin is halting its strategic development of the anti-OX40 monoclonal antibody rocatinlimab to address emerging malignancy signals in its clinical portfolio.",
+          "text": "Sanofi — Advancing anti-OX40L monoclonal antibody pipeline — Amlitelimab (SAR445229) — Phase 3 trials (COAST-1, COAST-2, SHORE) ongoing for moderate-to-severe atopic dermatitis; Phase 2b data supports durable efficacy post-treatment.",
           "url": "https://www.healio.com/news/dermatology/20260407/durable-progressive-eczema-improvement-seen-with-ox40-inhibitor-amlitelimab"
         },
         {
-          "text": "Eli Lilly is executing a market entry strategy for its oral obesity therapy Foundayo to challenge Novo Nordisk's dominance in the oral GLP-1 segment.",
-          "url": "https://biopharmadive.com/news/lilly-foundayo-obesity-pill-launch-price-wegovy/817052/"
-        },
-        {
-          "text": "Vera Therapeutics is advancing its mission to change the standard of care for serious immunological diseases through atacicept and the next-generation VT-109 program.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3272048/0/en/Vera-Therapeutics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html"
-        },
-        {
-          "text": "BCC Research is providing market intelligence on the acceleration of immuno-oncology innovation and R&D investment within the bispecific antibodies sector.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
-        },
-        {
-          "text": "InflaRx N.V. is pioneering anti-inflammatory therapeutics targeting the complement system with a focus on anti-C5a and anti-C5aR technologies.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270828/0/en/InflaRx-Reports-New-Mechanistic-Data-for-Izicopan-Supporting-its-Potential-as-a-Best-in-Class-C5aR-Inhibitor.html"
-        },
-        {
-          "text": "Gossamer Bio and Chiesi Farmaceutici are collaborating on seralutinib to address interstitial lung disease pathways.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "Liquidia Corporation is developing L606 as an emerging therapy for interstitial lung disease.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "Emphycorp is advancing N-115 as a pipeline candidate for interstitial lung disease treatment.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "aTyr Pharma is developing efzofitimod to expand the interstitial lung disease treatment landscape.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "Invivyd, Inc. — Strategic objective to advance VMS063 as a first- and best-in-class measles monoclonal antibody while launching a public education campaign on immune health in partnership with Lindsey Vonn.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270803/0/en/Invivyd-Announces-REVOLUTION-Program-Progress-and-Advancement-of-Novel-Potential-First-and-Best-in-Class-Measles-Monoclonal-Antibody-Candidate-VMS063-for-Treatment-and-Prevention-o.html"
-        },
-        {
-          "text": "No pharmaceutical companies or biotechnology firms are identified in the provided text.",
-          "url": null
-        },
-        {
-          "text": "Kainova Therapeutics is advancing immuno-oncology strategies by expanding its anti-CCR8 monoclonal antibody program DT-7012 and validating its oral EP4 antagonist DT-9081.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
-        },
-        {
-          "text": "HUTCHMED is focusing on hematological malignancies by initiating a Phase III registrational trial for its third-generation BTK inhibitor HMPL-760 in combination with R-GemOx.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270617/0/en/HUTCHMED-Highlights-Data-to-be-Presented-at-AACR-Annual-Meeting-2026.html"
-        },
-        {
-          "text": "Kyowa Kirin — Strategic objective to ensure patient safety led to the immediate discontinuation of the rocatinlimab program across all indications after identifying malignancy risks.",
-          "url": "https://www.healio.com/news/dermatology/20260407/durable-progressive-eczema-improvement-seen-with-ox40-inhibitor-amlitelimab"
-        },
-        {
-          "text": "AstraZeneca — Continues to position nirsevimab (Beyfortus) as a primary prophylactic monoclonal antibody for RSV in infants, with current data supporting its use in high-risk second-season populations.",
-          "url": "https://www.healio.com/news/pediatrics/20260409/rsv-hospitalization-risk-spikes-for-preemies-in-second-season"
-        },
-        {
-          "text": "Merck — Developing clesrovimab (Enflonsia) for RSV prevention in infants, with recent Health Canada approval marking a regulatory milestone despite pending inclusion in national guidelines.",
-          "url": "https://www.healio.com/news/pediatrics/20260409/rsv-hospitalization-risk-spikes-for-preemies-in-second-season"
-        },
-        {
-          "text": "ModeX Therapeutics is executing its strategic objective to develop prophylactic monoclonal antibodies, currently advancing MDX2301 for Covid-19 prevention.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185276&sid=2"
-        },
-        {
-          "text": "Biocon is expanding its US commercial footprint by launching denosumab biosimilars Bosaya and Aukelso to address the bone health market.",
+          "text": "Biocon — Biosimilar commercialization in US market — Bosaya (denosumab) + Aukelso (denosumab) — US launch executed April 2026.",
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185252&sid=2"
         },
         {
-          "text": "Biocon (implied via Kiran Mazumdar-Shaw) — Strategic objective to build global scale facilities — No specific monoclonal antibody program mentioned in the text.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185228&sid=1"
-        },
-        {
-          "text": "OneCyte is partnering with Kemp Proteins to enhance capabilities in developing high-performance cell lines for next-generation biologics.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185191&sid=2"
-        },
-        {
-          "text": "Kemp Proteins is collaborating with OneCyte to support the acceleration of cell line development for advanced biologic therapies.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185191&sid=2"
-        },
-        {
-          "text": "University of Geneva (UNIGE) is advancing a synthetic DNA-based drug delivery system designed to overcome limitations of current antibody-drug conjugates.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
-        },
-        {
-          "text": "No specific pharmaceutical companies were explicitly named in the provided articles regarding the development or commercialization of monoclonal antibodies or other therapies.",
-          "url": null
-        },
-        {
-          "text": "Pharmaceutical Industry — Strategic Investment — Autoimmune CAR-T Programs — Increasing capital allocation and experimentation interest driven by the five-year remission data in lupus patients.",
-          "url": "https://statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/"
-        },
-        {
-          "text": "Life Science Sector — Antibody Production Optimization — Research Tools and Therapeutics — Integration of in vivo and in vitro technologies to enhance target specificity and downstream utility.",
-          "url": "https://the-scientist.com/borrowing-from-biology-to-better-produce-antibodies-74296"
-        },
-        {
-          "text": "Incyte is leveraging real-world data to validate the utility of its CD19-targeting monoclonal antibody tafasitamab (Monjuvi) in community oncology settings for patients ineligible for stem-cell transplantation.",
+          "text": "Ingenus / MorphoSys — Commercialization of humanized Fc-modified CD19-targeting monoclonal antibody — Tafasitamab (Monjuvi) — Accelerated approval secured in 2020 for combination with lenalidomide; real-world data validates performance in non-trial populations with high disease burden (93% stage III/IV).",
           "url": "https://cancernetwork.com/view/real-world-evidence-confirms-tafasitamab-benefit-in-r-r-dlbcl"
         },
         {
-          "text": "Sanofi is positioning its anti-CD38 monoclonal antibody isatuximab (Sarclisa) as a critical component of upfront induction and consolidation therapy for transplant-eligible multiple myeloma patients based on deep MRD response data.",
-          "url": "https://cancernetwork.com/view/isatuximab-regimen-improves-mrd-negativity-in-transplant-eligible-ndmm"
-        },
-        {
-          "text": "Janssen/Jazz Pharmaceuticals is expanding its multiple myeloma portfolio by commercializing the teclistamab/daratumumab combination to address the need for BCMA-targeted therapies in earlier lines of treatment.",
+          "text": "Janssen — Commercialization of bispecific monoclonal antibody combinations — Teclistamab (Tecvayli) + Daratumumab (Darzalex Faspro) — FDA approval granted March 2026 for R/R multiple myeloma; positioned as first-in-class BCMA-targeted bispecific mAb combo.",
           "url": "https://cancernetwork.com/view/teclistamab-combo-approval-is-excellent-for-r-r-multiple-myeloma"
         },
         {
-          "text": "Evommune is leveraging its recent IPO capital and mid-stage clinical data to compete in the immunology market against established monoclonal antibody therapies.",
-          "url": "https://pharmavoice.com/news/evommune-ipo-biotech-immunology-dupixent-ebglyss/816798/"
-        },
-        {
-          "text": "ModeX Therapeutics is advancing its proprietary monoclonal antibody program MDX2301 into clinical evaluation for viral prevention.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185276&sid=2"
-        },
-        {
-          "text": "Biocon is executing a strategic market entry in the US for its biosimilar portfolio, specifically targeting the denosumab market with Bosaya and Aukelso.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185252&sid=2"
-        },
-        {
-          "text": "Biocon (represented by Kiran Mazumdar-Shaw) is highlighted for its strategic objective to build global scale facilities to capitalize on government PLI and RDI incentives.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185228&sid=1"
-        },
-        {
-          "text": "OneCyte is collaborating with Kemp Proteins to enhance cell line development capabilities for the production of next-generation biologics.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185191&sid=2"
-        },
-        {
-          "text": "Kemp Proteins is partnering with OneCyte to support the acceleration of high-performance cell line development for biologics manufacturing.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185191&sid=2"
-        },
-        {
-          "text": "University of Geneva (UNIGE) is advancing a synthetic DNA-based therapeutic platform designed to overcome the size and payload limitations of monoclonal antibody-based therapies.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
-        },
-        {
-          "text": "No specific pharmaceutical companies are explicitly named in the provided articles regarding commercial operations or strategic objectives.",
-          "url": null
-        },
-        {
-          "text": "University of Erlangen-Nuremberg — Strategic objective to translate CAR-T cell therapy from oncology to autoimmune diseases, specifically targeting lupus nephritis and systemic lupus erythematosus.",
-          "url": "https://statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/"
-        },
-        {
-          "text": "Life Science Research Community — Strategic objective to optimize antibody production workflows by selecting between immunization, hybridoma, and single B-cell isolation based on downstream utility.",
-          "url": "https://the-scientist.com/borrowing-from-biology-to-better-produce-antibodies-74296"
-        },
-        {
-          "text": "Incyte Corporation is leveraging real-world data to validate the utility of its CD19-targeting monoclonal antibody tafasitamab in broader, more diverse patient populations outside of academic trial settings.",
-          "url": "https://cancernetwork.com/view/real-world-evidence-confirms-tafasitamab-benefit-in-r-r-dlbcl"
-        },
-        {
-          "text": "Sanofi is advancing the clinical positioning of its anti-CD38 monoclonal antibody isatuximab in the upfront multiple myeloma setting through high-quality MRD negativity data from the phase 3 trial.",
+          "text": "Sanofi — Upfront treatment optimization in multiple myeloma — Isatuximab (Sarclisa) — Phase 3 data supports Isa-KRd regimen for transplant-eligible NDMM; 4-year PFS rate of 80% observed across arms.",
           "url": "https://cancernetwork.com/view/isatuximab-regimen-improves-mrd-negativity-in-transplant-eligible-ndmm"
-        },
-        {
-          "text": "Janssen/Johnson & Johnson is expanding its multiple myeloma portfolio by commercializing the teclistamab and daratumumab combination, positioning it as a preferred BCMA-targeted therapy for patients with prior treatment exposure.",
-          "url": "https://cancernetwork.com/view/teclistamab-combo-approval-is-excellent-for-r-r-multiple-myeloma"
-        },
-        {
-          "text": "Evommune is leveraging its recent IPO capital to advance its immunology programs, specifically focusing on competing against established therapies like Dupixent and Ebglyss following a mid-stage clinical success.",
-          "url": "https://pharmavoice.com/news/evommune-ipo-biotech-immunology-dupixent-ebglyss/816798/"
         }
       ]
     },
@@ -1078,308 +162,52 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "Atacicept functions as a fusion protein administered via once-weekly subcutaneous injection to block B-cell Activating Factor (BAFF) and A Proliferation-Inducing Ligand (APRIL).",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3272048/0/en/Vera-Therapeutics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html"
-        },
-        {
-          "text": "The mechanism of atacicept involves inhibiting B-cell stimulation to reduce autoantibody production in patients with immunoglobulin A nephropathy and lupus nephritis.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3272048/0/en/Vera-Therapeutics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html"
-        },
-        {
-          "text": "Vera Therapeutics holds an exclusive license with Stanford University for VT-109, a novel next-generation fusion protein targeting BAFF and APRIL with broad therapeutic potential.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3272048/0/en/Vera-Therapeutics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html"
-        },
-        {
-          "text": "Liquid biopsy technologies utilize circulating tumor DNA (ctDNA) and exosome-based assays for real-time cancer detection without invasive tissue biopsies.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
-        },
-        {
-          "text": "Multi-cancer early detection (MCED) tests enable screening for multiple cancer types from a single blood draw, transforming population-scale screening.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
-        },
-        {
-          "text": "AI-enabled diagnostics and digital pathology improve accuracy and speed in cancer detection while addressing radiologist shortages.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
-        },
-        {
-          "text": "Interstitial lung disease treatments include foundational therapies like corticosteroids and immunosuppressants alongside emerging biologics.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "Vilobelimab is a first-in-class, intravenously delivered anti-C5a monoclonal antibody that selectively binds to free C5a and has demonstrated disease-modifying clinical activity in multiple studies.",
+          "text": "vilobelimab — Mechanism: Anti-C5a monoclonal antibody selectively binding free C5a — Phase: Multiple clinical studies completed — Population: Inflammatory disease patients — Results: Demonstrated disease-modifying clinical activity and tolerability.",
           "url": "https://globenewswire.com/news-release/2026/04/09/3270828/0/en/InflaRx-Reports-New-Mechanistic-Data-for-Izicopan-Supporting-its-Potential-as-a-Best-in-Class-C5aR-Inhibitor.html"
         },
         {
-          "text": "VMS063 is a novel monoclonal antibody candidate identified as potential first- and best-in-class for the treatment and prevention of measles.",
+          "text": "VMS063 — Mechanism: Measles monoclonal antibody — Phase: Preclinical/Early clinical (REVOLUTION program) — Population: Measles treatment and prevention — Status: Novel potential first- and best-in-class candidate.",
           "url": "https://globenewswire.com/news-release/2026/04/09/3270803/0/en/Invivyd-Announces-REVOLUTION-Program-Progress-and-Advancement-of-Novel-Potential-First-and-Best-in-Class-Measles-Monoclonal-Antibody-Candidate-VMS063-for-Treatment-and-Prevention-o.html"
         },
         {
-          "text": "No clinical trial data, mechanisms of action, or scientific results concerning monoclonal antibodies are available in the provided articles.",
-          "url": null
-        },
-        {
-          "text": "DT-7012 is a Treg-depleting anti-CCR8 monoclonal antibody currently being evaluated in a Phase I/II trial for patients with advanced solid tumors.",
+          "text": "DT-7012 — Mechanism: Treg-depleting anti-CCR8 monoclonal antibody — Phase: I/II — Population: Advanced solid tumors — Status: First patient dosed in Europe; trial expansion ongoing.",
           "url": "https://globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
         },
         {
-          "text": "DT-9081 is an oral small molecule EP4 receptor antagonist that demonstrated dose-proportional exposure and sustained target engagement in the Phase I EPRAD study.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
-        },
-        {
-          "text": "The Phase I EPRAD study for DT-9081 included patients with advanced, recurrent, and metastatic solid tumors across four sites in France and Belgium.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
-        },
-        {
-          "text": "Early signs of anti-tumor activity were observed in the DT-9081 Phase I study, supporting its potential to improve responses to immune checkpoint inhibitors.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
-        },
-        {
-          "text": "HMPL-760 is a reversible, highly potent BTK inhibitor with long target engagement against wild-type and C481S-mutated BTK, currently in a randomized, double-blind Phase III trial (NCT07409428).",
+          "text": "HMPL-760 — Mechanism: Non-covalent, third-generation BTK inhibitor (wild-type and C481S-mutated) — Phase: 3 — Population: Relapsed/refractory DLBCL patients ineligible for transplant — Comparator: Placebo + R-GemOx — Endpoints: Investigator-assessed PFS and OS.",
           "url": "https://globenewswire.com/news-release/2026/04/09/3270617/0/en/HUTCHMED-Highlights-Data-to-be-Presented-at-AACR-Annual-Meeting-2026.html"
         },
         {
-          "text": "The HMPL-760 Phase III study compares HMPL-760 plus R-GemOx versus placebo plus R-GemOx, with primary endpoints of investigator-assessed PFS and OS in DLBCL patients ineligible for transplantation.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270617/0/en/HUTCHMED-Highlights-Data-to-be-Presented-at-AACR-Annual-Meeting-2026.html"
-        },
-        {
-          "text": "A study by Paramo MV et al. published in JAMA Pediatrics (2026) reports that extremely preterm infants face a doubled risk of RSV hospitalization in their second season, contrasting with current immunization guidelines.",
+          "text": "Nirsevimab / Clesrovimab — Mechanism: Long-acting RSV F-protein monoclonal antibodies — Phase: Post-marketing surveillance — Population: Extremely preterm infants in second RSV season — Comparator: None (observational) — Results: Hospitalization risk doubles in second season despite lack of current second-season monoclonal antibody recommendations for this group.",
           "url": "https://www.healio.com/news/pediatrics/20260409/rsv-hospitalization-risk-spikes-for-preemies-in-second-season"
         },
         {
-          "text": "Nirsevimab and clesrovimab are approved for first-season RSV prevention in infants and second-season protection for high-risk children aged 8–19 months, excluding premature infants in their second season under current US protocols.",
-          "url": "https://www.healio.com/news/pediatrics/20260409/rsv-hospitalization-risk-spikes-for-preemies-in-second-season"
-        },
-        {
-          "text": "Rocatinlimab is an anti-OX40 monoclonal antibody targeting memory T cells; its development was suspended after safety reviews identified cases of Kaposi's sarcoma potentially linked to OX40 pathway modulation.",
+          "text": "Amlitelimab — Mechanism: Anti-OX40L immunoglobulin G4 monoclonal antibody inhibiting T-cell-dependent pathogenic inflammation — Phase: 3 (COAST-1, COAST-2, SHORE) — Population: Adults and adolescents (avg age 30, 20% adolescents) with moderate-to-severe atopic dermatitis — Comparator: Placebo — Endpoints: Proportion achieving IGA 0/1 at week 24; secondary endpoints include EASI scores.",
           "url": "https://www.healio.com/news/dermatology/20260407/durable-progressive-eczema-improvement-seen-with-ox40-inhibitor-amlitelimab"
         },
         {
-          "text": "Foundayo is an oral GLP-1 receptor agonist developed by Eli Lilly for obesity treatment, approved by the FDA and launched at a price point of $149 per month for the lowest dose.",
-          "url": "https://biopharmadive.com/news/lilly-foundayo-obesity-pill-launch-price-wegovy/817052/"
-        },
-        {
-          "text": "Atacicept functions as a fusion protein administered via subcutaneous once-weekly injection to block BAFF and APRIL, thereby inhibiting B-cell stimulation and autoantibody production.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3272048/0/en/Vera-Therapeutics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html"
-        },
-        {
-          "text": "VT-109 represents a novel next-generation fusion protein targeting BAFF and APRIL with therapeutic potential across the spectrum of B-cell-mediated diseases.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3272048/0/en/Vera-Therapeutics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html"
-        },
-        {
-          "text": "Vilobelimab is a first-in-class, intravenously delivered monoclonal antibody that selectively binds to free C5a to inhibit complement activation.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270828/0/en/InflaRx-Reports-New-Mechanistic-Data-for-Izicopan-Supporting-its-Potential-as-a-Best-in-Class-C5aR-Inhibitor.html"
-        },
-        {
-          "text": "Izicopan is an orally administered small molecule inhibitor of C5a-induced signaling via the C5a receptor with promising PK/PD characteristics in Phase 1 and Phase 2a studies.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270828/0/en/InflaRx-Reports-New-Mechanistic-Data-for-Izicopan-Supporting-its-Potential-as-a-Best-in-Class-C5aR-Inhibitor.html"
-        },
-        {
-          "text": "C5a is identified as a powerful inflammatory mediator involved in the progression of a wide variety of inflammatory diseases.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270828/0/en/InflaRx-Reports-New-Mechanistic-Data-for-Izicopan-Supporting-its-Potential-as-a-Best-in-Class-C5aR-Inhibitor.html"
-        },
-        {
-          "text": "Emerging interstitial lung disease therapies address multiple disease pathways to drive sustained market growth and therapeutic innovation.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3271307/0/en/Acute-Respiratory-Distress-Syndrome-Clinical-Trial-Pipeline-Shows-Potential-with-Active-Contributions-from-40-Key-Companies-DelveInsight.html"
-        },
-        {
-          "text": "VMS063 is characterized as a novel potential first- and best-in-class monoclonal antibody candidate designed for the treatment and prevention of measles, though specific trial phases, patient populations, or comparator data were not detailed in the announcement.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270803/0/en/Invivyd-Announces-REVOLUTION-Program-Progress-and-Advancement-of-Novel-Potential-First-and-Best-in-Class-Measles-Monoclonal-Antibody-Candidate-VMS063-for-Treatment-and-Prevention-o.html"
-        },
-        {
-          "text": "No clinical trial data, mechanisms of action, or scientific results related to monoclonal antibodies are present.",
-          "url": null
-        },
-        {
-          "text": "DT-7012 is a Treg-depleting anti-CCR8 monoclonal antibody evaluated in a Phase I/II trial for advanced solid tumors, with the first patient dosed in Europe.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
-        },
-        {
-          "text": "DT-9081 is an oral EP4 receptor antagonist that demonstrated sustained target engagement and no dose-limiting toxicities in patients with advanced, recurrent, and metastatic solid tumors.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
-        },
-        {
-          "text": "HMPL-760 is a non-covalent, third-generation BTK inhibitor with long target engagement against wild-type and C481S-mutated BTK, currently in a randomized, double-blind Phase III trial.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270617/0/en/HUTCHMED-Highlights-Data-to-be-Presented-at-AACR-Annual-Meeting-2026.html"
-        },
-        {
-          "text": "The HMPL-760 Phase III trial (NCT07409428) compares HMPL-760 plus R-GemOx versus placebo plus R-GemOx, with primary endpoints of investigator-assessed PFS and OS.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270617/0/en/HUTCHMED-Highlights-Data-to-be-Presented-at-AACR-Annual-Meeting-2026.html"
-        },
-        {
-          "text": "Rocatinlimab is an anti-OX40 monoclonal antibody targeting memory T cells; trials were halted after safety reviews identified Kaposi's sarcoma cases, suggesting a potential mechanistic link to OX40 pathway modulation.",
-          "url": "https://www.healio.com/news/dermatology/20260407/durable-progressive-eczema-improvement-seen-with-ox40-inhibitor-amlitelimab"
-        },
-        {
-          "text": "A study in JAMA Pediatrics analyzed extremely preterm infants and found a doubled risk of RSV hospitalization in their second season, contrasting with current recommendations that do not support monoclonal antibody use for this specific demographic in a second season.",
-          "url": "https://www.healio.com/news/pediatrics/20260409/rsv-hospitalization-risk-spikes-for-preemies-in-second-season"
-        },
-        {
-          "text": "Current clinical guidelines recommend nirsevimab for children aged 8 to 19 months who are immunocompromised, have chronic lung disease, or are American Indian or Alaska Native during their second RSV season.",
-          "url": "https://www.healio.com/news/pediatrics/20260409/rsv-hospitalization-risk-spikes-for-preemies-in-second-season"
-        },
-        {
-          "text": "MDX2301 is a monoclonal antibody candidate currently in Phase 1 clinical development for the prevention of Covid-19 infection.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185276&sid=2"
-        },
-        {
-          "text": "Bosaya and Aukelso are biosimilar versions of denosumab, a monoclonal antibody targeting RANKL, now available for commercial use in the US.",
+          "text": "Bosaya / Aukelso — Mechanism: Denosumab (RANKL inhibitor monoclonal antibody biosimilar) — Phase: Commercial — Population: Osteoporosis and bone metastasis patients — Comparator: Reference product — Status: US market launch.",
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185252&sid=2"
         },
         {
-          "text": "No clinical trial data, mechanisms of action, or scientific results regarding monoclonal antibodies were present in the source articles.",
-          "url": null
-        },
-        {
-          "text": "The University of Geneva team engineered a system using short DNA strands that assemble only when two distinct cancer markers are present on a cell.",
+          "text": "Synthetic DNA drug system — Mechanism: Two-key activation via dual tumor marker detection to assemble drug-carrying DNA structures — Phase: Preclinical research — Population: Cancer cells — Comparator: Monoclonal antibody-based ADCs — Results: DNA strands are smaller than antibodies allowing better tumor tissue penetration and capacity for multiple drug components.",
           "url": "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
         },
         {
-          "text": "The DNA-based system is designed to deliver multiple drugs simultaneously to potentially overcome resistance mechanisms in cancer treatment.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
-        },
-        {
-          "text": "Current antibody-drug conjugates (ADCs) rely on monoclonal antibodies to carry treatments to cancer cells but face challenges regarding tumor penetration and payload limits.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
-        },
-        {
-          "text": "The new DNA drug system functions as a mini-computer that spares healthy tissue by preventing drug activation unless specific tumor signals are detected.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
-        },
-        {
-          "text": "Monoclonal antibodies lecanemab and donanemab target amyloid-beta to slow cognitive decline in Alzheimer's disease but do not reverse neurodegeneration or restore normal brain function.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
-        },
-        {
-          "text": "Scientific consensus is shifting from single-target amyloid-beta approaches to multi-target strategies addressing Tau hyperphosphorylation, genetic risk, and aging-related changes in Alzheimer's.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
-        },
-        {
-          "text": "Oligodendrocytes in the brain were identified as cells that support glioblastoma growth through specific signaling networks, a mechanism distinct from monoclonal antibody targets.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260405003933.htm"
-        },
-        {
-          "text": "Blocking communication between oligodendrocytes and glioblastoma cells significantly reduced tumor growth in laboratory models, suggesting a new therapeutic avenue independent of current antibody therapies.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260405003933.htm"
-        },
-        {
-          "text": "CAR-T Cell Therapy — Mechanism involves chimeric antigen receptors on T cells to target autoimmune pathology; Phase: Early clinical observation; Population: Systemic Lupus Erythematosus patients; Outcome: Five-year sustained remission without disease recurrence.",
-          "url": "https://statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/"
-        },
-        {
-          "text": "Hybridoma Technology — Mechanism fuses antibody-producing B cells with immortal myeloma cells; Application: Monoclonal antibody generation; Outcome: Enables continuous, reproducible production of stable antibody clones.",
-          "url": "https://the-scientist.com/borrowing-from-biology-to-better-produce-antibodies-74296"
-        },
-        {
-          "text": "Single B-Cell Isolation — Mechanism isolates antigen-specific B cells from human donors to clone paired heavy/light-chain genes; Application: Recombinant antibody production; Outcome: Rapid recovery of high-affinity antibodies from immune repertoires.",
-          "url": "https://the-scientist.com/borrowing-from-biology-to-better-produce-antibodies-74296"
-        },
-        {
-          "text": "Animal Immunization — Mechanism involves immunizing hosts like mice, rabbits, or goats with target antigens; Application: Research antibody generation; Outcome: Yields antibodies with mature variable region repertoires and high target specificity.",
-          "url": "https://the-scientist.com/borrowing-from-biology-to-better-produce-antibodies-74296"
-        },
-        {
-          "text": "Tafasitamab (humanized Fc-modified CD19-targeting monoclonal antibody) combined with lenalidomide demonstrated effectiveness in a real-world cohort with a median age of 71.1 years, where 72% of patients received treatment in the second-line setting.",
+          "text": "Tafasitamab — Mechanism: Humanized Fc-modified CD19-targeting monoclonal antibody — Phase: Real-world evidence (post-Phase 2 L-MIND) — Population: R/R DLBCL patients ineligible for autologous stem-cell transplant (median age 71.1, 47.5% ECOG ≥2) — Comparator: Historical L-MIND trial data (60% ORR in predominantly White academic cohort) — Results: Confirmed robust responses in diverse community settings with earlier-line use as key determinant of improved outcomes.",
           "url": "https://cancernetwork.com/view/real-world-evidence-confirms-tafasitamab-benefit-in-r-r-dlbcl"
         },
         {
-          "text": "The phase 3 study (NCT04483739) evaluating isatuximab-irfc (anti-CD38 monoclonal antibody) in combination with carfilzomib, lenalidomide, and dexamethasone reported an odds ratio of 2.36 for MRD negativity at 10^-6 sensitivity compared to the control arm.",
+          "text": "Teclistamab + Daratumumab — Mechanism: BCMA-targeted bispecific monoclonal antibody + CD38-targeted monoclonal antibody — Phase: 3 (MajesTEC-3) — Population: Relapsed/refractory multiple myeloma (≥1 prior line) — Comparator: Standard of care (implied) — Results: Described as 'best efficacy data' in R/R setting; first approved bispecific mAb combo for this indication.",
+          "url": "https://cancernetwork.com/view/teclistamab-combo-approval-is-excellent-for-r-r-multiple-myeloma"
+        },
+        {
+          "text": "Isatuximab — Mechanism: Anti-CD38 monoclonal antibody — Phase: 3 — Population: Transplant-eligible newly diagnosed multiple myeloma — Comparator: Carfilzomib, lenalidomide, dexamethasone (KRd) — Results: 77% MRD negativity (10⁻⁵) vs 67% (OR 1.67, p=0.049); 68% (10⁻⁶) vs 48% (OR 2.36, p=0.0004); 4-year PFS 80%.",
           "url": "https://cancernetwork.com/view/isatuximab-regimen-improves-mrd-negativity-in-transplant-eligible-ndmm"
         },
         {
-          "text": "Subgroup analysis of the isatuximab trial indicated a specific benefit in ultra-high-risk patients with 2+ high-risk cytogenetic abnormalities, showing an odds ratio of 6.30 for sustained MRD negativity at 10^-6.",
-          "url": "https://cancernetwork.com/view/isatuximab-regimen-improves-mrd-negativity-in-transplant-eligible-ndmm"
-        },
-        {
-          "text": "The real-world tafasitamab study included patients with high disease burden, where 93% had Ann Arbor stage III to IV disease and 26% presented with primary refractory DLBCL.",
-          "url": "https://cancernetwork.com/view/real-world-evidence-confirms-tafasitamab-benefit-in-r-r-dlbcl"
-        },
-        {
-          "text": "The MajesTEC-3 trial (NCT05083169) evaluated the combination of teclistamab (a BCMA-targeting bispecific monoclonal antibody) and daratumumab in patients with relapsed/refractory multiple myeloma.",
-          "url": "https://cancernetwork.com/view/teclistamab-combo-approval-is-excellent-for-r-r-multiple-myeloma"
-        },
-        {
-          "text": "Clinical data from the MajesTEC-3 trial demonstrated significant progression-free survival benefits, supporting the immediate use of BCMA-targeted therapies after at least one prior line of therapy.",
-          "url": "https://cancernetwork.com/view/teclistamab-combo-approval-is-excellent-for-r-r-multiple-myeloma"
-        },
-        {
-          "text": "Prophylactic strategies are being implemented to mitigate toxicities associated with the teclistamab/daratumumab regimen, including cytokine release syndrome and neurologic events.",
-          "url": "https://cancernetwork.com/view/teclistamab-combo-approval-is-excellent-for-r-r-multiple-myeloma"
-        },
-        {
-          "text": "MDX2301 is a monoclonal antibody candidate currently in Phase 1 clinical development, with the primary objective of preventing Covid-19 infection.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185276&sid=2"
-        },
-        {
-          "text": "Bosaya and Aukelso are biosimilar versions of denosumab, a monoclonal antibody targeting RANKL, now available for commercial distribution in the US.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185252&sid=2"
-        },
-        {
-          "text": "No clinical trial data, patient populations, or scientific endpoints related to monoclonal antibodies were reported in the provided articles.",
-          "url": null
-        },
-        {
-          "text": "The University of Geneva's DNA drug utilizes a 'two-key' activation mechanism where separate DNA strands assemble only when two distinct cancer markers are detected on a cell surface.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
-        },
-        {
-          "text": "Unlike monoclonal antibodies used in antibody-drug conjugates (ADCs), the synthetic DNA strands are significantly smaller, allowing for improved penetration into tumor tissue.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
-        },
-        {
-          "text": "The DNA-based system is engineered to deliver multiple drugs simultaneously to address potential resistance mechanisms in cancer treatment.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
-        },
-        {
-          "text": "Monoclonal antibodies lecanemab and donanemab target amyloid-beta in Alzheimer's disease but show limited clinical impact on reversing cognitive decline or restoring brain function.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
-        },
-        {
-          "text": "Oligodendrocytes in glioblastoma patients utilize a defined signaling system to strengthen cancer cells, a mechanism that can be disrupted to reduce tumor growth in preclinical models.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260405003933.htm"
-        },
-        {
-          "text": "Professor Yan-Jiang Wang's review in Science China Life Sciences highlights Tau hyperphosphorylation and APOE ε4 genetic variants as critical factors requiring combined therapeutic targeting alongside amyloid-beta.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
-        },
-        {
-          "text": "CAR-T Cell Therapy — Mechanism involves engineering chimeric antigen receptors on T cells to target and eliminate autoreactive B cells in lupus patients, resulting in remission without reported relapse over five years.",
-          "url": "https://statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/"
-        },
-        {
-          "text": "Single B-Cell Isolation — Technique isolates antigen-specific B cells from immunized human donors to amplify paired heavy and light-chain genes for recombinant antibody production, bypassing cell fusion.",
+          "text": "Monoclonal Antibodies — Mechanism: Fused B-cell and myeloma cell lines — Phase: Preclinical/Production — Population: Research/Therapeutic targets — Comparator: None specified — Endpoints: Stable, continuous production of high-affinity, target-specific antibodies.",
           "url": "https://the-scientist.com/borrowing-from-biology-to-better-produce-antibodies-74296"
-        },
-        {
-          "text": "Hybridoma Technology — Method fuses short-lived antibody-producing B cells with immortal myeloma cells to generate stable cell lines capable of continuous monoclonal antibody secretion.",
-          "url": "https://the-scientist.com/borrowing-from-biology-to-better-produce-antibodies-74296"
-        },
-        {
-          "text": "Animal Immunization — Process involves injecting target antigens into hosts such as mice, rabbits, or goats to stimulate B-cell responses yielding high-affinity antibodies with mature variable regions.",
-          "url": "https://the-scientist.com/borrowing-from-biology-to-better-produce-antibodies-74296"
-        },
-        {
-          "text": "Tafasitamab/lenalidomide demonstrated robust real-world responses in a cohort with 71.1 years median age, 93% stage III-IV disease, and 47.5% ECOG performance status ≥2, reflecting high disease burden.",
-          "url": "https://cancernetwork.com/view/real-world-evidence-confirms-tafasitamab-benefit-in-r-r-dlbcl"
-        },
-        {
-          "text": "The phase 3 trial (NCT04483739) comparing Isa-KRd to KRd in NDMM utilized MRD negativity at 10^-5 and 10^-6 sensitivities as primary endpoints to assess depth of response.",
-          "url": "https://cancernetwork.com/view/isatuximab-regimen-improves-mrd-negativity-in-transplant-eligible-ndmm"
-        },
-        {
-          "text": "Subgroup analysis of the Isa-KRd trial revealed an odds ratio of 6.30 for MRD negativity at 10^-6 in ultra-high-risk patients with 2+ HRCA compared to the control arm.",
-          "url": "https://cancernetwork.com/view/isatuximab-regimen-improves-mrd-negativity-in-transplant-eligible-ndmm"
-        },
-        {
-          "text": "The L-MIND trial (NCT02399085) previously established a 60% overall response rate for tafasitamab/lenalidomide in a predominantly academic and largely White patient population.",
-          "url": "https://cancernetwork.com/view/real-world-evidence-confirms-tafasitamab-benefit-in-r-r-dlbcl"
-        },
-        {
-          "text": "The MajesTEC-3 trial (NCT05083169) evaluated the teclistamab/daratumumab combination in relapsed/refractory multiple myeloma, demonstrating significant progression-free survival benefits compared to historical controls in the post-first-line setting.",
-          "url": "https://cancernetwork.com/view/teclistamab-combo-approval-is-excellent-for-r-r-multiple-myeloma"
-        },
-        {
-          "text": "Teclistamab functions as a BCMA-targeted bispecific monoclonal antibody, and its combination with the anti-CD38 monoclonal antibody daratumumab represents a novel dual-targeting mechanism for multiple myeloma.",
-          "url": "https://cancernetwork.com/view/teclistamab-combo-approval-is-excellent-for-r-r-multiple-myeloma"
         }
       ]
     },
@@ -1387,76 +215,8 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Vera Therapeutics granted non-qualified stock options for 56,850 shares and restricted stock units for 42,403 shares to Jane Wright-Mitchell under the 2024 Inducement Plan.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3272048/0/en/Vera-Therapeutics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html"
-        },
-        {
-          "text": "The stock options granted to Jane Wright-Mitchell carry an exercise price of $40.73 per share, corresponding to Vera Therapeutics' closing trading price on March 23, 2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3272048/0/en/Vera-Therapeutics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html"
-        },
-        {
-          "text": "Vera Therapeutics maintains an exclusive licensing agreement with Stanford University for the development of the next-generation fusion protein VT-109.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3272048/0/en/Vera-Therapeutics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html"
-        },
-        {
-          "text": "Invivyd entered a partnership with world champion skier Lindsey Vonn to launch the 'Antibodies for Any Body' national education campaign.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270803/0/en/Invivyd-Announces-REVOLUTION-Program-Progress-and-Advancement-of-Novel-Potential-First-and-Best-in-Class-Measles-Monoclonal-Antibody-Candidate-VMS063-for-Treatment-and-Prevention-o.html"
-        },
-        {
-          "text": "InflaRx announced participation in the Raymond James 2026 Biotech Innovation Symposium to hold one-on-one investor meetings.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270828/0/en/InflaRx-Reports-New-Mechanistic-Data-for-Izicopan-Supporting-its-Potential-as-a-Best-in-Class-C5aR-Inhibitor.html"
-        },
-        {
-          "text": "Eli Lilly has established a pricing parity strategy for Foundayo, setting the lowest dose at $149 per month to match Novo Nordisk's oral Wegovy pricing for self-pay patients.",
-          "url": "https://biopharmadive.com/news/lilly-foundayo-obesity-pill-launch-price-wegovy/817052/"
-        },
-        {
-          "text": "Vera Therapeutics granted inducement awards of 56,850 stock options and 42,403 restricted stock units to new Chief Legal Officer Jane Wright-Mitchell under the 2024 Inducement Plan.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3272048/0/en/Vera-Therapeutics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html"
-        },
-        {
-          "text": "Vera Therapeutics maintains an exclusive license agreement with Stanford University for the development of the VT-109 fusion protein.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3272048/0/en/Vera-Therapeutics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html"
-        },
-        {
-          "text": "Invivyd entered a partnership with world champion skier Lindsey Vonn to launch the 'Antibodies for Any Body' national education campaign and digital wellness resource.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270803/0/en/Invivyd-Announces-REVOLUTION-Program-Progress-and-Advancement-of-Novel-Potential-First-and-Best-in-Class-Measles-Monoclonal-Antibody-Candidate-VMS063-for-Treatment-and-Prevention-o.html"
-        },
-        {
-          "text": "Biocon executed a commercial launch strategy for its denosumab biosimilars Bosaya and Aukelso in the United States.",
+          "text": "Biocon — US market expansion — Bosaya and Aukelso denosumab biosimilars — Commercial launch completed April 2026.",
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185252&sid=2"
-        },
-        {
-          "text": "No new acquisitions, partnerships, or licensing agreements were reported in the provided articles.",
-          "url": null
-        },
-        {
-          "text": "OneCyte and Kemp Proteins entered a partnership agreement to accelerate high-performance cell line development for next-generation biologics.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185191&sid=2"
-        },
-        {
-          "text": "No specific acquisitions, partnerships, or licensing agreements reported in the provided articles; however, the text notes a 'huge level of interest' and a 'flood of investment' from pharma into autoimmune CAR-T therapies.",
-          "url": "https://statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/"
-        },
-        {
-          "text": "Evommune completed an initial public offering late in the previous year to secure funding for its long-term development strategy in immunology.",
-          "url": "https://pharmavoice.com/news/evommune-ipo-biotech-immunology-dupixent-ebglyss/816798/"
-        },
-        {
-          "text": "Biocon has initiated the commercial launch of Bosaya and Aukelso in the United States, representing a key market expansion for its biosimilar portfolio.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185252&sid=2"
-        },
-        {
-          "text": "OneCyte and Kemp Proteins entered into a partnership agreement to jointly accelerate high-performance cell line development for next-generation biologics.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185191&sid=2"
-        },
-        {
-          "text": "No specific acquisitions, licensing agreements, or partnership deals were reported in the provided articles; however, a noted 'huge level of interest' from the pharmaceutical sector in CAR-T autoimmunity applications was highlighted.",
-          "url": "https://statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/"
-        },
-        {
-          "text": "Evommune executed an initial public offering late in the previous year to secure funding for its long-term strategic objectives in the immunology market.",
-          "url": "https://pharmavoice.com/news/evommune-ipo-biotech-immunology-dupixent-ebglyss/816798/"
         }
       ]
     }
