@@ -24,16 +24,27 @@ INVOKE_URL = "https://integrate.api.nvidia.com/v1/chat/completions"
 API_KEY    = "Bearer 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"
 MODEL      = "qwen/qwen3.5-122b-a10b"
 
-CHUNK_SIZE      = 2    # articles per LLM call
-MAX_RETRIES     = 3    # retries per chunk on transient errors
-RETRY_DELAY     = 5    # seconds to wait between retries
-REQUEST_TIMEOUT = 180  # seconds — model is slow on large prompts, 3 min is safe
-CHUNK_DELAY     = 2    # seconds to pause between chunk calls (avoids rate limiting)
-
 HEADERS = {
     "Authorization": API_KEY,
     "Accept": "text/event-stream",
 }
+
+# ── TIMING & RETRY CONFIG ───────────────────────────────────────────────
+# Root causes of errors on NVIDIA free tier (40 RPM limit, 1000 free credits):
+#   400 DEGRADED  → model endpoint temporarily down; wait 60s and retry
+#   429           → exceeded 40 RPM; exponential backoff: 30s → 60s → 120s
+#   other 400     → bad request (code bug); raise immediately, never retry
+#
+# CHUNK_DELAY = 20s → ~3 RPM, safely under the 40 RPM hard limit
+# MAX_RETRIES = 5  → survives up to 5 DEGRADED/429 events per chunk
+
+CHUNK_SIZE      = 2    # articles per LLM call
+MAX_RETRIES     = 5    # retries per chunk (handles DEGRADED + 429 recovery)
+RETRY_DELAY     = 5    # base seconds between generic retries
+REQUEST_TIMEOUT = 180  # seconds — model streams thinking tokens first; 30s is too short
+CHUNK_DELAY     = 20   # seconds between chunks — keeps rate well under 40 RPM limit
+DEGRADED_WAIT   = 60   # seconds to wait on DEGRADED before retrying
+BACKOFF_BASE    = 30   # seconds base wait for 429; doubles each attempt (30->60->120)
 
 # ── SYSTEM PROMPT ─────────────────────────────────────────────────────────────
 # NOTE: qwen/qwen3.5-122b-a10b does NOT support the "system" role in messages.
@@ -236,27 +247,38 @@ def build_merge_prompt(partial_jsons: list[str], query: str) -> str:
 
 # ── LLM CALL (streaming) ──────────────────────────────────────────────────────
 
-def call_api_streaming(user_prompt: str) -> str:
+def call_api_streaming(user_prompt: str, _attempt: int = 0) -> str:
     """
-    Stream from NVIDIA API.
+    Stream from NVIDIA API with smart error handling for all 3 error types:
 
-    Key fixes:
-      1. No 'system' role — qwen3.5-122b-a10b rejects it → system prompt inside user message.
-      2. No chat_template_kwargs — not supported on integrate.api.nvidia.com.
-      3. REQUEST_TIMEOUT = 180s — model streams reasoning tokens first; default 30s kills it.
-      4. Prints actual error body on failure so you always know the real reason.
-      5. Only captures delta.content — ignores delta.reasoning (internal thinking tokens).
+      400 DEGRADED → model endpoint temporarily down on NVIDIA's side.
+                     Wait DEGRADED_WAIT seconds then retry. Up to MAX_RETRIES.
+
+      429          → exceeded the 40 RPM free-tier rate limit.
+                     Exponential backoff: BACKOFF_BASE * 2^attempt seconds.
+                     30s → 60s → 120s → 240s. Guaranteed to recover.
+
+      other 400    → code/request bug (bad param, wrong model name, etc).
+                     Raise immediately — retrying won't help.
+
+    Also:
+      - No 'system' role: qwen3.5-122b-a10b rejects it; prompt is in user message.
+      - No chat_template_kwargs: not supported on integrate.api.nvidia.com.
+      - REQUEST_TIMEOUT = 180s: model streams reasoning tokens first; 30s dies.
+      - Only captures delta.content; skips delta.reasoning (internal thinking).
     """
+    if _attempt >= MAX_RETRIES:
+        raise RuntimeError(f"Exceeded {MAX_RETRIES} retries. Giving up on this chunk.")
+
     payload = {
         "model": MODEL,
         "messages": [
             {"role": "user", "content": user_prompt},
         ],
         "max_tokens": 16384,
-        "temperature": 0.20,   # lower = more deterministic, better for structured data
+        "temperature": 0.20,
         "top_p": 0.90,
         "stream": True,
-        # chat_template_kwargs intentionally omitted — causes 400 on hosted API
     }
 
     resp = requests.post(
@@ -264,12 +286,29 @@ def call_api_streaming(user_prompt: str) -> str:
         headers=HEADERS,
         json=payload,
         stream=True,
-        timeout=REQUEST_TIMEOUT,  # 180s — critical for large prompts
+        timeout=REQUEST_TIMEOUT,
     )
 
-    # Always print the real error body so debugging is easy
     if resp.status_code != 200:
-        print(f"\n[ERROR {resp.status_code}] {resp.text[:600]}")
+        error_body = resp.text[:600]
+        print(f"\n[ERROR {resp.status_code}] {error_body}")
+
+        # ── 400 DEGRADED: NVIDIA endpoint temporarily down ──────────────────
+        if resp.status_code == 400 and "DEGRADED" in error_body:
+            print(f"[DEGRADED] Model endpoint down. Waiting {DEGRADED_WAIT}s before retry "
+                  f"(attempt {_attempt + 1}/{MAX_RETRIES})...")
+            time.sleep(DEGRADED_WAIT)
+            return call_api_streaming(user_prompt, _attempt + 1)
+
+        # ── 429: Rate limit hit — exponential backoff ───────────────────────
+        if resp.status_code == 429:
+            wait = BACKOFF_BASE * (2 ** _attempt)
+            print(f"[RATE LIMIT] 429 Too Many Requests. Backing off {wait}s "
+                  f"(attempt {_attempt + 1}/{MAX_RETRIES})...")
+            time.sleep(wait)
+            return call_api_streaming(user_prompt, _attempt + 1)
+
+        # ── Other errors: raise immediately, don't retry ───────────────────
         resp.raise_for_status()
 
     output = ""
@@ -284,7 +323,6 @@ def call_api_streaming(user_prompt: str) -> str:
             try:
                 chunk   = json.loads(data_str)
                 delta   = chunk.get("choices", [{}])[0].get("delta", {})
-                # Only capture actual response content — skip reasoning/thinking tokens
                 content = delta.get("content", "")
                 if content:
                     output += content
@@ -292,7 +330,7 @@ def call_api_streaming(user_prompt: str) -> str:
             except json.JSONDecodeError:
                 continue
 
-    print()  # newline after streaming
+    print()
     return output.strip()
 
 # ── JSON HELPERS ──────────────────────────────────────────────────────────────
