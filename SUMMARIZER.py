@@ -22,13 +22,6 @@ JSON output schema:
         ...
       ]
     },
-    {
-      "heading": "Key Developments",
-      "points": [
-        { "text": "...", "url": "https://..." },
-        ...
-      ]
-    },
     ...
   ]
 }
@@ -47,7 +40,7 @@ from pathlib import Path
 INVOKE_URL  = "https://integrate.api.nvidia.com/v1/chat/completions"
 API_KEY     = "Bearer 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"
 MODEL       = "qwen/qwen3.5-122b-a10b"
-CHUNK_SIZE  = 3     # articles per LLM call
+CHUNK_SIZE  = 2     # articles per LLM call (keep low to avoid connection aborts)
 
 HEADERS = {
     "Authorization": API_KEY,
@@ -55,9 +48,10 @@ HEADERS = {
 }
 
 # ── SYSTEM PROMPT ─────────────────────────────────────────────────────────────
+# NOTE: This model does NOT support the "system" role in messages.
+# The system prompt is injected at the top of the user message instead.
 
-SYSTEM_PROMPT = """
-You are a pharmaceutical intelligence analyst specializing in biotechnology, drug development, and clinical trial reporting.
+SYSTEM_PROMPT = """You are a pharmaceutical intelligence analyst specializing in biotechnology, drug development, and clinical trial reporting.
 Your task is to convert a collection of pharmaceutical news articles into a single unified MONTHLY PHARMA INTELLIGENCE BRIEF.
 
 STRICT RULES:
@@ -127,7 +121,8 @@ STRICT MERGE RULES:
     - Do NOT summarise, compress, or rewrite any point.
 - Do NOT hallucinate new content.
 - The output must contain every unique point from every input brief.
-- Do remove the part which says No relevant information
+- Remove any point that says "No relevant information".
+
 OUTPUT FORMAT (strict JSON, nothing else):
 {
   "sections": [
@@ -163,13 +158,14 @@ def chunk_articles(articles: list, chunk_size: int = CHUNK_SIZE):
 
 # ── PROMPT BUILDERS ───────────────────────────────────────────────────────────
 
-def build_chunk_prompt(articles: list, query: str) -> str:
+def build_chunk_prompt(articles: list, query: str, system_prompt: str) -> str:
     sections = []
     for i, art in enumerate(articles, 1):
         title  = art.get("title", "Untitled")
         source = art.get("url", "Unknown")
         date   = art.get("date", "")
-        body   = (art.get("text") or "").strip()
+        # Truncate body to avoid connection aborts on large payloads
+        body   = (art.get("text") or "").strip()[:3000]
         if not body:
             continue
         sections.append(
@@ -179,20 +175,27 @@ def build_chunk_prompt(articles: list, query: str) -> str:
             f"Title  : {title}\n\n"
             f"{body}"
         )
+
+    # Inject system prompt at top of user message (model doesn't support system role)
     return (
+        f"{system_prompt}\n\n"
+        f"{'=' * 60}\n\n"
         f"Query focus: {query}\n\n"
         f"Below are {len(sections)} pharmaceutical news articles.\n"
         f"Synthesize ALL of them into a single unified MONTHLY PHARMA INTELLIGENCE BRIEF.\n"
-        f"Return ONLY the JSON object described in your instructions — nothing else.\n\n"
+        f"Return ONLY the JSON object described above — nothing else.\n\n"
         + "\n\n".join(sections)
     )
 
 
-def build_merge_prompt(partial_jsons: list[str], query: str) -> str:
+def build_merge_prompt(partial_jsons: list[str], query: str, system_prompt: str) -> str:
     joined = "\n\n".join(
         f"--- PARTIAL BRIEF {i+1} ---\n{p}" for i, p in enumerate(partial_jsons)
     )
+    # Inject merge system prompt at top of user message
     return (
+        f"{system_prompt}\n\n"
+        f"{'=' * 60}\n\n"
         f"Query focus: {query}\n\n"
         f"Below are {len(partial_jsons)} partial pharmaceutical intelligence briefs, "
         f"each already in the required JSON format.\n"
@@ -203,23 +206,37 @@ def build_merge_prompt(partial_jsons: list[str], query: str) -> str:
 
 # ── LLM CALL (streaming) ──────────────────────────────────────────────────────
 
-def call_api_streaming(system_prompt: str, user_prompt: str) -> str:
-    """Stream from NVIDIA API using the given system prompt; return full accumulated text."""
+def call_api_streaming(user_prompt: str) -> str:
+    """
+    Stream from NVIDIA API.
+    
+    FIX: qwen/qwen3.5-122b-a10b does NOT support the 'system' role in messages.
+    Sending a system message causes a 400 Bad Request error.
+    The system prompt is injected at the top of the user message instead.
+    
+    FIX: chat_template_kwargs with enable_thinking is not supported on the
+    hosted integrate.api.nvidia.com endpoint — removed entirely.
+    """
     payload = {
         "model": MODEL,
         "messages": [
-            {"role": "system", "content": system_prompt},
-            {"role": "user",   "content": user_prompt},
+            # Single user message — system prompt is prepended inside user_prompt
+            {"role": "user", "content": user_prompt},
         ],
         "max_tokens": 16384,
         "temperature": 0.30,
         "top_p": 0.95,
         "stream": True,
-        "chat_template_kwargs": {"enable_thinking": True},
+        # NOTE: chat_template_kwargs / enable_thinking removed —
+        # not supported on integrate.api.nvidia.com and causes 400 errors.
     }
 
-    resp = requests.post(INVOKE_URL, headers=HEADERS, json=payload, stream=True)
-    resp.raise_for_status()
+    resp = requests.post(INVOKE_URL, headers=HEADERS, json=payload, stream=True, timeout=120)
+
+    # Print the actual error body for easier debugging
+    if resp.status_code != 200:
+        print(f"\n[ERROR {resp.status_code}] {resp.text[:600]}")
+        resp.raise_for_status()
 
     output = ""
     for line in resp.iter_lines():
@@ -278,7 +295,6 @@ def merge_section_lists(all_sections: list[list]) -> list:
     Fallback merge: combine section lists locally in Python.
     Used when the LLM merge call fails. Zero signal loss — only exact
     duplicate point texts are dropped.
-    All sections (including Overview) use the points-based schema.
     """
     merged: dict[str, dict] = {}
     heading_order: list[str] = []
@@ -294,7 +310,8 @@ def merge_section_lists(all_sections: list[list]) -> list:
             seen_texts = {p.get("text", "").lower() for p in merged[h].get("points", [])}
             for pt in sec.get("points", []):
                 t = (pt.get("text") or "").strip()
-                if t and t.lower() not in seen_texts:
+                # Also skip "no relevant information" filler points
+                if t and t.lower() not in seen_texts and "no relevant" not in t.lower():
                     merged[h].setdefault("points", []).append(pt)
                     seen_texts.add(t.lower())
 
@@ -315,9 +332,9 @@ def generate_chunk_results(articles: list, query: str, chunk_size: int) -> tuple
 
     for idx, chunk in enumerate(chunks, 1):
         print(f"[INFO] ── Chunk {idx}/{len(chunks)} ({len(chunk)} articles) ──────────────────────")
-        prompt = build_chunk_prompt(chunk, query)
+        prompt = build_chunk_prompt(chunk, query, SYSTEM_PROMPT)
         try:
-            raw = call_api_streaming(SYSTEM_PROMPT, prompt)
+            raw = call_api_streaming(prompt)
         except Exception as e:
             print(f"[ERROR] Chunk {idx} failed: {e} — skipping")
             continue
@@ -341,7 +358,7 @@ def merge_chunk_results(
 ) -> list:
     """
     If only one chunk result exists, return it directly.
-    Otherwise merge via LLM (MERGE_SYSTEM_PROMPT) or local fallback.
+    Otherwise merge via LLM or local fallback.
     """
     if len(partial_secs) == 1:
         print("\n[INFO] Single chunk — skipping merge step.")
@@ -353,9 +370,9 @@ def merge_chunk_results(
         return final
 
     print(f"\n[INFO] ── Merging {len(partial_raw)} chunk results (LLM merge pass) ──────────────────────")
-    merge_prompt = build_merge_prompt(partial_raw, query)
+    merge_prompt = build_merge_prompt(partial_raw, query, MERGE_SYSTEM_PROMPT)
     try:
-        raw_merged = call_api_streaming(MERGE_SYSTEM_PROMPT, merge_prompt)
+        raw_merged = call_api_streaming(merge_prompt)
         obj_merged = parse_json_response(raw_merged)
         final      = normalise_sections(obj_merged)
         if not final:
