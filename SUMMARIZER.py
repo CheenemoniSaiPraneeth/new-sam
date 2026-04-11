@@ -38,7 +38,7 @@ from pathlib import Path
 # ── NVIDIA CONFIG ─────────────────────────────────────────────────────────────
 
 INVOKE_URL  = "https://integrate.api.nvidia.com/v1/chat/completions"
-API_KEY     = "Bearer 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"
+API_KEY     = "Bearer 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"
 MODEL       = "qwen/qwen3.5-122b-a10b"
 CHUNK_SIZE  = 2     # articles per LLM call (keep low to avoid connection aborts)
 
