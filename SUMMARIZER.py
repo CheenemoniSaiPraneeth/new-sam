@@ -39,73 +39,134 @@ HEADERS = {
 # NOTE: qwen/qwen3.5-122b-a10b does NOT support the "system" role in messages.
 # System instructions are injected at the top of the user message instead.
 
-SYSTEM_PROMPT = """You are a pharmaceutical intelligence analyst specializing in biotechnology, drug development, and clinical trial reporting.
-Your task is to convert a collection of pharmaceutical news articles into a single unified MONTHLY PHARMA INTELLIGENCE BRIEF.
+SYSTEM_PROMPT = """You are a senior pharmaceutical intelligence analyst at a top-tier life sciences advisory firm. Your task is to synthesize pharmaceutical news articles into a structured MONTHLY PHARMA INTELLIGENCE BRIEF in JSON format.
 
-STRICT RULES:
-- Return ONLY valid JSON — no markdown fences, no explanations, no preamble.
-- Use only information explicitly present in the articles. Do NOT hallucinate.
-- Do NOT invent statistics or trial results.
-- Every point must reference a real entity (company, drug, trial, or regulator).
-- Avoid generic language such as "the company aims to improve outcomes".
-- Only include data related to the query topic.
-- Write in a formal pharmaceutical intelligence tone.
-- Each point must include the source URL from the article it came from (set to null if unknown).
+═══════════════════════════════════════════════════════════
+QUALITY STANDARD — READ THIS BEFORE WRITING A SINGLE WORD
+═══════════════════════════════════════════════════════════
 
-OUTPUT FORMAT — strict JSON, nothing else:
+Study these two examples. The BAD version is what you must NEVER produce. The GOOD version is the MINIMUM acceptable standard.
+
+BAD (rejected): "The company aims to improve patient outcomes for its lead candidate."
+GOOD (required): "Viridian Therapeutics — Elegrobart — Thyroid Eye Disease — Phase 3 trial met primary endpoint with 54% reduction in proptosis vs 18% placebo (p<0.001); FDA submission planned Q3 2026."
+
+BAD (rejected): "No specific developments regarding monoclonal antibodies were reported."
+BAD (rejected): "The provided articles contain no information relevant to the query."
+BAD (rejected): "Both source documents exclusively report on market research for electric taps."
+→ If an article is irrelevant to the query, SKIP IT SILENTLY. Never explain why you are skipping it.
+
+BAD (rejected): "The company continues to advance its pipeline program."
+GOOD (required): "Invivyd — PEMGARDA (pemivibart) — COVID-19 pre-exposure prophylaxis — Q4 2025 net revenue $17.2M, +25% YoY; Phase 3 DECLARATION trial fully enrolled, topline data expected mid-2026."
+
+BAD (rejected): "Key companies in this space include GSK, Insmed, and Gossamer Bio."
+GOOD (required): "Gossamer Bio / Chiesi Farmaceutici — Seralutinib — Pulmonary Arterial Hypertension — Inhaled PDGFR/FGFR/CSF1R inhibitor; Phase 3 PROSERA trial ongoing."
+
+═══════════════════════════════════════════════════════════
+ABSOLUTE RULES
+═══════════════════════════════════════════════════════════
+
+1. Return ONLY valid JSON — no markdown fences, no preamble, no explanation. The very first character of your response must be { and the last must be }.
+2. Use ONLY information explicitly stated in the provided articles. Do NOT hallucinate, extrapolate, or invent.
+3. Do NOT produce filler points. Every single point must contain: company name + drug/program name + indication + specific data (trial phase, endpoint result, regulatory action, deal value, or mechanism).
+4. If an article has no relevance to the query topic, skip it entirely. Do not write a point explaining its irrelevance.
+5. Do not repeat the same fact in multiple sections. Each fact belongs in exactly one section.
+6. Write in a terse, data-dense intelligence style. No hedging. No preamble. No soft language.
+7. Include the exact source URL for every point. If no URL is available, use null.
+
+═══════════════════════════════════════════════════════════
+OUTPUT FORMAT — STRICT JSON
+═══════════════════════════════════════════════════════════
+
 {
   "sections": [
     {
       "heading": "Overview",
       "points": [
-        { "text": "...", "url": "source article URL or null" }
+        { "text": "...", "url": "source URL or null" }
       ]
     },
     {
       "heading": "Key Developments",
       "points": [
-        { "text": "2-3 line headline", "url": "source article URL or null" }
+        { "text": "...", "url": "source URL or null" }
       ]
     },
     {
       "heading": "Companies in Focus",
       "points": [
-        { "text": "2-3 line headline", "url": "source article URL or null" }
+        { "text": "...", "url": "source URL or null" }
       ]
     },
     {
       "heading": "Clinical & Scientific Highlights",
       "points": [
-        { "text": "2-3 line headline", "url": "source article URL or null" }
+        { "text": "...", "url": "source URL or null" }
       ]
     },
     {
       "heading": "Business & Deals",
       "points": [
-        { "text": "2-3 line headline", "url": "source article URL or null" }
+        { "text": "...", "url": "source URL or null" }
       ]
     }
   ]
 }
 
-SECTION RULES:
-1. Overview — 5-10 sentences summarising the most important developments. Each sentence is a separate point with its source URL.
-2. Key Developments — one bullet per major development. Format: Company — Drug — Indication — Development.
-3. Companies in Focus — one bullet per company: name, strategic objective, associated drug/program.
-4. Clinical & Scientific Highlights — drug mechanism, trial phase, patient population, comparator (if any), endpoints/results. Only explicitly stated information.
-5. Business & Deals — acquisitions, partnerships, licensing, pipeline positioning. If none: { "text": "No relevant business developments reported.", "url": null }.
+═══════════════════════════════════════════════════════════
+SECTION-BY-SECTION WRITING RULES
+═══════════════════════════════════════════════════════════
+
+── OVERVIEW ──
+Write 6–12 concise intelligence sentences covering the most significant developments across all articles.
+Each sentence is its own point with its source URL.
+Every sentence must contain at least one named company, drug, or regulatory body + one specific data point.
+Format: "[Entity] [action/outcome] [specific data]. [Context if essential.]"
+Example: "Merck received FDA approval for ENFLONSIA (clesrovimab-cfor), a fixed 105 mg dose RSV preventive monoclonal antibody for newborns and infants entering their first RSV season."
+Example: "Invivyd's PEMGARDA (pemivibart) generated $17.2M net revenue in Q4 2025, a 25% YoY increase, as enrollment in the Phase 3 DECLARATION trial for VYD2311 was completed."
+
+── KEY DEVELOPMENTS ──
+One point per major development. Use this exact format:
+"[Company] — [Drug/Program] — [Indication] — [Development with specific data]"
+Example: "Viridian Therapeutics — Elegrobart — Thyroid Eye Disease — Phase 3 met primary endpoint: 54% proptosis reduction vs 18% placebo; BLA submission planned."
+Example: "Samsung Biologics — Rockville Manufacturing Facility — Biologics CMO — Acquired GSK's 60,000L cGMP facility in Maryland, raising total global capacity to 845,000L."
+Include trial phase, endpoints, regulatory status, deal value, or market size wherever stated in the source.
+
+── COMPANIES IN FOCUS ──
+One point per company. Use this exact format:
+"[Company] — [Strategic objective] — [Associated drug/program] — [Current status or key data]"
+Example: "Invivyd — Vaccine-alternative antibody commercialization — PEMGARDA (pemivibart) + VYD2311 pipeline — $200M+ raised H2 2025; Phase 3 DECLARATION trial fully enrolled."
+Example: "Bio-Thera Solutions — Biosimilar market entry — Avzivi (bevacizumab biosimilar) — FDA and EMA approvals secured; positioned for competitive pricing vs Avastin."
+
+── CLINICAL & SCIENTIFIC HIGHLIGHTS ──
+One point per drug/mechanism. Use this exact format:
+"[Drug] — Mechanism: [specific MOA] — Phase: [trial phase] — Population: [patient type] — Comparator: [if applicable] — Endpoints/Results: [specific data]"
+Example: "Elegrobart — Mechanism: IGF-1R receptor blockade — Phase: 3 — Population: Active thyroid eye disease (Graves' disease) — Comparator: Placebo — Results: 54% proptosis reduction vs 18%; no contralateral eye damage reported."
+Example: "VYD2311 — Mechanism: Serial molecular evolution-engineered mAb neutralizing contemporary SARS-CoV-2 lineages — Phase: 3 (DECLARATION) — Population: Adults and adolescents with/without severe COVID-19 risk factors — Comparator: Placebo — Endpoint: PCR-confirmed symptomatic COVID incidence at 3 months; topline data expected mid-2026."
+Only include data explicitly stated in the source. Do not speculate on missing fields — omit them.
+
+── BUSINESS & DEALS ──
+One point per deal, partnership, acquisition, regulatory filing, or market development. Include financial figures where stated.
+Example: "Samsung Biologics — Acquired GSK's Rockville, Maryland manufacturing facility for undisclosed sum; site adds 60,000L capacity and establishes Samsung's first US manufacturing presence."
+Example: "Evotec SE / Just-Evotec Biologics — Secured $10M multi-year BARDA contract for Ebola monoclonal antibody manufacturing optimization."
+Example: "Roivant Sciences — Approved $1B share repurchase program while advancing batoclimab (anti-FcRn mAb) in IgG-mediated autoimmune indications."
+If no business developments are relevant to the query, return exactly: { "text": "No relevant business developments reported in this period.", "url": null }
 """
+
+# ── MERGE SYSTEM PROMPT ───────────────────────────────────────────────────────
 
 MERGE_SYSTEM_PROMPT = """You are merging multiple partial pharmaceutical intelligence briefs into one unified report.
 
 STRICT MERGE RULES:
-- Return ONLY valid JSON — no markdown, no explanations.
-- ZERO signal loss — preserve ALL points from ALL partial briefs.
+- Return ONLY valid JSON — no markdown, no explanations. First character must be {, last must be }.
+- ZERO signal loss — preserve ALL substantive points from ALL partial briefs.
 - Combine all points into a single flat list per section.
-- Remove only exact duplicates (identical text). Keep the most specific version of near-duplicates.
+- Remove only exact duplicates (identical text). When two points cover the same fact but one has more detail, keep the more detailed version and discard the shorter one.
 - Do NOT summarise, compress, or rewrite any point.
 - Do NOT hallucinate new content.
-- Remove any point that says "No relevant information".
+- SILENTLY discard any point that is a filler or meta-commentary, including:
+    • Points saying "No relevant information", "No data available", "The articles do not contain..."
+    • Points that describe the source article rather than the drug/company/trial
+    • Points about non-pharmaceutical topics (electric taps, logistics, unrelated markets)
 
 OUTPUT FORMAT (strict JSON, nothing else):
 {
@@ -151,7 +212,8 @@ def build_chunk_prompt(articles: list, query: str) -> str:
         f"{'=' * 60}\n\n"
         f"Query focus: {query}\n\n"
         f"Below are {len(sections)} pharmaceutical news articles.\n"
-        f"Synthesize ALL of them into a single unified MONTHLY PHARMA INTELLIGENCE BRIEF.\n"
+        f"Extract all information relevant to '{query}' and synthesize into a MONTHLY PHARMA INTELLIGENCE BRIEF.\n"
+        f"If an article has no relevance to '{query}', skip it silently — do not mention it.\n"
         f"Return ONLY the JSON object described above — nothing else.\n\n"
         + "\n\n".join(sections)
     )
@@ -167,7 +229,8 @@ def build_merge_prompt(partial_jsons: list[str], query: str) -> str:
         f"Query focus: {query}\n\n"
         f"Below are {len(partial_jsons)} partial pharmaceutical intelligence briefs "
         f"in the required JSON format.\n"
-        f"Merge them into ONE unified brief — zero signal loss, remove only exact duplicates.\n\n"
+        f"Merge them into ONE unified brief — zero signal loss, remove only exact duplicates "
+        f"and all filler/meta-commentary points.\n\n"
         f"{joined}"
     )
 
@@ -180,9 +243,9 @@ def call_api_streaming(user_prompt: str) -> str:
     Key fixes:
       1. No 'system' role — qwen3.5-122b-a10b rejects it → system prompt inside user message.
       2. No chat_template_kwargs — not supported on integrate.api.nvidia.com.
-      3. REQUEST_TIMEOUT = 180s — model is slow on large prompts; default 30s times out.
+      3. REQUEST_TIMEOUT = 180s — model streams reasoning tokens first; default 30s kills it.
       4. Prints actual error body on failure so you always know the real reason.
-      5. Only captures delta.content — ignores delta.reasoning (thinking tokens).
+      5. Only captures delta.content — ignores delta.reasoning (internal thinking tokens).
     """
     payload = {
         "model": MODEL,
@@ -190,8 +253,8 @@ def call_api_streaming(user_prompt: str) -> str:
             {"role": "user", "content": user_prompt},
         ],
         "max_tokens": 16384,
-        "temperature": 0.30,
-        "top_p": 0.95,
+        "temperature": 0.20,   # lower = more deterministic, better for structured data
+        "top_p": 0.90,
         "stream": True,
         # chat_template_kwargs intentionally omitted — causes 400 on hosted API
     }
@@ -261,13 +324,42 @@ def normalise_sections(obj: dict) -> list:
         return obj["brief"]["sections"]
     return []
 
+# ── FILLER POINT FILTER ───────────────────────────────────────────────────────
+
+FILLER_PATTERNS = [
+    "no relevant",
+    "no specific",
+    "no data",
+    "no information",
+    "not contain",
+    "does not contain",
+    "no monoclonal",
+    "no pharmaceutical",
+    "no clinical trial",
+    "no explicit",
+    "exclusively report",
+    "electric tap",
+    "unrelated",
+    "market research for",
+    "the provided article",
+    "the source document",
+    "both source document",
+    "neither article",
+    "the body text exclusively",
+    "despite the title",
+    "this is irrelevant",
+]
+
+def is_filler(text: str) -> bool:
+    t = text.lower()
+    return any(pattern in t for pattern in FILLER_PATTERNS)
+
 # ── LOCAL MERGE FALLBACK ──────────────────────────────────────────────────────
 
 def merge_section_lists(all_sections: list[list]) -> list:
     """
     Merge section lists locally — zero signal loss.
-    Only exact duplicate point texts are dropped.
-    Used when LLM merge call fails or --no-merge-llm is set.
+    Drops exact duplicate texts and filler/meta-commentary points.
     """
     merged: dict[str, dict] = {}
     heading_order: list[str] = []
@@ -283,8 +375,7 @@ def merge_section_lists(all_sections: list[list]) -> list:
             seen_texts = {p.get("text", "").lower() for p in merged[h].get("points", [])}
             for pt in sec.get("points", []):
                 t = (pt.get("text") or "").strip()
-                # Skip empty or "no relevant information" filler points
-                if t and t.lower() not in seen_texts and "no relevant" not in t.lower():
+                if t and not is_filler(t) and t.lower() not in seen_texts:
                     merged[h].setdefault("points", []).append(pt)
                     seen_texts.add(t.lower())
 
@@ -330,8 +421,17 @@ def generate_chunk_results(
         obj  = parse_json_response(raw)
         secs = normalise_sections(obj)
         if secs:
-            partial_secs.append(secs)
-            partial_raw.append(json.dumps({"sections": secs}, ensure_ascii=False))
+            # Filter filler points at chunk level before storing
+            cleaned_secs = []
+            for sec in secs:
+                clean_pts = [p for p in sec.get("points", []) if not is_filler(p.get("text", ""))]
+                if clean_pts:
+                    cleaned_secs.append({"heading": sec["heading"], "points": clean_pts})
+            if cleaned_secs:
+                partial_secs.append(cleaned_secs)
+                partial_raw.append(json.dumps({"sections": cleaned_secs}, ensure_ascii=False))
+            else:
+                print(f"[INFO] Chunk {idx}: all points were filler — skipping.")
         else:
             print(f"[WARN] Chunk {idx}: no valid sections extracted.")
 
@@ -369,6 +469,10 @@ def merge_chunk_results(
         final      = normalise_sections(obj_merged)
         if not final:
             raise ValueError("Empty sections after LLM merge")
+        # Final filler filter pass on merged result
+        for sec in final:
+            sec["points"] = [p for p in sec.get("points", []) if not is_filler(p.get("text", ""))]
+        final = [s for s in final if s.get("points")]
         print(f"[INFO] LLM merge → {len(final)} sections.")
         return final
     except Exception as e:
