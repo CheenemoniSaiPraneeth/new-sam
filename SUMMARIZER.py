@@ -5,42 +5,30 @@ Takes filtered articles JSON and summarizes ALL articles into a single
 combined MONTHLY PHARMA INTELLIGENCE BRIEF returned as structured JSON.
 
 Pipeline:
-1. Chunk articles (chunk_size each) → per-chunk partial briefs via SYSTEM_PROMPT
-2. Merge all partial briefs into one unified report via MERGE_SYSTEM_PROMPT
-   (zero signal loss — every point preserved, only exact duplicates removed)
+1. Chunk articles (chunk_size each) → per-chunk partial briefs
+2. Merge all partial briefs into one unified report (zero signal loss)
 3. Write final structured JSON output
-
-JSON output schema:
-{
-  "query": "...",
-  "generated_at": "...",
-  "sections": [
-    {
-      "heading": "Overview",
-      "points": [
-        { "text": "...", "url": "https://..." },
-        ...
-      ]
-    },
-    ...
-  ]
-}
 
 Usage:
   python summarizer.py --input filtered_files.json --query "PROTAC"
   python summarizer.py --input filtered_files.json --query "CAR-T" --output briefs.json
 """
 
-import argparse, json, sys, requests, re
+import argparse, json, sys, requests, re, time
 from datetime import datetime
 from pathlib import Path
 
 # ── NVIDIA CONFIG ─────────────────────────────────────────────────────────────
 
-INVOKE_URL  = "https://integrate.api.nvidia.com/v1/chat/completions"
-API_KEY     = "Bearer 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"
-MODEL       = "qwen/qwen3.5-122b-a10b"
-CHUNK_SIZE  = 2     # articles per LLM call (keep low to avoid connection aborts)
+INVOKE_URL = "https://integrate.api.nvidia.com/v1/chat/completions"
+API_KEY    = "Bearer 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"
+MODEL      = "qwen/qwen3.5-122b-a10b"
+
+CHUNK_SIZE      = 2    # articles per LLM call
+MAX_RETRIES     = 3    # retries per chunk on transient errors
+RETRY_DELAY     = 5    # seconds to wait between retries
+REQUEST_TIMEOUT = 180  # seconds — model is slow on large prompts, 3 min is safe
+CHUNK_DELAY     = 2    # seconds to pause between chunk calls (avoids rate limiting)
 
 HEADERS = {
     "Authorization": API_KEY,
@@ -48,8 +36,8 @@ HEADERS = {
 }
 
 # ── SYSTEM PROMPT ─────────────────────────────────────────────────────────────
-# NOTE: This model does NOT support the "system" role in messages.
-# The system prompt is injected at the top of the user message instead.
+# NOTE: qwen/qwen3.5-122b-a10b does NOT support the "system" role in messages.
+# System instructions are injected at the top of the user message instead.
 
 SYSTEM_PROMPT = """You are a pharmaceutical intelligence analyst specializing in biotechnology, drug development, and clinical trial reporting.
 Your task is to convert a collection of pharmaceutical news articles into a single unified MONTHLY PHARMA INTELLIGENCE BRIEF.
@@ -76,76 +64,57 @@ OUTPUT FORMAT — strict JSON, nothing else:
     {
       "heading": "Key Developments",
       "points": [
-        { "text": "proper and good news headline of 2-3 lines", "url": "source article URL or null" }
+        { "text": "2-3 line headline", "url": "source article URL or null" }
       ]
     },
     {
       "heading": "Companies in Focus",
       "points": [
-        { "text": "proper and good news headline of 2-3 lines", "url": "source article URL or null" }
+        { "text": "2-3 line headline", "url": "source article URL or null" }
       ]
     },
     {
       "heading": "Clinical & Scientific Highlights",
       "points": [
-        { "text": "proper and good news headline of 2-3 lines", "url": "source article URL or null" }
+        { "text": "2-3 line headline", "url": "source article URL or null" }
       ]
     },
     {
       "heading": "Business & Deals",
       "points": [
-        { "text": "proper and good news headline of 2-3 lines", "url": "source article URL or null" }
+        { "text": "2-3 line headline", "url": "source article URL or null" }
       ]
     }
   ]
 }
 
 SECTION RULES:
-1. Overview — 5-10 sentences summarising the most important developments across all articles. Each sentence is a separate point with its source URL.
+1. Overview — 5-10 sentences summarising the most important developments. Each sentence is a separate point with its source URL.
 2. Key Developments — one bullet per major development. Format: Company — Drug — Indication — Development.
 3. Companies in Focus — one bullet per company: name, strategic objective, associated drug/program.
-4. Clinical & Scientific Highlights — drug mechanism, trial phase, patient population, comparator (if any), clinical endpoints/results. Only explicitly stated information.
-5. Business & Deals — acquisitions, partnerships, licensing, pipeline positioning. If none, return a single point: { "text": "No relevant business developments reported.", "url": null }.
+4. Clinical & Scientific Highlights — drug mechanism, trial phase, patient population, comparator (if any), endpoints/results. Only explicitly stated information.
+5. Business & Deals — acquisitions, partnerships, licensing, pipeline positioning. If none: { "text": "No relevant business developments reported.", "url": null }.
 """
-
-# ── MERGE SYSTEM PROMPT ───────────────────────────────────────────────────────
 
 MERGE_SYSTEM_PROMPT = """You are merging multiple partial pharmaceutical intelligence briefs into one unified report.
 
 STRICT MERGE RULES:
-- Return ONLY valid JSON in the exact same schema as the input chunks — no markdown, no explanations.
+- Return ONLY valid JSON — no markdown, no explanations.
 - ZERO signal loss — preserve ALL points from ALL partial briefs.
-- For ALL sections (including Overview):
-    - Combine all points into a single flat list per section.
-    - Remove only exact duplicates (identical text). Keep the most specific version of near-duplicates.
-    - Do NOT summarise, compress, or rewrite any point.
+- Combine all points into a single flat list per section.
+- Remove only exact duplicates (identical text). Keep the most specific version of near-duplicates.
+- Do NOT summarise, compress, or rewrite any point.
 - Do NOT hallucinate new content.
-- The output must contain every unique point from every input brief.
 - Remove any point that says "No relevant information".
 
 OUTPUT FORMAT (strict JSON, nothing else):
 {
   "sections": [
-    {
-      "heading": "Overview",
-      "points": [ { "text": "...", "url": "..." } ]
-    },
-    {
-      "heading": "Key Developments",
-      "points": [ { "text": "...", "url": "..." } ]
-    },
-    {
-      "heading": "Companies in Focus",
-      "points": [ { "text": "...", "url": "..." } ]
-    },
-    {
-      "heading": "Clinical & Scientific Highlights",
-      "points": [ { "text": "...", "url": "..." } ]
-    },
-    {
-      "heading": "Business & Deals",
-      "points": [ { "text": "...", "url": "..." } ]
-    }
+    { "heading": "Overview",                         "points": [ { "text": "...", "url": "..." } ] },
+    { "heading": "Key Developments",                 "points": [ { "text": "...", "url": "..." } ] },
+    { "heading": "Companies in Focus",               "points": [ { "text": "...", "url": "..." } ] },
+    { "heading": "Clinical & Scientific Highlights", "points": [ { "text": "...", "url": "..." } ] },
+    { "heading": "Business & Deals",                 "points": [ { "text": "...", "url": "..." } ] }
   ]
 }
 """
@@ -158,13 +127,13 @@ def chunk_articles(articles: list, chunk_size: int = CHUNK_SIZE):
 
 # ── PROMPT BUILDERS ───────────────────────────────────────────────────────────
 
-def build_chunk_prompt(articles: list, query: str, system_prompt: str) -> str:
+def build_chunk_prompt(articles: list, query: str) -> str:
     sections = []
     for i, art in enumerate(articles, 1):
         title  = art.get("title", "Untitled")
         source = art.get("url", "Unknown")
         date   = art.get("date", "")
-        # Truncate body to avoid connection aborts on large payloads
+        # Cap each article at 3000 chars to prevent connection aborts on large payloads
         body   = (art.get("text") or "").strip()[:3000]
         if not body:
             continue
@@ -176,9 +145,9 @@ def build_chunk_prompt(articles: list, query: str, system_prompt: str) -> str:
             f"{body}"
         )
 
-    # Inject system prompt at top of user message (model doesn't support system role)
+    # System prompt prepended inside user message (model rejects system role)
     return (
-        f"{system_prompt}\n\n"
+        f"{SYSTEM_PROMPT}\n\n"
         f"{'=' * 60}\n\n"
         f"Query focus: {query}\n\n"
         f"Below are {len(sections)} pharmaceutical news articles.\n"
@@ -188,19 +157,17 @@ def build_chunk_prompt(articles: list, query: str, system_prompt: str) -> str:
     )
 
 
-def build_merge_prompt(partial_jsons: list[str], query: str, system_prompt: str) -> str:
+def build_merge_prompt(partial_jsons: list[str], query: str) -> str:
     joined = "\n\n".join(
         f"--- PARTIAL BRIEF {i+1} ---\n{p}" for i, p in enumerate(partial_jsons)
     )
-    # Inject merge system prompt at top of user message
     return (
-        f"{system_prompt}\n\n"
+        f"{MERGE_SYSTEM_PROMPT}\n\n"
         f"{'=' * 60}\n\n"
         f"Query focus: {query}\n\n"
-        f"Below are {len(partial_jsons)} partial pharmaceutical intelligence briefs, "
-        f"each already in the required JSON format.\n"
-        f"Merge them into ONE unified brief with ZERO signal loss — "
-        f"preserve every unique point, remove only exact duplicates.\n\n"
+        f"Below are {len(partial_jsons)} partial pharmaceutical intelligence briefs "
+        f"in the required JSON format.\n"
+        f"Merge them into ONE unified brief — zero signal loss, remove only exact duplicates.\n\n"
         f"{joined}"
     )
 
@@ -209,31 +176,35 @@ def build_merge_prompt(partial_jsons: list[str], query: str, system_prompt: str)
 def call_api_streaming(user_prompt: str) -> str:
     """
     Stream from NVIDIA API.
-    
-    FIX: qwen/qwen3.5-122b-a10b does NOT support the 'system' role in messages.
-    Sending a system message causes a 400 Bad Request error.
-    The system prompt is injected at the top of the user message instead.
-    
-    FIX: chat_template_kwargs with enable_thinking is not supported on the
-    hosted integrate.api.nvidia.com endpoint — removed entirely.
+
+    Key fixes:
+      1. No 'system' role — qwen3.5-122b-a10b rejects it → system prompt inside user message.
+      2. No chat_template_kwargs — not supported on integrate.api.nvidia.com.
+      3. REQUEST_TIMEOUT = 180s — model is slow on large prompts; default 30s times out.
+      4. Prints actual error body on failure so you always know the real reason.
+      5. Only captures delta.content — ignores delta.reasoning (thinking tokens).
     """
     payload = {
         "model": MODEL,
         "messages": [
-            # Single user message — system prompt is prepended inside user_prompt
             {"role": "user", "content": user_prompt},
         ],
         "max_tokens": 16384,
         "temperature": 0.30,
         "top_p": 0.95,
         "stream": True,
-        # NOTE: chat_template_kwargs / enable_thinking removed —
-        # not supported on integrate.api.nvidia.com and causes 400 errors.
+        # chat_template_kwargs intentionally omitted — causes 400 on hosted API
     }
 
-    resp = requests.post(INVOKE_URL, headers=HEADERS, json=payload, stream=True, timeout=120)
+    resp = requests.post(
+        INVOKE_URL,
+        headers=HEADERS,
+        json=payload,
+        stream=True,
+        timeout=REQUEST_TIMEOUT,  # 180s — critical for large prompts
+    )
 
-    # Print the actual error body for easier debugging
+    # Always print the real error body so debugging is easy
     if resp.status_code != 200:
         print(f"\n[ERROR {resp.status_code}] {resp.text[:600]}")
         resp.raise_for_status()
@@ -250,6 +221,7 @@ def call_api_streaming(user_prompt: str) -> str:
             try:
                 chunk   = json.loads(data_str)
                 delta   = chunk.get("choices", [{}])[0].get("delta", {})
+                # Only capture actual response content — skip reasoning/thinking tokens
                 content = delta.get("content", "")
                 if content:
                     output += content
@@ -269,6 +241,7 @@ def parse_json_response(raw: str) -> dict | None:
         return json.loads(cleaned)
     except json.JSONDecodeError:
         pass
+    # Fallback: extract first {...} block
     match = re.search(r"\{.*\}", cleaned, re.DOTALL)
     if match:
         try:
@@ -292,9 +265,9 @@ def normalise_sections(obj: dict) -> list:
 
 def merge_section_lists(all_sections: list[list]) -> list:
     """
-    Fallback merge: combine section lists locally in Python.
-    Used when the LLM merge call fails. Zero signal loss — only exact
-    duplicate point texts are dropped.
+    Merge section lists locally — zero signal loss.
+    Only exact duplicate point texts are dropped.
+    Used when LLM merge call fails or --no-merge-llm is set.
     """
     merged: dict[str, dict] = {}
     heading_order: list[str] = []
@@ -310,7 +283,7 @@ def merge_section_lists(all_sections: list[list]) -> list:
             seen_texts = {p.get("text", "").lower() for p in merged[h].get("points", [])}
             for pt in sec.get("points", []):
                 t = (pt.get("text") or "").strip()
-                # Also skip "no relevant information" filler points
+                # Skip empty or "no relevant information" filler points
                 if t and t.lower() not in seen_texts and "no relevant" not in t.lower():
                     merged[h].setdefault("points", []).append(pt)
                     seen_texts.add(t.lower())
@@ -319,9 +292,11 @@ def merge_section_lists(all_sections: list[list]) -> list:
 
 # ── CHUNK PROCESSING ──────────────────────────────────────────────────────────
 
-def generate_chunk_results(articles: list, query: str, chunk_size: int) -> tuple[list[str], list[list]]:
+def generate_chunk_results(
+    articles: list, query: str, chunk_size: int
+) -> tuple[list[str], list[list]]:
     """
-    Process articles in chunks, calling SYSTEM_PROMPT per chunk.
+    Process articles in chunks.
     Returns (partial_raw_jsons, partial_section_lists).
     """
     chunks = list(chunk_articles(articles, chunk_size))
@@ -332,11 +307,24 @@ def generate_chunk_results(articles: list, query: str, chunk_size: int) -> tuple
 
     for idx, chunk in enumerate(chunks, 1):
         print(f"[INFO] ── Chunk {idx}/{len(chunks)} ({len(chunk)} articles) ──────────────────────")
-        prompt = build_chunk_prompt(chunk, query, SYSTEM_PROMPT)
-        try:
-            raw = call_api_streaming(prompt)
-        except Exception as e:
-            print(f"[ERROR] Chunk {idx} failed: {e} — skipping")
+        prompt = build_chunk_prompt(chunk, query)
+
+        raw = None
+        for attempt in range(1, MAX_RETRIES + 1):
+            try:
+                raw = call_api_streaming(prompt)
+                break  # success — exit retry loop
+            except requests.exceptions.Timeout:
+                print(f"[WARN] Chunk {idx} attempt {attempt}/{MAX_RETRIES}: timeout after {REQUEST_TIMEOUT}s")
+            except Exception as e:
+                print(f"[WARN] Chunk {idx} attempt {attempt}/{MAX_RETRIES}: {e}")
+
+            if attempt < MAX_RETRIES:
+                print(f"[INFO] Waiting {RETRY_DELAY}s before retry...")
+                time.sleep(RETRY_DELAY)
+
+        if not raw:
+            print(f"[ERROR] Chunk {idx} failed after {MAX_RETRIES} attempts — skipping\n")
             continue
 
         obj  = parse_json_response(raw)
@@ -346,6 +334,10 @@ def generate_chunk_results(articles: list, query: str, chunk_size: int) -> tuple
             partial_raw.append(json.dumps({"sections": secs}, ensure_ascii=False))
         else:
             print(f"[WARN] Chunk {idx}: no valid sections extracted.")
+
+        # Polite pause between chunks to avoid rate limiting
+        if idx < len(chunks):
+            time.sleep(CHUNK_DELAY)
 
     return partial_raw, partial_secs
 
@@ -357,11 +349,11 @@ def merge_chunk_results(
     use_llm_merge: bool,
 ) -> list:
     """
-    If only one chunk result exists, return it directly.
-    Otherwise merge via LLM or local fallback.
+    Merge all chunk results into one final brief.
+    Falls back to local Python merge if LLM merge fails.
     """
     if len(partial_secs) == 1:
-        print("\n[INFO] Single chunk — skipping merge step.")
+        print("\n[INFO] Single chunk result — skipping merge step.")
         return partial_secs[0]
 
     if not use_llm_merge:
@@ -370,7 +362,7 @@ def merge_chunk_results(
         return final
 
     print(f"\n[INFO] ── Merging {len(partial_raw)} chunk results (LLM merge pass) ──────────────────────")
-    merge_prompt = build_merge_prompt(partial_raw, query, MERGE_SYSTEM_PROMPT)
+    merge_prompt = build_merge_prompt(partial_raw, query)
     try:
         raw_merged = call_api_streaming(merge_prompt)
         obj_merged = parse_json_response(raw_merged)
@@ -424,7 +416,10 @@ def main():
         print(f"[INFO] Skipped  : {skipped} (empty text)")
     print(f"[INFO] Using    : {len(valid)} articles")
     print(f"[INFO] Query    : {args.query}")
-    print(f"[INFO] Chunk sz : {args.chunk_size} articles per chunk\n")
+    print(f"[INFO] Model    : {MODEL}")
+    print(f"[INFO] Chunk sz : {args.chunk_size} articles per chunk")
+    print(f"[INFO] Timeout  : {REQUEST_TIMEOUT}s per request")
+    print(f"[INFO] Retries  : {MAX_RETRIES} per chunk\n")
 
     if not valid:
         sys.exit("[WARN] No articles with usable text found.")
@@ -436,7 +431,7 @@ def main():
     partial_raw, partial_secs = generate_chunk_results(valid, args.query, args.chunk_size)
 
     if not partial_secs:
-        sys.exit("[FATAL] No usable output from any chunk.")
+        sys.exit("[FATAL] No usable output from any chunk. Check your API key and model status.")
 
     # ── STEP 2: Merge all chunk results into one ──────────────────────────────
     final_sections = merge_chunk_results(
