@@ -48,6 +48,80 @@ log = logging.getLogger(__name__)
 #  MERGE
 # =============================================================================
 
+async def scrape_google_news(query: str, days: int):
+    import json
+    from datetime import datetime, timedelta, timezone
+    from playwright.async_api import async_playwright
+    from pathlib import Path
+
+    OUTPUT_DIR = "extraction_output"
+    Path(OUTPUT_DIR).mkdir(exist_ok=True)
+
+    results = []
+
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
+        page = await browser.new_page()
+
+        await page.goto(f"https://news.google.com/search?q={query}")
+        await page.wait_for_load_state("networkidle")
+        await page.wait_for_timeout(3000)
+
+        links = await page.query_selector_all("a[href]")
+        times = await page.query_selector_all("time")
+
+        now = datetime.now(timezone.utc)
+        cutoff = now - timedelta(days=days)
+
+        time_index = 0
+
+        for link in links:
+            href = await link.get_attribute("href")
+
+            if not href:
+                continue
+
+            if time_index < len(times):
+                raw_date = await times[time_index].get_attribute("datetime")
+                time_index += 1
+            else:
+                continue
+
+            try:
+                dt = datetime.fromisoformat(raw_date.replace("Z", "+00:00"))
+            except:
+                continue
+
+            if dt < cutoff:
+                continue
+
+            if href.startswith("./"):
+                full_link = "https://news.google.com" + href[1:]
+            else:
+                full_link = href
+
+            results.append({
+                "title": full_link,
+                "link": full_link,
+                "date": raw_date
+            })
+
+        await browser.close()
+
+    # save in pipeline format
+    output = {
+        "latest": {
+            "article_count": len(results),
+            "articles": results
+        }
+    }
+
+    out_file = Path(OUTPUT_DIR) / "google_news_results.json"
+    with open(out_file, "w", encoding="utf-8") as f:
+        json.dump(output, f, indent=2)
+
+    print(f"[google_news] {len(results)} articles → {out_file}")
+
 def merge_results(query: str, days: int) -> list:
     """
     Read all *_results.json from OUTPUT_DIR and flatten into a single list
@@ -233,6 +307,12 @@ async def run_pipeline(
         enrich = enrich,
         days   = days,
     )
+
+    print(f"\n{'='*65}")
+    print("  STAGE A2 -- GOOGLE NEWS SCRAPER")
+    print(f"{'='*65}")
+    
+    await scrape_google_news(query=query, days=days)
 
     # ── Stage B: Merge ────────────────────────────────────────────────────────
     print(f"\n{'='*65}")
