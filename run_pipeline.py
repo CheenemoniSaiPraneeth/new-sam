@@ -80,6 +80,10 @@ async def scrape_google_news(query: str, days: int):
 
             if not href:
                 continue
+            
+            # ✅ KEEP ONLY REAL ARTICLES
+            if "read" not in href:
+                continue
 
             if time_index < len(times):
                 raw_date = await times[time_index].get_attribute("datetime")
