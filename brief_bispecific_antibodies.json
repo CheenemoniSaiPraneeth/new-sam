@@ -1,422 +1,54 @@
 {
   "query": "bispecific",
-  "generated_at": "2026-04-10 08:23:34",
-  "article_count": 60,
+  "generated_at": "2026-04-14 06:59:42",
+  "article_count": 48,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Sidewinder Therapeutics announced a $137 million Series B round to advance newer types of antibody-drug conjugates.",
+          "text": "Sidewinder Therapeutics secured $137M Series B financing led by OrbiMed and Novartis Venture Fund to advance bispecific antibody-drug conjugates (ADCs) into clinical testing.",
           "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
         },
         {
-          "text": "The financing will be used to push bispecific ADCs into clinical testing.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
+          "text": "Genmab is advancing a late-stage clinical pipeline including wholly owned bispecific antibody programs alongside antibody-drug conjugates and immune-modulating antibodies.",
+          "url": "https://globenewswire.com/news-release/2026/04/13/3272591/0/en/Genmab-Presents-the-Safety-and-Tolerability-of-Rinatabart-Sesutecan-Rina-S-in-Combination-with-Bevacizumab-in-Advanced-Ovarian-Cancer.html"
         },
         {
-          "text": "Sidewinder is pursuing bispecific ADCs able to recognize and bind to protein combinations highly expressed on cancer cells.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
+          "text": "Regeneron and Telix announced a strategic collaboration to co-develop and co-commercialize next-generation radiopharmaceutical therapies leveraging Regeneron's bispecific antibody discovery platforms.",
+          "url": "https://globenewswire.com/news-release/2026/04/13/3272191/0/en/Dupixent-dupilumab-Approved-in-the-EU-as-the-First-Targeted-Medicine-to-Treat-Young-Children-with-Chronic-Spontaneous-Urticaria-CSU.html"
         },
         {
-          "text": "These complexes consist of one protein receptor that helps drive cancer and another that pulls substances into cells.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
+          "text": "Global bispecific antibody market projected to reach $22.3 billion by 2030 driven by immuno-oncology innovation and R&D investment acceleration.",
+          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
         },
         {
-          "text": "The company expects to push its lead program into clinical development in 2027.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
+          "text": "Genentech received FDA label update for Vabysmo (faricimab-svoa), a bispecific antibody targeting angiopoietin-1 and VEGF-A, extending treatment duration for macular edema due to retinal vein occlusion beyond 6 months.",
+          "url": "https://www.healio.com/news/ophthalmology/20260410/fda-approves-vabysmo-label-update-for-macular-edema-due-to-retinal-vein-occlusion"
         },
         {
-          "text": "Sidewinder said it will focus on cancer indications like colorectal tumors and squamous cell carcinomas.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "The startup recently partnered with Lonza’s Synaffix subsidiary to gain access to an ADC technology.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "The latest financing was co-led by Frazier Life Sciences and the venture arm of Novartis.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "OrbiMed participated in the round and is consistently one of the biotech sector’s most active investors.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "Eric Murphy, Sidewinder’s CEO, stated the ADC field is at an inflection point driven by technological breakthroughs.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "Sanofi announced mid-stage study results for lunsekimig, a bispecific drug targeting TSLP and IL-13.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "Lunsekimig succeeded in Phase 2 studies for moderate-to-severe asthma and chronic rhinitis with nasal polyps.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "The therapy failed to meet its main objective in a separate trial for atopic dermatitis.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "Boehringer Ingelheim announced plans to evaluate a PD-L1/VEGF-A bispecific antibody in small cell lung cancer.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270861/0/en/Boehringer-Ingelheim-to-evaluate-innovative-combination-of-DLL3-targeting-T-cell-engager-plus-PD-L1-VEGF-A-bispecific-antibody-in-small-cell-lung-cancer.html"
-        },
-        {
-          "text": "Oxford BioTherapeutics entered a strategic collaboration with Bristol Myers Squibb to discover T-cell engager therapies.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270770/0/en/Oxford-BioTherapeutics-Enters-Strategic-Collaboration-with-Bristol-Myers-Squibb-to-Discover-and-Develop-Next-Generation-T-cell-Engagers-for-Solid-Tumours.html"
-        },
-        {
-          "text": "Oxford BioTherapeutics includes Bispecific Antibodies in its portfolio of antibody-based therapies.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270770/0/en/Oxford-BioTherapeutics-Enters-Strategic-Collaboration-with-Bristol-Myers-Squibb-to-Discover-and-Develop-Next-Generation-T-cell-Engagers-for-Solid-Tumours.html"
-        },
-        {
-          "text": "Sanofi acquired the technology for lunsekimig from biotechnology company Ablynx.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "Two Phase 3 trials for lunsekimig are underway in chronic obstructive pulmonary disease.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "The collaboration between Oxford BioTherapeutics and Bristol Myers Squibb focuses on solid tumours.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270770/0/en/Oxford-BioTherapeutics-Enters-Strategic-Collaboration-with-Bristol-Myers-Squibb-to-Discover-and-Develop-Next-Generation-T-cell-Engagers-for-Solid-Tumours.html"
-        },
-        {
-          "text": "Analysts forecast $3 billion in peak yearly sales for lunsekimig based on respiratory diseases positioning.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "Zymeworks Inc. continues to advance its portfolio of multifunctional biotherapeutics, including the HER2-targeted bispecific antibody Ziihera (zanidatamab-hrii).",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270723/0/en/Zymeworks-Announces-Additional-Leadership-Appointments-to-Advance-Next-Phase-of-Growth.html"
-        },
-        {
-          "text": "Zymeworks appointed Kristin Stafford as Chief Financial Officer effective April 1, 2026, to support strategic priorities and pipeline advancement.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270723/0/en/Zymeworks-Announces-Additional-Leadership-Appointments-to-Advance-Next-Phase-of-Growth.html"
-        },
-        {
-          "text": "Additional leadership appointments include Adam Schayowitz as Head of R&D and Scott Platshon as Chief Business Officer announced on April 9, 2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270723/0/en/Zymeworks-Announces-Additional-Leadership-Appointments-to-Advance-Next-Phase-of-Growth.html"
-        },
-        {
-          "text": "Leads Biolabs Co., Ltd. announced that its PD-L1/4-1BB bispecific antibody Opamtistomig (LBL-024) has advanced to the expansion phase of a Phase II trial.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "The Opamtistomig Phase II trial focuses on the first-line treatment of advanced biliary tract cancer (BTC) following positive safety and preliminary efficacy results.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "A safety run-in cohort of 20 patients completed preliminary evaluation showing the drug in combination with chemotherapy was generally well tolerated.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "Zymeworks has entered into agreements with BeOne Medicines Ltd. and Jazz Pharmaceuticals Ireland Limited granting exclusive rights to develop and commercialize zanidatamab in different territories.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270723/0/en/Zymeworks-Announces-Additional-Leadership-Appointments-to-Advance-Next-Phase-of-Growth.html"
-        },
-        {
-          "text": "Opamtistomig received Fast Track Designation from the FDA and Orphan Drug Designation from the European Commission for the treatment of extrapulmonary neuroendocrine carcinoma in January 2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "Zymeworks utilizes its proprietary Azymetric™ technology to engineer Ziihera, a bispecific antibody targeting HER2.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270723/0/en/Zymeworks-Announces-Additional-Leadership-Appointments-to-Advance-Next-Phase-of-Growth.html"
-        },
-        {
-          "text": "Leads Biolabs developed Opamtistomig using its proprietary X-Body bispecific platform featuring a 2:2 molecular format.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "MacroGenics received FDA removal of partial clinical hold on the LINNET study for lorigerlimab, a PD-1 × CTLA-4 bispecific DART molecule.",
-          "url": "https://globenewswire.com/news-release/2026/04/08/3270538/0/en/FDA-Removes-Partial-Clinical-Hold-on-MacroGenics-LINNET-Study.html"
-        },
-        {
-          "text": "The LINNET study is a Phase 2 monotherapy trial evaluating lorigerlimab in patients with platinum-resistant ovarian cancer or clear cell gynecologic cancer.",
-          "url": "https://globenewswire.com/news-release/2026/04/08/3270538/0/en/FDA-Removes-Partial-Clinical-Hold-on-MacroGenics-LINNET-Study.html"
-        },
-        {
-          "text": "MacroGenics anticipates reporting initial clinical data from the LINNET study in mid-2026 following the resolution of the clinical hold.",
-          "url": "https://globenewswire.com/news-release/2026/04/08/3270538/0/en/FDA-Removes-Partial-Clinical-Hold-on-MacroGenics-LINNET-Study.html"
-        },
-        {
-          "text": "MacroGenics and Gilead are advancing MGD024, a clinical-stage CD123 × CD3 bispecific DART molecule, in an ongoing dose escalation study in AML and MDS.",
-          "url": "https://globenewswire.com/news-release/2026/04/08/3270538/0/en/FDA-Removes-Partial-Clinical-Hold-on-MacroGenics-LINNET-Study.html"
-        },
-        {
-          "text": "Cue Biopharma received a $7.5 million preclinical milestone payment from Boehringer Ingelheim under their collaboration and license agreement for CUE-501.",
-          "url": "https://globenewswire.com/news-release/2026/04/08/3270032/0/en/Cue-Biopharma-to-Receive-7-5-Million-Preclinical-Milestone-Payment-from-Boehringer-Ingelheim-Collaboration-and-License-Agreement.html"
-        },
-        {
-          "text": "MacroGenics reported cash, cash equivalents, and marketable securities of $189.9 million as of December 31, 2025, with cash runway guidance into late 2027.",
-          "url": "https://globenewswire.com/news-release/2026/04/08/3270538/0/en/FDA-Removes-Partial-Clinical-Hold-on-MacroGenics-LINNET-Study.html"
-        },
-        {
-          "text": "MacroGenics plans to submit an Investigational New Drug (IND) application for MGC030, a first-in-class topoisomerase I inhibitor-based ADC, in the third quarter of 2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/08/3270538/0/en/FDA-Removes-Partial-Clinical-Hold-on-MacroGenics-LINNET-Study.html"
-        },
-        {
-          "text": "Lucinda Warren has been appointed interim president and chief executive officer of Cue Biopharma following the departure of Usman Azam.",
-          "url": "https://globenewswire.com/news-release/2026/04/08/3270032/0/en/Cue-Biopharma-to-Receive-7-5-Million-Preclinical-Milestone-Payment-from-Boehringer-Ingelheim-Collaboration-and-License-Agreement.html"
-        },
-        {
-          "text": "MacroGenics remains eligible to receive up to $1.6 billion in future milestones related to its collaboration with Gilead involving three programs.",
-          "url": "https://globenewswire.com/news-release/2026/04/08/3270538/0/en/FDA-Removes-Partial-Clinical-Hold-on-MacroGenics-LINNET-Study.html"
-        },
-        {
-          "text": "Cue Biopharma's lead autoimmune asset CUE-401 is designed as a tolerogenic bifunctional molecule combining a TGF-beta breathing-mask moiety with an interleukin 2 mutein.",
-          "url": "https://globenewswire.com/news-release/2026/04/08/3270032/0/en/Cue-Biopharma-to-Receive-7-5-Million-Preclinical-Milestone-Payment-from-Boehringer-Ingelheim-Collaboration-and-License-Agreement.html"
-        },
-        {
-          "text": "NovaBridge Biosciences secured FDA alignment on givastomig’s potential eligibility for an accelerated approval pathway in first-line gastroesophageal cancer patients.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "Givastomig is a bispecific Claudin 18.2 X 4-1BB antibody developed in partnership with ABL Bio.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "Phase 1b data for givastomig demonstrated a 75% objective response rate and a 16.9-month median progression-free survival in evaluable patients.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "Sanofi reported that lunsekimig, a novel bispecific nanobody, met primary and key secondary endpoints in phase 2 respiratory studies for asthma and CRSwNP.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3268809/0/en/Press-Release-Sanofi-s-lunsekimig-met-primary-and-key-secondary-endpoints-in-phase-2-respiratory-studies-in-asthma-and-CRSwNP.html"
-        },
-        {
-          "text": "Samsung Biologics highlights structural innovation and enhanced manufacturability as critical factors in redefining bispecific antibody development.",
+          "text": "Samsung Biologics highlighted structural innovations and enhanced manufacturability solutions for bispecific antibodies (bsAbs) to address complex purification challenges and ensure clinical viability.",
           "url": "https://lifescienceleader.com/doc/advancing-next-generation-biologics-from-cell-line-innovation-to-complex-modalities-0004"
         },
         {
-          "text": "Bispecific antibodies enable enhanced therapeutic efficacy through dual-targeting but present significant manufacturing and purification challenges.",
-          "url": "https://lifescienceleader.com/doc/advancing-next-generation-biologics-from-cell-line-innovation-to-complex-modalities-0004"
+          "text": "Boehringer Ingelheim is evaluating a combination regimen involving a DLL3-targeting T-cell engager and a PD-L1/VEGF-A bispecific antibody for small cell lung cancer.",
+          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185312&sid=2"
         },
         {
-          "text": "NovaBridge intends to initiate a registrational Phase 3 combination trial for givastomig as early as Q4 2026 using objective response rate as a primary endpoint.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "Sanofi’s lunsekimig program targets two chronic respiratory conditions with positive phase 2 clinical outcomes.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3268809/0/en/Press-Release-Sanofi-s-lunsekimig-met-primary-and-key-secondary-endpoints-in-phase-2-respiratory-studies-in-asthma-and-CRSwNP.html"
-        },
-        {
-          "text": "Samsung Biologics offers CDMO services including cell line development to final aseptic fill/finish for biologics including complex modalities.",
-          "url": "https://lifescienceleader.com/doc/advancing-next-generation-biologics-from-cell-line-innovation-to-complex-modalities-0004"
-        },
-        {
-          "text": "The industry faces growing biomanufacturing demands requiring optimized service to fit client needs for complex modalities like bispecifics.",
-          "url": "https://lifescienceleader.com/doc/advancing-next-generation-biologics-from-cell-line-innovation-to-complex-modalities-0004"
-        },
-        {
-          "text": "Sidewinder Therapeutics announced a $137 million Series B financing round on April 8, 2026.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "The funding will be used to advance newer types of antibody-drug conjugates, or ADCs, into clinical testing.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "Sidewinder is pursuing bispecific ADCs able to recognize and bind to protein combinations that are highly expressed on cancer cells.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "These complexes consist of one protein receptor that helps drive cancer, and another that pulls substances into cells.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "The company believes focusing on these combinations could lead to a more targeted and effective attack on tumors.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "Sidewinder said it will focus on cancer indications like colorectal tumors and squamous cell carcinomas that affect large populations but have limited treatment options.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "Sidewinder was founded in 2023 with Series A backing from OrbiMed.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "Including the latest funding, the startup has now raised a total of $162 million.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "Industry storylines within the reporting period also referenced a prior rejection of a Regeneron cancer bispecific.",
-          "url": "https://biopharmadive.com/news/novo-wegovy-price-insmed-acip-charter-biogen-vertex/816812/"
-        },
-        {
-          "text": "Sanofi announced mid-stage study results for lunsekimig, a bispecific drug targeting TSLP and IL-13, on April 7, 2026.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "Lunsekimig met its main and key secondary goals in Phase 2 studies evaluating the treatment in moderate-to-severe asthma and chronic rhinitis with nasal polyps.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "The therapy failed to meet its main objective in a separate trial in atopic dermatitis, failing to meet a certain threshold of skin clearance compared to a placebo.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "Sanofi is under growing pressure to find a successor to Dupixent, a top-selling drug co-developed with Regeneron.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "Boehringer Ingelheim announced an evaluation of an innovative combination of DLL3-targeting T-cell engager plus PD-L1/VEGF-A bispecific antibody in small cell lung cancer.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270861/0/en/Boehringer-Ingelheim-to-evaluate-innovative-combination-of-DLL3-targeting-T-cell-engager-plus-PD-L1-VEGF-A-bispecific-antibody-in-small-cell-lung-cancer.html"
-        },
-        {
-          "text": "Oxford BioTherapeutics entered a strategic collaboration with Bristol Myers Squibb on April 9, 2026, to discover and develop next-generation T-cell engager therapies for solid tumours.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270770/0/en/Oxford-BioTherapeutics-Enters-Strategic-Collaboration-with-Bristol-Myers-Squibb-to-Discover-and-Develop-Next-Generation-T-cell-Engagers-for-Solid-Tumours.html"
-        },
-        {
-          "text": "The Oxford BioTherapeutics collaboration leverages the company's proprietary OGAP®-Verify discovery platform to identify novel, tumour-selective targets.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270770/0/en/Oxford-BioTherapeutics-Enters-Strategic-Collaboration-with-Bristol-Myers-Squibb-to-Discover-and-Develop-Next-Generation-T-cell-Engagers-for-Solid-Tumours.html"
-        },
-        {
-          "text": "Oxford BioTherapeutics will receive an upfront payment and may be eligible to receive milestone payments, as well as royalties on net sales from Bristol Myers Squibb.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270770/0/en/Oxford-BioTherapeutics-Enters-Strategic-Collaboration-with-Bristol-Myers-Squibb-to-Discover-and-Develop-Next-Generation-T-cell-Engagers-for-Solid-Tumours.html"
-        },
-        {
-          "text": "Sanofi noted that treatment benefits observed in asthma with lunsekimig were seen regardless of biomarker status.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "Two Phase 3 trials for lunsekimig are underway in chronic obstructive pulmonary disease, another lung condition.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "Zymeworks Inc. manages a portfolio of licensed healthcare assets while developing a diverse pipeline of novel, multifunctional biotherapeutics.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270723/0/en/Zymeworks-Announces-Additional-Leadership-Appointments-to-Advance-Next-Phase-of-Growth.html"
-        },
-        {
-          "text": "Zymeworks engineered and developed Ziihera, a HER2-targeted bispecific antibody using the Zymeworks’ proprietary Azymetric™ technology.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270723/0/en/Zymeworks-Announces-Additional-Leadership-Appointments-to-Advance-Next-Phase-of-Growth.html"
-        },
-        {
-          "text": "Zymeworks has entered into separate agreements with BeOne Medicines Ltd. and Jazz Pharmaceuticals Ireland Limited granting each exclusive rights to develop and commercialize zanidatamab in different territories.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270723/0/en/Zymeworks-Announces-Additional-Leadership-Appointments-to-Advance-Next-Phase-of-Growth.html"
-        },
-        {
-          "text": "Nanjing Leads Biolabs Co., Ltd. announced that its proprietary PD-L1/4-1BB bispecific antibody, Opamtistomig, has successfully completed the safety run-in stage of a Phase II clinical trial.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "The Phase II clinical trial for Opamtistomig focuses on the first-line treatment of advanced biliary tract cancer (BTC).",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "A total of 20 patients were included in the safety run-in cohort for the Opamtistomig study and completed preliminary evaluation.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "Results demonstrated that Opamtistomig in combination with chemotherapy was generally well tolerated with a favorable safety profile and no new safety signals observed.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "Opamtistomig is a potential first-in-class bispecific antibody that simultaneously targets PD-L1 and the co-stimulatory receptor 4-1BB.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "Opamtistomig received Fast Track Designation by the FDA and Orphan Drug Designation by the European Commission for the treatment of extrapulmonary neuroendocrine carcinoma in January 2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "Leads Biolabs utilizes its proprietary X-Body bispecific platform to develop drug candidates with differentiated clinical outcomes.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "NovaBridge Biosciences secured FDA alignment on givastomig’s potential eligibility for an accelerated approval pathway in first-line gastroesophageal cancer.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "The FDA confirmed givastomig’s potential eligibility for an accelerated approval pathway building on positive data from the Phase 1b combination trial.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "NovaBridge expects to initiate a registrational Phase 3 combination trial as early as Q4 2026 using objective response rate as a primary endpoint.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "Sanofi’s lunsekimig, a novel bispecific nanobody, met primary and key secondary endpoints in phase 2 respiratory studies in asthma and CRSwNP.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3268809/0/en/Press-Release-Sanofi-s-lunsekimig-met-primary-and-key-secondary-endpoints-in-phase-2-respiratory-studies-in-asthma-and-CRSwNP.html"
-        },
-        {
-          "text": "Bispecific antibodies enable enhanced therapeutic efficacy through dual-targeting but pose significant manufacturing and purification challenges requiring innovative solutions.",
-          "url": "https://lifescienceleader.com/doc/advancing-next-generation-biologics-from-cell-line-innovation-to-complex-modalities-0004"
-        },
-        {
-          "text": "Givastomig is a bispecific Claudin 18.2 X 4-1BB antibody with the potential to be a first-in-class therapeutic in Her-2 negative, CLDN 18.2 positive, PD-L1-positive gastroesophageal cancer.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "Phase 1b dose expansion data showed givastomig produced a 75% objective response rate across a wide range of PD-L1 and CLDN18.2 expression levels.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "Samsung Biologics offers solutions for redefining bispecific antibody development with structural innovation and enhanced manufacturability.",
-          "url": "https://lifescienceleader.com/doc/advancing-next-generation-biologics-from-cell-line-innovation-to-complex-modalities-0004"
-        },
-        {
-          "text": "Merck has initiated a pivotal phase 2b/3 trial for Tiespectus, an investigational bispecific tie2 agonist/VEGF inhibitor, to treat neovascular age-related macular degeneration.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185169&sid=2"
-        },
-        {
-          "text": "The EMERALD-3 phase III trial demonstrated that Imfinzi plus Imjudo combined with lenvatinib and TACE improved progression-free survival in embolisation-eligible unresectable liver cancer.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185172&sid=2"
-        },
-        {
-          "text": "Five years after an initial lupus breakthrough, CAR-T therapy continues to surprise autoimmunity researchers with sustained remission in treated patients.",
-          "url": "https://statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/"
-        },
-        {
-          "text": "There is a significant level of interest from pharma in the area of autoimmune disease treatment using advanced cell therapies.",
-          "url": "https://statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/"
-        },
-        {
-          "text": "Georg Schett and Fabian Müller at the University of Erlangen-Nuremberg successfully treated a young patient with lupus using chimeric antigen receptor T cells.",
-          "url": "https://statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/"
-        },
-        {
-          "text": "The EMERALD-3 trial results were described as statistically significant and clinically meaningful for the liver cancer indication.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185172&sid=2"
-        },
-        {
-          "text": "MacroGenics received regulatory clearance to resume enrollment in the phase 2 LINNET study for lorigerlimab following a partial clinical hold.",
+          "text": "MacroGenics — Lorigerlimab — Platinum-resistant ovarian and clear cell gynecologic cancer — FDA lifted partial clinical hold on Phase 2 LINNET study (NCT06730347) following safety review; trial resumes enrollment with revised protocol.",
           "url": "https://cancernetwork.com/view/fda-lifts-partial-clinical-hold-on-lorigerlimab-for-gynecologic-cancer"
         },
         {
-          "text": "Lorigerlimab is an investigational bispecific DART molecule designed to simultaneously target PD-1 and CTLA-4 for gynecologic cancers.",
-          "url": "https://cancernetwork.com/view/fda-lifts-partial-clinical-hold-on-lorigerlimab-for-gynecologic-cancer"
+          "text": "ABL Bio / Compass Therapeutics — Tovecimig (CTX-009) — Biliary Tract Cancer — FDA granted orphan drug designation for the DLL4/VEGF-A bispecific antibody following phase 2/3 COMPANION-002 trial results.",
+          "url": "https://cancernetwork.com/view/fda-grants-orphan-drug-designation-to-tovecimig-for-biliary-tract-cancer"
         },
         {
-          "text": "Research from Cedars-Sinai Cancer Center investigates T cell immune fitness to predict outcomes for patients treated with bispecific T cell engager antibodies.",
-          "url": "https://the-scientist.com/postdoc-portrait-maryam-kazerani-pasikhani-74320"
+          "text": "MajesTEC-3 Phase 3 study evaluated a BCMA-directed bispecific antibody in combination with daratumumab and dexamethasone for relapsed multiple myeloma, demonstrating improved progression-free survival.",
+          "url": "https://cancernetwork.com/view/interpreting-majestec-3-efficacy-in-multiple-myeloma"
         },
         {
-          "text": "Mechanistic studies suggest moving bispecific antibodies to earlier treatment settings, such as consolidation therapy, to improve clinical outcomes in hematologic malignancies.",
-          "url": "https://the-scientist.com/postdoc-portrait-maryam-kazerani-pasikhani-74320"
-        },
-        {
-          "text": "The FDA’s Office of Oncologic Diseases reviewed safety data including grade 4 neutropenia and myocarditis events to mitigate risks in the LINNET trial.",
-          "url": "https://cancernetwork.com/view/fda-lifts-partial-clinical-hold-on-lorigerlimab-for-gynecologic-cancer"
-        },
-        {
-          "text": "Longitudinal immune monitoring is being utilized to define T cell immune fitness as a biomarker for predicting treatment responses to bispecific immunotherapies.",
-          "url": "https://the-scientist.com/postdoc-portrait-maryam-kazerani-pasikhani-74320"
-        },
-        {
-          "text": "Clinical data updates for the LINNET study are expected in the second half of 2026 to provide insight into efficacy in platinum-resistant and clear cell gynecologic malignancies.",
-          "url": "https://cancernetwork.com/view/fda-lifts-partial-clinical-hold-on-lorigerlimab-for-gynecologic-cancer"
-        },
-        {
-          "text": "Real-world evidence in diffuse large B-cell lymphoma indicates that bispecific antibodies are emerging as part of the evolving therapeutic landscape alongside monoclonal antibodies.",
-          "url": "https://cancernetwork.com/view/real-world-evidence-confirms-tafasitamab-benefit-in-r-r-dlbcl"
-        },
-        {
-          "text": "Safety concerns previously paused the LINNET trial due to serious safety events including a grade 5 fatal event linked to neutropenia and septic shock.",
-          "url": "https://cancernetwork.com/view/fda-lifts-partial-clinical-hold-on-lorigerlimab-for-gynecologic-cancer"
-        },
-        {
-          "text": "Bispecific antibody development faces challenges regarding sustained responses in patients with acute myeloid leukemia compared to other disease stages.",
-          "url": "https://the-scientist.com/postdoc-portrait-maryam-kazerani-pasikhani-74320"
+          "text": "Bispecific antibodies targeting BCMA have emerged as critical therapeutic options for relapsed multiple myeloma, showing meaningful response rates in heavily pretreated populations.",
+          "url": "https://cancernetwork.com/view/role-of-bispecific-antibodies-in-multiple-myeloma"
         }
       ]
     },
@@ -424,112 +56,40 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Sidewinder Therapeutics — Bispecific ADCs — Colorectal tumors and squamous cell carcinomas — Secured $137M Series B financing for clinical advancement.",
+          "text": "Sidewinder Therapeutics — Bispecific ADCs — Oncology — $137M Series B funding secured April 8, 2026; platform designed to recognize dual targets to broaden ADC reach beyond current limitations.",
           "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
         },
         {
-          "text": "Sanofi — Lunsekimig — Moderate-to-severe asthma — Phase 2 success.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
+          "text": "Genmab — Rinatabart Sesutecan (Rina-S) — Advanced Ovarian Cancer — Presented safety and tolerability data in combination with bevacizumab; Rinatabart is a bispecific antibody-drug conjugate targeting CD3 and CD38.",
+          "url": "https://globenewswire.com/news-release/2026/04/13/3272591/0/en/Genmab-Presents-the-Safety-and-Tolerability-of-Rinatabart-Sesutecan-Rina-S-in-Combination-with-Bevacizumab-in-Advanced-Ovarian-Cancer.html"
         },
         {
-          "text": "Sanofi — Lunsekimig — Chronic rhinitis with nasal polyps — Phase 2 success.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
+          "text": "Regeneron — Bispecific antibody discovery platform — Oncology radiopharmaceuticals — Partnered with Telix to develop solid tumor therapies; $40M upfront payment secured with up to $2.1B in potential milestones.",
+          "url": "https://globenewswire.com/news-release/2026/04/13/3272191/0/en/Dupixent-dupilumab-Approved-in-the-EU-as-the-First-Targeted-Medicine-to-Treat-Young-Children-with-Chronic-Spontaneous-Urticaria-CSU.html"
         },
         {
-          "text": "Sanofi — Lunsekimig — Atopic dermatitis — Phase 2 failure.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
+          "text": "BCC Research — Global Bispecific Antibodies Market — Immuno-oncology — Market valuation forecasted at $22.3 billion by 2030; growth driven by R&D investment and innovation in bispecific platforms.",
+          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
         },
         {
-          "text": "Boehringer Ingelheim — PD-L1/VEGF-A bispecific antibody — Small cell lung cancer — Combination evaluation.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270861/0/en/Boehringer-Ingelheim-to-evaluate-innovative-combination-of-DLL3-targeting-T-cell-engager-plus-PD-L1-VEGF-A-bispecific-antibody-in-small-cell-lung-cancer.html"
+          "text": "Genentech — Vabysmo (faricimab-svoa) — Macular edema due to retinal vein occlusion — FDA label update approved April 10, 2026, allowing treatment continuation beyond 6 months; bispecific antibody inhibits angiopoietin-1 and VEGF-A.",
+          "url": "https://www.healio.com/news/ophthalmology/20260410/fda-approves-vabysmo-label-update-for-macular-edema-due-to-retinal-vein-occlusion"
         },
         {
-          "text": "Oxford BioTherapeutics — T-cell engagers/Bispecific Antibodies — Solid tumours — Discovery collaboration.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270770/0/en/Oxford-BioTherapeutics-Enters-Strategic-Collaboration-with-Bristol-Myers-Squibb-to-Discover-and-Develop-Next-Generation-T-cell-Engagers-for-Solid-Tumours.html"
+          "text": "Boehringer Ingelheim — DLL3-targeting T-cell engager + PD-L1/VEGF-A bispecific antibody — Small Cell Lung Cancer — Combination therapy evaluation initiated to target dual pathways in SCLC.",
+          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185312&sid=2"
         },
         {
-          "text": "Zymeworks — Ziihera (zanidatamab-hrii) — HER2-positive cancers — Exclusive commercialization rights granted to BeOne Medicines Ltd. and Jazz Pharmaceuticals Ireland Limited.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270723/0/en/Zymeworks-Announces-Additional-Leadership-Appointments-to-Advance-Next-Phase-of-Growth.html"
-        },
-        {
-          "text": "Leads Biolabs — Opamtistomig (LBL-024) — Advanced Biliary Tract Cancer — Phase II trial advanced to expansion phase following safety run-in completion.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "Leads Biolabs — Opamtistomig (LBL-024) — Extrapulmonary Neuroendocrine Carcinoma — Granted Fast Track Designation by FDA and Orphan Drug Designation by European Commission in January 2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "MacroGenics — Lorigerlimab — Platinum-resistant ovarian cancer / Clear cell gynecologic cancer — FDA removes partial clinical hold on Phase 2 LINNET study.",
-          "url": "https://globenewswire.com/news-release/2026/04/08/3270538/0/en/FDA-Removes-Partial-Clinical-Hold-on-MacroGenics-LINNET-Study.html"
-        },
-        {
-          "text": "MacroGenics — MGD024 — Acute myeloid leukemia / Myelodysplastic syndromes — Ongoing dose escalation study of CD123 × CD3 bispecific DART molecule with Gilead.",
-          "url": "https://globenewswire.com/news-release/2026/04/08/3270538/0/en/FDA-Removes-Partial-Clinical-Hold-on-MacroGenics-LINNET-Study.html"
-        },
-        {
-          "text": "NovaBridge Biosciences — Givastomig — First-line Her2-, CLDN 18.2+, PD-L1+ Gastroesophageal Cancer — FDA Type B meeting confirmed potential eligibility for accelerated approval pathway.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "Sanofi — Lunsekimig — Asthma and Chronic Rhinosinusitis with Nasal Polyps (CRSwNP) — Phase 2 studies met primary and key secondary endpoints.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3268809/0/en/Press-Release-Sanofi-s-lunsekimig-met-primary-and-key-secondary-endpoints-in-phase-2-respiratory-studies-in-asthma-and-CRSwNP.html"
-        },
-        {
-          "text": "Sidewinder Therapeutics — Bispecific ADCs — Colorectal tumors and squamous cell carcinomas — Secured $137M Series B financing to advance into clinical testing.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "Sanofi — Lunsekimig — Moderate-to-severe asthma and nasal polyps — Phase 2 success with statistically significant reduction in symptom flare-ups.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "Sanofi — Lunsekimig — Atopic dermatitis — Phase 2 failure to meet main objective for skin clearance compared to placebo.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "Boehringer Ingelheim — DLL3-targeting T-cell engager plus PD-L1/VEGF-A bispecific antibody — Small cell lung cancer — Evaluation of innovative combination therapy.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270861/0/en/Boehringer-Ingelheim-to-evaluate-innovative-combination-of-DLL3-targeting-T-cell-engager-plus-PD-L1-VEGF-A-bispecific-antibody-in-small-cell-lung-cancer.html"
-        },
-        {
-          "text": "Oxford BioTherapeutics — Next-Generation T-cell Engagers — Solid tumours — Strategic collaboration with Bristol Myers Squibb for discovery and development.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270770/0/en/Oxford-BioTherapeutics-Enters-Strategic-Collaboration-with-Bristol-Myers-Squibb-to-Discover-and-Develop-Next-Generation-T-cell-Engagers-for-Solid-Tumours.html"
-        },
-        {
-          "text": "Zymeworks — Ziihera (zanidatamab) — HER2-targeted indications — Exclusive development and commercialization rights granted to BeOne Medicines and Jazz Pharmaceuticals.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270723/0/en/Zymeworks-Announces-Additional-Leadership-Appointments-to-Advance-Next-Phase-of-Growth.html"
-        },
-        {
-          "text": "Leads Biolabs — Opamtistomig (LBL-024) — Advanced Biliary Tract Cancer — Phase II expansion phase initiated following positive safety run-in results.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "Sanofi — Lunsekimig — Asthma and Chronic Rhinosinusitis with Nasal Polyps — Phase 2 studies met primary and key secondary endpoints.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3268809/0/en/Press-Release-Sanofi-s-lunsekimig-met-primary-and-key-secondary-endpoints-in-phase-2-respiratory-studies-in-asthma-and-CRSwNP.html"
-        },
-        {
-          "text": "NovaBridge Biosciences — Ragistomig — Solid Tumors — Collaborating with ABL Bio for development of bispecific antibody integrating PD-L1 as a tumor engager and 4-1BB as a conditional T cell activator.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "Merck — Tiespectus — Neovascular Age-Related Macular Degeneration — Initiated pivotal phase 2b/3 trial of investigational bispecific tie2 agonist/VEGF inhibitor.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185169&sid=2"
-        },
-        {
-          "text": "Imfinzi plus Imjudo — Unresectable Liver Cancer — EMERALD-3 phase III trial demonstrated statistically significant improvement in progression-free survival with lenvatinib and TACE.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185172&sid=2"
-        },
-        {
-          "text": "University of Erlangen-Nuremberg — CAR-T Therapy — Systemic Lupus Erythematosus — Five-year follow-up confirms sustained remission in initial patient case.",
-          "url": "https://statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/"
-        },
-        {
-          "text": "MacroGenics — Lorigerlimab — Platinum-resistant ovarian and clear cell gynecologic cancer — FDA lifts partial clinical hold on phase 2 LINNET study.",
+          "text": "MacroGenics — Lorigerlimab — Platinum-resistant ovarian and clear cell gynecologic cancer — FDA lifted partial clinical hold on Phase 2 LINNET study; hold was initiated in February 2026 due to grade 4 neutropenia, grade 4 myocarditis, and one grade 5 fatal event.",
           "url": "https://cancernetwork.com/view/fda-lifts-partial-clinical-hold-on-lorigerlimab-for-gynecologic-cancer"
         },
         {
-          "text": "Cedars-Sinai Cancer Center — Bispecific T cell engager antibodies — Acute myeloid leukemia — Research identifies distinct T cell functional states affecting sustained responses.",
-          "url": "https://the-scientist.com/postdoc-portrait-maryam-kazerani-pasikhani-74320"
+          "text": "ABL Bio / Compass Therapeutics — Tovecimig (CTX-009) — Biliary Tract Cancer — FDA granted orphan drug designation; phase 2/3 COMPANION-002 trial showed 17.1% ORR vs 5.3% with paclitaxel monotherapy (p=0.031).",
+          "url": "https://cancernetwork.com/view/fda-grants-orphan-drug-designation-to-tovecimig-for-biliary-tract-cancer"
+        },
+        {
+          "text": "MajesTEC-3 — BCMA-directed bispecific antibody + daratumumab/dexamethasone — Relapsed Multiple Myeloma — Phase 3 trial demonstrated improved progression-free survival and deep, durable responses in patients with prior anti-CD38 and lenalidomide exposure.",
+          "url": "https://cancernetwork.com/view/interpreting-majestec-3-efficacy-in-multiple-myeloma"
         }
       ]
     },
@@ -537,112 +97,40 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Sidewinder Therapeutics — Advance precision bispecific ADCs — Lead program targeting protein combinations on cancer cells.",
+          "text": "Sidewinder Therapeutics — Precision bispecific ADC development — Bispecific ADC platform — $137M Series B raised; investors include OrbiMed and Novartis Venture Fund; targeting expanded tumor antigen recognition.",
           "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
         },
         {
-          "text": "Novartis — Invest in next-generation bispecific ADC technology — Venture arm co-led Sidewinder Series B financing.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
+          "text": "Genmab — Bispecific antibody development and commercialization — Rinatabart Sesutecan (Rina-S) and broader pipeline — Advancing eight approved antibody medicines and multiple late-stage bispecific programs.",
+          "url": "https://globenewswire.com/news-release/2026/04/13/3272591/0/en/Genmab-Presents-the-Safety-and-Tolerability-of-Rinatabart-Sesutecan-Rina-S-in-Combination-with-Bevacizumab-in-Advanced-Ovarian-Cancer.html"
         },
         {
-          "text": "Lonza (Synaffix) — Provide ADC technology platform — Partnered with Sidewinder for technology licensing access.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
+          "text": "Regeneron — Expansion into radiopharmaceuticals via bispecific antibody technology — VelocImmune-derived solid tumor targets — 50/50 cost/profit-sharing model with Telix; initial focus on lung cancer and radio-diagnostics.",
+          "url": "https://globenewswire.com/news-release/2026/04/13/3272191/0/en/Dupixent-dupilumab-Approved-in-the-EU-as-the-First-Targeted-Medicine-to-Treat-Young-Children-with-Chronic-Spontaneous-Urticaria-CSU.html"
         },
         {
-          "text": "Sanofi — Find successor to Dupixent — Lunsekimig.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
+          "text": "Telix — Commercialization of next-gen radiopharmaceuticals — Regeneron bispecific antibody portfolio — $40M upfront received; option to co-fund commercialization or earn royalties.",
+          "url": "https://globenewswire.com/news-release/2026/04/13/3272191/0/en/Dupixent-dupilumab-Approved-in-the-EU-as-the-First-Targeted-Medicine-to-Treat-Young-Children-with-Chronic-Spontaneous-Urticaria-CSU.html"
         },
         {
-          "text": "Boehringer Ingelheim — Evaluate innovative combination of DLL3-targeting T-cell engager plus bispecific antibody — PD-L1/VEGF-A bispecific antibody.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270861/0/en/Boehringer-Ingelheim-to-evaluate-innovative-combination-of-DLL3-targeting-T-cell-engager-plus-PD-L1-VEGF-A-bispecific-antibody-in-small-cell-lung-cancer.html"
+          "text": "BCC Research — Market intelligence on bispecific antibodies — Global bispecific antibody market — Forecasting $22.3 billion valuation by 2030; focus on immuno-oncology sector expansion.",
+          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
         },
         {
-          "text": "Oxford BioTherapeutics — Discover and develop next-generation T-cell engagers — OGAP®-Verify platform programs.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270770/0/en/Oxford-BioTherapeutics-Enters-Strategic-Collaboration-with-Bristol-Myers-Squibb-to-Discover-and-Develop-Next-Generation-T-cell-Engagers-for-Solid-Tumours.html"
-        },
-        {
-          "text": "Zymeworks Inc. — Developing a diverse pipeline of novel, multifunctional biotherapeutics including bispecific antibodies and antibody drug conjugates — Ziihera (zanidatamab-hrii).",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270723/0/en/Zymeworks-Announces-Additional-Leadership-Appointments-to-Advance-Next-Phase-of-Growth.html"
-        },
-        {
-          "text": "Leads Biolabs Co., Ltd. — Discovery, development, and commercialization of innovative therapies in oncology using proprietary platforms — Opamtistomig (LBL-024).",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "MacroGenics — Developing innovative antibody-based therapeutics including bispecific DART molecules and ADCs for cancer treatment.",
-          "url": "https://globenewswire.com/news-release/2026/04/08/3270538/0/en/FDA-Removes-Partial-Clinical-Hold-on-MacroGenics-LINNET-Study.html"
-        },
-        {
-          "text": "Cue Biopharma — Developing a novel class of therapeutic biologics to selectively engage and modulate disease-specific T cells for autoimmune and inflammatory diseases.",
-          "url": "https://globenewswire.com/news-release/2026/04/08/3270032/0/en/Cue-Biopharma-to-Receive-7-5-Million-Preclinical-Milestone-Payment-from-Boehringer-Ingelheim-Collaboration-and-License-Agreement.html"
-        },
-        {
-          "text": "NovaBridge Biosciences — Accelerating access to innovative medicines with a differentiated pipeline led by givastomig and VIS-101 — Givastomig (Claudin 18.2 X 4-1BB bispecific antibody).",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "Sanofi — Developing novel bispecific nanobodies for respiratory conditions — Lunsekimig (Bispecific nanobody for asthma and CRSwNP).",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3268809/0/en/Press-Release-Sanofi-s-lunsekimig-met-primary-and-key-secondary-endpoints-in-phase-2-respiratory-studies-in-asthma-and-CRSwNP.html"
-        },
-        {
-          "text": "Samsung Biologics — Offering fully integrated, end-to-end CDMO partner services for biologics — S-DUAL™ (Bispecific antibody development and manufacturing solutions).",
+          "text": "Samsung Biologics — Bispecific antibody manufacturing optimization — S-DUAL™ platform — Addressing structural complexity and purification challenges for bsAbs to ensure product purity and clinical viability.",
           "url": "https://lifescienceleader.com/doc/advancing-next-generation-biologics-from-cell-line-innovation-to-complex-modalities-0004"
         },
         {
-          "text": "Sidewinder Therapeutics — Strategic objective to lead innovation in next-generation bispecific ADCs — Associated program is lead bispecific ADC targeting protein combinations on cancer cells.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
+          "text": "Boehringer Ingelheim — Advancing bispecific antibody combinations — PD-L1/VEGF-A bispecific antibody + DLL3 T-cell engager — Early-stage evaluation for Small Cell Lung Cancer.",
+          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185312&sid=2"
         },
         {
-          "text": "Sanofi — Find a successor to Dupixent — Lunsekimig bispecific drug.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "Boehringer Ingelheim — Evaluate innovative combination therapy in oncology — DLL3-targeting T-cell engager plus PD-L1/VEGF-A bispecific antibody.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270861/0/en/Boehringer-Ingelheim-to-evaluate-innovative-combination-of-DLL3-targeting-T-cell-engager-plus-PD-L1-VEGF-A-bispecific-antibody-in-small-cell-lung-cancer.html"
-        },
-        {
-          "text": "Oxford BioTherapeutics — Advance oncology innovation via proprietary platform — OGAP®-Verify and T-cell engager therapies.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270770/0/en/Oxford-BioTherapeutics-Enters-Strategic-Collaboration-with-Bristol-Myers-Squibb-to-Discover-and-Develop-Next-Generation-T-cell-Engagers-for-Solid-Tumours.html"
-        },
-        {
-          "text": "Bristol Myers Squibb — Lead subsequent research, development and commercialisation — T-cell engager therapies for solid tumours.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270770/0/en/Oxford-BioTherapeutics-Enters-Strategic-Collaboration-with-Bristol-Myers-Squibb-to-Discover-and-Develop-Next-Generation-T-cell-Engagers-for-Solid-Tumours.html"
-        },
-        {
-          "text": "Zymeworks Inc. — Strategic objective to optimize positive future cash flows from licensed products and support development of innovative medicines — Associated drug Ziihera (zanidatamab-hrii).",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270723/0/en/Zymeworks-Announces-Additional-Leadership-Appointments-to-Advance-Next-Phase-of-Growth.html"
-        },
-        {
-          "text": "Nanjing Leads Biolabs Co., Ltd. — Strategic objective to address underserved medical needs in oncology with next-generation immuno-oncology treatments — Associated drug Opamtistomig (LBL-024).",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "Sanofi Winthrop Industrie — Developing novel bispecific nanobodies for chronic respiratory conditions — Lunsekimig (Bispecific nanobody).",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3268809/0/en/Press-Release-Sanofi-s-lunsekimig-met-primary-and-key-secondary-endpoints-in-phase-2-respiratory-studies-in-asthma-and-CRSwNP.html"
-        },
-        {
-          "text": "Samsung Biologics — Offering seamless development and manufacturing services from cell line development to final aseptic fill/finish for biologics — S-DUAL™ Brochure and bispecific antibody manufacturing solutions.",
-          "url": "https://lifescienceleader.com/doc/advancing-next-generation-biologics-from-cell-line-innovation-to-complex-modalities-0004"
-        },
-        {
-          "text": "Merck — Developing bispecific tie2 agonist/VEGF inhibitor for ophthalmology indications — Tiespectus.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185169&sid=2"
-        },
-        {
-          "text": "Imfinzi plus Imjudo Program — Evaluating combination immunotherapy in liver cancer — EMERALD-3 phase III trial.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185172&sid=2"
-        },
-        {
-          "text": "University of Erlangen-Nuremberg — Advancing CAR-T therapy for autoimmune conditions — Lupus CAR-T program.",
-          "url": "https://statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/"
-        },
-        {
-          "text": "MacroGenics — Developing bispecific DART molecules for solid tumors — Lorigerlimab (PD-1/CTLA-4 bispecific).",
+          "text": "MacroGenics — Bispecific DART molecule development — Lorigerlimab (PD-1/CTLA-4 bispecific) — Phase 2 LINNET study resumed enrollment after FDA hold lift; mid-year clinical update expected.",
           "url": "https://cancernetwork.com/view/fda-lifts-partial-clinical-hold-on-lorigerlimab-for-gynecologic-cancer"
         },
         {
-          "text": "Cedars-Sinai Cancer Center — Optimizing immunotherapeutic strategies for hematologic malignancies — Bispecific T cell engager antibody research.",
-          "url": "https://the-scientist.com/postdoc-portrait-maryam-kazerani-pasikhani-74320"
+          "text": "ABL Bio / Compass Therapeutics — Commercialization of bispecific antibody pipeline — Tovecimig (CTX-009) — Secured FDA orphan drug and fast track designations for biliary tract cancer indication; phase 2/3 data supports regulatory filing strategy.",
+          "url": "https://cancernetwork.com/view/fda-grants-orphan-drug-designation-to-tovecimig-for-biliary-tract-cancer"
         }
       ]
     },
@@ -650,188 +138,36 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "Mechanism involves bispecific ADCs recognizing protein combinations on cancer cells.",
+          "text": "Sidewinder Bispecific ADCs — Mechanism: Dual-target recognition via bispecific antibody scaffold linked to cytotoxic payload — Phase: Preclinical/Early Clinical — Population: Solid tumors with limited ADC accessibility — Comparator: Conventional monospecific ADCs — Goal: Overcome antigen heterogeneity and improve tumor cell killing precision.",
           "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
         },
         {
-          "text": "Targeting includes one protein receptor driving cancer and another that pulls substances into cells.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
+          "text": "Rinatabart Sesutecan — Mechanism: Bispecific antibody targeting CD3 and tumor-associated antigen — Phase: Clinical development — Population: Advanced ovarian cancer patients — Comparator: Combination with bevacizumab — Status: Safety and tolerability data presented.",
+          "url": "https://globenewswire.com/news-release/2026/04/13/3272591/0/en/Genmab-Presents-the-Safety-and-Tolerability-of-Rinatabart-Sesutecan-Rina-S-in-Combination-with-Bevacizumab-in-Advanced-Ovarian-Cancer.html"
         },
         {
-          "text": "Lead program is expected to enter clinical development in 2027.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
+          "text": "Regeneron bispecific antibodies — Mechanism: VelocImmune mouse-derived solid tumor targeting — Phase: Preclinical/Early development (collaboration launch) — Population: Solid tumor patients — Strategy: Combination with radio-diagnostics for patient selection.",
+          "url": "https://globenewswire.com/news-release/2026/04/13/3272191/0/en/Dupixent-dupilumab-Approved-in-the-EU-as-the-First-Targeted-Medicine-to-Treat-Young-Children-with-Chronic-Spontaneous-Urticaria-CSU.html"
         },
         {
-          "text": "Indications include colorectal tumors and squamous cell carcinomas affecting large populations.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
+          "text": "Vabysmo (faricimab-svoa) — Mechanism: Bispecific antibody inhibiting angiopoietin-1 and VEGF-A — Phase: Approved (Label Update) — Population: Patients with macular edema due to retinal vein occlusion — Comparator: N/A — Outcome: Extended treatment duration beyond 6 months approved by FDA.",
+          "url": "https://www.healio.com/news/ophthalmology/20260410/fda-approves-vabysmo-label-update-for-macular-edema-due-to-retinal-vein-occlusion"
         },
         {
-          "text": "Lunsekimig — Bispecific targeting TSLP and IL-13 — Phase 2 — Moderate-to-severe asthma — Statistically significant reduction in symptom flare-ups.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
+          "text": "PD-L1/VEGF-A bispecific antibody — Mechanism: Dual blockade of PD-L1 immune checkpoint and VEGF-A angiogenesis pathway — Phase: Preclinical/Early Clinical (Combination study) — Population: Small Cell Lung Cancer — Context: Being evaluated in combination with DLL3-targeting T-cell engager.",
+          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185312&sid=2"
         },
         {
-          "text": "Lunsekimig — Bispecific targeting TSLP and IL-13 — Phase 2 — Chronic rhinitis with nasal polyps — Reduced size and severity of nasal polyps.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "Lunsekimig — Bispecific targeting TSLP and IL-13 — Phase 2 — Atopic dermatitis — Failed to meet skin clearance threshold compared to placebo.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "PD-L1/VEGF-A bispecific antibody — Bispecific antibody — Clinical evaluation — Small cell lung cancer — Combination with DLL3-targeting T-cell engager.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270861/0/en/Boehringer-Ingelheim-to-evaluate-innovative-combination-of-DLL3-targeting-T-cell-engager-plus-PD-L1-VEGF-A-bispecific-antibody-in-small-cell-lung-cancer.html"
-        },
-        {
-          "text": "Oxford BioTherapeutics programs — Bispecific Antibodies — Preclinical/Discovery — Solid tumours — Leveraging OGAP®-Verify platform.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270770/0/en/Oxford-BioTherapeutics-Enters-Strategic-Collaboration-with-Bristol-Myers-Squibb-to-Discover-and-Develop-Next-Generation-T-cell-Engagers-for-Solid-Tumours.html"
-        },
-        {
-          "text": "Opamtistomig (LBL-024) — Mechanism: Simultaneously blocks PD-1/L1-mediated immune suppression and activates 4-1BB co-stimulatory pathway using a 2:2 molecular format.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "Opamtistomig (LBL-024) — Trial Phase: Phase II — Patient Population: Advanced biliary tract cancer (first-line) — Results: Safety run-in of 20 patients showed favorable safety profile with no new safety signals and encouraging tumor reduction trends.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "Ziihera (zanidatamab-hrii) — Mechanism: HER2-targeted bispecific antibody engineered using Zymeworks’ proprietary Azymetric™ technology.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270723/0/en/Zymeworks-Announces-Additional-Leadership-Appointments-to-Advance-Next-Phase-of-Growth.html"
-        },
-        {
-          "text": "Lorigerlimab — PD-1 × CTLA-4 bispecific DART molecule — Phase 2 monotherapy — Patients with platinum-resistant ovarian cancer or clear cell gynecologic cancer — LINNET study update planned for mid-2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/08/3270538/0/en/FDA-Removes-Partial-Clinical-Hold-on-MacroGenics-LINNET-Study.html"
-        },
-        {
-          "text": "MGD024 — CD123 × CD3 bispecific DART molecule — Clinical-stage dose escalation — Patients with AML and MDS — Advancing in collaboration with Gilead.",
-          "url": "https://globenewswire.com/news-release/2026/04/08/3270538/0/en/FDA-Removes-Partial-Clinical-Hold-on-MacroGenics-LINNET-Study.html"
-        },
-        {
-          "text": "CUE-401 — Tolerogenic bifunctional molecule combining TGF-beta breathing-mask moiety with IL-2 mutein — Preclinical/Early development — Designed to regulate proinflammatory mechanisms and induce regulatory T cell differentiation.",
-          "url": "https://globenewswire.com/news-release/2026/04/08/3270032/0/en/Cue-Biopharma-to-Receive-7-5-Million-Preclinical-Milestone-Payment-from-Boehringer-Ingelheim-Collaboration-and-License-Agreement.html"
-        },
-        {
-          "text": "Givastomig conditionally activates T cells through the 4-1BB signaling pathway in the tumor microenvironment where Claudin 18.2 is expressed.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "Givastomig Phase 1b dose expansion study evaluated 8 mg/kg and 12 mg/kg every two weeks in first-line gastric cancer patients.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "Givastomig Phase 1b results showed 75% objective response rate (ORR) with 77% ORR at 8 mg/kg and 73% ORR at 12 mg/kg (n=52 evaluable).",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "Givastomig Phase 1b results showed durable responses with 16.9-month median progression-free survival (mPFS) and an 82% 6-month landmark PFS rate (n=53 evaluable).",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "Lunsekimig is a novel bispecific nanobody evaluated in phase 2 respiratory studies for asthma and CRSwNP.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3268809/0/en/Press-Release-Sanofi-s-lunsekimig-met-primary-and-key-secondary-endpoints-in-phase-2-respiratory-studies-in-asthma-and-CRSwNP.html"
-        },
-        {
-          "text": "Lunsekimig phase 2 studies met primary and key secondary endpoints in two chronic respiratory conditions.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3268809/0/en/Press-Release-Sanofi-s-lunsekimig-met-primary-and-key-secondary-endpoints-in-phase-2-respiratory-studies-in-asthma-and-CRSwNP.html"
-        },
-        {
-          "text": "Drug mechanism involves bispecific ADCs recognizing protein combinations where one receptor drives cancer and another pulls substances into cells.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "Development status expects lead program to push into clinical development in 2027.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "Patient population targets include individuals with colorectal tumors and squamous cell carcinomas.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "Lunsekimig is a bispecific drug that targets two known drivers of inflammation, TSLP and IL-13.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "In asthma Phase 2 studies, lunsekimig treatment led to a statistically significant and clinically meaningful reduction in symptom flare-ups and helped improve lung function.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "In chronic rhinitis with nasal polyps Phase 2 studies, lunsekimig reduced the size and severity of nasal polyps as well as related congestion.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "The drug was generally well tolerated across the trials, with serious adverse events and discontinuation rates comparable between treatment and placebo recipients.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "Boehringer Ingelheim is evaluating a combination of DLL3-targeting T-cell engager plus PD-L1/VEGF-A bispecific antibody in small cell lung cancer.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270861/0/en/Boehringer-Ingelheim-to-evaluate-innovative-combination-of-DLL3-targeting-T-cell-engager-plus-PD-L1-VEGF-A-bispecific-antibody-in-small-cell-lung-cancer.html"
-        },
-        {
-          "text": "Oxford BioTherapeutics OGAP®-Verify discovery platform enables highly sensitive identification of oncology targets with improved attributes for drug development.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270770/0/en/Oxford-BioTherapeutics-Enters-Strategic-Collaboration-with-Bristol-Myers-Squibb-to-Discover-and-Develop-Next-Generation-T-cell-Engagers-for-Solid-Tumours.html"
-        },
-        {
-          "text": "Opamtistomig utilizes a 2:2 molecular format incorporating two binding domains each for PD-L1 and 4-1BB with an optimized affinity ratio to reverse immune suppression and enhance T-cell activation.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "The Phase II trial for Opamtistomig in biliary tract cancer included a safety run-in cohort of 20 patients receiving the bispecific antibody in combination with chemotherapy.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "Preliminary efficacy assessments for Opamtistomig indicated encouraging tumor reduction trends in the advanced biliary tract cancer study.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "Ziihera is engineered using Zymeworks’ proprietary Azymetric™ technology as a HER2-targeted bispecific antibody.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270723/0/en/Zymeworks-Announces-Additional-Leadership-Appointments-to-Advance-Next-Phase-of-Growth.html"
-        },
-        {
-          "text": "Opamtistomig has demonstrated first- or best-in-class potential in Phase II or registrational clinical trials across non-small cell lung cancer, small cell lung cancer, and extrapulmonary neuroendocrine carcinoma.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
-        },
-        {
-          "text": "Givastomig mechanism involves conditional activation of T cells through the 4-1BB signaling pathway in the tumor microenvironment where CLDN18.2 is expressed.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "Phase 1b dose expansion study utilized givastomig dosed at 8 mg/kg and 12 mg/kg every two weeks in combination with immunochemotherapy.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "Evaluable patient population for givastomig Phase 1b data included 52 patients for objective response rate and 53 for progression free survival analysis.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "Lunsekimig is characterized as a novel bispecific nanobody targeting respiratory conditions including asthma and CRSwNP.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3268809/0/en/Press-Release-Sanofi-s-lunsekimig-met-primary-and-key-secondary-endpoints-in-phase-2-respiratory-studies-in-asthma-and-CRSwNP.html"
-        },
-        {
-          "text": "Bispecific antibodies enable enhanced therapeutic efficacy through dual-targeting but complex structure poses significant manufacturing and purification challenges.",
-          "url": "https://lifescienceleader.com/doc/advancing-next-generation-biologics-from-cell-line-innovation-to-complex-modalities-0004"
-        },
-        {
-          "text": "Tiespectus — Bispecific tie2 agonist/VEGF inhibitor — Phase 2b/3 — Neovascular age-related macular degeneration — Pivotal trial initiated.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185169&sid=2"
-        },
-        {
-          "text": "Imfinzi plus Imjudo — Dual checkpoint inhibition (PD-L1 and CTLA-4) — Phase III (EMERALD-3) — Embolisation-eligible unresectable liver cancer — Progression-free survival improvement.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185172&sid=2"
-        },
-        {
-          "text": "CAR-T Therapy — Chimeric antigen receptor T cells — Clinical observation — Systemic Lupus Erythematosus — Five-year remission status.",
-          "url": "https://statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/"
-        },
-        {
-          "text": "Lorigerlimab — Bispecific DART molecule targeting PD-1 and CTLA-4 — Phase 2 LINNET study — Platinum-resistant ovarian cancer and clear cell gynecologic cancer — Primary endpoint: Objective response rate (ORR).",
+          "text": "Lorigerlimab — Mechanism: Bispecific DART molecule targeting PD-1 and CTLA-4 simultaneously — Phase: 2 (LINNET) — Population: Platinum-resistant ovarian and clear cell gynecologic cancer — Comparator: Not specified — Endpoints: Primary endpoint is objective response rate (ORR); 41 participants dosed across 2 cohorts prior to hold.",
           "url": "https://cancernetwork.com/view/fda-lifts-partial-clinical-hold-on-lorigerlimab-for-gynecologic-cancer"
         },
         {
-          "text": "Bispecific T cell engager antibodies — Mechanism involves T cell engagement — Acute myeloid leukemia — Research indicates T cell functional states vary by disease stage (diagnosis vs. remission).",
-          "url": "https://the-scientist.com/postdoc-portrait-maryam-kazerani-pasikhani-74320"
+          "text": "Tovecimig (CTX-009) — Mechanism: DLL4 and VEGF-A bispecific antibody inhibiting tumor angiogenesis — Phase: 2/3 (COMPANION-002) — Population: Unresectable advanced/metastatic biliary tract cancer — Comparator: Paclitaxel monotherapy — Results: 17.1% ORR vs 5.3% (p=0.031); 16.2% partial response rate vs 5.3% in control.",
+          "url": "https://cancernetwork.com/view/fda-grants-orphan-drug-designation-to-tovecimig-for-biliary-tract-cancer"
         },
         {
-          "text": "Evolving Therapeutic Landscape — Bispecific Antibodies — Relapsed/refractory DLBCL — Real-world evidence identifies bispecific antibodies as emerging therapies alongside CD19 agents.",
-          "url": "https://cancernetwork.com/view/real-world-evidence-confirms-tafasitamab-benefit-in-r-r-dlbcl"
+          "text": "BCMA-directed bispecific antibody — Mechanism: Dual targeting of BCMA and CD3 — Phase: 3 (MajesTEC-3) — Population: Relapsed multiple myeloma with prior anti-CD38/lenalidomide exposure — Comparator: Standard-of-care regimens — Endpoints: Improved progression-free survival and depth of response.",
+          "url": "https://cancernetwork.com/view/interpreting-majestec-3-efficacy-in-multiple-myeloma"
         }
       ]
     },
@@ -839,100 +175,12 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Sidewinder Therapeutics secured $137 million Series B financing co-led by Frazier Life Sciences and Novartis Venture Arm.",
+          "text": "Sidewinder Therapeutics — $137M Series B financing round closed April 8, 2026 — Investors: OrbiMed, Novartis Venture Fund, and others — Allocation: Advancement of bispecific ADC pipeline into clinical trials.",
           "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
         },
         {
-          "text": "Sidewinder partnered with Lonza’s Synaffix subsidiary to gain access to ADC technology licensed to several firms.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "OrbiMed, Astellas Venture Management and multiple other firms involved in the financing round.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "Oxford BioTherapeutics — Bristol Myers Squibb — Multi-year selective target collaboration for T-cell engagers.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270770/0/en/Oxford-BioTherapeutics-Enters-Strategic-Collaboration-with-Bristol-Myers-Squibb-to-Discover-and-Develop-Next-Generation-T-cell-Engagers-for-Solid-Tumours.html"
-        },
-        {
-          "text": "Sanofi — Ablynx — Technology acquisition for lunsekimig.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "Oxford BioTherapeutics — GSK and Roche — Strategic partnerships in 2025.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270770/0/en/Oxford-BioTherapeutics-Enters-Strategic-Collaboration-with-Bristol-Myers-Squibb-to-Discover-and-Develop-Next-Generation-T-cell-Engagers-for-Solid-Tumours.html"
-        },
-        {
-          "text": "Zymeworks entered into separate agreements with BeOne Medicines Ltd. (formerly BeiGene, Ltd.) and Jazz Pharmaceuticals Ireland Limited granting exclusive rights to develop and commercialize zanidatamab in different territories.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270723/0/en/Zymeworks-Announces-Additional-Leadership-Appointments-to-Advance-Next-Phase-of-Growth.html"
-        },
-        {
-          "text": "MacroGenics and Gilead — Collaboration advancing three programs including MGD024 — MacroGenics eligible for up to $1.6 billion in future milestones and royalties.",
-          "url": "https://globenewswire.com/news-release/2026/04/08/3270538/0/en/FDA-Removes-Partial-Clinical-Hold-on-MacroGenics-LINNET-Study.html"
-        },
-        {
-          "text": "Cue Biopharma and Boehringer Ingelheim — Collaboration and License Agreement for CUE-501 — Cue Biopharma to receive $7.5 million preclinical milestone payment.",
-          "url": "https://globenewswire.com/news-release/2026/04/08/3270032/0/en/Cue-Biopharma-to-Receive-7-5-Million-Preclinical-Milestone-Payment-from-Boehringer-Ingelheim-Collaboration-and-License-Agreement.html"
-        },
-        {
-          "text": "MacroGenics and Incyte — Commercialization of ZYNYZ (retifanlimab-dlwr) — MacroGenics eligible for up to $540 million in additional milestones.",
-          "url": "https://globenewswire.com/news-release/2026/04/08/3270538/0/en/FDA-Removes-Partial-Clinical-Hold-on-MacroGenics-LINNET-Study.html"
-        },
-        {
-          "text": "Givastomig is being jointly developed through a global partnership with ABL Bio, in which NovaBridge is the lead party and shares worldwide rights, excluding Greater China and South Korea, equally with ABL Bio.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "NovaBridge owns worldwide rights outside of China to uliledlimab, an anti-CD73 antibody that targets adenosine-driven immunosuppression in cancer.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "NovaBridge is the majority shareholder of Visara, Inc., and Visara controls global rights to VIS-101, outside of Greater China and certain countries in Asia.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "Samsung Biologics is a fully integrated, end-to-end CDMO partner offering seamless development and manufacturing services from cell line development to final aseptic fill/finish for biologics.",
-          "url": "https://lifescienceleader.com/doc/advancing-next-generation-biologics-from-cell-line-innovation-to-complex-modalities-0004"
-        },
-        {
-          "text": "Sidewinder Therapeutics secured $137 million in Series B financing co-led by Frazier Life Sciences and the venture arm of Novartis.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "The startup recently partnered with Lonza’s Synaffix subsidiary to gain access to an ADC technology.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "Oxford BioTherapeutics and Bristol Myers Squibb entered a multi-year, selective target collaboration with upfront payment, milestone payments, and royalties on net sales.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270770/0/en/Oxford-BioTherapeutics-Enters-Strategic-Collaboration-with-Bristol-Myers-Squibb-to-Discover-and-Develop-Next-Generation-T-cell-Engagers-for-Solid-Tumours.html"
-        },
-        {
-          "text": "Sanofi acquired the technology for lunsekimig from biotechnology company Ablynx.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "Sanofi co-developed Dupixent with Regeneron, which accounted for about a third of Sanofi’s sales last year.",
-          "url": "https://biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"
-        },
-        {
-          "text": "Oxford BioTherapeutics collaboration with Bristol Myers Squibb marks the company’s third partnership with a major pharmaceutical company in the past 12 months.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270770/0/en/Oxford-BioTherapeutics-Enters-Strategic-Collaboration-with-Bristol-Myers-Squibb-to-Discover-and-Develop-Next-Generation-T-cell-Engagers-for-Solid-Tumours.html"
-        },
-        {
-          "text": "Zymeworks entered into separate agreements with BeOne Medicines Ltd. and Jazz Pharmaceuticals Ireland Limited granting each exclusive rights to develop and commercialize zanidatamab in different territories.",
-          "url": "https://globenewswire.com/news-release/2026/04/09/3270723/0/en/Zymeworks-Announces-Additional-Leadership-Appointments-to-Advance-Next-Phase-of-Growth.html"
-        },
-        {
-          "text": "Givastomig is being jointly developed through a global partnership with ABL Bio, in which NovaBridge is the lead party and shares worldwide rights excluding Greater China and South Korea equally with ABL Bio.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269679/0/en/NovaBridge-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html"
-        },
-        {
-          "text": "Samsung Biologics operates as a fully integrated, end-to-end CDMO partner offering seamless development and manufacturing services for biologics including bispecific antibodies.",
-          "url": "https://lifescienceleader.com/doc/advancing-next-generation-biologics-from-cell-line-innovation-to-complex-modalities-0004"
-        },
-        {
-          "text": "No relevant business developments reported.",
-          "url": null
+          "text": "Regeneron / Telix — Strategic radiopharma collaboration — Bispecific antibody-based radiopharmaceuticals — $40M upfront; up to $2.1B in development/commercial milestones plus low double-digit royalties.",
+          "url": "https://globenewswire.com/news-release/2026/04/13/3272191/0/en/Dupixent-dupilumab-Approved-in-the-EU-as-the-First-Targeted-Medicine-to-Treat-Young-Children-with-Chronic-Spontaneous-Urticaria-CSU.html"
         }
       ]
     }
