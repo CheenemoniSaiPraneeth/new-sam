@@ -1,38 +1,46 @@
 {
   "query": "CRISPR",
-  "generated_at": "2026-04-13 07:16:52",
-  "article_count": 24,
+  "generated_at": "2026-04-17 07:20:57",
+  "article_count": 40,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Research and Markets announced a 'Principles & Applications of CRISPR Training Course' scheduled for July 7, 2026, focusing on discovery, molecular mechanisms, and advantages over other genome editing tools.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271582/28124/en/Principles-Applications-of-CRISPR-Training-Course-Discovery-Molecular-Mechanisms-and-Advantages-Over-Other-Genome-Editing-Tools-ONLINE-EVENT-July-7-2026.html"
+          "text": "Metagenomi Therapeutics announced a publication in Nature Structural & Molecular Biology detailing a proprietary compact CRISPR nuclease with enhanced genome editing efficiency.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/Metagenomi-Therapeutics-Inc-Announces-Publication-in-Nature-Structural-Molecular-Biology-Highlighting-Proprietary-Compact-CRISPR-Nuclease-with-Enhanced-Genome-Editing-Efficiency.html"
         },
         {
-          "text": "The global DNA read, write, and edit market is projected to surge to $67.7 billion by 2030, driven explicitly by CRISPR advances, genomic diagnostics, and expanding clinical applications.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269543/0/en/Global-DNA-Read-Write-and-Edit-Market-to-Surge-to-67-7-Billion-by-2030-Driven-by-CRISPR-Advances-Genomic-Diagnostics-and-Expanding-Clinical-Applications.html"
+          "text": "Metagenomi Therapeutics completed a pre-IND meeting for MGX-001, a CRISPR-based hemophilia A therapy, demonstrating curative FVIII activity in non-human primates.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/Metagenomi-Therapeutics-Inc-Announces-Publication-in-Nature-Structural-Molecular-Biology-Highlighting-Proprietary-Compact-CRISPR-Nuclease-with-Enhanced-Genome-Editing-Efficiency.html"
         },
         {
-          "text": "CRISPR Therapeutics priced $550 million aggregate principal amount of convertible senior notes due 2031 in a private offering to qualified institutional buyers.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269071/0/en/CRISPR-Therapeutics-to-Present-at-the-25th-Annual-Needham-Virtual-Healthcare-Conference.html"
+          "text": "Metagenomi Therapeutics rebranded to reflect its strategic evolution as an in vivo genome editing company utilizing proprietary CRISPR technologies.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/Metagenomi-Therapeutics-Inc-Announces-Publication-in-Nature-Structural-Molecular-Biology-Highlighting-Proprietary-Compact-CRISPR-Nuclease-with-Enhanced-Genome-Editing-Efficiency.html"
         },
         {
-          "text": "CRISPR Therapeutics granted initial purchasers an option to purchase up to an additional $50 million of notes, upsizing the offering from $350 million.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269071/0/en/CRISPR-Therapeutics-to-Present-at-the-25th-Annual-Needham-Virtual-Healthcare-Conference.html"
+          "text": "Metagenomi Therapeutics reported $160.8 million in cash and equivalents as of December 31, 2025, providing operational runway through Q4 2027.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/Metagenomi-Therapeutics-Inc-Announces-Publication-in-Nature-Structural-Molecular-Biology-Highlighting-Proprietary-Compact-CRISPR-Nuclease-with-Enhanced-Genome-Editing-Efficiency.html"
         },
         {
-          "text": "CRISPR Therapeutics established an effective coupon of 1.7308% on the notes to offset anticipated 35% Swiss tax withholding on interest payments.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269071/0/en/CRISPR-Therapeutics-to-Present-at-the-25th-Annual-Needham-Virtual-Healthcare-Conference.html"
+          "text": "Metagenomi Therapeutics demonstrated in vivo proof-of-concept for Antithrombin (AT-III) Deficiency using its MGX-001 site-specific genome integration system in non-human primates.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/Metagenomi-Therapeutics-Inc-Announces-Publication-in-Nature-Structural-Molecular-Biology-Highlighting-Proprietary-Compact-CRISPR-Nuclease-with-Enhanced-Genome-Editing-Efficiency.html"
         },
         {
-          "text": "The convertible notes carry an initial conversion rate of 13.0617 common shares per $1,000 principal amount, equivalent to a conversion price of approximately $76.56 per share.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269071/0/en/CRISPR-Therapeutics-to-Present-at-the-25th-Annual-Needham-Virtual-Healthcare-Conference.html"
+          "text": "Metagenomi Therapeutics presented preclinical data for APOC3 as a new collaboration target with Ionis Pharmaceuticals under a Wave 1 agreement covering four targets in cardiometabolic indications.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/Metagenomi-Therapeutics-Inc-Announces-Publication-in-Nature-Structural-Molecular-Biology-Highlighting-Proprietary-Compact-CRISPR-Nuclease-with-Enhanced-Genome-Editing-Efficiency.html"
         },
         {
-          "text": "The RUBY trial demonstrated that renizgamglogene autogedtemcel (reni-cel), an AsCas12a-mediated CRISPR therapy disrupting BCL11A binding sites in HBG1/HBG2 promoters, normalized hemoglobin and eliminated vaso-occlusive events in severe sickle cell disease patients.",
-          "url": "https://cancernetwork.com/view/rewriting-the-hemoglobin-switch-crispr-targeting-in-sickle-cell-disease"
+          "text": "CRISPR-driven gene editing innovations are identified as a primary growth driver for the global cell therapy technology market forecast 2025-2030.",
+          "url": "https://globenewswire.com/news-release/2026/04/13/3272308/28124/en/Cell-Therapy-Technology-Market-Research-and-Global-Forecast-Report-2025-2030-Rising-Chronic-Disease-Burden-and-CRISPR-Driven-Gene-Editing-Innovations-Driving-Growth.html"
+        },
+        {
+          "text": "NIH-funded research achieved a breakthrough in shrinking CRISPR components to enable precision delivery within the human body.",
+          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185371&sid=2"
+        },
+        {
+          "text": "Rockefeller University researchers used CRISPR gene editing to reprogram hematopoietic stem and progenitor cells (HSPCs) to produce broadly neutralizing antibodies (bNAbs) against HIV in mice.",
+          "url": "https://the-scientist.com/gene-editing-turns-the-immune-system-into-a-custom-protein-factory-74368"
         }
       ]
     },
@@ -40,28 +48,36 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Research and Markets — CRISPR Training Course — Genome Editing Education — Online event scheduled for July 7, 2026; curriculum covers molecular mechanisms and comparative advantages over other genome editing tools.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271582/28124/en/Principles-Applications-of-CRISPR-Training-Course-Discovery-Molecular-Mechanisms-and-Advantages-Over-Other-Genome-Editing-Tools-ONLINE-EVENT-July-7-2026.html"
+          "text": "Metagenomi Therapeutics — MGX-001 — Hemophilia A — Pre-IND meeting completed; curative FVIII activity demonstrated in NHPs; IND submission planned Q4 2026; clinical trials targeted for 2027.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/Metagenomi-Therapeutics-Inc-Announces-Publication-in-Nature-Structural-Molecular-Biology-Highlighting-Proprietary-Compact-CRISPR-Nuclease-with-Enhanced-Genome-Editing-Efficiency.html"
         },
         {
-          "text": "CRISPR — Market Expansion — Gene Editing — Global market value projected to reach $67.7 billion by 2030, fueled by CRISPR technology advances and clinical adoption.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269543/0/en/Global-DNA-Read-Write-and-Edit-Market-to-Surge-to-67-7-Billion-by-2030-Driven-by-CRISPR-Advances-Genomic-Diagnostics-and-Expanding-Clinical-Applications.html"
+          "text": "Metagenomi Therapeutics — Proprietary Compact CRISPR Nuclease — Genome Editing — Publication in Nature Structural & Molecular Biology highlights enhanced editing efficiency and compact size.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/Metagenomi-Therapeutics-Inc-Announces-Publication-in-Nature-Structural-Molecular-Biology-Highlighting-Proprietary-Compact-CRISPR-Nuclease-with-Enhanced-Genome-Editing-Efficiency.html"
         },
         {
-          "text": "CRISPR Therapeutics — Convertible Senior Notes Offering — Capital Markets — Priced $550 million aggregate principal amount of 2031 notes with 1.7308% effective coupon; closing expected March 16, 2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269071/0/en/CRISPR-Therapeutics-to-Present-at-the-25th-Annual-Needham-Virtual-Healthcare-Conference.html"
+          "text": "Metagenomi Therapeutics — MGX-001 Platform — Antithrombin Deficiency — In vivo proof-of-concept achieved in NHPs, validating expansion of site-specific genome integration to secreted protein disorders.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/Metagenomi-Therapeutics-Inc-Announces-Publication-in-Nature-Structural-Molecular-Biology-Highlighting-Proprietary-Compact-CRISPR-Nuclease-with-Enhanced-Genome-Editing-Efficiency.html"
         },
         {
-          "text": "CRISPR Therapeutics — Convertible Senior Notes — Capital Markets — $550M offering priced March 11, 2026; 1.7308% effective coupon; 13.0617 shares per $1,000 note; conversion price $76.56 (45% premium to $52.80 reference price); maturity March 1, 2031.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269071/0/en/CRISPR-Therapeutics-to-Present-at-the-25th-Annual-Needham-Virtual-Healthcare-Conference.html"
+          "text": "Cell Therapy Market — CRISPR gene editing — Market Growth — CRISPR-driven innovations cited as key factor propelling cell therapy market expansion through 2030.",
+          "url": "https://globenewswire.com/news-release/2026/04/13/3272308/28124/en/Cell-Therapy-Technology-Market-Research-and-Global-Forecast-Report-2025-2030-Rising-Chronic-Disease-Burden-and-CRISPR-Driven-Gene-Editing-Innovations-Driving-Growth.html"
         },
         {
-          "text": "Hanna et al. — renizgamglogene autogedtemcel (reni-cel) — Sickle Cell Disease — RUBY trial results show AsCas12a-mediated disruption of BCL11A binding sites in HBG1/HBG2 promoters drives deep, durable HbF reactivation and eliminates vaso-occlusive events.",
-          "url": "https://cancernetwork.com/view/rewriting-the-hemoglobin-switch-crispr-targeting-in-sickle-cell-disease"
+          "text": "NIH — CRISPR gene editing — In vivo delivery — Developed method to reduce CRISPR size for improved systemic delivery; specific mechanism and trial status not disclosed.",
+          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185371&sid=2"
         },
         {
-          "text": "Hanna et al. — renizgamglogene autogedtemcel (reni-cel) — Sickle Cell Disease — AsCas12a-mediated direct disruption of BCL11A binding sites in HBG1/HBG2 promoters achieved deep, durable HbF reactivation and clinical quiescence in the RUBY trial.",
-          "url": "https://cancernetwork.com/view/rewriting-the-hemoglobin-switch-crispr-targeting-in-sickle-cell-disease"
+          "text": "Rockefeller University — CRISPR-edited HSPCs — HIV prevention — Engineered stem cells produced enduring bNAbs that neutralized HIV ex vivo in mouse models.",
+          "url": "https://the-scientist.com/gene-editing-turns-the-immune-system-into-a-custom-protein-factory-74368"
+        },
+        {
+          "text": "NIH-funded team — Miniaturized CRISPR — In vivo delivery — Developed reduced-size CRISPR systems to facilitate precision delivery throughout the body.",
+          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185371&sid=2"
+        },
+        {
+          "text": "Rockefeller University — CRISPR-mediated stem cell reprogramming — HIV broadly neutralizing antibodies — Engineered immunoglobulin loci in mouse HSPCs to drive sustained bNAb production; strategy published in Science.",
+          "url": "https://the-scientist.com/gene-editing-turns-the-immune-system-into-a-custom-protein-factory-74368"
         }
       ]
     },
@@ -69,16 +85,12 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Research and Markets — Educational service expansion — CRISPR Training Course — Offering online event on July 7, 2026 to address discovery and molecular mechanisms of CRISPR technology.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271582/28124/en/Principles-Applications-of-CRISPR-Training-Course-Discovery-Molecular-Mechanisms-and-Advantages-Over-Other-Genome-Editing-Tools-ONLINE-EVENT-July-7-2026.html"
+          "text": "Metagenomi Therapeutics — Strategic evolution to precision genetic medicines — MGX-001 (Hemophilia A) + AT-III + APOC3 pipeline — $160.8M cash runway through Q4 2027; corporate name change effective April 2026.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/Metagenomi-Therapeutics-Inc-Announces-Publication-in-Nature-Structural-Molecular-Biology-Highlighting-Proprietary-Compact-CRISPR-Nuclease-with-Enhanced-Genome-Editing-Efficiency.html"
         },
         {
-          "text": "CRISPR Therapeutics — Capital raising for pipeline advancement — Convertible Senior Notes (2031) — Secured $550 million + $50 million option; initial conversion price set at $76.56 per share (45% premium to March 10, 2026 close).",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269071/0/en/CRISPR-Therapeutics-to-Present-at-the-25th-Annual-Needham-Virtual-Healthcare-Conference.html"
-        },
-        {
-          "text": "CRISPR Therapeutics — Capital raising for CRISPR-based pipeline expansion — Convertible Senior Notes (2031) — $550M secured; 1.7308% coupon; 45% premium conversion price; funds to support clinical programs and operational needs.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269071/0/en/CRISPR-Therapeutics-to-Present-at-the-25th-Annual-Needham-Virtual-Healthcare-Conference.html"
+          "text": "Ionis Pharmaceuticals — Cardiometabolic collaboration — APOC3 target (Wave 1 of 4) — Metagenomi presented preclinical data at Nature Conference 'Cracking the Code: Nucleic Acid Medicines Coming of Age'.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/Metagenomi-Therapeutics-Inc-Announces-Publication-in-Nature-Structural-Molecular-Biology-Highlighting-Proprietary-Compact-CRISPR-Nuclease-with-Enhanced-Genome-Editing-Efficiency.html"
         }
       ]
     },
@@ -86,16 +98,32 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "CRISPR — Mechanism: Genome editing tool — Context: Training curriculum — Focus: Molecular mechanisms and comparative advantages over other genome editing tools; event date July 7, 2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271582/28124/en/Principles-Applications-of-CRISPR-Training-Course-Discovery-Molecular-Mechanisms-and-Advantages-Over-Other-Genome-Editing-Tools-ONLINE-EVENT-July-7-2026.html"
+          "text": "MGX-001 — Mechanism: Site-specific genome integration via proprietary compact CRISPR nuclease — Phase: Pre-IND — Population: Hemophilia A (FVIII deficiency) — Results: Curative FVIII activity in non-human primates.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/Metagenomi-Therapeutics-Inc-Announces-Publication-in-Nature-Structural-Molecular-Biology-Highlighting-Proprietary-Compact-CRISPR-Nuclease-with-Enhanced-Genome-Editing-Efficiency.html"
         },
         {
-          "text": "renizgamglogene autogedtemcel (reni-cel) — Mechanism: AsCas12a-mediated CRISPR disruption of BCL11A binding sites in HBG1/HBG2 promoters — Phase: Clinical (RUBY trial) — Population: Severe sickle cell disease — Comparator: Not specified in text — Results: Normalized hemoglobin, eliminated vaso-occlusive events, deep durable HbF reactivation.",
-          "url": "https://cancernetwork.com/view/rewriting-the-hemoglobin-switch-crispr-targeting-in-sickle-cell-disease"
+          "text": "MGX-001 Platform — Mechanism: CRISPR-mediated site-specific integration — Phase: Preclinical — Population: Antithrombin (AT-III) Deficiency — Results: In vivo proof-of-concept demonstrated in non-human primates.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/Metagenomi-Therapeutics-Inc-Announces-Publication-in-Nature-Structural-Molecular-Biology-Highlighting-Proprietary-Compact-CRISPR-Nuclease-with-Enhanced-Genome-Editing-Efficiency.html"
         },
         {
-          "text": "reni-cel — Mechanism: AsCas12a-mediated direct disruption of BCL11A binding sites in HBG1/HBG2 promoters — Phase: RUBY trial — Population: Severe sickle cell disease — Comparator: N/A — Results: Normalized hemoglobin, eliminated vaso-occlusive events, robust HbF induction without impaired erythropoiesis.",
-          "url": "https://cancernetwork.com/view/rewriting-the-hemoglobin-switch-crispr-targeting-in-sickle-cell-disease"
+          "text": "Proprietary Compact CRISPR Nuclease — Mechanism: Enhanced genome editing efficiency with reduced size — Phase: Preclinical — Population: N/A — Results: Publication in Nature Structural & Molecular Biology confirms technical advancement.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/Metagenomi-Therapeutics-Inc-Announces-Publication-in-Nature-Structural-Molecular-Biology-Highlighting-Proprietary-Compact-CRISPR-Nuclease-with-Enhanced-Genome-Editing-Efficiency.html"
+        },
+        {
+          "text": "CRISPR — Mechanism: Gene editing via reduced-size components — Phase: Preclinical (implied by delivery breakthrough) — Population: Systemic in vivo application — Endpoints: Successful size reduction for precision delivery; specific efficacy data not reported.",
+          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185371&sid=2"
+        },
+        {
+          "text": "CRISPR-edited HSPCs — Mechanism: Integration of anti-HIV bNAb instructions into immunoglobulin loci of stem cells — Phase: Preclinical (mouse model) — Population: Mice transplanted with edited HSPCs — Endpoints/Results: Production of large numbers of bNAbs; ex vivo HIV neutralization observed.",
+          "url": "https://the-scientist.com/gene-editing-turns-the-immune-system-into-a-custom-protein-factory-74368"
+        },
+        {
+          "text": "Miniaturized CRISPR — Mechanism: Size reduction of CRISPR components for enhanced delivery — Phase: Preclinical research — Population: In vivo delivery targets — Endpoints/Results: Successful shrinkage of CRISPR system to enable precision delivery in the body.",
+          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185371&sid=2"
+        },
+        {
+          "text": "CRISPR-edited HSPCs — Mechanism: Immunoglobulin locus integration for bNAb expression — Phase: Preclinical (murine model) — Population: Mice transplanted with edited stem cells — Comparator: None stated — Results: Endogenous production of HIV-neutralizing antibodies; potential application for influenza, rare genetic disorders, and cancer.",
+          "url": "https://the-scientist.com/gene-editing-turns-the-immune-system-into-a-custom-protein-factory-74368"
         }
       ]
     },
@@ -103,12 +131,16 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "CRISPR Therapeutics — Convertible Senior Notes Offering — $550 million principal amount due 2031; upsized from $350 million; effective coupon 1.7308%; conversion rate 13.0617 shares per $1,000.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269071/0/en/CRISPR-Therapeutics-to-Present-at-the-25th-Annual-Needham-Virtual-Healthcare-Conference.html"
+          "text": "Metagenomi Therapeutics — Strategic rebranding — Corporate name change to Metagenomi Therapeutics, Inc. — Reflects evolution from platform developer to in vivo genome editing company focused on curative genetic medicines.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/Metagenomi-Therapeutics-Inc-Announces-Publication-in-Nature-Structural-Molecular-Biology-Highlighting-Proprietary-Compact-CRISPR-Nuclease-with-Enhanced-Genome-Editing-Efficiency.html"
         },
         {
-          "text": "CRISPR Therapeutics — Upsized convertible notes offering — $550M principal amount (initially $350M); 1.125% base coupon increased to 1.7308% to neutralize 35% Swiss withholding tax; settlement March 16, 2026; 13.0617 shares per $1,000 note.",
-          "url": "https://globenewswire.com/news-release/2026/04/07/3269071/0/en/CRISPR-Therapeutics-to-Present-at-the-25th-Annual-Needham-Virtual-Healthcare-Conference.html"
+          "text": "Metagenomi Therapeutics — Financial position — Full Year 2025 — $160.8 million in cash, cash equivalents, and marketable securities as of December 31, 2025; runway extends to Q4 2027.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/Metagenomi-Therapeutics-Inc-Announces-Publication-in-Nature-Structural-Molecular-Biology-Highlighting-Proprietary-Compact-CRISPR-Nuclease-with-Enhanced-Genome-Editing-Efficiency.html"
+        },
+        {
+          "text": "Metagenomi Therapeutics / Ionis Pharmaceuticals — Collaboration agreement — APOC3 (Cardiometabolic) — Wave 1 of 4 targets; preclinical data presented at Nature Conference.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/Metagenomi-Therapeutics-Inc-Announces-Publication-in-Nature-Structural-Molecular-Biology-Highlighting-Proprietary-Compact-CRISPR-Nuclease-with-Enhanced-Genome-Editing-Efficiency.html"
         }
       ]
     }
