@@ -1,54 +1,46 @@
 {
   "query": "bispecific",
-  "generated_at": "2026-04-14 06:59:42",
-  "article_count": 48,
+  "generated_at": "2026-04-18 08:46:33",
+  "article_count": 42,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Sidewinder Therapeutics secured $137M Series B financing led by OrbiMed and Novartis Venture Fund to advance bispecific antibody-drug conjugates (ADCs) into clinical testing.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
+          "text": "Genmab A/S maintains a pipeline of innovative antibody medicines including bispecific antibodies, antibody–drug conjugates, and immune-modulating antibodies as part of its core therapeutic strategy.",
+          "url": "https://globenewswire.com/news-release/2026/04/17/3276312/0/en/genmab-a-s-share-capital-reduction.html"
         },
         {
-          "text": "Genmab is advancing a late-stage clinical pipeline including wholly owned bispecific antibody programs alongside antibody-drug conjugates and immune-modulating antibodies.",
-          "url": "https://globenewswire.com/news-release/2026/04/13/3272591/0/en/Genmab-Presents-the-Safety-and-Tolerability-of-Rinatabart-Sesutecan-Rina-S-in-Combination-with-Bevacizumab-in-Advanced-Ovarian-Cancer.html"
+          "text": "Institute of Molecular and Clinical Ophthalmology Basel (IOB) — MitoCatch-Bi — Mitochondrial delivery for neurodegenerative diseases and optic nerve degeneration — Developed bispecific binders linking mitochondria and cell surfaces to enable targeted mitochondrial transplantation in neurons, retinal, heart, endothelial, and immune cells.",
+          "url": "https://globenewswire.com/news-release/2026/04/15/3274663/0/en/what-if-you-could-reboot-sick-cells.html"
         },
         {
-          "text": "Regeneron and Telix announced a strategic collaboration to co-develop and co-commercialize next-generation radiopharmaceutical therapies leveraging Regeneron's bispecific antibody discovery platforms.",
-          "url": "https://globenewswire.com/news-release/2026/04/13/3272191/0/en/Dupixent-dupilumab-Approved-in-the-EU-as-the-First-Targeted-Medicine-to-Treat-Young-Children-with-Chronic-Spontaneous-Urticaria-CSU.html"
+          "text": "Almirall filed the first Clinical Trial Application (CTA) for a FIT-IG® bispecific antibody targeting IL-13 and OX-40L for atopic dermatitis, advancing EpimAb Biotherapeutics' platform into clinical development.",
+          "url": "https://globenewswire.com/news-release/2026/04/15/3274072/0/en/epimab-biotherapeutics-to-present-a-novel-prodrug-t-cell-engager-protce-platform-at-the-2026-american-association-for-cancer-research-annual-meeting.html"
         },
         {
-          "text": "Global bispecific antibody market projected to reach $22.3 billion by 2030 driven by immuno-oncology innovation and R&D investment acceleration.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
+          "text": "EpimAb Biotherapeutics' proprietary FIT-Ig platform enables the generation of bispecific antibodies using basic monoclonal antibody structural parts without complex modifications, with multiple candidates now in clinical stages.",
+          "url": "https://globenewswire.com/news-release/2026/04/15/3274072/0/en/epimab-biotherapeutics-to-present-a-novel-prodrug-t-cell-engager-protce-platform-at-the-2026-american-association-for-cancer-research-annual-meeting.html"
         },
         {
-          "text": "Genentech received FDA label update for Vabysmo (faricimab-svoa), a bispecific antibody targeting angiopoietin-1 and VEGF-A, extending treatment duration for macular edema due to retinal vein occlusion beyond 6 months.",
-          "url": "https://www.healio.com/news/ophthalmology/20260410/fda-approves-vabysmo-label-update-for-macular-edema-due-to-retinal-vein-occlusion"
+          "text": "Partner Therapeutics received FDA acceptance of a supplemental biologics license application (sBLA) for zenocutuzumab-zbco (Bizengri), a bispecific antibody targeting HER3 and HER2, for advanced NRG1 fusion-positive cholangiocarcinoma.",
+          "url": "https://cancernetwork.com/view/fda-receives-sbla-for-zenocutuzumab-in-advanced-nrg1-cholangiocarcinoma"
         },
         {
-          "text": "Samsung Biologics highlighted structural innovations and enhanced manufacturability solutions for bispecific antibodies (bsAbs) to address complex purification challenges and ensure clinical viability.",
-          "url": "https://lifescienceleader.com/doc/advancing-next-generation-biologics-from-cell-line-innovation-to-complex-modalities-0004"
+          "text": "The NCCN updated Clinical Practice Guidelines to include zenocutuzumab as a Category 2A subsequent-line therapy and Category 2B frontline option for NRG1 fusion-positive cholangiocarcinoma based on phase 2 eNRGy trial data.",
+          "url": "https://cancernetwork.com/view/fda-receives-sbla-for-zenocutuzumab-in-advanced-nrg1-cholangiocarcinoma"
         },
         {
-          "text": "Boehringer Ingelheim is evaluating a combination regimen involving a DLL3-targeting T-cell engager and a PD-L1/VEGF-A bispecific antibody for small cell lung cancer.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185312&sid=2"
+          "text": "Clinical discourse highlights BCMA-directed bispecific antibodies in multiple myeloma, with safety profiles focusing on cytokine release syndrome, infection risk, and cytopenias requiring proactive monitoring.",
+          "url": "https://cancernetwork.com/view/safety-considerations-for-bispecific-antibodies-in-multiple-myeloma"
         },
         {
-          "text": "MacroGenics — Lorigerlimab — Platinum-resistant ovarian and clear cell gynecologic cancer — FDA lifted partial clinical hold on Phase 2 LINNET study (NCT06730347) following safety review; trial resumes enrollment with revised protocol.",
-          "url": "https://cancernetwork.com/view/fda-lifts-partial-clinical-hold-on-lorigerlimab-for-gynecologic-cancer"
+          "text": "Relapsed large B-cell lymphoma treatment paradigms are debating CAR-T versus bispecific antibodies, weighing curative intent against real-world access barriers and off-the-shelf availability.",
+          "url": "https://cancernetwork.com/view/debate-round-3-car-t-vs-bispecifics-in-relapsed-lbcl-cure-vs-access"
         },
         {
-          "text": "ABL Bio / Compass Therapeutics — Tovecimig (CTX-009) — Biliary Tract Cancer — FDA granted orphan drug designation for the DLL4/VEGF-A bispecific antibody following phase 2/3 COMPANION-002 trial results.",
-          "url": "https://cancernetwork.com/view/fda-grants-orphan-drug-designation-to-tovecimig-for-biliary-tract-cancer"
-        },
-        {
-          "text": "MajesTEC-3 Phase 3 study evaluated a BCMA-directed bispecific antibody in combination with daratumumab and dexamethasone for relapsed multiple myeloma, demonstrating improved progression-free survival.",
-          "url": "https://cancernetwork.com/view/interpreting-majestec-3-efficacy-in-multiple-myeloma"
-        },
-        {
-          "text": "Bispecific antibodies targeting BCMA have emerged as critical therapeutic options for relapsed multiple myeloma, showing meaningful response rates in heavily pretreated populations.",
-          "url": "https://cancernetwork.com/view/role-of-bispecific-antibodies-in-multiple-myeloma"
+          "text": "Regeneron Pharmaceuticals — REGN5668 — Recurrent ovarian and endometrial cancer — MUC16 × CD28 bispecific antibody evaluated in Phase 1/2 study with cemiplimab and fianlimab at SGO 2026.",
+          "url": "https://cancernetwork.com/view/regn5668-combo-yields-preliminary-activity-in-recurrent-ovarian-endometrial-cancer"
         }
       ]
     },
@@ -56,40 +48,32 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Sidewinder Therapeutics — Bispecific ADCs — Oncology — $137M Series B funding secured April 8, 2026; platform designed to recognize dual targets to broaden ADC reach beyond current limitations.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
+          "text": "Genmab A/S — Bispecific antibody platform — Oncology and serious diseases — Advancing late-stage clinical pipeline of wholly owned bispecific programs alongside approved antibody medicines.",
+          "url": "https://globenewswire.com/news-release/2026/04/17/3276312/0/en/genmab-a-s-share-capital-reduction.html"
         },
         {
-          "text": "Genmab — Rinatabart Sesutecan (Rina-S) — Advanced Ovarian Cancer — Presented safety and tolerability data in combination with bevacizumab; Rinatabart is a bispecific antibody-drug conjugate targeting CD3 and CD38.",
-          "url": "https://globenewswire.com/news-release/2026/04/13/3272591/0/en/Genmab-Presents-the-Safety-and-Tolerability-of-Rinatabart-Sesutecan-Rina-S-in-Combination-with-Bevacizumab-in-Advanced-Ovarian-Cancer.html"
+          "text": "IOB — MitoCatch-Bi — Mitochondrial diseases (Parkinson's, optic nerve degeneration, heart failure) — Engineered bispecific binders successfully deliver functional mitochondria to target cells in animal models with no detectable immune reaction; mechanism described in Nature publication.",
+          "url": "https://globenewswire.com/news-release/2026/04/15/3274663/0/en/what-if-you-could-reboot-sick-cells.html"
         },
         {
-          "text": "Regeneron — Bispecific antibody discovery platform — Oncology radiopharmaceuticals — Partnered with Telix to develop solid tumor therapies; $40M upfront payment secured with up to $2.1B in potential milestones.",
-          "url": "https://globenewswire.com/news-release/2026/04/13/3272191/0/en/Dupixent-dupilumab-Approved-in-the-EU-as-the-First-Targeted-Medicine-to-Treat-Young-Children-with-Chronic-Spontaneous-Urticaria-CSU.html"
+          "text": "Almirall — FIT-IG® Bispecific Antibody (IL-13/OX-40L) — Atopic Dermatitis — First CTA filed by license partner; First-in-Human Phase 1 initiation expected H1 2026.",
+          "url": "https://globenewswire.com/news-release/2026/04/15/3274072/0/en/epimab-biotherapeutics-to-present-a-novel-prodrug-t-cell-engager-protce-platform-at-the-2026-american-association-for-cancer-research-annual-meeting.html"
         },
         {
-          "text": "BCC Research — Global Bispecific Antibodies Market — Immuno-oncology — Market valuation forecasted at $22.3 billion by 2030; growth driven by R&D investment and innovation in bispecific platforms.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
+          "text": "Partner Therapeutics — zenocutuzumab-zbco (Bizengri) — Advanced NRG1+ Cholangiocarcinoma — FDA received sBLA; NCCN guidelines updated to Category 2A subsequent-line and 2B frontline recommendation.",
+          "url": "https://cancernetwork.com/view/fda-receives-sbla-for-zenocutuzumab-in-advanced-nrg1-cholangiocarcinoma"
         },
         {
-          "text": "Genentech — Vabysmo (faricimab-svoa) — Macular edema due to retinal vein occlusion — FDA label update approved April 10, 2026, allowing treatment continuation beyond 6 months; bispecific antibody inhibits angiopoietin-1 and VEGF-A.",
-          "url": "https://www.healio.com/news/ophthalmology/20260410/fda-approves-vabysmo-label-update-for-macular-edema-due-to-retinal-vein-occlusion"
+          "text": "Multiple Myeloma Community — BCMA-directed bispecific antibodies — Safety Management — Key toxicities identified include cytokine release syndrome, infection risk, and cytopenias requiring careful monitoring in early relapse settings.",
+          "url": "https://cancernetwork.com/view/safety-considerations-for-bispecific-antibodies-in-multiple-myeloma"
         },
         {
-          "text": "Boehringer Ingelheim — DLL3-targeting T-cell engager + PD-L1/VEGF-A bispecific antibody — Small Cell Lung Cancer — Combination therapy evaluation initiated to target dual pathways in SCLC.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185312&sid=2"
+          "text": "Relapsed LBCL Treatment Debate — Bispecific antibodies vs CAR-T — Relapsed large B-cell lymphoma — Strategic tradeoff defined as one-time curative CAR-T intervention versus ongoing dosing and infrastructure requirements for bispecifics.",
+          "url": "https://cancernetwork.com/view/debate-round-3-car-t-vs-bispecifics-in-relapsed-lbcl-cure-vs-access"
         },
         {
-          "text": "MacroGenics — Lorigerlimab — Platinum-resistant ovarian and clear cell gynecologic cancer — FDA lifted partial clinical hold on Phase 2 LINNET study; hold was initiated in February 2026 due to grade 4 neutropenia, grade 4 myocarditis, and one grade 5 fatal event.",
-          "url": "https://cancernetwork.com/view/fda-lifts-partial-clinical-hold-on-lorigerlimab-for-gynecologic-cancer"
-        },
-        {
-          "text": "ABL Bio / Compass Therapeutics — Tovecimig (CTX-009) — Biliary Tract Cancer — FDA granted orphan drug designation; phase 2/3 COMPANION-002 trial showed 17.1% ORR vs 5.3% with paclitaxel monotherapy (p=0.031).",
-          "url": "https://cancernetwork.com/view/fda-grants-orphan-drug-designation-to-tovecimig-for-biliary-tract-cancer"
-        },
-        {
-          "text": "MajesTEC-3 — BCMA-directed bispecific antibody + daratumumab/dexamethasone — Relapsed Multiple Myeloma — Phase 3 trial demonstrated improved progression-free survival and deep, durable responses in patients with prior anti-CD38 and lenalidomide exposure.",
-          "url": "https://cancernetwork.com/view/interpreting-majestec-3-efficacy-in-multiple-myeloma"
+          "text": "Regeneron Pharmaceuticals — REGN5668 — Recurrent ovarian/endometrial cancer — Phase 1/2 dose-expansion (Module 1) assessed objective response rate per RECIST v1.1 in ovarian cohort (REGN5668 + cemiplimab + fianlimab) and endometrial cohort (REGN5668 + cemiplimab).",
+          "url": "https://cancernetwork.com/view/regn5668-combo-yields-preliminary-activity-in-recurrent-ovarian-endometrial-cancer"
         }
       ]
     },
@@ -97,40 +81,28 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Sidewinder Therapeutics — Precision bispecific ADC development — Bispecific ADC platform — $137M Series B raised; investors include OrbiMed and Novartis Venture Fund; targeting expanded tumor antigen recognition.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
+          "text": "Genmab A/S — Bispecific antibody development — Broad antibody-based therapeutic formats — 8 approved antibody medicines; strong late-stage clinical pipeline including wholly owned bispecific programs.",
+          "url": "https://globenewswire.com/news-release/2026/04/17/3276312/0/en/genmab-a-s-share-capital-reduction.html"
         },
         {
-          "text": "Genmab — Bispecific antibody development and commercialization — Rinatabart Sesutecan (Rina-S) and broader pipeline — Advancing eight approved antibody medicines and multiple late-stage bispecific programs.",
-          "url": "https://globenewswire.com/news-release/2026/04/13/3272591/0/en/Genmab-Presents-the-Safety-and-Tolerability-of-Rinatabart-Sesutecan-Rina-S-in-Combination-with-Bevacizumab-in-Advanced-Ovarian-Cancer.html"
+          "text": "Institute of Molecular and Clinical Ophthalmology Basel (IOB) — Precision mitochondrial medicine via bispecific technology — MitoCatch-Bi system — Demonstrated efficacy in rescuing cell degeneration in optic nerve atrophy models; strategy published in Nature.",
+          "url": "https://globenewswire.com/news-release/2026/04/15/3274663/0/en/what-if-you-could-reboot-sick-cells.html"
         },
         {
-          "text": "Regeneron — Expansion into radiopharmaceuticals via bispecific antibody technology — VelocImmune-derived solid tumor targets — 50/50 cost/profit-sharing model with Telix; initial focus on lung cancer and radio-diagnostics.",
-          "url": "https://globenewswire.com/news-release/2026/04/13/3272191/0/en/Dupixent-dupilumab-Approved-in-the-EU-as-the-First-Targeted-Medicine-to-Treat-Young-Children-with-Chronic-Spontaneous-Urticaria-CSU.html"
+          "text": "EpimAb Biotherapeutics — Bispecific antibody commercialization via FIT-Ig platform — IL-13/OX-40L bispecific candidate — First CTA filed by partner Almirall; multiple bispecific molecules advanced to clinic.",
+          "url": "https://globenewswire.com/news-release/2026/04/15/3274072/0/en/epimab-biotherapeutics-to-present-a-novel-prodrug-t-cell-engager-protce-platform-at-the-2026-american-association-for-cancer-research-annual-meeting.html"
         },
         {
-          "text": "Telix — Commercialization of next-gen radiopharmaceuticals — Regeneron bispecific antibody portfolio — $40M upfront received; option to co-fund commercialization or earn royalties.",
-          "url": "https://globenewswire.com/news-release/2026/04/13/3272191/0/en/Dupixent-dupilumab-Approved-in-the-EU-as-the-First-Targeted-Medicine-to-Treat-Young-Children-with-Chronic-Spontaneous-Urticaria-CSU.html"
+          "text": "Almirall — Clinical development of licensed bispecific assets — FIT-IG® IL-13/OX-40L antibody — First CTA filed under 2023 license agreement with EpimAb; Phase 1 start planned H1 2026.",
+          "url": "https://globenewswire.com/news-release/2026/04/15/3274072/0/en/epimab-biotherapeutics-to-present-a-novel-prodrug-t-cell-engager-protce-platform-at-the-2026-american-association-for-cancer-research-annual-meeting.html"
         },
         {
-          "text": "BCC Research — Market intelligence on bispecific antibodies — Global bispecific antibody market — Forecasting $22.3 billion valuation by 2030; focus on immuno-oncology sector expansion.",
-          "url": "https://globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
+          "text": "Partner Therapeutics — Regulatory expansion of bispecific portfolio — zenocutuzumab (Bizengri) — sBLA accepted for cholangiocarcinoma following December 2024 accelerated approval for NSCLC and pancreatic cancer.",
+          "url": "https://cancernetwork.com/view/fda-receives-sbla-for-zenocutuzumab-in-advanced-nrg1-cholangiocarcinoma"
         },
         {
-          "text": "Samsung Biologics — Bispecific antibody manufacturing optimization — S-DUAL™ platform — Addressing structural complexity and purification challenges for bsAbs to ensure product purity and clinical viability.",
-          "url": "https://lifescienceleader.com/doc/advancing-next-generation-biologics-from-cell-line-innovation-to-complex-modalities-0004"
-        },
-        {
-          "text": "Boehringer Ingelheim — Advancing bispecific antibody combinations — PD-L1/VEGF-A bispecific antibody + DLL3 T-cell engager — Early-stage evaluation for Small Cell Lung Cancer.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185312&sid=2"
-        },
-        {
-          "text": "MacroGenics — Bispecific DART molecule development — Lorigerlimab (PD-1/CTLA-4 bispecific) — Phase 2 LINNET study resumed enrollment after FDA hold lift; mid-year clinical update expected.",
-          "url": "https://cancernetwork.com/view/fda-lifts-partial-clinical-hold-on-lorigerlimab-for-gynecologic-cancer"
-        },
-        {
-          "text": "ABL Bio / Compass Therapeutics — Commercialization of bispecific antibody pipeline — Tovecimig (CTX-009) — Secured FDA orphan drug and fast track designations for biliary tract cancer indication; phase 2/3 data supports regulatory filing strategy.",
-          "url": "https://cancernetwork.com/view/fda-grants-orphan-drug-designation-to-tovecimig-for-biliary-tract-cancer"
+          "text": "Regeneron Pharmaceuticals — Advancing MUC16 × CD28 bispecific antibody program — REGN5668 — Phase 1/2 combination trials ongoing in recurrent gynecologic malignancies with primary endpoint of objective response rate.",
+          "url": "https://cancernetwork.com/view/regn5668-combo-yields-preliminary-activity-in-recurrent-ovarian-endometrial-cancer"
         }
       ]
     },
@@ -138,36 +110,32 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "Sidewinder Bispecific ADCs — Mechanism: Dual-target recognition via bispecific antibody scaffold linked to cytotoxic payload — Phase: Preclinical/Early Clinical — Population: Solid tumors with limited ADC accessibility — Comparator: Conventional monospecific ADCs — Goal: Overcome antigen heterogeneity and improve tumor cell killing precision.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
+          "text": "Genmab bispecific antibodies — Mechanism: Dual-target antibody binding — Phase: Late-stage clinical development — Population: Cancer and serious disease patients — Status: Part of 8 approved medicines and advancing wholly owned pipeline.",
+          "url": "https://globenewswire.com/news-release/2026/04/17/3276312/0/en/genmab-a-s-share-capital-reduction.html"
         },
         {
-          "text": "Rinatabart Sesutecan — Mechanism: Bispecific antibody targeting CD3 and tumor-associated antigen — Phase: Clinical development — Population: Advanced ovarian cancer patients — Comparator: Combination with bevacizumab — Status: Safety and tolerability data presented.",
-          "url": "https://globenewswire.com/news-release/2026/04/13/3272591/0/en/Genmab-Presents-the-Safety-and-Tolerability-of-Rinatabart-Sesutecan-Rina-S-in-Combination-with-Bevacizumab-in-Advanced-Ovarian-Cancer.html"
+          "text": "MitoCatch-Bi — Mechanism: Bispecific binders linking mitochondria to cell surfaces for targeted delivery — Phase: Preclinical (animal models) — Population: Neurons, retinal ganglion cells, heart, endothelial, and immune cells — Comparator: Traditional mitochondrial transplantation methods — Results: Improved survival of neurons from optic nerve atrophy patients; functional mitochondria observed moving, fusing, and dividing post-delivery.",
+          "url": "https://globenewswire.com/news-release/2026/04/15/3274663/0/en/what-if-you-could-reboot-sick-cells.html"
         },
         {
-          "text": "Regeneron bispecific antibodies — Mechanism: VelocImmune mouse-derived solid tumor targeting — Phase: Preclinical/Early development (collaboration launch) — Population: Solid tumor patients — Strategy: Combination with radio-diagnostics for patient selection.",
-          "url": "https://globenewswire.com/news-release/2026/04/13/3272191/0/en/Dupixent-dupilumab-Approved-in-the-EU-as-the-First-Targeted-Medicine-to-Treat-Young-Children-with-Chronic-Spontaneous-Urticaria-CSU.html"
+          "text": "FIT-IG® IL-13/OX-40L Bispecific — Mechanism: Dual targeting of IL-13 and OX-40L via Fabs-In-Tandem Immunoglobulin platform — Phase: 1 (First-in-Human) — Population: Atopic dermatitis patients — Comparator: Not specified — Endpoints: Safety and tolerability; initiation expected H1 2026.",
+          "url": "https://globenewswire.com/news-release/2026/04/15/3274072/0/en/epimab-biotherapeutics-to-present-a-novel-prodrug-t-cell-engager-protce-platform-at-the-2026-american-association-for-cancer-research-annual-meeting.html"
         },
         {
-          "text": "Vabysmo (faricimab-svoa) — Mechanism: Bispecific antibody inhibiting angiopoietin-1 and VEGF-A — Phase: Approved (Label Update) — Population: Patients with macular edema due to retinal vein occlusion — Comparator: N/A — Outcome: Extended treatment duration beyond 6 months approved by FDA.",
-          "url": "https://www.healio.com/news/ophthalmology/20260410/fda-approves-vabysmo-label-update-for-macular-edema-due-to-retinal-vein-occlusion"
+          "text": "Zenocutuzumab — Mechanism: HER3/HER2 bispecific antibody — Phase: 2 (eNRGy trial) — Population: Advanced NRG1 fusion-positive cholangiocarcinoma — Results: 36.8% overall response rate (95% CI, 16.3%-61.6%); median duration of response 12.9 months.",
+          "url": "https://cancernetwork.com/view/fda-receives-sbla-for-zenocutuzumab-in-advanced-nrg1-cholangiocarcinoma"
         },
         {
-          "text": "PD-L1/VEGF-A bispecific antibody — Mechanism: Dual blockade of PD-L1 immune checkpoint and VEGF-A angiogenesis pathway — Phase: Preclinical/Early Clinical (Combination study) — Population: Small Cell Lung Cancer — Context: Being evaluated in combination with DLL3-targeting T-cell engager.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185312&sid=2"
+          "text": "BCMA-directed bispecific antibodies — Mechanism: T-cell engager targeting BCMA — Phase: Clinical use in multiple myeloma — Population: Early relapse multiple myeloma — Safety Profile: Manageable cytokine release syndrome, infection risk, and cytopenias requiring proactive monitoring.",
+          "url": "https://cancernetwork.com/view/safety-considerations-for-bispecific-antibodies-in-multiple-myeloma"
         },
         {
-          "text": "Lorigerlimab — Mechanism: Bispecific DART molecule targeting PD-1 and CTLA-4 simultaneously — Phase: 2 (LINNET) — Population: Platinum-resistant ovarian and clear cell gynecologic cancer — Comparator: Not specified — Endpoints: Primary endpoint is objective response rate (ORR); 41 participants dosed across 2 cohorts prior to hold.",
-          "url": "https://cancernetwork.com/view/fda-lifts-partial-clinical-hold-on-lorigerlimab-for-gynecologic-cancer"
+          "text": "Bispecific antibodies — Mechanism: Off-the-shelf T-cell engager — Phase: Evolving combination strategies — Population: Relapsed large B-cell lymphoma — Comparison: Versus CAR-T regarding durability and access barriers.",
+          "url": "https://cancernetwork.com/view/debate-round-3-car-t-vs-bispecifics-in-relapsed-lbcl-cure-vs-access"
         },
         {
-          "text": "Tovecimig (CTX-009) — Mechanism: DLL4 and VEGF-A bispecific antibody inhibiting tumor angiogenesis — Phase: 2/3 (COMPANION-002) — Population: Unresectable advanced/metastatic biliary tract cancer — Comparator: Paclitaxel monotherapy — Results: 17.1% ORR vs 5.3% (p=0.031); 16.2% partial response rate vs 5.3% in control.",
-          "url": "https://cancernetwork.com/view/fda-grants-orphan-drug-designation-to-tovecimig-for-biliary-tract-cancer"
-        },
-        {
-          "text": "BCMA-directed bispecific antibody — Mechanism: Dual targeting of BCMA and CD3 — Phase: 3 (MajesTEC-3) — Population: Relapsed multiple myeloma with prior anti-CD38/lenalidomide exposure — Comparator: Standard-of-care regimens — Endpoints: Improved progression-free survival and depth of response.",
-          "url": "https://cancernetwork.com/view/interpreting-majestec-3-efficacy-in-multiple-myeloma"
+          "text": "REGN5668 — Mechanism: MUC16 × CD28 bispecific antibody engaging T-cells via CD28 and targeting MUC16-expressing tumors — Phase: 1/2 — Population: Recurrent ovarian and endometrial cancer — Comparator: None specified in abstract — Endpoints: Objective response rate (RECIST v1.1) and safety outcomes.",
+          "url": "https://cancernetwork.com/view/regn5668-combo-yields-preliminary-activity-in-recurrent-ovarian-endometrial-cancer"
         }
       ]
     },
@@ -175,12 +143,8 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Sidewinder Therapeutics — $137M Series B financing round closed April 8, 2026 — Investors: OrbiMed, Novartis Venture Fund, and others — Allocation: Advancement of bispecific ADC pipeline into clinical trials.",
-          "url": "https://biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"
-        },
-        {
-          "text": "Regeneron / Telix — Strategic radiopharma collaboration — Bispecific antibody-based radiopharmaceuticals — $40M upfront; up to $2.1B in development/commercial milestones plus low double-digit royalties.",
-          "url": "https://globenewswire.com/news-release/2026/04/13/3272191/0/en/Dupixent-dupilumab-Approved-in-the-EU-as-the-First-Targeted-Medicine-to-Treat-Young-Children-with-Chronic-Spontaneous-Urticaria-CSU.html"
+          "text": "EpimAb Biotherapeutics / Almirall — License agreement expansion — FIT-IG® bispecific platform — Almirall secured rights to develop up to three undisclosed bispecific target pairs; first candidate (IL-13/OX-40L) advanced to CTA filing.",
+          "url": "https://globenewswire.com/news-release/2026/04/15/3274072/0/en/epimab-biotherapeutics-to-present-a-novel-prodrug-t-cell-engager-protce-platform-at-the-2026-american-association-for-cancer-research-annual-meeting.html"
         }
       ]
     }
