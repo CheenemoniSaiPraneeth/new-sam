@@ -1,49 +1,53 @@
 {
   "query": "monoclonal",
-  "generated_at": "2026-04-15 06:53:56",
-  "article_count": 46,
+  "generated_at": "2026-04-19 07:02:18",
+  "article_count": 52,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Affibody AB is advancing ABY-271, a radioligand therapy targeting HER2-positive metastatic breast cancer, following initial attempts to address radiopharma using full-size monoclonal antibodies (mAbs).",
+          "text": "Bio-Rad Laboratories extended its portfolio of recombinant monoclonal anti-idiotypic antibodies with eight new specificities targeting approved biologics including romosuzumab, burosumab, and nirsevimab.",
+          "url": "https://drug-dev.com/bio-rad-extends-range-of-anti-idiotypic-antibodies-anti-fc-mutation-antibodies-for-bioanalysis-drug-monitoring/"
+        },
+        {
+          "text": "Bio-Rad launched a new anti-Fc mutation antibody range enabling selective detection of YTE-modified therapeutics (M252Y, S254T, T256E) to support pharmacokinetic bridging ELISAs.",
+          "url": "https://drug-dev.com/bio-rad-extends-range-of-anti-idiotypic-antibodies-anti-fc-mutation-antibodies-for-bioanalysis-drug-monitoring/"
+        },
+        {
+          "text": "argenx — VYVGART (efgartigimod) — Myasthenia Gravis and CIDP — Presented new data at AAN 2026 supporting broader use across indications; efgartigimod is an FcRn blocker monoclonal antibody.",
+          "url": "https://globenewswire.com/news-release/2026/04/18/3276554/0/en/argenx-brings-neuromuscular-leadership-to-aan-2026-with-new-data-supporting-broader-vyvgart-use-across-mg-and-cidp.html"
+        },
+        {
+          "text": "Upstream Bio is advancing verekitug, a TSLP receptor antagonist, into Phase 3 trials for severe asthma and CRSwNP with dosing planned for Q1 2027.",
+          "url": "https://globenewswire.com/news-release/2026/04/17/3276058/0/en/upstream-bio-to-present-new-data-from-phase-2-vibrant-trial-of-verekitug-at-the-ats-2026-international-conference.html"
+        },
+        {
+          "text": "The generalized myasthenia gravis (gMG) market across 7MM was valued at USD 5.9 billion in 2025 and is projected to grow at a 9.1% CAGR through 2036, driven by advanced targeted biologics including monoclonal antibodies.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275725/0/en/non-small-cell-lung-cancer-clinical-trial-race-intensifies-as-100-companies-competing-in-therapeutic-segment-worldwide-delveinsight.html"
+        },
+        {
+          "text": "Immunovant/Roivant Sciences is advancing IMVT-1402, a monoclonal antibody candidate, within the late-stage gMG treatment pipeline alongside other biologics like Gefurulimab and VYVGART.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275725/0/en/non-small-cell-lung-cancer-clinical-trial-race-intensifies-as-100-companies-competing-in-therapeutic-segment-worldwide-delveinsight.html"
+        },
+        {
+          "text": "Alexion AstraZeneca Rare Disease's Gefurulimab is identified as a promising late-stage monoclonal antibody candidate for generalized myasthenia gravis treatment.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275725/0/en/non-small-cell-lung-cancer-clinical-trial-race-intensifies-as-100-companies-competing-in-therapeutic-segment-worldwide-delveinsight.html"
+        },
+        {
+          "text": "Regeneron Pharmaceuticals is developing Pozelimab, a monoclonal antibody, in combination with Cemdisiran for generalized myasthenia gravis management.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275725/0/en/non-small-cell-lung-cancer-clinical-trial-race-intensifies-as-100-companies-competing-in-therapeutic-segment-worldwide-delveinsight.html"
+        },
+        {
+          "text": "Tiziana Life Sciences — Foralumab — Multiple System Atrophy — Phase 2a TILS-025 trial (NCT06868628) poster accepted for 7th World Parkinson Congress; study evaluates intranasal fully human anti-CD3 monoclonal antibody in up to 10 subjects.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275177/0/en/tiziana-life-sciences-announces-publication-of-positive-data-demonstrating-intranasal-anti-cd3-antibody-attenuates-long-covid-neuroinflammation-and-improves-cognitive-function.html"
+        },
+        {
+          "text": "Affibody AB is advancing radioligand therapies using Affibody molecules as a smaller, more stable alternative to full-size monoclonal antibodies (mAbs) for solid tumor targeting.",
           "url": "https://drug-dev.com/radioligand-therapies-affibody-molecules-a-versatile-approach-to-radiopharma/"
         },
         {
-          "text": "Bio-Rad Laboratories extended its portfolio of recombinant monoclonal anti-idiotypic antibodies to include specificities for romosuzumab, burosumab, ixekizumab, elotuzumab, isatuximab, nirsevimab, and tremelimumab.",
-          "url": "https://drug-dev.com/bio-rad-extends-range-of-anti-idiotypic-antibodies-anti-fc-mutation-antibodies-for-bioanalysis-drug-monitoring/"
-        },
-        {
-          "text": "Bio-Rad Laboratories released a recombinant monoclonal anti-biotherapeutic antibody specific to dulaglutide, marking its first antibody against a GLP-1 receptor agonist drug.",
-          "url": "https://drug-dev.com/bio-rad-extends-range-of-anti-idiotypic-antibodies-anti-fc-mutation-antibodies-for-bioanalysis-drug-monitoring/"
-        },
-        {
-          "text": "Citryll dosed first patient in Cityview imaging study for CIT-013, a first-in-class monoclonal antibody targeting Extracellular Traps in rheumatoid arthritis and hidradenitis suppurativa.",
-          "url": "https://globenewswire.com/news-release/2026/04/15/3274135/0/en/Citryll-Strengthens-Intellectual-Property-Portfolio-With-Grant-of-European-Composition-of-Matter-Patent-for-CIT-013.html"
-        },
-        {
-          "text": "OSE Immunotherapeutics appointed Aurore Morello as Chief Scientific Officer to lead development of monoclonal antibodies, immunocytokines, and RNA-based immunotherapies under its 2026-2028 strategic plan.",
-          "url": "https://globenewswire.com/news-release/2026/04/15/3274118/0/fr/OSE-Immunotherapeutics-pr%C3%A9sentera-un-nouvel-anticorps-monoclonal-first-in-class-agoniste-de-FPR2-dans-la-r%C3%A9solution-de-l-inflammation-chronique-au-Congr%C3%A8s-2026-de-l-AAI.html"
-        },
-        {
-          "text": "OSE Immunotherapeutics presented a novel, first-in-class FPR2 agonist monoclonal antibody at the AAI 2026 Meeting to resolve chronic inflammation by limiting neutrophil recruitment and reprogramming macrophages.",
-          "url": "https://globenewswire.com/news-release/2026/04/14/3273728/0/en/OSE-Immunotherapeutics-Evolves-its-Leadership-Team.html"
-        },
-        {
-          "text": "CytoDyn presented preclinical data at the AACR Special Conference demonstrating that leronlimab, a humanized monoclonal antibody targeting CCR5, enhances Temozolomide and radiation response in Glioblastoma multiforme (GBM).",
-          "url": "https://globenewswire.com/news-release/2026/04/14/3273393/19782/en/CytoDyn-to-Present-at-the-AACR-Annual-Meeting-2026.html"
-        },
-        {
-          "text": "Tiziana Life Sciences announced positive preclinical data for intranasal foralumab, a fully human anti-CD3 monoclonal antibody, showing reversal of brain aging markers and improved cognition via dampened microglial activation.",
-          "url": "https://globenewswire.com/news-release/2026/04/14/3273191/0/en/Tiziana-Life-Sciences-Announces-Late-Breaking-Poster-Accepted-for-Presentation-at-the-7th-World-Parkinson-Congress.html"
-        },
-        {
-          "text": "Preterm infants face doubled RSV hospitalization risk in their second season, contrasting with current US/Canada guidelines that do not recommend RSV monoclonal antibodies (nirsevimab, clesrovimab) for this group unless high-risk comorbidities exist.",
-          "url": "https://www.healio.com/news/pediatrics/20260409/rsv-hospitalization-risk-spikes-for-preemies-in-second-season"
-        },
-        {
-          "text": "Daiichi Sankyo and Merck received US FDA priority review for ifinatamab deruxtecan, an antibody-drug conjugate targeting B7-H3, for extensive-stage small cell lung cancer (ES-SCLC) post-platinum chemotherapy.",
+          "text": "Daiichi Sankyo and Merck received US FDA priority review for ifinatamab deruxtecan, an antibody-drug conjugate targeting B7-H3, for extensive-stage small cell lung cancer (ES-SCLC) in patients progressing after platinum-based chemotherapy.",
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185351&sid=2"
         },
         {
@@ -51,15 +55,15 @@
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185335&sid=2"
         },
         {
-          "text": "Science China Life Sciences review notes monoclonal antibodies lecanemab and donanemab have shown modest benefits in slowing cognitive decline in Alzheimer's disease but fail to reverse pathology.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
+          "text": "Fred Hutch Cancer Center researchers identified human-like monoclonal antibodies targeting Epstein-Barr virus (EBV) entry proteins gp350 and gp42, with one candidate completely preventing infection in humanized mouse models.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm"
         },
         {
           "text": "Renaissance Pharma Limited received FDA Fast Track designation and IND clearance for daretabart (hu1418K322A), an anti-GD2 monoclonal antibody, for high-risk neuroblastoma.",
           "url": "https://cancernetwork.com/view/fda-grants-fast-track-designation-to-daretabart-for-high-risk-neuroblastoma"
         },
         {
-          "text": "Daretabart Phase 2 data showed 73.7% 3-year event-free survival and 86.0% 3-year overall survival in newly diagnosed high-risk neuroblastoma patients receiving induction chemotherapy.",
+          "text": "Phase 2 data for daretabart in high-risk neuroblastoma showed a 3-year event-free survival rate of 73.7% and overall survival of 86.0% when integrated with induction chemotherapy.",
           "url": "https://cancernetwork.com/view/fda-grants-fast-track-designation-to-daretabart-for-high-risk-neuroblastoma"
         }
       ]
@@ -68,44 +72,52 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Affibody AB — ABY-271 — HER2-positive metastatic breast cancer — First-in-human clinical study evaluating a radioligand therapy targeting a novel epitope, developed as an alternative to full-size monoclonal antibodies for radiopharma applications.",
-          "url": "https://drug-dev.com/radioligand-therapies-affibody-molecules-a-versatile-approach-to-radiopharma/"
-        },
-        {
-          "text": "Bio-Rad Laboratories — Anti-idiotypic antibody portfolio expansion — Bioanalysis and drug monitoring for 8 monoclonal antibodies (romosuzumab, burosumab, ixekizumab, elotuzumab, isatuximab, nirsevimab, tremelimumab) and 1 GLP-1 agonist (dulaglutide) — New recombinant monoclonal anti-idiotypic and anti-Fc mutation antibodies launched for PK and ADA assays.",
+          "text": "Bio-Rad Laboratories — Anti-idiotypic antibody portfolio expansion — Bioanalysis & Drug Monitoring — Added eight recombinant monoclonal antibodies specific to romosuzumab, burosumab, ixekizumab, elotuzumab, isatuximab, nirsevimab, tremelimumab, and dulaglutide.",
           "url": "https://drug-dev.com/bio-rad-extends-range-of-anti-idiotypic-antibodies-anti-fc-mutation-antibodies-for-bioanalysis-drug-monitoring/"
         },
         {
-          "text": "Citryll — CIT-013 — Rheumatoid Arthritis / Hidradenitis Suppurativa — First patient dosed in Cityview Phase IIa PET-CT imaging study to assess biodistribution and target engagement of the Extracellular Trap-targeting monoclonal antibody.",
-          "url": "https://globenewswire.com/news-release/2026/04/15/3274135/0/en/Citryll-Strengthens-Intellectual-Property-Portfolio-With-Grant-of-European-Composition-of-Matter-Patent-for-CIT-013.html"
+          "text": "Bio-Rad Laboratories — Anti-Fc mutation antibody range launch — Bioanalytical assay support — Introduced first range targeting YTE triple substitutions (M252Y, S254T, T256E) in human IgG1 Fc regions to measure free drug concentration.",
+          "url": "https://drug-dev.com/bio-rad-extends-range-of-anti-idiotypic-antibodies-anti-fc-mutation-antibodies-for-bioanalysis-drug-monitoring/"
         },
         {
-          "text": "OSE Immunotherapeutics — FPR2 agonist monoclonal antibody — Chronic inflammation resolution — New first-in-class asset to be presented at AAI 2026 Congress; leadership team expanded with new Deputy CEO and CSO to drive 2026-2028 strategy.",
-          "url": "https://globenewswire.com/news-release/2026/04/15/3274118/0/fr/OSE-Immunotherapeutics-pr%C3%A9sentera-un-nouvel-anticorps-monoclonal-first-in-class-agoniste-de-FPR2-dans-la-r%C3%A9solution-de-l-inflammation-chronique-au-Congr%C3%A8s-2026-de-l-AAI.html"
+          "text": "argenx — VYVGART (efgartigimod) — Myasthenia Gravis and CIDP — New clinical data presented at AAN 2026 supporting expanded therapeutic application of the FcRn-blocking monoclonal antibody.",
+          "url": "https://globenewswire.com/news-release/2026/04/18/3276554/0/en/argenx-brings-neuromuscular-leadership-to-aan-2026-with-new-data-supporting-broader-vyvgart-use-across-mg-and-cidp.html"
         },
         {
-          "text": "CytoDyn — Leronlimab — Glioblastoma Multiforme — Preclinical data presented at AACR 2026 shows CCR5 inhibition synergy with Temozolomide/radiation; pilot study planned for combination therapy in GBM.",
-          "url": "https://globenewswire.com/news-release/2026/04/14/3273393/19782/en/CytoDyn-to-Present-at-the-AACR-Annual-Meeting-2026.html"
+          "text": "Upstream Bio — Verekitug — Severe Asthma and CRSwNP — Phase 3 development strategy initiated; Phase 2 VALIANT trial showed significant reduction in asthma exacerbations and improved lung function; Q1 2027 dosing start planned.",
+          "url": "https://globenewswire.com/news-release/2026/04/17/3276058/0/en/upstream-bio-to-present-new-data-from-phase-2-vibrant-trial-of-verekitug-at-the-ats-2026-international-conference.html"
         },
         {
-          "text": "Tiziana Life Sciences — Foralumab — Age-related cognitive decline/Neuroinflammation — Late-breaking poster accepted at 7th World Parkinson Congress; intranasal anti-CD3 mAb demonstrated enhanced hippocampal neurogenesis and reduced cellular senescence in aging models.",
-          "url": "https://globenewswire.com/news-release/2026/04/14/3273191/0/en/Tiziana-Life-Sciences-Announces-Late-Breaking-Poster-Accepted-for-Presentation-at-the-7th-World-Parkinson-Congress.html"
+          "text": "Immunovant/Roivant Sciences — IMVT-1402 — Generalized Myasthenia Gravis — Late-stage monoclonal antibody candidate advancing in clinical development to address unmet needs in refractory patients.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275725/0/en/non-small-cell-lung-cancer-clinical-trial-race-intensifies-as-100-companies-competing-in-therapeutic-segment-worldwide-delveinsight.html"
         },
         {
-          "text": "CDC/AAP — Nirsevimab (Beyfortus) & Clesrovimab (Enflonsia) — RSV prevention in preemies — Current guidelines restrict second-season monoclonal antibody use to infants aged 8–19 months with high-risk conditions, excluding most extremely preterm infants.",
-          "url": "https://www.healio.com/news/pediatrics/20260409/rsv-hospitalization-risk-spikes-for-preemies-in-second-season"
+          "text": "Alexion AstraZeneca Rare Disease — Gefurulimab — Generalized Myasthenia Gravis — Late-stage monoclonal antibody candidate included in the top 8 promising therapies reshaping gMG management.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275725/0/en/non-small-cell-lung-cancer-clinical-trial-race-intensifies-as-100-companies-competing-in-therapeutic-segment-worldwide-delveinsight.html"
         },
         {
-          "text": "Daiichi Sankyo / Merck — Ifinatamab deruxtecan — Extensive-stage small cell lung cancer — US FDA granted priority review for BLA in adult patients progressing after platinum-based chemotherapy.",
+          "text": "Regeneron Pharmaceuticals — Pozelimab + Cemdisiran — Generalized Myasthenia Gravis — Late-stage combination therapy featuring a monoclonal antibody component advancing through clinical development.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275725/0/en/non-small-cell-lung-cancer-clinical-trial-race-intensifies-as-100-companies-competing-in-therapeutic-segment-worldwide-delveinsight.html"
+        },
+        {
+          "text": "Tiziana Life Sciences — Foralumab — Multiple System Atrophy — Phase 2a open-label trial enrolling 10 subjects (ages 30–85) to assess microglial activation via [F-18]PBR06 TSPO PET imaging and MDS-UMSARS scores over 6 months.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275177/0/en/tiziana-life-sciences-announces-publication-of-positive-data-demonstrating-intranasal-anti-cd3-antibody-attenuates-long-covid-neuroinflammation-and-improves-cognitive-function.html"
+        },
+        {
+          "text": "Affibody AB — ABY-271 — HER2-positive metastatic breast cancer — First-in-human clinical study evaluating a novel epitope-targeting radioligand therapy designed to overcome limitations of full-size monoclonal antibodies.",
+          "url": "https://drug-dev.com/radioligand-therapies-affibody-molecules-a-versatile-approach-to-radiopharma/"
+        },
+        {
+          "text": "Daiichi Sankyo / Merck — Ifinatamab deruxtecan — Extensive-stage small cell lung cancer — US FDA granted priority review for BLA in patients with disease progression on or after platinum-based chemotherapy.",
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185351&sid=2"
         },
         {
-          "text": "Kainova — DT-7012 — Advanced solid tumours — European expansion of Phase I/II DOMISOL trial commenced with patient dosing for the anti-CCR8 monoclonal antibody.",
+          "text": "Kainova — DT-7012 — Advanced solid tumours — Patient dosing commenced in European expansion of Phase I/II DOMISOL trial for Treg-depleting anti-CCR8 antibody.",
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185335&sid=2"
         },
         {
-          "text": "Lecanemab and Donanemab — Alzheimer's Disease — Monoclonal antibodies targeting amyloid-beta — Clinical data confirms modest slowing of cognitive decline without disease reversal or restoration of normal brain function.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
+          "text": "Fred Hutch Cancer Center — Anti-EBV monoclonal antibodies — Epstein-Barr virus infection and associated cancers — Identified 10 candidates (2 targeting gp350, 8 targeting gp42); one candidate achieved 100% infection prevention in humanized mouse models; findings published in Cell Reports Medicine.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm"
         },
         {
           "text": "Renaissance Pharma — Daretabart (hu1418K322A) — High-risk neuroblastoma — FDA granted Fast Track designation and cleared IND application; Phase 2/3 SHINE trial initiation approved in US.",
@@ -117,47 +129,51 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Affibody AB — Radioligand therapy development using Affibody molecules as alternatives to monoclonal antibodies — ABY-271 (HER2+ breast cancer) and pipeline for GEAC, NSCLC, TNBC, PDAC — First-in-human study ongoing for ABY-271.",
-          "url": "https://drug-dev.com/radioligand-therapies-affibody-molecules-a-versatile-approach-to-radiopharma/"
-        },
-        {
-          "text": "Bio-Rad Laboratories — Expansion of bioanalytical reagents for monoclonal antibody therapeutics — Anti-idiotypic and anti-Fc mutation antibody range (including dulaglutide and YTE-modified IgG1) — Portfolio supports PK bridging ELISAs for 350+ antibodies across 50 specificities.",
+          "text": "Bio-Rad Laboratories — Expansion of bioanalytical assay tools — Monoclonal anti-idiotypic and anti-Fc mutation antibodies — Portfolio now exceeds 350 antibodies across 50+ specificities; 2025 revenue reported at $2.6 billion.",
           "url": "https://drug-dev.com/bio-rad-extends-range-of-anti-idiotypic-antibodies-anti-fc-mutation-antibodies-for-bioanalysis-drug-monitoring/"
         },
         {
-          "text": "Citryll — Extracellular Trap-targeting monoclonal antibody development — CIT-013 — Phase IIa imaging study (Cityview) initiated alongside ongoing Citydream (RA) and Citylights (HS) efficacy trials.",
-          "url": "https://globenewswire.com/news-release/2026/04/15/3274135/0/en/Citryll-Strengthens-Intellectual-Property-Portfolio-With-Grant-of-European-Composition-of-Matter-Patent-for-CIT-013.html"
+          "text": "argenx — Commercial expansion of FcRn-blocking therapy — VYVGART (efgartigimod) monoclonal antibody — Presenting new data at AAN 2026 to support broader use in Myasthenia Gravis and CIDP.",
+          "url": "https://globenewswire.com/news-release/2026/04/18/3276554/0/en/argenx-brings-neuromuscular-leadership-to-aan-2026-with-new-data-supporting-broader-vyvgart-use-across-mg-and-cidp.html"
         },
         {
-          "text": "OSE Immunotherapeutics — First-in-class immuno-oncology and immuno-inflammation therapies — FPR2 agonist monoclonal antibody + RNA-based immunotherapies — Appointed Thomas Gidoin (Deputy CEO) and Aurore Morello (CSO) to execute 2026-2028 strategic plan.",
-          "url": "https://globenewswire.com/news-release/2026/04/15/3274118/0/fr/OSE-Immunotherapeutics-pr%C3%A9sentera-un-nouvel-anticorps-monoclonal-first-in-class-agoniste-de-FPR2-dans-la-r%C3%A9solution-de-l-inflammation-chronique-au-Congr%C3%A8s-2026-de-l-AAI.html"
+          "text": "Upstream Bio — Best-in-class TSLP antagonist development — Verekitug — $341.5M cash position to fund operations through 2027; Phase 3 trials targeting quarterly 400 mg dosing regimen.",
+          "url": "https://globenewswire.com/news-release/2026/04/17/3276058/0/en/upstream-bio-to-present-new-data-from-phase-2-vibrant-trial-of-verekitug-at-the-ats-2026-international-conference.html"
         },
         {
-          "text": "CytoDyn — Advancing CCR5-targeted monoclonal antibody in oncology — Leronlimab — Clinical-stage; expanding indications from mTNBC/mCRC to Glioblastoma based on preclinical synergy data.",
-          "url": "https://globenewswire.com/news-release/2026/04/14/3273393/19782/en/CytoDyn-to-Present-at-the-AACR-Annual-Meeting-2026.html"
+          "text": "Immunovant/Roivant Sciences — Monoclonal antibody commercialization for autoimmune disorders — IMVT-1402 — Late-stage development for generalized myasthenia gravis targeting autoantibody-mediated pathology.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275725/0/en/non-small-cell-lung-cancer-clinical-trial-race-intensifies-as-100-companies-competing-in-therapeutic-segment-worldwide-delveinsight.html"
         },
         {
-          "text": "Tiziana Life Sciences — Developing intranasal anti-CD3 monoclonal antibody for neurodegenerative disorders — Foralumab — Ongoing trials in Non-Active Secondary Progressive Multiple Sclerosis; new preclinical data supports aging/cognition indications.",
-          "url": "https://globenewswire.com/news-release/2026/04/14/3273191/0/en/Tiziana-Life-Sciences-Announces-Late-Breaking-Poster-Accepted-for-Presentation-at-the-7th-World-Parkinson-Congress.html"
+          "text": "Alexion AstraZeneca Rare Disease — Expansion of rare disease biologic portfolio — Gefurulimab — Late-stage monoclonal antibody candidate for generalized myasthenia gravis.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275725/0/en/non-small-cell-lung-cancer-clinical-trial-race-intensifies-as-100-companies-competing-in-therapeutic-segment-worldwide-delveinsight.html"
         },
         {
-          "text": "AstraZeneca — RSV monoclonal antibody commercialization — Nirsevimab (Beyfortus) — Recommended for second-season prophylaxis in high-risk children aged 8–19 months; not currently recommended for preemies in second season without comorbidities.",
-          "url": "https://www.healio.com/news/pediatrics/20260409/rsv-hospitalization-risk-spikes-for-preemies-in-second-season"
+          "text": "Regeneron Pharmaceuticals — Advanced combination biologic therapies — Pozelimab (monoclonal antibody) + Cemdisiran — Late-stage pipeline for generalized myasthenia gravis.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275725/0/en/non-small-cell-lung-cancer-clinical-trial-race-intensifies-as-100-companies-competing-in-therapeutic-segment-worldwide-delveinsight.html"
         },
         {
-          "text": "Merck — Clesrovimab (Enflonsia) — RSV monoclonal antibody — Approved by Health Canada earlier in 2026; not yet included in Canadian national recommendations for second-season use in premature infants.",
-          "url": "https://www.healio.com/news/pediatrics/20260409/rsv-hospitalization-risk-spikes-for-preemies-in-second-season"
+          "text": "Tiziana Life Sciences — Neurodegenerative disease therapy via intranasal delivery — Foralumab (fully human anti-CD3 monoclonal antibody) — Phase 2a TILS-025 trial ongoing in Multiple System Atrophy; prior data showed neuroinflammation reduction in MS and Alzheimer's.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275177/0/en/tiziana-life-sciences-announces-publication-of-positive-data-demonstrating-intranasal-anti-cd3-antibody-attenuates-long-covid-neuroinflammation-and-improves-cognitive-function.html"
         },
         {
-          "text": "Daiichi Sankyo — Accelerated regulatory pathway for B7-H3 ADC — Ifinatamab deruxtecan — Priority review granted by US FDA for ES-SCLC indication.",
+          "text": "Affibody AB — Next-generation radioligand therapy development — ABY-271 and pipeline for GEAC, NSCLC, TNBC, PDAC — Leveraging Affibody molecules as a versatile alternative to monoclonal antibodies for improved tumor penetration and stability.",
+          "url": "https://drug-dev.com/radioligand-therapies-affibody-molecules-a-versatile-approach-to-radiopharma/"
+        },
+        {
+          "text": "Daiichi Sankyo — Regulatory advancement of B7-H3 targeted ADC — Ifinatamab deruxtecan — Priority review granted by US FDA for ES-SCLC indication.",
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185351&sid=2"
         },
         {
-          "text": "Kainova — Clinical expansion of Treg-depleting mAb — DT-7012 (anti-CCR8) — Phase I/II DOMISOL trial now dosing patients in Europe for advanced solid tumours.",
+          "text": "Kainova — Clinical expansion of Treg-depleting antibody program — DT-7012 (anti-CCR8 mAb) — Phase I/II trial dosing initiated in Europe for advanced solid tumours.",
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185335&sid=2"
         },
         {
-          "text": "Renaissance Pharma Limited — Commercialization of anti-GD2 monoclonal antibody — Daretabart (hu1418K322A) — Exclusive license with St. Jude Children's Research Hospital; first commercial-scale GMP batch manufactured for SHINE trial.",
+          "text": "Fred Hutch Cancer Center — Monoclonal antibody discovery for EBV — Anti-gp350 and anti-gp42 mAbs — Validated novel discovery platform using human antibody-engineered mice; early-stage preclinical validation completed.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm"
+        },
+        {
+          "text": "Renaissance Pharma Limited — Commercialization of anti-GD2 monoclonal antibody — Daretabart (hu1418K322A) — Exclusive license from St. Jude Children's Research Hospital; first commercial-scale GMP batch manufactured for SHINE trial.",
           "url": "https://cancernetwork.com/view/fda-grants-fast-track-designation-to-daretabart-for-high-risk-neuroblastoma"
         }
       ]
@@ -166,51 +182,55 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "ABY-271 — Mechanism: Radioligand therapy using Affibody molecule (smaller than monoclonal antibodies) targeting HER2 — Phase: First-in-human — Population: HER2-positive metastatic breast cancer — Comparator: None stated — Endpoints: Evaluation of tumor targeting and safety vs full-size mAb approaches.",
-          "url": "https://drug-dev.com/radioligand-therapies-affibody-molecules-a-versatile-approach-to-radiopharma/"
-        },
-        {
-          "text": "Anti-Fc mutation antibodies — Mechanism: Recognition of YTE triple substitutions (M252Y, S254T, T256E) in Fc region of human IgG1 monoclonal antibodies — Phase: N/A (Assay reagent) — Population: Therapeutics with YTE modifications — Comparator: Wild-type IgG — Endpoints: Selective detection of YTE-modified therapeutics to extend antibody half-life monitoring.",
+          "text": "Nirsevimab (Beyfortus) — Mechanism: Monoclonal antibody targeting RSV F protein — Application: Bioanalytical assay standard — Status: Included in Bio-Rad's new anti-idiotypic antibody range for PK and ADA assay development.",
           "url": "https://drug-dev.com/bio-rad-extends-range-of-anti-idiotypic-antibodies-anti-fc-mutation-antibodies-for-bioanalysis-drug-monitoring/"
         },
         {
-          "text": "CIT-013 — Mechanism: Extracellular Trap (ET) targeting monoclonal antibody — Phase: IIa (Cityview imaging study) — Population: Rheumatoid arthritis and hidradenitis suppurativa — Comparator: None (open-label) — Endpoint: Biodistribution via PET-CT, target engagement, and disease activity correlation.",
-          "url": "https://globenewswire.com/news-release/2026/04/15/3274135/0/en/Citryll-Strengthens-Intellectual-Property-Portfolio-With-Grant-of-European-Composition-of-Matter-Patent-for-CIT-013.html"
+          "text": "Romosuzumab (Evenity) — Mechanism: Monoclonal antibody targeting sclerostin — Application: Bioanalytical assay standard — Status: Included in Bio-Rad's new anti-idiotypic antibody range for PK and ADA assay development.",
+          "url": "https://drug-dev.com/bio-rad-extends-range-of-anti-idiotypic-antibodies-anti-fc-mutation-antibodies-for-bioanalysis-drug-monitoring/"
         },
         {
-          "text": "FPR2 agonist monoclonal antibody — Mechanism: First-in-class FPR2 agonism for inflammation resolution — Phase: Preclinical/Early clinical (presentation at AAI 2026) — Population: Chronic inflammation indications — Comparator: Not specified — Status: New asset presentation scheduled.",
-          "url": "https://globenewswire.com/news-release/2026/04/15/3274118/0/fr/OSE-Immunotherapeutics-pr%C3%A9sentera-un-nouvel-anticorps-monoclonal-first-in-class-agoniste-de-FPR2-dans-la-r%C3%A9solution-de-l-inflammation-chronique-au-Congr%C3%A8s-2026-de-l-AAI.html"
+          "text": "VYVGART (efgartigimod) — Mechanism: FcRn blockade to reduce pathogenic IgG — Phase: Commercial/Post-marketing expansion — Population: Patients with Myasthenia Gravis and CIDP — Endpoints: New data presented at AAN 2026 supporting broader clinical utility of the monoclonal antibody.",
+          "url": "https://globenewswire.com/news-release/2026/04/18/3276554/0/en/argenx-brings-neuromuscular-leadership-to-aan-2026-with-new-data-supporting-broader-vyvgart-use-across-mg-and-cidp.html"
         },
         {
-          "text": "Leronlimab — Mechanism: Humanized monoclonal antibody targeting CCR5 receptor — Phase: Preclinical (planning pilot) — Population: Glioblastoma multiforme (GBM) — Comparator: Standard-of-care (Temozolomide/Radiation) alone — Results: Enhanced tumor cell killing and synergy in hypoxic/mesenchymal tumor core signatures.",
-          "url": "https://globenewswire.com/news-release/2026/04/14/3273393/19782/en/CytoDyn-to-Present-at-the-AACR-Annual-Meeting-2026.html"
+          "text": "Verekitug — Mechanism: TSLP receptor antagonist — Phase: 3 (planned) — Population: Severe asthma and CRSwNP — Comparator: Not specified in source — Endpoints: Best-in-class efficacy with quarterly 400 mg dosing; Phase 2 VALIANT demonstrated significant exacerbation reduction.",
+          "url": "https://globenewswire.com/news-release/2026/04/17/3276058/0/en/upstream-bio-to-present-new-data-from-phase-2-vibrant-trial-of-verekitug-at-the-ats-2026-international-conference.html"
         },
         {
-          "text": "Foralumab — Mechanism: Fully human anti-CD3 monoclonal antibody stimulating regulatory T cells — Phase: Preclinical (aging models) — Population: Age-related neuroinflammation/cognitive decline — Comparator: N/A — Results: Dampened microglial activation, reduced cellular senescence, and enhanced hippocampal neurogenesis.",
-          "url": "https://globenewswire.com/news-release/2026/04/14/3273191/0/en/Tiziana-Life-Sciences-Announces-Late-Breaking-Poster-Accepted-for-Presentation-at-the-7th-World-Parkinson-Congress.html"
+          "text": "IMVT-1402 — Mechanism: Monoclonal antibody targeting pathogenic autoantibodies — Phase: Late-stage — Population: Generalized Myasthenia Gravis patients — Status: Advancing in clinical development to improve rapid disease control.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275725/0/en/non-small-cell-lung-cancer-clinical-trial-race-intensifies-as-100-companies-competing-in-therapeutic-segment-worldwide-delveinsight.html"
         },
         {
-          "text": "Nirsevimab — Mechanism: Monoclonal antibody targeting RSV F protein — Phase: Post-marketing/Real-world evidence — Population: Extremely preterm infants in second RSV season — Outcome: Hospitalization risk doubles compared to first season; current guidelines limit use.",
-          "url": "https://www.healio.com/news/pediatrics/20260409/rsv-hospitalization-risk-spikes-for-preemies-in-second-season"
+          "text": "Gefurulimab — Mechanism: Monoclonal antibody — Phase: Late-stage — Population: Generalized Myasthenia Gravis — Status: Included among 8 promising late-stage candidates signaling a new treatment era.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275725/0/en/non-small-cell-lung-cancer-clinical-trial-race-intensifies-as-100-companies-competing-in-therapeutic-segment-worldwide-delveinsight.html"
         },
         {
-          "text": "Ifinatamab deruxtecan — Mechanism: B7-H3 targeted antibody-drug conjugate — Phase: BLA review (Priority) — Population: Adult ES-SCLC patients post-platinum — Comparator: N/A (Regulatory action) — Status: Priority review granted.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185351&sid=2"
+          "text": "Pozelimab — Mechanism: Monoclonal antibody (combined with Cemdisiran) — Phase: Late-stage — Population: Generalized Myasthenia Gravis — Status: Advancing through clinical development as part of a combination regimen.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275725/0/en/non-small-cell-lung-cancer-clinical-trial-race-intensifies-as-100-companies-competing-in-therapeutic-segment-worldwide-delveinsight.html"
         },
         {
-          "text": "DT-7012 — Mechanism: Treg-depleting anti-CCR8 monoclonal antibody — Phase: I/II — Population: Advanced solid tumours — Comparator: N/A — Status: European expansion dosing initiated in DOMISOL trial.",
+          "text": "Foralumab — Mechanism: Fully human anti-CD3 monoclonal antibody targeting microglial activation — Phase: 2a (TILS-025) — Population: Multiple System Atrophy (30–85 years) — Comparator: None (open-label) — Endpoints: [F-18]PBR06 TSPO PET imaging changes, MDS-UMSARS scores, regional brain atrophy, autonomic function.",
+          "url": "https://globenewswire.com/news-release/2026/04/16/3275177/0/en/tiziana-life-sciences-announces-publication-of-positive-data-demonstrating-intranasal-anti-cd3-antibody-attenuates-long-covid-neuroinflammation-and-improves-cognitive-function.html"
+        },
+        {
+          "text": "ABY-271 — Mechanism: Radioligand therapy using Affibody molecule scaffold (smaller than monoclonal antibodies) targeting HER2 — Phase: First-in-human — Population: HER2-positive metastatic breast cancer — Differentiation: Targets novel epitope compared to concurrent monoclonal antibody therapies.",
+          "url": "https://drug-dev.com/radioligand-therapies-affibody-molecules-a-versatile-approach-to-radiopharma/"
+        },
+        {
+          "text": "DT-7012 — Mechanism: Treg-depleting anti-CCR8 monoclonal antibody — Phase: I/II — Population: Advanced solid tumours — Comparator: Not specified — Status: European expansion dosing initiated.",
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185335&sid=2"
         },
         {
-          "text": "Lecanemab — Mechanism: Anti-amyloid-beta monoclonal antibody — Phase: Approved/Post-marketing — Population: Alzheimer's disease patients — Results: Modest slowing of cognitive decline; limited efficacy in reversing neurofibrillary tangles or Tau hyperphosphorylation.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
+          "text": "Ifinatamab deruxtecan — Mechanism: B7-H3 targeted antibody-drug conjugate — Phase: BLA review — Population: ES-SCLC post-platinum progression — Comparator: Not applicable — Status: Priority review granted by US FDA.",
+          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185351&sid=2"
         },
         {
-          "text": "Donanemab — Mechanism: Anti-amyloid-beta monoclonal antibody — Phase: Approved/Post-marketing — Population: Alzheimer's disease patients — Results: Modest slowing of cognitive decline; insufficient to address complex multi-factorial disease etiology including aging and metabolism.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
+          "text": "Anti-EBV monoclonal antibodies — Mechanism: Neutralization of viral entry via gp350 (attachment) and gp42 (fusion) blockade — Phase: Preclinical — Population: Humanized mice with human immune systems — Comparator: None stated — Results: One antibody candidate completely prevented EBV infection in vivo.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm"
         },
         {
-          "text": "Daretabart — Mechanism: Anti-GD2 monoclonal antibody with novel structural modifications for improved tolerability — Phase: 2/3 (SHINE) — Population: Children <19 years with relapsed/refractory or newly diagnosed high-risk neuroblastoma — Comparator: None (single-arm Phase 2) — Results: 73.7% 3-year EFS, 86.0% 3-year OS, 66.7% partial response or better in Phase 2.",
+          "text": "Daretabart — Mechanism: Anti-GD2 monoclonal antibody with novel structural modifications for improved tolerability — Phase: 2/3 (SHINE) — Population: Children <19 with newly diagnosed or relapsed/refractory high-risk neuroblastoma — Endpoints: 3-year EFS 73.7% and OS 86.0% in Phase 2; partial response rate 66.7% after 2 cycles.",
           "url": "https://cancernetwork.com/view/fda-grants-fast-track-designation-to-daretabart-for-high-risk-neuroblastoma"
         }
       ]
@@ -219,19 +239,11 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Bio-Rad Laboratories — Product launch — Recombinant monoclonal anti-idiotypic and anti-Fc mutation antibodies — Portfolio expansion includes 8 new anti-IDs for approved monoclonal antibodies and first anti-Fc mutation range for YTE-modified therapeutics; company reported $2.6B revenue in 2025.",
+          "text": "Bio-Rad Laboratories — Product line expansion — Monoclonal antibody reagents — Launched first anti-Fc mutation range and first anti-biotherapeutic antibody against a GLP-1 receptor agonist (dulaglutide) to support therapeutic drug monitoring.",
           "url": "https://drug-dev.com/bio-rad-extends-range-of-anti-idiotypic-antibodies-anti-fc-mutation-antibodies-for-bioanalysis-drug-monitoring/"
         },
         {
-          "text": "Citryll — Secured European Composition of Matter patent for CIT-013 monoclonal antibody, strengthening IP portfolio for rheumatoid arthritis and hidradenitis suppurativa programs.",
-          "url": "https://globenewswire.com/news-release/2026/04/15/3274135/0/en/Citryll-Strengthens-Intellectual-Property-Portfolio-With-Grant-of-European-Composition-of-Matter-Patent-for-CIT-013.html"
-        },
-        {
-          "text": "OSE Immunotherapeutics — Executed senior leadership restructuring (Deputy CEO and CSO appointments) to support 2026-2028 strategic plan focused on monoclonal antibody and immunotherapy pipeline expansion.",
-          "url": "https://globenewswire.com/news-release/2026/04/15/3274118/0/fr/OSE-Immunotherapeutics-pr%C3%A9sentera-un-nouvel-anticorps-monoclonal-first-in-class-agoniste-de-FPR2-dans-la-r%C3%A9solution-de-l-inflammation-chronique-au-Congr%C3%A8s-2026-de-l-AAI.html"
-        },
-        {
-          "text": "Renaissance Pharma Limited — Exclusive license agreement — Daretabart (hu1418K322A) — Partnership with St. Jude Children's Research Hospital for development of anti-GD2 monoclonal antibody.",
+          "text": "Renaissance Pharma Limited — Exclusive license agreement — Daretabart (hu1418K322A) — Licensed from St. Jude Children's Research Hospital for development and commercialization in high-risk neuroblastoma.",
           "url": "https://cancernetwork.com/view/fda-grants-fast-track-designation-to-daretabart-for-high-risk-neuroblastoma"
         }
       ]
