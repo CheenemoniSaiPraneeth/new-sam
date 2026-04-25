@@ -1,50 +1,42 @@
 {
   "query": "CRISPR",
-  "generated_at": "2026-04-21 07:06:36",
-  "article_count": 52,
+  "generated_at": "2026-04-25 06:48:53",
+  "article_count": 50,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Research and Markets projects the global arrayed CRISPR screening market revenue to grow by $1.64 billion at a 17.7% CAGR through 2030.",
+          "text": "Intellia Therapeutics — Lonvoguran (ziclumeran) — Hereditary Angioedema — Scheduled to report topline data from the global Phase 3 HAELO trial, representing the first Phase 3 readout for an in vivo CRISPR gene editing candidate.",
+          "url": "https://globenewswire.com/news-release/2026/04/24/3281073/0/en/intellia-therapeutics-to-report-topline-data-from-global-phase-3-haelo-clinical-trial-of-lonvoguran-ziclumeran-in-hereditary-angioedema-on-april-27-2026.html"
+        },
+        {
+          "text": "Pairwise licensed its Fulcrum® CRISPR platform to Wild Bioscience for AI-driven crop trait development and climate-resilient variety generation.",
+          "url": "https://globenewswire.com/news-release/2026/04/21/3278025/0/en/pairwise-licenses-fulcrum-crispr-platform-to-ball-horticultural-company.html"
+        },
+        {
+          "text": "Research and Markets report projects the Arrayed CRISPR Screening market revenue to grow by $1.64 billion at a 17.7% CAGR through 2030.",
           "url": "https://globenewswire.com/news-release/2026/04/20/3277327/28124/en/arrayed-crispr-screening-market-presents-lucrative-opportunities-through-2026-2030-total-revenue-to-grow-by-1-64-billion-at-17-7-cagr.html"
         },
         {
-          "text": "ATCC and Broad Institute collaborated to engineer 13 CRISPR-modified isogenic non-small cell lung cancer (NSCLC) cell lines harboring defined resistance mechanisms to the EGFR inhibitor osimertinib.",
+          "text": "Emerging CRISPR-Cas9 gene editing therapies are identified as a key driver igniting hope in the Chronic Granulomatous Disease (CGD) market outlook for 2026-2036.",
+          "url": "https://globenewswire.com/news-release/2026/04/21/3277727/28124/en/chronic-granulomatous-disease-cgd-market-analysis-and-outlook-report-2026-2036-emerging-gene-therapies-lentiviral-vector-based-therapies-and-crispr-cas9-gene-editing-ignite-hope.html"
+        },
+        {
+          "text": "ATCC and Broad Institute collaborated to engineer 13 CRISPR-edited isogenic non-small cell lung cancer (NSCLC) cell lines harboring defined resistance mechanisms to the EGFR inhibitor osimertinib.",
           "url": "https://globenewswire.com/news-release/2026/04/20/3276993/0/en/atcc-and-broad-institute-engineer-new-cancer-models-to-decode-resistance-to-targeted-therapy.html"
         },
         {
-          "text": "The CRISPR-engineered NSCLC models will be integrated into the Cancer Dependency Map (DepMap) to construct a response and resistance map (ResMap) of therapeutic vulnerabilities.",
+          "text": "The CRISPR-engineered NSCLC models will be integrated into the Cancer Dependency Map (DepMap) to construct a response and resistance map (ResMap) for identifying therapeutic vulnerabilities.",
           "url": "https://globenewswire.com/news-release/2026/04/20/3276993/0/en/atcc-and-broad-institute-engineer-new-cancer-models-to-decode-resistance-to-targeted-therapy.html"
         },
         {
-          "text": "Metagenomi Therapeutics announced a publication in Nature Structural & Molecular Biology detailing a proprietary compact CRISPR nuclease with enhanced genome editing efficiency.",
-          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/metagenomi-therapeutics-inc-announces-publication-in-nature-structural-molecular-biology-highlighting-proprietary-compact-crispr-nuclease-with-enhanced-genome-editing-efficiency.html"
+          "text": "A modified CRISPR tool was reported to target the Down syndrome mutation, representing a potential gene-editing approach for the condition.",
+          "url": "https://www.labiotech.eu/trends-news/crispr-tool-targets-down-syndrome/"
         },
         {
-          "text": "Metagenomi Therapeutics completed a pre-IND meeting for MGX-001 (Hemophilia A) following non-human primate data showing curative FVIII activity, targeting an IND submission in Q4 2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/metagenomi-therapeutics-inc-announces-publication-in-nature-structural-molecular-biology-highlighting-proprietary-compact-crispr-nuclease-with-enhanced-genome-editing-efficiency.html"
-        },
-        {
-          "text": "Metagenomi Therapeutics reported $160.8 million in cash and equivalents as of December 31, 2025, providing a runway through Q4 2027 to support its CRISPR-based pipeline.",
-          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/metagenomi-therapeutics-inc-announces-publication-in-nature-structural-molecular-biology-highlighting-proprietary-compact-crispr-nuclease-with-enhanced-genome-editing-efficiency.html"
-        },
-        {
-          "text": "Metagenomi Therapeutics demonstrated in vivo proof-of-concept for Antithrombin (AT-III) Deficiency using its MGX-001 site-specific genome integration system in non-human primates.",
-          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/metagenomi-therapeutics-inc-announces-publication-in-nature-structural-molecular-biology-highlighting-proprietary-compact-crispr-nuclease-with-enhanced-genome-editing-efficiency.html"
-        },
-        {
-          "text": "Metagenomi Therapeutics presented preclinical data for APOC3 as a new collaboration target with Ionis Pharmaceuticals under the Wave 1 of their partnership.",
-          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/metagenomi-therapeutics-inc-announces-publication-in-nature-structural-molecular-biology-highlighting-proprietary-compact-crispr-nuclease-with-enhanced-genome-editing-efficiency.html"
-        },
-        {
-          "text": "Biohub researchers identified a 3-amino acid formulation (methionine, arginine, serine) that boosts CRISPR gene editing efficiency from ~25% to nearly 90% in lipid nanoparticle delivery systems.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260420014742.htm"
-        },
-        {
-          "text": "Rockefeller University researchers used CRISPR gene editing to reprogram hematopoietic stem and progenitor cells (HSPCs) to produce broadly neutralizing antibodies (bNAbs) against HIV in mice.",
-          "url": "https://the-scientist.com/gene-editing-turns-the-immune-system-into-a-custom-protein-factory-74368"
+          "text": "Erica Larschan (Brown University) — Gene regulation research — X chromosome dosage compensation — Leveraged CRISPR-Cas9 to overcome challenges in editing highly compacted heterochromatic genomic locations previously inaccessible to traditional methods.",
+          "url": "https://the-scientist.com/then-and-now-erica-larschan-harnesses-modern-technologies-to-study-gene-regulation-74390"
         }
       ]
     },
@@ -52,32 +44,32 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Arrayed CRISPR Screening Market — Market Growth — Revenue projected to increase by $1.64 billion at 17.7% CAGR through 2030 driven by R&D investment.",
+          "text": "Intellia Therapeutics — Lonvoguran (ziclumeran) — Hereditary Angioedema — Phase 3 HAELO trial topline data release scheduled for April 27, 2026; candidate utilizes in vivo CRISPR gene editing technology.",
+          "url": "https://globenewswire.com/news-release/2026/04/24/3281073/0/en/intellia-therapeutics-to-report-topline-data-from-global-phase-3-haelo-clinical-trial-of-lonvoguran-ziclumeran-in-hereditary-angioedema-on-april-27-2026.html"
+        },
+        {
+          "text": "Pairwise — Fulcrum® CRISPR Platform — Agricultural Crop Improvement — Licensing agreement with Wild Bioscience to integrate CRISPR-based genome editing tools into pipeline for row crop yield enhancement and carbon removal projects.",
+          "url": "https://globenewswire.com/news-release/2026/04/21/3278025/0/en/pairwise-licenses-fulcrum-crispr-platform-to-ball-horticultural-company.html"
+        },
+        {
+          "text": "Research and Markets — Arrayed CRISPR Screening — Oncology and Genetic Disease Research — Market revenue projected to increase by $1.64 billion at 17.7% CAGR through 2030.",
           "url": "https://globenewswire.com/news-release/2026/04/20/3277327/28124/en/arrayed-crispr-screening-market-presents-lucrative-opportunities-through-2026-2030-total-revenue-to-grow-by-1-64-billion-at-17-7-cagr.html"
         },
         {
-          "text": "ATCC / Broad Institute — CRISPR-engineered NSCLC models — Osimertinib resistance in EGFR-mutant lung cancer — Developed 13 isogenic cell lines using CRISPR gene editing and overexpression to replicate clinical resistance pathways; models available via DepMap portal.",
+          "text": "Research and Markets — CRISPR-Cas9 Gene Editing — Chronic Granulomatous Disease (CGD) — Identified as an emerging therapy alongside lentiviral vectors in the 2026-2036 market analysis.",
+          "url": "https://globenewswire.com/news-release/2026/04/21/3277727/28124/en/chronic-granulomatous-disease-cgd-market-analysis-and-outlook-report-2026-2036-emerging-gene-therapies-lentiviral-vector-based-therapies-and-crispr-cas9-gene-editing-ignite-hope.html"
+        },
+        {
+          "text": "ATCC / Broad Institute — CRISPR-engineered NSCLC models — Osimertinib resistance — Developed 13 isogenic cell lines using CRISPR gene editing to replicate clinically observed resistance mechanisms for targeted therapy discovery.",
           "url": "https://globenewswire.com/news-release/2026/04/20/3276993/0/en/atcc-and-broad-institute-engineer-new-cancer-models-to-decode-resistance-to-targeted-therapy.html"
         },
         {
-          "text": "Metagenomi Therapeutics — MGX-001 — Hemophilia A — Pre-IND meeting completed; curative FVIII activity demonstrated in non-human primates; IND submission planned Q4 2026; clinical trials targeted for 2027.",
-          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/metagenomi-therapeutics-inc-announces-publication-in-nature-structural-molecular-biology-highlighting-proprietary-compact-crispr-nuclease-with-enhanced-genome-editing-efficiency.html"
+          "text": "Unspecified developers — Modified CRISPR tool — Down syndrome mutation — Tool designed to target specific genetic mutation associated with Down syndrome; mechanism and clinical status not detailed in source.",
+          "url": "https://www.labiotech.eu/trends-news/crispr-tool-targets-down-syndrome/"
         },
         {
-          "text": "Metagenomi Therapeutics — Proprietary Compact CRISPR Nuclease — Genome Editing — Publication in Nature Structural & Molecular Biology highlights enhanced editing efficiency and compact size.",
-          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/metagenomi-therapeutics-inc-announces-publication-in-nature-structural-molecular-biology-highlighting-proprietary-compact-crispr-nuclease-with-enhanced-genome-editing-efficiency.html"
-        },
-        {
-          "text": "Metagenomi Therapeutics — MGX-001 Platform — Antithrombin (AT-III) Deficiency — In vivo proof-of-concept achieved in non-human primates, validating expansion into secreted protein disorders.",
-          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/metagenomi-therapeutics-inc-announces-publication-in-nature-structural-molecular-biology-highlighting-proprietary-compact-crispr-nuclease-with-enhanced-genome-editing-efficiency.html"
-        },
-        {
-          "text": "Biohub — CRISPR delivery via LNPs — Genetic mutation correction — Addition of methionine, arginine, and serine to lipid nanoparticles increased CRISPR editing efficiency to ~90% and mRNA delivery 20-fold in preclinical models.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260420014742.htm"
-        },
-        {
-          "text": "Rockefeller University — CRISPR-engineered HSPCs — HIV prevention — Successfully integrated anti-HIV bNAb instructions into immunoglobulin loci of mouse stem cells, generating B cells that secrete protective antibodies long-term.",
-          "url": "https://the-scientist.com/gene-editing-turns-the-immune-system-into-a-custom-protein-factory-74368"
+          "text": "Brown University (Erica Larschan Lab) — CRISPR-Cas9 application — Fundamental gene regulation — Enabled precise knockout of genes in heterochromatic regions, facilitating 3D genome and single-cell level analysis of X chromosome mechanisms.",
+          "url": "https://the-scientist.com/then-and-now-erica-larschan-harnesses-modern-technologies-to-study-gene-regulation-74390"
         }
       ]
     },
@@ -85,24 +77,24 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Research and Markets — Market intelligence publication — Arrayed CRISPR Screening — Released forecast projecting $1.64 billion revenue growth at 17.7% CAGR through 2030.",
-          "url": "https://globenewswire.com/news-release/2026/04/20/3277327/28124/en/arrayed-crispr-screening-market-presents-lucrative-opportunities-through-2026-2030-total-revenue-to-grow-by-1-64-billion-at-17-7-cagr.html"
+          "text": "Intellia Therapeutics — CRISPR gene editing commercialization — Lonvoguran (ziclumeran) pipeline — Awarded inducement grants of 67,150 RSUs to 13 new employees in April 2026; advancing first in vivo CRISPR Phase 3 candidate.",
+          "url": "https://globenewswire.com/news-release/2026/04/24/3281073/0/en/intellia-therapeutics-to-report-topline-data-from-global-phase-3-haelo-clinical-trial-of-lonvoguran-ziclumeran-in-hereditary-angioedema-on-april-27-2026.html"
         },
         {
-          "text": "ATCC — Precision oncology tool development — CRISPR-engineered isogenic cell lines — Partnered with Broad Institute to release 13 NSCLC models for functional genomics and AI-driven drug discovery; data accessible via DepMap.",
+          "text": "Pairwise — CRISPR platform commercialization — Fulcrum® Platform — Co-founded by CRISPR pioneers; licensing proprietary gene editing tools, enzymes, and trait libraries for research and commercial agricultural purposes.",
+          "url": "https://globenewswire.com/news-release/2026/04/21/3278025/0/en/pairwise-licenses-fulcrum-crispr-platform-to-ball-horticultural-company.html"
+        },
+        {
+          "text": "Wild Bioscience — AI-driven trait discovery integration — Fulcrum® CRISPR tools — Partnering with Pairwise to translate computational trait insights into elite crop genetics across multiple species.",
+          "url": "https://globenewswire.com/news-release/2026/04/21/3278025/0/en/pairwise-licenses-fulcrum-crispr-platform-to-ball-horticultural-company.html"
+        },
+        {
+          "text": "ATCC — Precision oncology resource development — CRISPR-engineered isogenic cell lines — Partnered with Broad Institute to release 13 NSCLC models and genomic datasets via DepMap portal for global research access.",
           "url": "https://globenewswire.com/news-release/2026/04/20/3276993/0/en/atcc-and-broad-institute-engineer-new-cancer-models-to-decode-resistance-to-targeted-therapy.html"
         },
         {
-          "text": "Broad Institute — Cancer dependency mapping — CRISPR-engineered resistance models — Integrated 13 new NSCLC lines into DepMap to accelerate discovery of combination therapies for osimertinib-resistant disease.",
+          "text": "Broad Institute — Functional genomics and cancer dependency mapping — CRISPR-engineered resistance models — Co-developed 13 NSCLC lines to accelerate discovery of drug combination strategies and resistance pathways.",
           "url": "https://globenewswire.com/news-release/2026/04/20/3276993/0/en/atcc-and-broad-institute-engineer-new-cancer-models-to-decode-resistance-to-targeted-therapy.html"
-        },
-        {
-          "text": "Metagenomi Therapeutics — In vivo genome editing commercialization — MGX-001 (Hemophilia A) + AT-III + APOC3 pipeline — $160.8M cash runway through Q4 2027; corporate rebranding completed to reflect strategic evolution.",
-          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/metagenomi-therapeutics-inc-announces-publication-in-nature-structural-molecular-biology-highlighting-proprietary-compact-crispr-nuclease-with-enhanced-genome-editing-efficiency.html"
-        },
-        {
-          "text": "Biohub — Optimization of gene therapy delivery platforms — CRISPR systems via amino acid-enhanced LNPs — Led by Daniel Zongjie Wang and Shana O. Kelley; findings published in Science Translational Medicine; applicable to any LNP formulation.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260420014742.htm"
         }
       ]
     },
@@ -110,32 +102,28 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "Arrayed CRISPR Screening — Mechanism: High-throughput genetic perturbation — Phase: Preclinical/Research — Population: N/A — Endpoints/Results: Market analysis indicates 17.7% CAGR growth trajectory through 2030.",
-          "url": "https://globenewswire.com/news-release/2026/04/20/3277327/28124/en/arrayed-crispr-screening-market-presents-lucrative-opportunities-through-2026-2030-total-revenue-to-grow-by-1-64-billion-at-17-7-cagr.html"
+          "text": "Lonvoguran (ziclumeran) — Mechanism: In vivo CRISPR gene editing — Phase: 3 (HAELO) — Population: Hereditary Angioedema patients — Status: Topline data readout scheduled April 27, 2026.",
+          "url": "https://globenewswire.com/news-release/2026/04/24/3281073/0/en/intellia-therapeutics-to-report-topline-data-from-global-phase-3-haelo-clinical-trial-of-lonvoguran-ziclumeran-in-hereditary-angioedema-on-april-27-2026.html"
         },
         {
-          "text": "CRISPR-engineered NSCLC models — Mechanism: CRISPR gene editing and gene overexpression to introduce defined resistance mutations — Phase: Preclinical research tool — Population: EGFR-mutant non-small cell lung cancer — Comparator: Parental drug-sensitive lines — Application: Uncover resistance pathways to osimertinib and identify drug combination strategies.",
+          "text": "Fulcrum® Platform — Mechanism: CRISPR-based genome editing with proprietary enzymes and trait libraries — Application: Plant trait development — Outcome: Accelerates development of climate-resilient, nutritious crops compared to traditional breeding methods.",
+          "url": "https://globenewswire.com/news-release/2026/04/21/3278025/0/en/pairwise-licenses-fulcrum-crispr-platform-to-ball-horticultural-company.html"
+        },
+        {
+          "text": "CRISPR-Cas9 — Mechanism: Gene editing — Phase: Preclinical/Development (Market Context) — Population: Chronic Granulomatous Disease (CGD) patients — Status: Emerging therapy category in 2026-2036 market outlook.",
+          "url": "https://globenewswire.com/news-release/2026/04/21/3277727/28124/en/chronic-granulomatous-disease-cgd-market-analysis-and-outlook-report-2026-2036-emerging-gene-therapies-lentiviral-vector-based-therapies-and-crispr-cas9-gene-editing-ignite-hope.html"
+        },
+        {
+          "text": "CRISPR-engineered NSCLC models — Mechanism: CRISPR gene editing and gene overexpression to induce defined resistance — Phase: Preclinical model development — Population: Non-small cell lung cancer (NSCLC) — Comparator: Drug-sensitive isogenic lines — Endpoints: Replication of osimertinib resistance mechanisms to enable direct comparison of therapeutic vulnerabilities.",
           "url": "https://globenewswire.com/news-release/2026/04/20/3276993/0/en/atcc-and-broad-institute-engineer-new-cancer-models-to-decode-resistance-to-targeted-therapy.html"
         },
         {
-          "text": "MGX-001 — Mechanism: Site-specific genome integration using proprietary compact CRISPR nuclease — Phase: Pre-IND — Population: Hemophilia A (non-human primates) — Endpoints/Results: Curative FVIII activity demonstrated.",
-          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/metagenomi-therapeutics-inc-announces-publication-in-nature-structural-molecular-biology-highlighting-proprietary-compact-crispr-nuclease-with-enhanced-genome-editing-efficiency.html"
+          "text": "Modified CRISPR tool — Mechanism: Gene editing targeting Down syndrome mutation — Phase: Preclinical/early research — Population: Not specified — Comparator: Not specified — Endpoints/Results: Tool identified as targeting mutation; specific efficacy data not provided.",
+          "url": "https://www.labiotech.eu/trends-news/crispr-tool-targets-down-syndrome/"
         },
         {
-          "text": "MGX-001 Platform — Mechanism: Site-specific genome integration using compact CRISPR nuclease — Phase: Preclinical — Population: Antithrombin (AT-III) Deficiency (non-human primates) — Endpoints/Results: In vivo proof-of-concept achieved.",
-          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/metagenomi-therapeutics-inc-announces-publication-in-nature-structural-molecular-biology-highlighting-proprietary-compact-crispr-nuclease-with-enhanced-genome-editing-efficiency.html"
-        },
-        {
-          "text": "APOC3 Target — Mechanism: CRISPR-mediated editing (collaboration with Ionis) — Phase: Preclinical — Population: Cardiometabolic indications — Endpoints/Results: Data presented at Nature Conference 'Cracking the Code'.",
-          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/metagenomi-therapeutics-inc-announces-publication-in-nature-structural-molecular-biology-highlighting-proprietary-compact-crispr-nuclease-with-enhanced-genome-editing-efficiency.html"
-        },
-        {
-          "text": "CRISPR systems — Mechanism: Amino acid-enhanced lipid nanoparticle (LNP) fusion with cell membranes — Phase: Preclinical — Population: In vivo models — Comparator: Standard LNP formulations — Results: Editing efficiency increased from ~25% to ~90%; mRNA delivery increased 20-fold.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260420014742.htm"
-        },
-        {
-          "text": "CRISPR-edited HSPCs — Mechanism: Genome editing of immunoglobulin loci in hematopoietic stem cells to encode bNAbs — Phase: Preclinical (mouse model) — Population: Mice transplanted with edited HSPCs — Endpoints/Results: Enduring production of anti-HIV bNAbs with ex vivo neutralization activity.",
-          "url": "https://the-scientist.com/gene-editing-turns-the-immune-system-into-a-custom-protein-factory-74368"
+          "text": "CRISPR-Cas9 — Mechanism: Precise gene editing via RNA-guided nuclease — Phase: Preclinical research tool — Population: Drosophila and mammalian cell models — Comparator: Traditional gene knockout methods — Results: Successfully resolved editing barriers in highly compacted heterochromatic regions, enabling real-time 3D genome observation.",
+          "url": "https://the-scientist.com/then-and-now-erica-larschan-harnesses-modern-technologies-to-study-gene-regulation-74390"
         }
       ]
     },
@@ -143,12 +131,16 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Arrayed CRISPR Screening Market — Market Valuation — Total revenue projected to grow by $1.64 billion at 17.7% CAGR through 2030.",
-          "url": "https://globenewswire.com/news-release/2026/04/20/3277327/28124/en/arrayed-crispr-screening-market-presents-lucrative-opportunities-through-2026-2030-total-revenue-to-grow-by-1-64-billion-at-17-7-cagr.html"
+          "text": "Intellia Therapeutics — Equity incentive expansion — 2024 Inducement Plan — Granted 67,150 time-based RSUs to 13 new employees under Nasdaq Listing Rule 5635(c)(4) to secure talent for CRISPR pipeline advancement.",
+          "url": "https://globenewswire.com/news-release/2026/04/24/3281073/0/en/intellia-therapeutics-to-report-topline-data-from-global-phase-3-haelo-clinical-trial-of-lonvoguran-ziclumeran-in-hereditary-angioedema-on-april-27-2026.html"
         },
         {
-          "text": "Metagenomi Therapeutics / Ionis Pharmaceuticals — Collaboration expansion — APOC3 (Wave 1) — Four targets included in partnership; preclinical data presented at Nature Conference.",
-          "url": "https://globenewswire.com/news-release/2026/04/16/3275169/0/en/metagenomi-therapeutics-inc-announces-publication-in-nature-structural-molecular-biology-highlighting-proprietary-compact-crispr-nuclease-with-enhanced-genome-editing-efficiency.html"
+          "text": "Pairwise / Wild Bioscience — Licensing agreement — Fulcrum® CRISPR Platform — Granting access to genome editing tools for research and commercial purposes to support yield enhancement and carbon removal projects.",
+          "url": "https://globenewswire.com/news-release/2026/04/21/3278025/0/en/pairwise-licenses-fulcrum-crispr-platform-to-ball-horticultural-company.html"
+        },
+        {
+          "text": "Research and Markets — Arrayed CRISPR Screening Market Report — Market Intelligence — Published April 20, 2026; forecasts $1.64 billion revenue growth at 17.7% CAGR through 2030.",
+          "url": "https://globenewswire.com/news-release/2026/04/20/3277327/28124/en/arrayed-crispr-screening-market-presents-lucrative-opportunities-through-2026-2030-total-revenue-to-grow-by-1-64-billion-at-17-7-cagr.html"
         }
       ]
     }
