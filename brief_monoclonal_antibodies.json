@@ -1,70 +1,26 @@
 {
   "query": "monoclonal",
-  "generated_at": "2026-04-23 07:35:36",
-  "article_count": 64,
+  "generated_at": "2026-04-27 07:58:31",
+  "article_count": 52,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Sanofi and Regeneron received US FDA approval for Dupixent (dupilumab), an IL-4Rα antagonist monoclonal antibody, as the first biologic medicine for young children with uncontrolled chronic spontaneous urticaria.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3279470/0/en/dupixent-dupilumab-approved-in-the-u-s-as-the-first-biologic-medicine-for-young-children-with-uncontrolled-chronic-spontaneous-urticaria-csu.html"
+          "text": "Syndax Pharmaceuticals — Niktimvo (axatilimab-csfr) — FDA-approved monoclonal antibody blocking CSF-1 receptor for cancer therapy — Commercial-stage asset advancing alongside Revuforj (revumenib) menin inhibitor.",
+          "url": "https://globenewswire.com/news-release/2026/04/24/3280693/0/en/syndax-to-announce-first-quarter-2026-financial-results-and-host-conference-call-and-webcast-on-april-30-2026.html"
         },
         {
-          "text": "NETRIS Pharma published positive Phase 1b LAPNET-01 data in Nature for NP137, an anti-netrin-1 monoclonal antibody, showing 10.85 months median PFS in locally advanced pancreatic cancer patients.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3279161/0/en/netris-pharma-nature-publishes-positive-pancreatic-cancer-phase-1b-data-for-np137-anti-netrin-1-monoclonal-antibody.html"
-        },
-        {
-          "text": "CytoDyn completed enrollment in its Phase 2 CLOVER study evaluating leronlimab, a humanized monoclonal antibody targeting CCR5, in combination with TAS-102 and bevacizumab for metastatic colorectal cancer.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3278953/19782/en/cytodyn-presents-new-leronlimab-data-in-metastatic-colorectal-cancer-at-aacr-annual-meeting-2026.html"
-        },
-        {
-          "text": "TG Therapeutics completed enrollment in a Phase 3 trial for subcutaneous BRIUMVI (ublituximab-xiiy), an anti-CD20 monoclonal antibody, for relapsing forms of multiple sclerosis (RMS), with topline data expected late 2026 or early 2027.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3278846/8790/en/tg-therapeutics-announces-data-presentations-for-briumvi-in-multiple-sclerosis-at-the-american-academy-of-neurology-2026-annual-meeting.html"
-        },
-        {
-          "text": "Jade Biosciences is advancing JADE101, a selective anti-APRIL monoclonal antibody for IgA nephropathy, with Phase 1 interim data expected Q2 2026 and a Phase 2 trial in patients planned for mid-2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3278825/0/en/jade-biosciences-appoints-edward-r-conner-m-d-as-chief-medical-officer.html"
-        },
-        {
-          "text": "Jade Biosciences expects to initiate a first-in-human Phase 1 trial for JADE201, a half-life extended afucosylated anti-BAFF receptor monoclonal antibody, in rheumatoid arthritis patients in Q2 2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3278825/0/en/jade-biosciences-appoints-edward-r-conner-m-d-as-chief-medical-officer.html"
-        },
-        {
-          "text": "Sanofi's Tzield (teplizumab-mzwv), a CD3-directed monoclonal antibody, received FDA approval for an expanded indication to delay stage 3 type 1 diabetes in children aged 1 to 7 years.",
-          "url": "https://www.healio.com/news/endocrinology/20260422/fda-approves-expanded-indication-for-tzield-to-delay-type-1-diabetes-in-young-children"
-        },
-        {
-          "text": "Quayside Research's EVT894, a monoclonal antibody, demonstrated potential as both treatment and prophylaxis for chikungunya virus in a first-in-human randomized, double-blind, placebo-controlled study.",
-          "url": "https://www.healio.com/news/infectious-disease/20260419/chikungunya-therapy-shows-promise-in-firstinhuman-study"
-        },
-        {
-          "text": "Sanofi reported Q1 2026 Dupixent sales of €4.2 billion, representing a 30.8% year-over-year increase driven by immunology approvals.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3279472/0/fr/communiqu%c3%a9-de-presse-dupixent-d%c3%a9velopp%c3%a9-par-sanofi-et-regeneron-a-%c3%a9t%c3%a9-approuv%c3%a9-aux-%c3%89tats-unis-comme-%c3%a9tant-le-premier-m%c3%a9dicament-biologique-pour-les-jeunes-enfants-atteints-d-urtica.html"
-        },
-        {
-          "text": "Fred Hutchinson Cancer Center identified two monoclonal antibodies targeting gp350 and eight targeting gp42 to block Epstein-Barr virus (EBV) entry into human immune cells.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm"
-        },
-        {
-          "text": "One monoclonal antibody developed by Fred Hutch researchers completely prevented EBV infection in mice engineered with human immune systems.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm"
+          "text": "CytoDyn advanced leronlimab, a humanized monoclonal antibody targeting CCR5, with new Phase 2 data in metastatic colorectal cancer presented at AACR 2026.",
+          "url": "https://globenewswire.com/news-release/2026/04/23/3279914/19782/en/cytodyn-to-host-investor-webcast.html"
         },
         {
           "text": "Sartorius launched the CellCelector CLD, an automated imaging platform designed to accelerate monoclonal cell line development (CLD) by reducing timelines from months to approximately seven weeks.",
           "url": "https://the-scientist.com/new-cellcelector-cld-takes-you-from-thousands-of-candidates-to-the-top-clone-faster-74394"
         },
         {
-          "text": "Sartorius CellCelector CLD paired with Next Generation CLD Nanowell Plates delivers 40% more monoclonal wells and over threefold higher clone outgrowth than standard plates.",
+          "text": "The CellCelector CLD system yields up to 15,000 monoclonality-verified clones in four days and delivers 40% more monoclonal wells compared to standard Nanowell Plates.",
           "url": "https://the-scientist.com/new-cellcelector-cld-takes-you-from-thousands-of-candidates-to-the-top-clone-faster-74394"
-        },
-        {
-          "text": "Sartorius CellCelector CLD yields up to 15,000 monoclonality-verified clones ready for isolation in four days with 100% transfer efficiency.",
-          "url": "https://the-scientist.com/new-cellcelector-cld-takes-you-from-thousands-of-candidates-to-the-top-clone-faster-74394"
-        },
-        {
-          "text": "Merck received European Commission approval for Enflonsia, a monoclonal antibody indicated for the prevention of RSV lower respiratory tract disease in infants during their first RSV season.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185453&sid=2"
         }
       ]
     },
@@ -72,52 +28,16 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Sanofi / Regeneron — Dupixent (dupilumab) — Chronic Spontaneous Urticaria (CSU) in young children — FDA approved as first biologic medicine for this indication; mechanism: IL-4Rα antagonist monoclonal antibody.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3279470/0/en/dupixent-dupilumab-approved-in-the-u-s-as-the-first-biologic-medicine-for-young-children-with-uncontrolled-chronic-spontaneous-urticaria-csu.html"
+          "text": "Syndax Pharmaceuticals — Niktimvo (axatilimab-csfr) — Cancer (CSF-1R blockade) — FDA-approved monoclonal antibody; company advancing clinical trials across treatment continuum.",
+          "url": "https://globenewswire.com/news-release/2026/04/24/3280693/0/en/syndax-to-announce-first-quarter-2026-financial-results-and-host-conference-call-and-webcast-on-april-30-2026.html"
         },
         {
-          "text": "NETRIS Pharma — NP137 — Locally advanced pancreatic ductal adenocarcinoma — Phase 1b LAPNET-01 data published in Nature: 10.85 months median PFS, 16.43 months median OS, 23% conversion-to-surgery rate with mFOLFIRINOX.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3279161/0/en/netris-pharma-nature-publishes-positive-pancreatic-cancer-phase-1b-data-for-np137-anti-netrin-1-monoclonal-antibody.html"
+          "text": "CytoDyn — Leronlimab — Metastatic Colorectal Cancer — Phase 2 study presented at AACR 2026 showed 100% CCR5 expression in 33 evaluable patients and median 70% ctDNA decline by week 2 in combination with TAS-102 and bevacizumab.",
+          "url": "https://globenewswire.com/news-release/2026/04/23/3279914/19782/en/cytodyn-to-host-investor-webcast.html"
         },
         {
-          "text": "CytoDyn — Leronlimab — Metastatic colorectal cancer — Phase 2 CLOVER study enrollment completed (n>60); evaluating combination with TAS-102 and bevacizumab in CCR5-positive MSS patients.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3278953/19782/en/cytodyn-presents-new-leronlimab-data-in-metastatic-colorectal-cancer-at-aacr-annual-meeting-2026.html"
-        },
-        {
-          "text": "TG Therapeutics — BRIUMVI (ublituximab-xiiy) — Relapsing forms of multiple sclerosis — Phase 3 subcutaneous enrollment completed; non-inferiority study comparing every 8-week and 12-week SC dosing vs IV dosing; topline data expected year-end 2026/Q1 2027.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3278846/8790/en/tg-therapeutics-announces-data-presentations-for-briumvi-in-multiple-sclerosis-at-the-american-academy-of-neurology-2026-annual-meeting.html"
-        },
-        {
-          "text": "Jade Biosciences — JADE101 — IgA nephropathy — Selective anti-APRIL monoclonal antibody; Phase 1 healthy volunteer interim data expected Q2 2026; Phase 2 patient trial initiation planned mid-2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3278825/0/en/jade-biosciences-appoints-edward-r-conner-m-d-as-chief-medical-officer.html"
-        },
-        {
-          "text": "Jade Biosciences — JADE201 — Rheumatoid arthritis — Half-life extended afucosylated anti-BAFF receptor monoclonal antibody; First-in-human Phase 1 trial initiation expected Q2 2026; interim data anticipated 2027.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3278825/0/en/jade-biosciences-appoints-edward-r-conner-m-d-as-chief-medical-officer.html"
-        },
-        {
-          "text": "Sanofi — Tzield (teplizumab-mzwv) — Type 1 Diabetes (Stage 3 prevention in children aged 1–7) — FDA approved expanded indication based on PETITE-T1D Phase 4 interim data showing 89.6% probability of not progressing to stage 3 disease over 51.9 weeks median follow-up.",
-          "url": "https://www.healio.com/news/endocrinology/20260422/fda-approves-expanded-indication-for-tzield-to-delay-type-1-diabetes-in-young-children"
-        },
-        {
-          "text": "Quayside Research — EVT894 — Chikungunya virus infection — Monoclonal antibody (mAb) evaluated in first-in-human study at three US research sites; presented at ESCMID Global Congress.",
-          "url": "https://www.healio.com/news/infectious-disease/20260419/chikungunya-therapy-shows-promise-in-firstinhuman-study"
-        },
-        {
-          "text": "Sanofi / Regeneron — Dupixent (dupilumab) — Chronic Spontaneous Urticaria in children — FDA approval granted as first biologic for this indication; Q1 2026 sales reached €4.2B (+30.8% YoY).",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3279472/0/fr/communiqu%c3%a9-de-presse-dupixent-d%c3%a9velopp%c3%a9-par-sanofi-et-regeneron-a-%c3%a9t%c3%a9-approuv%c3%a9-aux-%c3%89tats-unis-comme-%c3%a9tant-le-premier-m%c3%a9dicament-biologique-pour-les-jeunes-enfants-atteints-d-urtica.html"
-        },
-        {
-          "text": "Fred Hutchinson Cancer Center — Anti-EBV monoclonal antibodies — Epstein-Barr Virus (EBV) — Identified 10 novel monoclonal antibodies (2 anti-gp350, 8 anti-gp42) that block viral attachment and fusion; one candidate achieved 100% infection prevention in humanized mouse models.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm"
-        },
-        {
-          "text": "Sartorius — CellCelector CLD — Monoclonal Cell Line Development — Launched automated imaging platform reducing screening time to ~7 weeks; yields 15,000 monoclonality-verified clones in 4 days.",
+          "text": "Sartorius — CellCelector CLD — Monoclonal Cell Line Development — Automated platform enables identification of up to 15,000 monoclonality-verified clones in four days with 100% transfer efficiency.",
           "url": "https://the-scientist.com/new-cellcelector-cld-takes-you-from-thousands-of-candidates-to-the-top-clone-faster-74394"
-        },
-        {
-          "text": "Merck — Enflonsia — RSV prevention in infants — European Commission granted marketing authorization for the monoclonal antibody to prevent lower respiratory tract disease during the first RSV season.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185453&sid=2"
         }
       ]
     },
@@ -125,52 +45,16 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Sanofi / Regeneron — Expansion of Dupixent (dupilumab) monoclonal antibody label — Pediatric CSU indication — FDA approval granted April 2026; targets uncontrolled chronic spontaneous urticaria in young children.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3279470/0/en/dupixent-dupilumab-approved-in-the-u-s-as-the-first-biologic-medicine-for-young-children-with-uncontrolled-chronic-spontaneous-urticaria-csu.html"
+          "text": "Syndax Pharmaceuticals — Commercial-stage cancer therapy advancement — Niktimvo (axatilimab-csfr, anti-CSF-1R mAb) + Revuforj (revumenib) — FDA-approved assets; granted inducement stock options to 8 new employees in April 2026.",
+          "url": "https://globenewswire.com/news-release/2026/04/24/3280693/0/en/syndax-to-announce-first-quarter-2026-financial-results-and-host-conference-call-and-webcast-on-april-30-2026.html"
         },
         {
-          "text": "NETRIS Pharma — First-in-class anti-netrin-1 monoclonal antibody development — NP137 — Phase 1b data supports regulatory engagement in US/EU; neogenin identified as predictive biomarker.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3279161/0/en/netris-pharma-nature-publishes-positive-pancreatic-cancer-phase-1b-data-for-np137-anti-netrin-1-monoclonal-antibody.html"
+          "text": "CytoDyn — Clinical-stage oncology development — Leronlimab (humanized anti-CCR5 monoclonal antibody) — Advancing Phase 2 trials in metastatic colorectal cancer and triple-negative breast cancer; presented new biomarker and clinical data at AACR 2026.",
+          "url": "https://globenewswire.com/news-release/2026/04/23/3279914/19782/en/cytodyn-to-host-investor-webcast.html"
         },
         {
-          "text": "CytoDyn — CCR5-targeting humanized monoclonal antibody commercialization — Leronlimab — Phase 2 CLOVER enrollment complete; data expected to inform development strategy for mCRC.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3278953/19782/en/cytodyn-presents-new-leronlimab-data-in-metastatic-colorectal-cancer-at-aacr-annual-meeting-2026.html"
-        },
-        {
-          "text": "TG Therapeutics — Subcutaneous formulation expansion for approved monoclonal antibody franchise — BRIUMVI (ublituximab-xiiy) — Phase 3 SC trial enrollment complete; aims to offer self-administered at-home option for RMS patients.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3278846/8790/en/tg-therapeutics-announces-data-presentations-for-briumvi-in-multiple-sclerosis-at-the-american-academy-of-neurology-2026-annual-meeting.html"
-        },
-        {
-          "text": "Jade Biosciences — Best-in-class autoimmune monoclonal antibody pipeline development — JADE101 (anti-APRIL) + JADE201 (anti-BAFF-R) — $336M cash runway into H1 2028; multiple clinical milestones scheduled for 2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3278825/0/en/jade-biosciences-appoints-edward-r-conner-m-d-as-chief-medical-officer.html"
-        },
-        {
-          "text": "Sanofi — Pediatric expansion of CD3-directed monoclonal antibody therapy — Tzield (teplizumab-mzwv) — Secured FDA approval for ages 1–7 following PETITE-T1D trial; previously approved in 2022 for ages 8+.",
-          "url": "https://www.healio.com/news/endocrinology/20260422/fda-approves-expanded-indication-for-tzield-to-delay-type-1-diabetes-in-young-children"
-        },
-        {
-          "text": "Quayside Research — Development of first-in-class monoclonal antibody for neglected tropical diseases — EVT894 — First-in-human study completed; data presented at ESCMID Global 2026.",
-          "url": "https://www.healio.com/news/infectious-disease/20260419/chikungunya-therapy-shows-promise-in-firstinhuman-study"
-        },
-        {
-          "text": "Sanofi — Immunology portfolio expansion via monoclonal antibody Dupixent — Dupilumab — Q1 2026 revenue €4.2B; secured US approval for pediatric chronic spontaneous urticaria indication.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3279472/0/fr/communiqu%c3%a9-de-presse-dupixent-d%c3%a9velopp%c3%a9-par-sanofi-et-regeneron-a-%c3%a9t%c3%a9-approuv%c3%a9-aux-%c3%89tats-unis-comme-%c3%a9tant-le-premier-m%c3%a9dicament-biologique-pour-les-jeunes-enfants-atteints-d-urtica.html"
-        },
-        {
-          "text": "Regeneron — Co-development of IL-4Rα monoclonal antibody — Dupixent (dupilumab) — Partnered with Sanofi; shared in Q1 2026 sales growth of 30.8% to €4.2B.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3279472/0/fr/communiqu%c3%a9-de-presse-dupixent-d%c3%a9velopp%c3%a9-par-sanofi-et-regeneron-a-%c3%a9t%c3%a9-approuv%c3%a9-aux-%c3%89tats-unis-comme-%c3%a9tant-le-premier-m%c3%a9dicament-biologique-pour-les-jeunes-enfants-atteints-d-urtica.html"
-        },
-        {
-          "text": "Fred Hutchinson Cancer Center — EBV therapeutic discovery — Anti-gp350 and anti-gp42 monoclonal antibodies — Preclinical validation completed; findings published in Cell Reports Medicine.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm"
-        },
-        {
-          "text": "Sartorius — Accelerated monoclonal cell line development workflows — CellCelector CLD platform — Delivers 40% more monoclonal wells and 3x higher clone outgrowth vs standard Nanowell Plates.",
+          "text": "Sartorius — Accelerated monoclonal cell line development workflows — CellCelector CLD platform — Achieves 100% transfer efficiency and viability; reduces screening time to ~7 weeks with EMA 410-compliant traceability.",
           "url": "https://the-scientist.com/new-cellcelector-cld-takes-you-from-thousands-of-candidates-to-the-top-clone-faster-74394"
-        },
-        {
-          "text": "Merck — Monoclonal antibody commercialization in pediatrics — Enflonsia — Secured European Commission approval for RSV prevention in infants.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185453&sid=2"
         }
       ]
     },
@@ -178,48 +62,16 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "Dupixent (dupilumab) — Mechanism: IL-4Rα antagonist monoclonal antibody blocking IL-4 and IL-13 signaling — Phase: Approved (post-marketing expansion) — Population: Young children with uncontrolled chronic spontaneous urticaria — Comparator: None (first-in-class biologic approval for this age group) — Outcome: First biologic medicine approved for pediatric CSU.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3279470/0/en/dupixent-dupilumab-approved-in-the-u-s-as-the-first-biologic-medicine-for-young-children-with-uncontrolled-chronic-spontaneous-urticaria-csu.html"
+          "text": "Niktimvo (axatilimab-csfr) — Mechanism: CSF-1 receptor blockade — Phase: Commercial (FDA-approved) — Population: Cancer patients — Comparator: N/A — Status: Approved therapy advancing clinical trials.",
+          "url": "https://globenewswire.com/news-release/2026/04/24/3280693/0/en/syndax-to-announce-first-quarter-2026-financial-results-and-host-conference-call-and-webcast-on-april-30-2026.html"
         },
         {
-          "text": "NP137 — Mechanism: Anti-netrin-1 monoclonal antibody blocking netrin-1/EMT axis — Phase: 1b — Population: Locally advanced pancreatic ductal adenocarcinoma — Comparator: mFOLFIRINOX alone (implied) — Results: 10.85 months median PFS; 40% conversion-to-surgery in neogenin-high subset.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3279161/0/en/netris-pharma-nature-publishes-positive-pancreatic-cancer-phase-1b-data-for-np137-anti-netrin-1-monoclonal-antibody.html"
+          "text": "Leronlimab — Mechanism: Humanized monoclonal antibody targeting CCR5 receptor to modulate tumor microenvironment and enhance immune engagement — Phase: 2 — Population: Heavily pretreated metastatic colorectal cancer patients — Comparator: Combination with TAS-102 and bevacizumab — Endpoints/Results: 100% CCR5 expression detected in 33 evaluable cases; median 70% reduction in circulating tumor DNA by week 2.",
+          "url": "https://globenewswire.com/news-release/2026/04/23/3279914/19782/en/cytodyn-to-host-investor-webcast.html"
         },
         {
-          "text": "Leronlimab — Mechanism: Humanized monoclonal antibody targeting CCR5 receptor — Phase: 2 — Population: CCR5-positive, microsatellite stable metastatic colorectal cancer — Comparator: TAS-102 + bevacizumab (control arm) — Endpoint: Clinical activity and biomarker modulation; enrollment complete.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3278953/19782/en/cytodyn-presents-new-leronlimab-data-in-metastatic-colorectal-cancer-at-aacr-annual-meeting-2026.html"
-        },
-        {
-          "text": "BRIUMVI (ublituximab-xiiy) — Mechanism: Glycoengineered anti-CD20 monoclonal antibody targeting unique epitope for efficient B-cell depletion at low doses — Phase: 3 (SC formulation) — Population: Adults with RMS — Comparator: IV BRIUMVI — Endpoint: Non-inferior exposure (AUC) at week 24.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3278846/8790/en/tg-therapeutics-announces-data-presentations-for-briumvi-in-multiple-sclerosis-at-the-american-academy-of-neurology-2026-annual-meeting.html"
-        },
-        {
-          "text": "JADE101 — Mechanism: Selective anti-APRIL monoclonal antibody — Phase: 1 (healthy volunteers) / Phase 2 (planned) — Population: IgA nephropathy patients — Endpoint: Biomarker-rich interim results to define dose/dose interval; Phase 2 initiation mid-2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3278825/0/en/jade-biosciences-appoints-edward-r-conner-m-d-as-chief-medical-officer.html"
-        },
-        {
-          "text": "JADE201 — Mechanism: Half-life extended afucosylated anti-BAFF receptor monoclonal antibody — Phase: 1 (first-in-human) — Population: Rheumatoid arthritis patients — Endpoint: Safety and tolerability; interim data anticipated 2027.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3278825/0/en/jade-biosciences-appoints-edward-r-conner-m-d-as-chief-medical-officer.html"
-        },
-        {
-          "text": "Teplizumab-mzwv — Mechanism: CD3-directed monoclonal antibody — Phase: 4 (PETITE-T1D) — Population: Children aged 1–7 with stage 2 type 1 diabetes — Comparator: None (single-arm) — Results: 89.6% probability of not progressing to stage 3 diabetes; 2/15 participants progressed; no grade 4 or 5 adverse events reported.",
-          "url": "https://www.healio.com/news/endocrinology/20260422/fda-approves-expanded-indication-for-tzield-to-delay-type-1-diabetes-in-young-children"
-        },
-        {
-          "text": "EVT894 — Mechanism: Monoclonal antibody (mAb) — Phase: First-in-human — Population: Chikungunya virus infection — Comparator: Placebo — Results: Showed potential as both treatment and prophylaxis; specific efficacy endpoints not detailed in source.",
-          "url": "https://www.healio.com/news/infectious-disease/20260419/chikungunya-therapy-shows-promise-in-firstinhuman-study"
-        },
-        {
-          "text": "Anti-EBV monoclonal antibodies — Mechanism: Blockade of gp350 (attachment) and gp42 (fusion) viral proteins — Phase: Preclinical — Population: Humanized mice with human immune systems — Results: Complete prevention of EBV infection in vivo.",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm"
-        },
-        {
-          "text": "CellCelector CLD — Mechanism: High-speed automated scanning and gentle clone retrieval — Phase: Preclinical/Process Development — Population: Monoclonal cell line candidates — Endpoints/Results: 15,000 monoclonality-verified clones in 4 days; 100% transfer efficiency.",
+          "text": "CellCelector CLD — Mechanism: High-speed automated scanning and gentle clone retrieval — Phase: Preclinical/Process Development — Population: High-producing candidate cell pools — Endpoints: 15,000 monoclonality-verified clones in 4 days; 3x higher clone outgrowth vs standard plates.",
           "url": "https://the-scientist.com/new-cellcelector-cld-takes-you-from-thousands-of-candidates-to-the-top-clone-faster-74394"
-        },
-        {
-          "text": "Enflonsia — Mechanism: Monoclonal antibody targeting RSV — Phase: Post-approval (Regulatory) — Population: Infants in first RSV season — Comparator: N/A — Endpoints/Results: Approved by European Commission for prevention of lower respiratory tract disease.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=185453&sid=2"
         }
       ]
     },
@@ -227,27 +79,11 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "NETRIS Pharma — Regulatory strategy — NP137 — Planning engagement with US and EU regulators to define development pathway following positive Phase 1b monoclonal antibody data.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3279161/0/en/netris-pharma-nature-publishes-positive-pancreatic-cancer-phase-1b-data-for-np137-anti-netrin-1-monoclonal-antibody.html"
+          "text": "Syndax Pharmaceuticals — Employee inducement grants — 228,500 common stock options granted to 8 new hires under 2023 Inducement Plan — Vesting: 25% at 1 year, 1/48th monthly over 36 months.",
+          "url": "https://globenewswire.com/news-release/2026/04/24/3280693/0/en/syndax-to-announce-first-quarter-2026-financial-results-and-host-conference-call-and-webcast-on-april-30-2026.html"
         },
         {
-          "text": "Jade Biosciences — Corporate financial update — Pipeline advancement — Reported $336 million cash, cash equivalents, and investments as of December 31, 2025, providing runway into H1 2028 to support monoclonal antibody clinical programs.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3278825/0/en/jade-biosciences-appoints-edward-r-conner-m-d-as-chief-medical-officer.html"
-        },
-        {
-          "text": "Sanofi — Commercial performance of monoclonal antibody portfolio — Dupixent — Q1 2026 sales €4.2B (+30.8% YoY); contributed to total Pharma launch sales of €1.2B (+49.6%).",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3279472/0/fr/communiqu%c3%a9-de-presse-dupixent-d%c3%a9velopp%c3%a9-par-sanofi-et-regeneron-a-%c3%a9t%c3%a9-approuv%c3%a9-aux-%c3%89tats-unis-comme-%c3%a9tant-le-premier-m%c3%a9dicament-biologique-pour-les-jeunes-enfants-atteints-d-urtica.html"
-        },
-        {
-          "text": "Sanofi — Q1 2026 financial performance — Dupixent (dupilumab) — Net sales €4.2B (+30.8%); total net sales €10.5B (+13.6% at CER); business EPS €1.88 (+14.0% at CER); completed €921M of €1B share buyback.",
-          "url": "https://globenewswire.com/news-release/2026/04/22/3279472/0/en/press-release-sanofi-and-regeneron-s-dupixent-approved-in-the-us-as-the-first-biologic-medicine-for-young-children-with-uncontrolled-chronic-spontaneous-urticaria.html"
-        },
-        {
-          "text": "Sartorius — Commercialization of automated CLD ecosystem — CellCelector CLD — Integrated with Next Generation CLD Nanowell Plates to support EMA 410-compliant productivity assays.",
-          "url": "https://the-scientist.com/new-cellcelector-cld-takes-you-from-thousands-of-candidates-to-the-top-clone-faster-74394"
-        },
-        {
-          "text": "Sartorius — Product launch — CellCelector CLD — New automated platform released to reduce monoclonal cell line development costs and timelines for bioprocess teams.",
+          "text": "Sartorius — Commercialization of automated CLD ecosystem — CellCelector CLD + Next Generation CLD Nanowell Plates — Integrated workflow combining instruments, consumables, and reagents to reduce costs and meet regulatory standards for monoclonal development.",
           "url": "https://the-scientist.com/new-cellcelector-cld-takes-you-from-thousands-of-candidates-to-the-top-clone-faster-74394"
         }
       ]
