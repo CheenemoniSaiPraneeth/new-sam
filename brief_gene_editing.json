@@ -1,42 +1,50 @@
 {
   "query": "CRISPR",
-  "generated_at": "2026-04-25 06:48:53",
-  "article_count": 50,
+  "generated_at": "2026-04-29 07:54:01",
+  "article_count": 62,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Intellia Therapeutics — Lonvoguran (ziclumeran) — Hereditary Angioedema — Scheduled to report topline data from the global Phase 3 HAELO trial, representing the first Phase 3 readout for an in vivo CRISPR gene editing candidate.",
-          "url": "https://globenewswire.com/news-release/2026/04/24/3281073/0/en/intellia-therapeutics-to-report-topline-data-from-global-phase-3-haelo-clinical-trial-of-lonvoguran-ziclumeran-in-hereditary-angioedema-on-april-27-2026.html"
+          "text": "Intellia Therapeutics reported positive Phase 3 results for lonvo-z, an in vivo CRISPR gene editing therapy for hereditary angioedema, achieving an 87% reduction in swelling attacks versus placebo.",
+          "url": "https://biopharmadive.com/news/intellia-gene-editing-hereditary-angioedema-lonvo-z-results/818503/"
         },
         {
-          "text": "Pairwise licensed its Fulcrum® CRISPR platform to Wild Bioscience for AI-driven crop trait development and climate-resilient variety generation.",
-          "url": "https://globenewswire.com/news-release/2026/04/21/3278025/0/en/pairwise-licenses-fulcrum-crispr-platform-to-ball-horticultural-company.html"
+          "text": "Intellia Therapeutics initiated a rolling BLA submission to the FDA for lonvo-z following the HAELO trial success, targeting a U.S. launch in the first half of 2027.",
+          "url": "https://drug-dev.com/intellia-therapeutics-reports-positive-phase-3-results-in-hereditary-angioedema-marking-a-global-first-for-in-vivo-gene-editing/"
         },
         {
-          "text": "Research and Markets report projects the Arrayed CRISPR Screening market revenue to grow by $1.64 billion at a 17.7% CAGR through 2030.",
-          "url": "https://globenewswire.com/news-release/2026/04/20/3277327/28124/en/arrayed-crispr-screening-market-presents-lucrative-opportunities-through-2026-2030-total-revenue-to-grow-by-1-64-billion-at-17-7-cagr.html"
+          "text": "The HAELO trial enrolled 80 patients (52 treated, 28 placebo) and demonstrated that 62% of lonvo-z recipients achieved freedom from attacks or need for other therapies compared to 11% of placebo patients.",
+          "url": "https://biopharmadive.com/news/intellia-gene-editing-hereditary-angioedema-lonvo-z-results/818503/"
         },
         {
-          "text": "Emerging CRISPR-Cas9 gene editing therapies are identified as a key driver igniting hope in the Chronic Granulomatous Disease (CGD) market outlook for 2026-2036.",
-          "url": "https://globenewswire.com/news-release/2026/04/21/3277727/28124/en/chronic-granulomatous-disease-cgd-market-analysis-and-outlook-report-2026-2036-emerging-gene-therapies-lentiviral-vector-based-therapies-and-crispr-cas9-gene-editing-ignite-hope.html"
+          "text": "ElevateBio presented nine abstracts at the ASGCT 29th Annual Meeting showcasing advancements in CRISPR systems, including protein and gRNA engineering to optimize adenosine base editor activity for monogenic disease correction.",
+          "url": "https://globenewswire.com/news-release/2026/04/27/3282078/0/en/elevatebio-to-present-nine-abstracts-showcasing-advancements-across-its-gene-editing-platform-at-the-american-society-of-gene-and-cell-therapy-asgct-29th-annual-meeting.html"
         },
         {
-          "text": "ATCC and Broad Institute collaborated to engineer 13 CRISPR-edited isogenic non-small cell lung cancer (NSCLC) cell lines harboring defined resistance mechanisms to the EGFR inhibitor osimertinib.",
-          "url": "https://globenewswire.com/news-release/2026/04/20/3276993/0/en/atcc-and-broad-institute-engineer-new-cancer-models-to-decode-resistance-to-targeted-therapy.html"
+          "text": "Editas Medicine secured a third favorable U.S. Patent and Trademark Office decision affirming Broad Institute's priority for CRISPR/Cas9 in eukaryotic cells, reinforcing IP for EDIT-401 hyperlipidemia therapy.",
+          "url": "https://globenewswire.com/news-release/2026/04/27/3282063/0/en/editas-medicine-to-present-new-preclinical-data-demonstrating-progress-of-edit-401-as-potential-treatment-for-hyperlipidemia-at-upcoming-scientific-conferences.html"
         },
         {
-          "text": "The CRISPR-engineered NSCLC models will be integrated into the Cancer Dependency Map (DepMap) to construct a response and resistance map (ResMap) for identifying therapeutic vulnerabilities.",
-          "url": "https://globenewswire.com/news-release/2026/04/20/3276993/0/en/atcc-and-broad-institute-engineer-new-cancer-models-to-decode-resistance-to-targeted-therapy.html"
+          "text": "Editas Medicine reported EDIT-401, a CRISPR/Cas9-based therapy, achieved greater than 90% mean LDL cholesterol reduction in non-human primates in preclinical studies.",
+          "url": "https://globenewswire.com/news-release/2026/04/27/3282063/0/en/editas-medicine-to-present-new-preclinical-data-demonstrating-progress-of-edit-401-as-potential-treatment-for-hyperlipidemia-at-upcoming-scientific-conferences.html"
         },
         {
-          "text": "A modified CRISPR tool was reported to target the Down syndrome mutation, representing a potential gene-editing approach for the condition.",
+          "text": "Vertex Pharmaceuticals and CRISPR Therapeutics' exagamglogene autotemcel (Casgevy) utilizes CRISPR-Cas9 to edit the BCL11A gene, inducing fetal hemoglobin production for sickle cell disease treatment.",
+          "url": "https://www.healio.com/news/hematology-oncology/20260427/advanced-gene-editing-promising-for-sickle-cell-disease-but-access-challenges-remain"
+        },
+        {
+          "text": "A modified CRISPR tool is being developed to target the Down syndrome mutation, representing a new application of the technology beyond monogenic blood disorders.",
           "url": "https://www.labiotech.eu/trends-news/crispr-tool-targets-down-syndrome/"
         },
         {
-          "text": "Erica Larschan (Brown University) — Gene regulation research — X chromosome dosage compensation — Leveraged CRISPR-Cas9 to overcome challenges in editing highly compacted heterochromatic genomic locations previously inaccessible to traditional methods.",
-          "url": "https://the-scientist.com/then-and-now-erica-larschan-harnesses-modern-technologies-to-study-gene-regulation-74390"
+          "text": "Eli Lilly entered a collaboration with AI-focused biotech Profluent to develop next-generation gene editors capable of inserting entire genes, with potential milestone payments totaling $2.25 billion.",
+          "url": "https://statnews.com/2026/04/28/eli-lilly-crispr-gene-editing-deal-profluent-ai/"
+        },
+        {
+          "text": "Intellia Therapeutics announced a proposed underwritten public offering of $150 million in common stock to fund CRISPR gene editing programs including lonvoguran ziclumeran.",
+          "url": "https://globenewswire.com/news-release/2026/04/27/3281478/0/en/intellia-therapeutics-initiates-rolling-submission-of-biologics-license-application-to-fda-for-lonvoguran-ziclumeran-lonvo-z-as-a-one-time-treatment-for-hereditary-angioedema.html"
         }
       ]
     },
@@ -44,32 +52,28 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Intellia Therapeutics — Lonvoguran (ziclumeran) — Hereditary Angioedema — Phase 3 HAELO trial topline data release scheduled for April 27, 2026; candidate utilizes in vivo CRISPR gene editing technology.",
-          "url": "https://globenewswire.com/news-release/2026/04/24/3281073/0/en/intellia-therapeutics-to-report-topline-data-from-global-phase-3-haelo-clinical-trial-of-lonvoguran-ziclumeran-in-hereditary-angioedema-on-april-27-2026.html"
+          "text": "Intellia Therapeutics — lonvo-z — Hereditary Angioedema — Phase 3 HAELO trial met primary endpoint with 87% reduction in attack rate vs placebo; rolling BLA submitted to FDA; launch planned H1 2027.",
+          "url": "https://drug-dev.com/intellia-therapeutics-reports-positive-phase-3-results-in-hereditary-angioedema-marking-a-global-first-for-in-vivo-gene-editing/"
         },
         {
-          "text": "Pairwise — Fulcrum® CRISPR Platform — Agricultural Crop Improvement — Licensing agreement with Wild Bioscience to integrate CRISPR-based genome editing tools into pipeline for row crop yield enhancement and carbon removal projects.",
-          "url": "https://globenewswire.com/news-release/2026/04/21/3278025/0/en/pairwise-licenses-fulcrum-crispr-platform-to-ball-horticultural-company.html"
+          "text": "ElevateBio — CRISPR-based adenosine base editors — Monogenic diseases — Presented poster #1303 detailing protein and gRNA engineering strategies to optimize adenosine base editor activity for causative mutation correction.",
+          "url": "https://globenewswire.com/news-release/2026/04/27/3282078/0/en/elevatebio-to-present-nine-abstracts-showcasing-advancements-across-its-gene-editing-platform-at-the-american-society-of-gene-and-cell-therapy-asgct-29th-annual-meeting.html"
         },
         {
-          "text": "Research and Markets — Arrayed CRISPR Screening — Oncology and Genetic Disease Research — Market revenue projected to increase by $1.64 billion at 17.7% CAGR through 2030.",
-          "url": "https://globenewswire.com/news-release/2026/04/20/3277327/28124/en/arrayed-crispr-screening-market-presents-lucrative-opportunities-through-2026-2030-total-revenue-to-grow-by-1-64-billion-at-17-7-cagr.html"
+          "text": "Editas Medicine — CRISPR/Cas9 Patent Interference — Intellectual Property — U.S. PTAB reaffirmed Broad Institute's inventorship priority for CRISPR/Cas9 in human cells, marking third favorable decision against CVC.",
+          "url": "https://globenewswire.com/news-release/2026/04/27/3282063/0/en/editas-medicine-to-present-new-preclinical-data-demonstrating-progress-of-edit-401-as-potential-treatment-for-hyperlipidemia-at-upcoming-scientific-conferences.html"
         },
         {
-          "text": "Research and Markets — CRISPR-Cas9 Gene Editing — Chronic Granulomatous Disease (CGD) — Identified as an emerging therapy alongside lentiviral vectors in the 2026-2036 market analysis.",
-          "url": "https://globenewswire.com/news-release/2026/04/21/3277727/28124/en/chronic-granulomatous-disease-cgd-market-analysis-and-outlook-report-2026-2036-emerging-gene-therapies-lentiviral-vector-based-therapies-and-crispr-cas9-gene-editing-ignite-hope.html"
+          "text": "Vertex Pharmaceuticals / CRISPR Therapeutics — exagamglogene autotemcel (Casgevy) — Sickle Cell Disease — FDA-approved CRISPR-Cas9 therapy targeting BCL11A gene to restore fetal hemoglobin; addresses underlying cause in patients aged 12+ with recurrent vaso-occlusive crises.",
+          "url": "https://www.healio.com/news/hematology-oncology/20260427/advanced-gene-editing-promising-for-sickle-cell-disease-but-access-challenges-remain"
         },
         {
-          "text": "ATCC / Broad Institute — CRISPR-engineered NSCLC models — Osimertinib resistance — Developed 13 isogenic cell lines using CRISPR gene editing to replicate clinically observed resistance mechanisms for targeted therapy discovery.",
-          "url": "https://globenewswire.com/news-release/2026/04/20/3276993/0/en/atcc-and-broad-institute-engineer-new-cancer-models-to-decode-resistance-to-targeted-therapy.html"
-        },
-        {
-          "text": "Unspecified developers — Modified CRISPR tool — Down syndrome mutation — Tool designed to target specific genetic mutation associated with Down syndrome; mechanism and clinical status not detailed in source.",
+          "text": "Unspecified Entity — Modified CRISPR tool — Down syndrome — Preclinical/early development stage targeting specific chromosomal mutation associated with Down syndrome.",
           "url": "https://www.labiotech.eu/trends-news/crispr-tool-targets-down-syndrome/"
         },
         {
-          "text": "Brown University (Erica Larschan Lab) — CRISPR-Cas9 application — Fundamental gene regulation — Enabled precise knockout of genes in heterochromatic regions, facilitating 3D genome and single-cell level analysis of X chromosome mechanisms.",
-          "url": "https://the-scientist.com/then-and-now-erica-larschan-harnesses-modern-technologies-to-study-gene-regulation-74390"
+          "text": "Eli Lilly — Profluent collaboration — Gene editing (CRISPR-associated) — Deal includes potential $2.25B in milestone payments to develop new gene editors for gene insertion; specific programs, diseases, and upfront fees undisclosed.",
+          "url": "https://statnews.com/2026/04/28/eli-lilly-crispr-gene-editing-deal-profluent-ai/"
         }
       ]
     },
@@ -77,24 +81,28 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Intellia Therapeutics — CRISPR gene editing commercialization — Lonvoguran (ziclumeran) pipeline — Awarded inducement grants of 67,150 RSUs to 13 new employees in April 2026; advancing first in vivo CRISPR Phase 3 candidate.",
-          "url": "https://globenewswire.com/news-release/2026/04/24/3281073/0/en/intellia-therapeutics-to-report-topline-data-from-global-phase-3-haelo-clinical-trial-of-lonvoguran-ziclumeran-in-hereditary-angioedema-on-april-27-2026.html"
+          "text": "Intellia Therapeutics — Commercialization of first in vivo CRISPR medicine — lonvo-z (NTLA-2002) — Phase 3 positive; rolling BLA filed; preparing for H1 2027 U.S. launch.",
+          "url": "https://drug-dev.com/intellia-therapeutics-reports-positive-phase-3-results-in-hereditary-angioedema-marking-a-global-first-for-in-vivo-gene-editing/"
         },
         {
-          "text": "Pairwise — CRISPR platform commercialization — Fulcrum® Platform — Co-founded by CRISPR pioneers; licensing proprietary gene editing tools, enzymes, and trait libraries for research and commercial agricultural purposes.",
-          "url": "https://globenewswire.com/news-release/2026/04/21/3278025/0/en/pairwise-licenses-fulcrum-crispr-platform-to-ball-horticultural-company.html"
+          "text": "ElevateBio — Expansion of gene editing toolbox beyond nuclease editing — CRISPR systems + base editing + epigenetic editing — Presenting data on large gene insertion, AI-driven protein discovery, and LNP delivery at ASGCT 2026.",
+          "url": "https://globenewswire.com/news-release/2026/04/27/3282078/0/en/elevatebio-to-present-nine-abstracts-showcasing-advancements-across-its-gene-editing-platform-at-the-american-society-of-gene-and-cell-therapy-asgct-29th-annual-meeting.html"
         },
         {
-          "text": "Wild Bioscience — AI-driven trait discovery integration — Fulcrum® CRISPR tools — Partnering with Pairwise to translate computational trait insights into elite crop genetics across multiple species.",
-          "url": "https://globenewswire.com/news-release/2026/04/21/3278025/0/en/pairwise-licenses-fulcrum-crispr-platform-to-ball-horticultural-company.html"
+          "text": "Editas Medicine — CRISPR/Cas9 commercialization — EDIT-401 (hyperlipidemia) — Secured foundational IP rights via PTAB victory; preclinical data shows >90% LDL reduction in NHPs.",
+          "url": "https://globenewswire.com/news-release/2026/04/27/3282063/0/en/editas-medicine-to-present-new-preclinical-data-demonstrating-progress-of-edit-401-as-potential-treatment-for-hyperlipidemia-at-upcoming-scientific-conferences.html"
         },
         {
-          "text": "ATCC — Precision oncology resource development — CRISPR-engineered isogenic cell lines — Partnered with Broad Institute to release 13 NSCLC models and genomic datasets via DepMap portal for global research access.",
-          "url": "https://globenewswire.com/news-release/2026/04/20/3276993/0/en/atcc-and-broad-institute-engineer-new-cancer-models-to-decode-resistance-to-targeted-therapy.html"
+          "text": "CRISPR Therapeutics — Commercialization of gene editing therapies — exagamglogene autotemcel (Casgevy) — Partnered with Vertex Pharmaceuticals; CRISPR-Cas9 mechanism approved for sickle cell disease; access challenges noted due to high costs and manufacturing complexity.",
+          "url": "https://www.healio.com/news/hematology-oncology/20260427/advanced-gene-editing-promising-for-sickle-cell-disease-but-access-challenges-remain"
         },
         {
-          "text": "Broad Institute — Functional genomics and cancer dependency mapping — CRISPR-engineered resistance models — Co-developed 13 NSCLC lines to accelerate discovery of drug combination strategies and resistance pathways.",
-          "url": "https://globenewswire.com/news-release/2026/04/20/3276993/0/en/atcc-and-broad-institute-engineer-new-cancer-models-to-decode-resistance-to-targeted-therapy.html"
+          "text": "Eli Lilly — Expansion into genetic medicine — CRISPR/gene editing pipeline via Profluent partnership — Leveraging obesity drug revenues to fund new Boston genetic medicine center and acquire gene therapy assets.",
+          "url": "https://statnews.com/2026/04/28/eli-lilly-crispr-gene-editing-deal-profluent-ai/"
+        },
+        {
+          "text": "Profluent — AI-driven gene editor development — Next-generation CRISPR tools — Partnered with Eli Lilly to create gene editors capable of full gene insertion; financial terms include up to $2.25B in milestones.",
+          "url": "https://statnews.com/2026/04/28/eli-lilly-crispr-gene-editing-deal-profluent-ai/"
         }
       ]
     },
@@ -102,28 +110,24 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "Lonvoguran (ziclumeran) — Mechanism: In vivo CRISPR gene editing — Phase: 3 (HAELO) — Population: Hereditary Angioedema patients — Status: Topline data readout scheduled April 27, 2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/24/3281073/0/en/intellia-therapeutics-to-report-topline-data-from-global-phase-3-haelo-clinical-trial-of-lonvoguran-ziclumeran-in-hereditary-angioedema-on-april-27-2026.html"
+          "text": "lonvo-z — Mechanism: In vivo CRISPR gene editing to inactivate KLKB1 gene and lower bradykinin — Phase: 3 (HAELO) — Population: Adults/adolescents (≥16) with Type I/II HAE — Comparator: Placebo — Endpoints: 87% attack rate reduction; 62% attack-free vs 11% placebo; 50 mg one-time dose.",
+          "url": "https://drug-dev.com/intellia-therapeutics-reports-positive-phase-3-results-in-hereditary-angioedema-marking-a-global-first-for-in-vivo-gene-editing/"
         },
         {
-          "text": "Fulcrum® Platform — Mechanism: CRISPR-based genome editing with proprietary enzymes and trait libraries — Application: Plant trait development — Outcome: Accelerates development of climate-resilient, nutritious crops compared to traditional breeding methods.",
-          "url": "https://globenewswire.com/news-release/2026/04/21/3278025/0/en/pairwise-licenses-fulcrum-crispr-platform-to-ball-horticultural-company.html"
+          "text": "Adenosine base editors — Mechanism: CRISPR-guided protein and gRNA engineering — Phase: Preclinical discovery — Population: Monogenic disease models — Endpoints: Optimization of editing activity for causative mutation correction via poster #1303.",
+          "url": "https://globenewswire.com/news-release/2026/04/27/3282078/0/en/elevatebio-to-present-nine-abstracts-showcasing-advancements-across-its-gene-editing-platform-at-the-american-society-of-gene-and-cell-therapy-asgct-29th-annual-meeting.html"
         },
         {
-          "text": "CRISPR-Cas9 — Mechanism: Gene editing — Phase: Preclinical/Development (Market Context) — Population: Chronic Granulomatous Disease (CGD) patients — Status: Emerging therapy category in 2026-2036 market outlook.",
-          "url": "https://globenewswire.com/news-release/2026/04/21/3277727/28124/en/chronic-granulomatous-disease-cgd-market-analysis-and-outlook-report-2026-2036-emerging-gene-therapies-lentiviral-vector-based-therapies-and-crispr-cas9-gene-editing-ignite-hope.html"
+          "text": "EDIT-401 — Mechanism: CRISPR/Cas9 in vivo gene editing — Phase: Preclinical — Population: Non-human primates — Comparator: None specified — Results: >90% mean LDL cholesterol reduction achieved.",
+          "url": "https://globenewswire.com/news-release/2026/04/27/3282063/0/en/editas-medicine-to-present-new-preclinical-data-demonstrating-progress-of-edit-401-as-potential-treatment-for-hyperlipidemia-at-upcoming-scientific-conferences.html"
         },
         {
-          "text": "CRISPR-engineered NSCLC models — Mechanism: CRISPR gene editing and gene overexpression to induce defined resistance — Phase: Preclinical model development — Population: Non-small cell lung cancer (NSCLC) — Comparator: Drug-sensitive isogenic lines — Endpoints: Replication of osimertinib resistance mechanisms to enable direct comparison of therapeutic vulnerabilities.",
-          "url": "https://globenewswire.com/news-release/2026/04/20/3276993/0/en/atcc-and-broad-institute-engineer-new-cancer-models-to-decode-resistance-to-targeted-therapy.html"
+          "text": "exagamglogene autotemcel — Mechanism: CRISPR-Cas9 editing of BCL11A gene to upregulate fetal hemoglobin — Phase: Approved (Post-market) — Population: Sickle cell disease patients aged 12+ with recurrent vaso-occlusive crises — Comparator: None (curative intent) — Results: Normalization of total hemoglobin levels and durable fetal hemoglobin expression reported in NEJM study.",
+          "url": "https://www.healio.com/news/hematology-oncology/20260427/advanced-gene-editing-promising-for-sickle-cell-disease-but-access-challenges-remain"
         },
         {
-          "text": "Modified CRISPR tool — Mechanism: Gene editing targeting Down syndrome mutation — Phase: Preclinical/early research — Population: Not specified — Comparator: Not specified — Endpoints/Results: Tool identified as targeting mutation; specific efficacy data not provided.",
-          "url": "https://www.labiotech.eu/trends-news/crispr-tool-targets-down-syndrome/"
-        },
-        {
-          "text": "CRISPR-Cas9 — Mechanism: Precise gene editing via RNA-guided nuclease — Phase: Preclinical research tool — Population: Drosophila and mammalian cell models — Comparator: Traditional gene knockout methods — Results: Successfully resolved editing barriers in highly compacted heterochromatic regions, enabling real-time 3D genome observation.",
-          "url": "https://the-scientist.com/then-and-now-erica-larschan-harnesses-modern-technologies-to-study-gene-regulation-74390"
+          "text": "Profluent/Eli Lilly joint program — Mechanism: AI-designed gene editors for whole-gene insertion — Phase: Preclinical/early development — Population: Not specified — Comparator: N/A — Status: Collaboration announced; specific indications and trial timelines not disclosed.",
+          "url": "https://statnews.com/2026/04/28/eli-lilly-crispr-gene-editing-deal-profluent-ai/"
         }
       ]
     },
@@ -131,16 +135,24 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Intellia Therapeutics — Equity incentive expansion — 2024 Inducement Plan — Granted 67,150 time-based RSUs to 13 new employees under Nasdaq Listing Rule 5635(c)(4) to secure talent for CRISPR pipeline advancement.",
-          "url": "https://globenewswire.com/news-release/2026/04/24/3281073/0/en/intellia-therapeutics-to-report-topline-data-from-global-phase-3-haelo-clinical-trial-of-lonvoguran-ziclumeran-in-hereditary-angioedema-on-april-27-2026.html"
+          "text": "Intellia Therapeutics — Regulatory filing and commercial preparation — lonvo-z — Rolling BLA submitted to FDA; potential U.S. launch scheduled for first half of 2027.",
+          "url": "https://drug-dev.com/intellia-therapeutics-reports-positive-phase-3-results-in-hereditary-angioedema-marking-a-global-first-for-in-vivo-gene-editing/"
         },
         {
-          "text": "Pairwise / Wild Bioscience — Licensing agreement — Fulcrum® CRISPR Platform — Granting access to genome editing tools for research and commercial purposes to support yield enhancement and carbon removal projects.",
-          "url": "https://globenewswire.com/news-release/2026/04/21/3278025/0/en/pairwise-licenses-fulcrum-crispr-platform-to-ball-horticultural-company.html"
+          "text": "Intellia Therapeutics — Proposed public offering of common stock — Corporate financing — Announced April 27, 2026 to support operations and CRISPR pipeline advancement.",
+          "url": "https://globenewswire.com/news-release/2026/04/27/3281994/0/en/intellia-announces-proposed-public-offering-of-common-stock.html"
         },
         {
-          "text": "Research and Markets — Arrayed CRISPR Screening Market Report — Market Intelligence — Published April 20, 2026; forecasts $1.64 billion revenue growth at 17.7% CAGR through 2030.",
-          "url": "https://globenewswire.com/news-release/2026/04/20/3277327/28124/en/arrayed-crispr-screening-market-presents-lucrative-opportunities-through-2026-2030-total-revenue-to-grow-by-1-64-billion-at-17-7-cagr.html"
+          "text": "Intellia Therapeutics — Capital raise — Common stock offering — Proposed $150M underwritten public offering with 15% over-allotment option to fund CRISPR pipeline development.",
+          "url": "https://globenewswire.com/news-release/2026/04/27/3281478/0/en/intellia-therapeutics-initiates-rolling-submission-of-biologics-license-application-to-fda-for-lonvoguran-ziclumeran-lonvo-z-as-a-one-time-treatment-for-hereditary-angioedema.html"
+        },
+        {
+          "text": "Intellia Therapeutics — Capital raise — Common Stock — Launched $150 million underwritten public offering with 15% over-allotment option; Jefferies, Goldman Sachs, and Citigroup acting as joint book-runners.",
+          "url": "https://globenewswire.com/news-release/2026/04/27/3281473/0/en/intellia-therapeutics-reports-positive-phase-3-results-in-hereditary-angioedema-marking-a-global-first-for-in-vivo-gene-editing.html"
+        },
+        {
+          "text": "Eli Lilly / Profluent — Strategic collaboration for gene editing — CRISPR-related technology — Potential $2.25B in milestone payments; upfront payment amount undisclosed; part of Lilly's broader gene therapy acquisition strategy.",
+          "url": "https://statnews.com/2026/04/28/eli-lilly-crispr-gene-editing-deal-profluent-ai/"
         }
       ]
     }
