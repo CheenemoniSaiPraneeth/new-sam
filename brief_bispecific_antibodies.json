@@ -1,70 +1,38 @@
 {
   "query": "bispecific",
-  "generated_at": "2026-04-30 07:56:17",
-  "article_count": 38,
+  "generated_at": "2026-05-04 08:16:24",
+  "article_count": 50,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
+          "text": "Novelty Nobility advanced NN4101, a first-in-class bispecific antibody combining anti-c-Kit mAb and VEGF trap, into GMP manufacturing at AGC Biologics' Chiba facility for neovascular retinal diseases.",
+          "url": "https://globenewswire.com/news-release/2026/05/04/3286385/0/en/novelty-nobility-taps-agc-biologics-to-further-develop-bispecific-drug-candidate.html"
+        },
+        {
+          "text": "Medicenna Therapeutics presented preclinical data for MDNA113, a first-in-class anti-PD-1 x IL-2 bifunctional Superkine, demonstrating superior tolerability compared to anti-PD-1 x IL-2α-biased bispecifics in non-human primates.",
+          "url": "https://globenewswire.com/news-release/2026/04/30/3284740/0/en/medicenna-and-fondazione-melanoma-onlus-announce-presentation-on-neocyt-trial-at-asco-2026.html"
+        },
+        {
+          "text": "MDNA113 was well tolerated at doses up to 50 mg/kg in non-human primates, whereas a comparator anti-PD-1 x IL-2α-biased bispecific induced severe toxicity including vascular leak syndrome at a fraction of that exposure.",
+          "url": "https://globenewswire.com/news-release/2026/04/30/3284740/0/en/medicenna-and-fondazione-melanoma-onlus-announce-presentation-on-neocyt-trial-at-asco-2026.html"
+        },
+        {
           "text": "Crescent Biopharma advanced its lead program CR-001, a PD-1 x VEGF bispecific antibody, in the ASCEND Phase 1/2 global trial for multiple solid tumor types.",
           "url": "https://globenewswire.com/news-release/2026/04/29/3284277/0/en/crescent-biopharma-reports-first-quarter-2026-financial-results-and-recent-business-highlights.html"
         },
         {
-          "text": "OPKO Health's ModeX Therapeutics initiated a Phase 1 clinical trial for MDX2003, a first-in-class tetraspecific T-cell engager targeting CD19, CD20, CD3, and CD28 for relapsed or refractory B-cell lymphoma.",
-          "url": "https://globenewswire.com/news-release/2026/04/28/3283165/0/en/opko-health-reports-first-quarter-2026-business-highlights-and-financial-results.html"
+          "text": "BeOne Medicines received FDA priority review for tislelizumab plus zanidatamab (HER2-targeted bispecific antibody) and chemotherapy for first-line treatment of unresectable, locally advanced, or metastatic HER2-positive gastric/GEJ/esophageal adenocarcinoma.",
+          "url": "https://cancernetwork.com/view/fda-grants-priority-review-to-tislelizumab-zanidatamab-in-1l-her2-gastric-cancers"
         },
         {
-          "text": "Biomolecular Holdings secured USPTO Patent No. 12,612,611 for Tetrahedral Antibody technology, a tetravalent bispecific configuration combining two IgG Fc domains with four Fab domains.",
-          "url": "https://globenewswire.com/news-release/2026/04/28/3282574/0/en/biomolecular-holdings-announces-issuance-of-foundational-patents-for-revolutionary-tetrahedral-antibody-technology.html"
+          "text": "The HERIZON-GEA-01 Phase 3 trial demonstrated that the tislelizumab/zanidatamab bispecific combination achieved median PFS of 12.4 months vs 8.1 months (HR 0.63, p<0.0001) and median OS of 26.4 months vs 19.2 months (HR 0.72, p=0.0043) in HER2-positive gastric cancer.",
+          "url": "https://cancernetwork.com/view/fda-grants-priority-review-to-tislelizumab-zanidatamab-in-1l-her2-gastric-cancers"
         },
         {
-          "text": "Biomolecular Holdings' anti-CD19/CD20 Tetrahedral Antibody (bispecific) targets resistant/refractory B-cell cancers and B-cell-mediated autoimmune diseases via an 'immune reset' mechanism.",
-          "url": "https://globenewswire.com/news-release/2026/04/28/3282574/0/en/biomolecular-holdings-announces-issuance-of-foundational-patents-for-revolutionary-tetrahedral-antibody-technology.html"
-        },
-        {
-          "text": "Aclaris Therapeutics announced positive full top-line first-in-human results from a Phase 1a trial of ATI-052, an anti-TSLP/IL-4Rα bispecific antibody, validating its potential best-in-class potency.",
-          "url": "https://globenewswire.com/news-release/2026/04/28/3282383/37216/en/aclaris-therapeutics-announces-positive-full-top-line-first-in-human-results-from-phase-1a-healthy-volunteer-clinical-trial-of-ati-052-a-novel-potential-first-in-class-anti-tslp-il.html"
-        },
-        {
-          "text": "ATI-052 demonstrated an estimated half-life of approximately 45 days, enabling a potential dosing interval of up to three months for Th2-driven diseases.",
-          "url": "https://globenewswire.com/news-release/2026/04/27/3282070/37216/en/aclaris-therapeutics-to-provide-clinical-update-on-key-biologic-and-oral-inhibitor-programs-on-april-28-2026.html"
-        },
-        {
-          "text": "The bispecific antibody ATI-052 achieved complete and sustained inhibition of TSLP-induced and IL-4-induced CCL17 (TARC) in healthy volunteers.",
-          "url": "https://globenewswire.com/news-release/2026/04/27/3282070/37216/en/aclaris-therapeutics-to-provide-clinical-update-on-key-biologic-and-oral-inhibitor-programs-on-april-28-2026.html"
-        },
-        {
-          "text": "Aclaris Therapeutics is advancing ATI-052 through Phase 1b trials in Asthma and Atopic Dermatitis with topline results expected in the second half of 2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/27/3282070/37216/en/aclaris-therapeutics-to-provide-clinical-update-on-key-biologic-and-oral-inhibitor-programs-on-april-28-2026.html"
-        },
-        {
-          "text": "Aclaris plans to initiate a Phase 2b program for the anti-TSLP/IL-4Rα bispecific antibody ATI-052 in the fourth quarter of 2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/27/3282070/37216/en/aclaris-therapeutics-to-provide-clinical-update-on-key-biologic-and-oral-inhibitor-programs-on-april-28-2026.html"
-        },
-        {
-          "text": "WuXi Biologics received South Korean GMP certification for three facilities enabling commercial manufacturing of a bispecific antibody for biliary tract cancer.",
-          "url": "https://pharmamanufacturing.com/industry-news/news/55373337/wuxi-biologics-gets-south-korean-gmp-certification-for-bispecific-antibody-manufacturing"
-        },
-        {
-          "text": "The Bispecifics Network initiative launched across CancerNetwork, AJMC, and Pharmacy Times to educate stakeholders on bispecific antibody applications in oncology.",
-          "url": "https://cancernetwork.com/view/introducing-the-bispecifics-network-importance-of-education-and-multi-d-care"
-        },
-        {
-          "text": "Ralph V. Boccia, MD, highlighted the current uptake of bispecific antibodies in hematologic malignancies and their expanding role in solid tumors including small cell lung cancer.",
-          "url": "https://cancernetwork.com/view/introducing-the-bispecifics-network-importance-of-education-and-multi-d-care"
-        },
-        {
-          "text": "BCMA-directed bispecific antibodies have emerged as a significant treatment modality for early-relapse multiple myeloma, with evolving paradigms driven by new Phase 3 data and combination strategies.",
-          "url": "https://cancernetwork.com/view/discussing-proper-utilization-of-bcma-bispecifics-in-early-relapse-multiple-myeloma"
-        },
-        {
-          "text": "Experts emphasize that while efficacy of BCMA bispecifics is unprecedented, managing cytokine release syndrome (CRS) and immune effector cell-associated neurotoxicity syndrome (ICANS) remains critical for community adoption.",
-          "url": "https://cancernetwork.com/view/discussing-proper-utilization-of-bcma-bispecifics-in-early-relapse-multiple-myeloma"
-        },
-        {
-          "text": "Prophylactic tocilizumab (Actemra) is recommended to mitigate the incidence of CRS and reduce severity to Grade 1 in patients receiving BCMA-targeted bispecific antibodies.",
-          "url": "https://cancernetwork.com/view/discussing-proper-utilization-of-bcma-bispecifics-in-early-relapse-multiple-myeloma"
+          "text": "FDA granted breakthrough therapy designation to zanidatamab plus chemotherapy with or without tislelizumab for HER2-positive gastric cancer, validating the bispecific antibody's clinical utility.",
+          "url": "https://cancernetwork.com/view/fda-grants-priority-review-to-tislelizumab-zanidatamab-in-1l-her2-gastric-cancers"
         }
       ]
     },
@@ -72,36 +40,20 @@
       "heading": "Key Developments",
       "points": [
         {
+          "text": "Novelty Nobility — NN4101 — Neovascular retinal diseases — Expanded partnership with AGC Biologics for process development and GMP manufacturing at Chiba facility following successful cell line development in Copenhagen; first-in-class bispecific antibody (anti-c-Kit mAb + VEGF trap).",
+          "url": "https://globenewswire.com/news-release/2026/05/04/3286385/0/en/novelty-nobility-taps-agc-biologics-to-further-develop-bispecific-drug-candidate.html"
+        },
+        {
+          "text": "Medicenna Therapeutics — MDNA113 — Cancer immunotherapy — First-in-class anti-PD-1 x IL-2 bifunctional Superkine; IND submission expected H2 2026 following positive non-human primate data showing 50 mg/kg tolerability vs severe toxicity in comparator bispecific.",
+          "url": "https://globenewswire.com/news-release/2026/04/30/3284740/0/en/medicenna-and-fondazione-melanoma-onlus-announce-presentation-on-neocyt-trial-at-asco-2026.html"
+        },
+        {
           "text": "Crescent Biopharma — CR-001 — Multiple Solid Tumors — ASCEND Phase 1/2 global trial ongoing evaluating PD-1 x VEGF bispecific antibody in first-line and previously treated patients.",
           "url": "https://globenewswire.com/news-release/2026/04/29/3284277/0/en/crescent-biopharma-reports-first-quarter-2026-financial-results-and-recent-business-highlights.html"
         },
         {
-          "text": "ModeX Therapeutics — MDX2003 — Relapsed or refractory B-cell lymphoma — Phase 1 trial (MDX-2003-101) initiated with first patient dosed; novel tetraspecific antibody targeting CD19/CD20 on B-cells and CD3/CD28 on T-cells to mitigate immune escape.",
-          "url": "https://globenewswire.com/news-release/2026/04/28/3283165/0/en/opko-health-reports-first-quarter-2026-business-highlights-and-financial-results.html"
-        },
-        {
-          "text": "Biomolecular Holdings — Tetrahedral Antibody (anti-CD19/CD20) — B-cell cancers / Autoimmune diseases — USPTO granted Patent No. 12,612,611 covering tetravalent bispecific architecture; Patent No. 12,473,363 (NK/Monocyte Engagers) issued Nov 2025.",
-          "url": "https://globenewswire.com/news-release/2026/04/28/3282574/0/en/biomolecular-holdings-announces-issuance-of-foundational-patents-for-revolutionary-tetrahedral-antibody-technology.html"
-        },
-        {
-          "text": "Aclaris Therapeutics — ATI-052 — Th2-driven inflammatory diseases — Phase 1a first-in-human trial met target profile with 45-day half-life and complete CCL17 inhibition; Phase 2b initiation planned Q4 2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/28/3282383/37216/en/aclaris-therapeutics-announces-positive-full-top-line-first-in-human-results-from-phase-1a-healthy-volunteer-clinical-trial-of-ati-052-a-novel-potential-first-in-class-anti-tslp-il.html"
-        },
-        {
-          "text": "Aclaris Therapeutics — ATI-052 — Asthma and Atopic Dermatitis — Phase 1b trials ongoing with topline data expected H2 2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/27/3282070/37216/en/aclaris-therapeutics-to-provide-clinical-update-on-key-biologic-and-oral-inhibitor-programs-on-april-28-2026.html"
-        },
-        {
-          "text": "WuXi Biologics — Bispecific Antibody Manufacturing — Biliary Tract Cancer — Three facilities (Drug Substance Facility 5, Drug Product Facility 2, Drug Product Packaging Center) certified by South Korea's Ministry of Food and Drug Safety following a five-day inspection with no critical findings.",
-          "url": "https://pharmamanufacturing.com/industry-news/news/55373337/wuxi-biologics-gets-south-korean-gmp-certification-for-bispecific-antibody-manufacturing"
-        },
-        {
-          "text": "The Bispecifics Network — Educational Initiative — Oncology (Hematologic Malignancies & Solid Tumors) — Launched to address multidisciplinary care needs and adverse effect management for bispecific antibody therapies.",
-          "url": "https://cancernetwork.com/view/introducing-the-bispecifics-network-importance-of-education-and-multi-d-care"
-        },
-        {
-          "text": "BCMA-directed bispecific antibodies — Multiple Myeloma — Phase 3 data presented at CancerNetwork Training Academy confirms role in second-line therapy for high-risk early-relapse patients.",
-          "url": "https://cancernetwork.com/view/discussing-proper-utilization-of-bcma-bispecifics-in-early-relapse-multiple-myeloma"
+          "text": "BeOne Medicines — Tislelizumab/Zanidatamab — HER2-positive gastric/GEJ/esophageal adenocarcinoma — FDA granted priority review for sBLA; Phase 3 HERIZON-GEA-01 met primary endpoints with PFS HR 0.63 and OS HR 0.72.",
+          "url": "https://cancernetwork.com/view/fda-grants-priority-review-to-tislelizumab-zanidatamab-in-1l-her2-gastric-cancers"
         }
       ]
     },
@@ -109,32 +61,24 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Crescent Biopharma — Oncology bispecific and ADC development — CR-001 (PD-1 x VEGF bispecific) — Clinical-stage pipeline advancing in solid tumors; Q1 2026 financial results reported.",
+          "text": "Novelty Nobility — Bispecific antibody commercialization — NN4101 — Clinical-stage biotech advancing first-in-class bispecific (anti-c-Kit mAb + VEGF trap) for neovascular retinal diseases; partnered with AGC Biologics for global manufacturing scale-up.",
+          "url": "https://globenewswire.com/news-release/2026/05/04/3286385/0/en/novelty-nobility-taps-agc-biologics-to-further-develop-bispecific-drug-candidate.html"
+        },
+        {
+          "text": "AGC Biologics — Bispecific manufacturing capacity expansion — NN4101 program — Executed second partnership with Novelty Nobility; leveraging Chiba and new Yokohama facilities with single-use bioreactor technology for complex protein GMP production.",
+          "url": "https://globenewswire.com/news-release/2026/05/04/3286385/0/en/novelty-nobility-taps-agc-biologics-to-further-develop-bispecific-drug-candidate.html"
+        },
+        {
+          "text": "Medicenna Therapeutics — Development of tumor-anchored conditionally activated bifunctional Superkines — MDNA113 (anti-PD-1 x IL-2) — Preclinical data presented at AACR 2026; IND submission planned for H2 2026.",
+          "url": "https://globenewswire.com/news-release/2026/04/30/3284740/0/en/medicenna-and-fondazione-melanoma-onlus-announce-presentation-on-neocyt-trial-at-asco-2026.html"
+        },
+        {
+          "text": "Crescent Biopharma — Next-generation oncology therapies — CR-001 (PD-1 x VEGF bispecific) + ADC pipeline — Clinical-stage; ASCEND Phase 1/2 trial active for solid tumors.",
           "url": "https://globenewswire.com/news-release/2026/04/29/3284277/0/en/crescent-biopharma-reports-first-quarter-2026-financial-results-and-recent-business-highlights.html"
         },
         {
-          "text": "OPKO Health / ModeX Therapeutics — First-in-class tetraspecific antibody development — MDX2003 — Phase 1 enrollment ongoing; preclinical data presented at 2025 ASH and ESMO 2026 conferences.",
-          "url": "https://globenewswire.com/news-release/2026/04/28/3283165/0/en/opko-health-reports-first-quarter-2026-business-highlights-and-financial-results.html"
-        },
-        {
-          "text": "Biomolecular Holdings — Commercialization of next-generation bispecific antibody architectures — Tetrahedral Antibody platform (anti-CD19/CD20) — Secured foundational US patents for tetravalent bispecific constructs designed to trigger immune reset in B-cell malignancies.",
-          "url": "https://globenewswire.com/news-release/2026/04/28/3282574/0/en/biomolecular-holdings-announces-issuance-of-foundational-patents-for-revolutionary-tetrahedral-antibody-technology.html"
-        },
-        {
-          "text": "Aclaris Therapeutics — Bispecific antibody commercialization and Phase 2b expansion — ATI-052 (anti-TSLP/IL-4Rα) — Phase 1a results validated 45-day half-life; Phase 2b program scheduled for Q4 2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/27/3282070/37216/en/aclaris-therapeutics-to-provide-clinical-update-on-key-biologic-and-oral-inhibitor-programs-on-april-28-2026.html"
-        },
-        {
-          "text": "WuXi Biologics — Expansion of integrated CRDMO model for complex biologics — Bispecific antibody manufacturing — Secured South Korean GMP certification to support commercial-scale production and supply chain efficiency in the Asia-Pacific region.",
-          "url": "https://pharmamanufacturing.com/industry-news/news/55373337/wuxi-biologics-gets-south-korean-gmp-certification-for-bispecific-antibody-manufacturing"
-        },
-        {
-          "text": "CancerNetwork / AJMC / Pharmacy Times — Educational platform expansion — The Bispecifics Network — Focused on bispecific antibody adoption in hematologic malignancies and small cell lung cancer; addressing safety profiles and multidisciplinary care strategies.",
-          "url": "https://cancernetwork.com/view/introducing-the-bispecifics-network-importance-of-education-and-multi-d-care"
-        },
-        {
-          "text": "University of Alabama at Birmingham / Vanderbilt-Ingram Cancer Center / Johns Hopkins Medicine — Clinical utilization strategy for BCMA bispecifics — Early-relapse multiple myeloma — Expert panel convened to define patient selection, toxicity mitigation using prophylactic tocilizumab, and sequencing protocols.",
-          "url": "https://cancernetwork.com/view/discussing-proper-utilization-of-bcma-bispecifics-in-early-relapse-multiple-myeloma"
+          "text": "BeOne Medicines — Regulatory advancement of HER2 bispecific combination — Zanidatamab (HER2-targeted bispecific) + Tislelizumab — Priority review granted for 1L gastric cancer; Breakthrough Therapy Designation secured.",
+          "url": "https://cancernetwork.com/view/fda-grants-priority-review-to-tislelizumab-zanidatamab-in-1l-her2-gastric-cancers"
         }
       ]
     },
@@ -142,28 +86,24 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "CR-001 — Mechanism: PD-1 x VEGF bispecific antibody — Phase: 1/2 (ASCEND) — Population: Multiple solid tumor types (first-line and previously treated) — Status: Global trial ongoing.",
+          "text": "NN4101 — Mechanism: First-in-class bispecific antibody fusing fully human anti-c-Kit monoclonal antibody with VEGF trap — Phase: Pre-clinical/Manufacturing readiness — Population: Neovascular retinal disease patients — Comparator: None stated — Status: Technical transfer to Chiba facility for GMP manufacturing initiated.",
+          "url": "https://globenewswire.com/news-release/2026/05/04/3286385/0/en/novelty-nobility-taps-agc-biologics-to-further-develop-bispecific-drug-candidate.html"
+        },
+        {
+          "text": "MDNA113 — Mechanism: Tumor-anchored, conditionally activated anti-PD-1 x IL-2 bifunctional Superkine (β-enhanced IL-2) — Phase: Preclinical — Population: Non-human primates — Comparator: Anti-PD-1 x IL-2α-biased bispecific — Results: Tolerated at 50 mg/kg with PK consistent with approved anti-PD-1; comparator failed at fraction of exposure due to vascular leak syndrome.",
+          "url": "https://globenewswire.com/news-release/2026/04/30/3284740/0/en/medicenna-and-fondazione-melanoma-onlus-announce-presentation-on-neocyt-trial-at-asco-2026.html"
+        },
+        {
+          "text": "CR-001 — Mechanism: PD-1 x VEGF bispecific antibody — Phase: 1/2 (ASCEND) — Population: Multiple solid tumor types (first-line and previously treated) — Comparator: Not specified — Status: Ongoing global trial.",
           "url": "https://globenewswire.com/news-release/2026/04/29/3284277/0/en/crescent-biopharma-reports-first-quarter-2026-financial-results-and-recent-business-highlights.html"
         },
         {
-          "text": "MDX2003 — Mechanism: Tetraspecific T-cell engager (CD19/CD20/CD3/CD28) — Phase: 1 — Population: Adults with relapsed/refractory B-cell lymphoma — Comparator: None (dose-escalation/expansion) — Endpoints: Safety, tolerability, pharmacokinetics, and immune activity.",
-          "url": "https://globenewswire.com/news-release/2026/04/28/3283165/0/en/opko-health-reports-first-quarter-2026-business-highlights-and-financial-results.html"
+          "text": "Zanidatamab — Mechanism: HER2-targeted bispecific antibody (binds two distinct epitopes on HER2) — Phase: 3 (HERIZON-GEA-01) — Population: Unresectable, locally advanced, or metastatic HER2-positive gastric/GEJ/esophageal adenocarcinoma — Comparator: Chemotherapy alone or with tislelizumab — Endpoints/Results: Median PFS 12.4 vs 8.1 months (HR 0.63, p<0.0001); Median OS 26.4 vs 19.2 months (HR 0.72, p=0.0043); Grade 3+ TR-TEAEs 71.8% in combination arm.",
+          "url": "https://cancernetwork.com/view/fda-grants-priority-review-to-tislelizumab-zanidatamab-in-1l-her2-gastric-cancers"
         },
         {
-          "text": "Anti-CD19/CD20 Tetrahedral Antibody — Mechanism: Tetravalent bispecific configuration with dual Fc domains enabling cooperative binding to NK cells/monocytes — Phase: Preclinical (patent stage) — Population: Resistant/refractory B-cell cancers and B-cell-mediated autoimmune disease — Outcome: Deep B-cell depletion and 'immune reset' potential.",
-          "url": "https://globenewswire.com/news-release/2026/04/28/3282574/0/en/biomolecular-holdings-announces-issuance-of-foundational-patents-for-revolutionary-tetrahedral-antibody-technology.html"
-        },
-        {
-          "text": "ATI-052 — Mechanism: Dual inhibition of TSLP and IL-4Rα (bispecific antibody) — Phase: 1a (completed), 1b (ongoing) — Population: Healthy volunteers (1a), Asthma/Atopic Dermatitis patients (1b) — Comparator: None stated — Endpoints/Results: 45-day half-life, complete/sustained CCL17 inhibition, dose-proportional PK/PD.",
-          "url": "https://globenewswire.com/news-release/2026/04/27/3282070/37216/en/aclaris-therapeutics-to-provide-clinical-update-on-key-biologic-and-oral-inhibitor-programs-on-april-28-2026.html"
-        },
-        {
-          "text": "Bispecific Antibodies — Mechanism: Dual-target engagement (specific targets not detailed in source) — Phase: Clinical use in hematologic malignancies and small cell lung cancer — Population: Patients with hematologic malignancies and solid tumors — Results: Slower adaptation noted in small cell lung cancer due to potential adverse effects.",
-          "url": "https://cancernetwork.com/view/introducing-the-bispecifics-network-importance-of-education-and-multi-d-care"
-        },
-        {
-          "text": "BCMA bispecific antibodies — Mechanism: Dual T-cell engagement targeting BCMA — Phase: 3 (data discussed) — Population: Early-relapse multiple myeloma patients (relapse within 3–4 years post-transplant) — Endpoints/Results: Unprecedented efficacy noted; signature risks include CRS and ICANS, mitigated by prophylactic tocilizumab reducing severity to Grade 1.",
-          "url": "https://cancernetwork.com/view/discussing-proper-utilization-of-bcma-bispecifics-in-early-relapse-multiple-myeloma"
+          "text": "Bispecific antibodies (general class) — Mechanism: Dual-target engagement (CRS risk) — Phase: Clinical use — Population: Oncology patients — Comparator: Inpatient monitoring — Endpoints/Results: Outpatient monitoring kits (BP, O2, temp) and virtual visits demonstrated safety net efficacy comparable to inpatient care for CRS mitigation.",
+          "url": "https://cancernetwork.com/view/managing-bispecific-logistics-remote-monitoring-and-crs-mitigation-strategies"
         }
       ]
     },
@@ -171,12 +111,8 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Biomolecular Holdings — Intellectual Property Expansion — Tetrahedral Antibody technology — Granted USPTO Patent No. 12,612,611 (April 2026) and Patent No. 12,473,363 (November 2025) covering bispecific NK/Monocyte engagers.",
-          "url": "https://globenewswire.com/news-release/2026/04/28/3282574/0/en/biomolecular-holdings-announces-issuance-of-foundational-patents-for-revolutionary-tetrahedral-antibody-technology.html"
-        },
-        {
-          "text": "WuXi Biologics — Regulatory milestone for commercial manufacturing — Bispecific antibody platform — Certification enables end-to-end services (drug substance, fill-finish, packaging) for oncology indications, addressing growing demand for complex modalities.",
-          "url": "https://pharmamanufacturing.com/industry-news/news/55373337/wuxi-biologics-gets-south-korean-gmp-certification-for-bispecific-antibody-manufacturing"
+          "text": "Novelty Nobility / AGC Biologics — Manufacturing partnership expansion — NN4101 bispecific program — Second collaboration agreement executed; AGC Biologics to handle process development and GMP manufacturing at Chiba facility following Copenhagen cell line development success.",
+          "url": "https://globenewswire.com/news-release/2026/05/04/3286385/0/en/novelty-nobility-taps-agc-biologics-to-further-develop-bispecific-drug-candidate.html"
         }
       ]
     }
