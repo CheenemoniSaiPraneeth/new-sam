@@ -1,38 +1,58 @@
 {
   "query": "bispecific",
-  "generated_at": "2026-05-04 08:16:24",
-  "article_count": 50,
+  "generated_at": "2026-05-08 07:15:07",
+  "article_count": 56,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Novelty Nobility advanced NN4101, a first-in-class bispecific antibody combining anti-c-Kit mAb and VEGF trap, into GMP manufacturing at AGC Biologics' Chiba facility for neovascular retinal diseases.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286385/0/en/novelty-nobility-taps-agc-biologics-to-further-develop-bispecific-drug-candidate.html"
+          "text": "CellCentric raised $220M in Series D funding to advance inobrodib, an oral p300/CBP inhibitor for multiple myeloma, which is being tested in combination with bispecific antibodies including Pfizer's Elrexfio and Johnson & Johnson's Tecvayli.",
+          "url": "https://biopharmadive.com/news/cellcentric-series-d-multiple-myeloma-inobrodib/819348/"
         },
         {
-          "text": "Medicenna Therapeutics presented preclinical data for MDNA113, a first-in-class anti-PD-1 x IL-2 bifunctional Superkine, demonstrating superior tolerability compared to anti-PD-1 x IL-2α-biased bispecifics in non-human primates.",
-          "url": "https://globenewswire.com/news-release/2026/04/30/3284740/0/en/medicenna-and-fondazione-melanoma-onlus-announce-presentation-on-neocyt-trial-at-asco-2026.html"
+          "text": "The global Bi-Specific MAb market is projected to reach $21.83 billion by 2030, driven by expanding therapeutic applications and competitive landscape strategies.",
+          "url": "https://globenewswire.com/news-release/2026/05/07/3290146/28124/en/bi-specific-mabs-market-research-report-2026-21-83-bn-opportunities-trends-competitive-landscape-strategies-and-forecasts-2020-2025-2025-2030f-2035f.html"
         },
         {
-          "text": "MDNA113 was well tolerated at doses up to 50 mg/kg in non-human primates, whereas a comparator anti-PD-1 x IL-2α-biased bispecific induced severe toxicity including vascular leak syndrome at a fraction of that exposure.",
-          "url": "https://globenewswire.com/news-release/2026/04/30/3284740/0/en/medicenna-and-fondazione-melanoma-onlus-announce-presentation-on-neocyt-trial-at-asco-2026.html"
+          "text": "Aclaris Therapeutics reported positive full top-line Phase 1a results for ATI-052, an anti-TSLP/IL-4Rα bispecific antibody, showing an estimated half-life of ~45 days enabling up to three-month dosing intervals.",
+          "url": "https://globenewswire.com/news-release/2026/05/07/3289773/37216/en/aclaris-therapeutics-reports-first-quarter-2026-financial-results-and-provides-corporate-and-clinical-update.html"
         },
         {
-          "text": "Crescent Biopharma advanced its lead program CR-001, a PD-1 x VEGF bispecific antibody, in the ASCEND Phase 1/2 global trial for multiple solid tumor types.",
-          "url": "https://globenewswire.com/news-release/2026/04/29/3284277/0/en/crescent-biopharma-reports-first-quarter-2026-financial-results-and-recent-business-highlights.html"
+          "text": "Shattuck Labs advanced SL-325, a DR3 blocking antibody, with Phase 1 enrollment complete and Phase 2 in Crohn's disease planned for Q3 2026, while initiating IND-enabling activities for a new DR3/TL1A bispecific antibody.",
+          "url": "https://globenewswire.com/news-release/2026/05/07/3289733/0/en/shattuck-labs-reports-first-quarter-2026-financial-results-and-recent-business-highlights.html"
         },
         {
-          "text": "BeOne Medicines received FDA priority review for tislelizumab plus zanidatamab (HER2-targeted bispecific antibody) and chemotherapy for first-line treatment of unresectable, locally advanced, or metastatic HER2-positive gastric/GEJ/esophageal adenocarcinoma.",
-          "url": "https://cancernetwork.com/view/fda-grants-priority-review-to-tislelizumab-zanidatamab-in-1l-her2-gastric-cancers"
+          "text": "Aclaris Therapeutics selected lichen planus as the lead indication for ATI-2138, an oral ITK/JAK3 inhibitor, while advancing Phase 1b trials for its bispecific ATI-052 in asthma and atopic dermatitis.",
+          "url": "https://globenewswire.com/news-release/2026/05/07/3289773/37216/en/aclaris-therapeutics-reports-first-quarter-2026-financial-results-and-provides-corporate-and-clinical-update.html"
         },
         {
-          "text": "The HERIZON-GEA-01 Phase 3 trial demonstrated that the tislelizumab/zanidatamab bispecific combination achieved median PFS of 12.4 months vs 8.1 months (HR 0.63, p<0.0001) and median OS of 26.4 months vs 19.2 months (HR 0.72, p=0.0043) in HER2-positive gastric cancer.",
-          "url": "https://cancernetwork.com/view/fda-grants-priority-review-to-tislelizumab-zanidatamab-in-1l-her2-gastric-cancers"
+          "text": "UCB signed a definitive agreement to acquire Candid Therapeutics for $2 billion upfront plus up to $200 million in milestones to secure cizutamig, a bispecific T-cell engager targeting BCMA and CD3.",
+          "url": "https://nordiclifescience.org/ucb-to-acquire-candid-therapeutics/"
         },
         {
-          "text": "FDA granted breakthrough therapy designation to zanidatamab plus chemotherapy with or without tislelizumab for HER2-positive gastric cancer, validating the bispecific antibody's clinical utility.",
-          "url": "https://cancernetwork.com/view/fda-grants-priority-review-to-tislelizumab-zanidatamab-in-1l-her2-gastric-cancers"
+          "text": "Cizutamig is a bispecific antibody designed to enable T-cell-mediated cytotoxicity against BCMA-expressing plasma cells while limiting cytokine release, currently evaluated in over 100 patients across 10 autoimmune indications.",
+          "url": "https://nordiclifescience.org/ucb-to-acquire-candid-therapeutics/"
+        },
+        {
+          "text": "Novelty Nobility expanded its manufacturing agreement with AGC Biologics to advance NN4101, a bispecific antibody targeting neovascular retinal diseases, into GMP production at AGC's Chiba, Japan facility.",
+          "url": "https://pharmamanufacturing.com/industry-news/news/55375190/agc-biologics-and-novelty-nobility-expand-manufacturing-deal"
+        },
+        {
+          "text": "Zahra Mahmoudjafari (University of Kansas Health System) highlighted at the 2026 ICE-T Congress that novel bispecific antibodies are bridging care gaps for rural patients in hematologic oncology.",
+          "url": "https://cancernetwork.com/view/learning-to-implement-novel-cellular-therapies-in-hematologic-oncology-care"
+        },
+        {
+          "text": "Partner Therapeutics received an FDA Commissioner's National Priority Voucher for zenocutuzumab-zbco (Bizengri), a first-in-class bispecific antibody targeting HER2 and HER3, for NRG1 fusion-positive cholangiocarcinoma.",
+          "url": "https://cancernetwork.com/view/zenocutuzumab-earns-fda-national-priority-voucher-in-cholangiocarcinoma"
+        },
+        {
+          "text": "Zenocutuzumab demonstrated a 37% overall response rate and 58% clinical benefit rate in the phase 1/2 eNRGy trial for advanced NRG1-positive cholangiocarcinoma, supporting the regulatory priority designation.",
+          "url": "https://cancernetwork.com/view/zenocutuzumab-earns-fda-national-priority-voucher-in-cholangiocarcinoma"
+        },
+        {
+          "text": "Prerna Mewawalla, MD, presented at the 2026 National ICE-T Conference on the landscape of bispecific antibodies in multiple myeloma, highlighting cevostamab's potential to address gaps for patients progressing on BCMA and GPRC5D-directed therapies.",
+          "url": "https://cancernetwork.com/view/cevostamab-may-fill-gap-in-multiple-myeloma-armamentarium"
         }
       ]
     },
@@ -40,20 +60,44 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Novelty Nobility — NN4101 — Neovascular retinal diseases — Expanded partnership with AGC Biologics for process development and GMP manufacturing at Chiba facility following successful cell line development in Copenhagen; first-in-class bispecific antibody (anti-c-Kit mAb + VEGF trap).",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286385/0/en/novelty-nobility-taps-agc-biologics-to-further-develop-bispecific-drug-candidate.html"
+          "text": "CellCentric — Inobrodib — Multiple Myeloma — Phase 2 study ongoing; planned Phase 3 trial supported by $220M Series D; combination regimen includes bispecific antibodies (Pfizer's Elrexfio, J&J's Tecvayli).",
+          "url": "https://biopharmadive.com/news/cellcentric-series-d-multiple-myeloma-inobrodib/819348/"
         },
         {
-          "text": "Medicenna Therapeutics — MDNA113 — Cancer immunotherapy — First-in-class anti-PD-1 x IL-2 bifunctional Superkine; IND submission expected H2 2026 following positive non-human primate data showing 50 mg/kg tolerability vs severe toxicity in comparator bispecific.",
-          "url": "https://globenewswire.com/news-release/2026/04/30/3284740/0/en/medicenna-and-fondazione-melanoma-onlus-announce-presentation-on-neocyt-trial-at-asco-2026.html"
+          "text": "Bi-Specific MAb Market — Market Research Report 2026 — Global Oncology and Immunology — Market valued at $21.83 billion with forecasts extending to 2035F; report analyzes competitive landscape and strategic opportunities.",
+          "url": "https://globenewswire.com/news-release/2026/05/07/3290146/28124/en/bi-specific-mabs-market-research-report-2026-21-83-bn-opportunities-trends-competitive-landscape-strategies-and-forecasts-2020-2025-2025-2030f-2035f.html"
         },
         {
-          "text": "Crescent Biopharma — CR-001 — Multiple Solid Tumors — ASCEND Phase 1/2 global trial ongoing evaluating PD-1 x VEGF bispecific antibody in first-line and previously treated patients.",
-          "url": "https://globenewswire.com/news-release/2026/04/29/3284277/0/en/crescent-biopharma-reports-first-quarter-2026-financial-results-and-recent-business-highlights.html"
+          "text": "Aclaris Therapeutics — ATI-052 — Th2-driven inflammatory diseases (Asthma, Atopic Dermatitis) — Phase 1a healthy volunteer trial met primary endpoints with ~45-day half-life and complete/sustained CCL17 inhibition; Phase 2b program planned Q4 2026.",
+          "url": "https://globenewswire.com/news-release/2026/05/07/3289773/37216/en/aclaris-therapeutics-reports-first-quarter-2026-financial-results-and-provides-corporate-and-clinical-update.html"
         },
         {
-          "text": "BeOne Medicines — Tislelizumab/Zanidatamab — HER2-positive gastric/GEJ/esophageal adenocarcinoma — FDA granted priority review for sBLA; Phase 3 HERIZON-GEA-01 met primary endpoints with PFS HR 0.63 and OS HR 0.72.",
-          "url": "https://cancernetwork.com/view/fda-grants-priority-review-to-tislelizumab-zanidatamab-in-1l-her2-gastric-cancers"
+          "text": "Shattuck Labs — SL-325 — Crohn's Disease — Phase 1 trial enrollment complete; Phase 2 initiation expected Q3 2026; IND-enabling activities commenced for a novel DR3/TL1A bispecific antibody.",
+          "url": "https://globenewswire.com/news-release/2026/05/07/3289733/0/en/shattuck-labs-reports-first-quarter-2026-financial-results-and-recent-business-highlights.html"
+        },
+        {
+          "text": "UCB — Candid Therapeutics Acquisition — Autoimmune/Inflammatory Diseases — $2 billion upfront payment agreed; deal includes up to $200 million in milestones; closing expected Q2–Q3 2026 pending anti-trust clearance.",
+          "url": "https://nordiclifescience.org/ucb-to-acquire-candid-therapeutics/"
+        },
+        {
+          "text": "Candid Therapeutics — Cizutamig — Autoimmune Diseases — Bispecific BCMA x CD3 T-cell engager; clinical evaluation in >100 patients; active in >10 autoimmune indications.",
+          "url": "https://nordiclifescience.org/ucb-to-acquire-candid-therapeutics/"
+        },
+        {
+          "text": "Novelty Nobility — NN4101 — Neovascular retinal diseases — Expanded manufacturing deal with AGC Biologics to transition bispecific antibody program from cell line development to GMP production at Chiba, Japan facility.",
+          "url": "https://pharmamanufacturing.com/industry-news/news/55375190/agc-biologics-and-novelty-nobility-expand-manufacturing-deal"
+        },
+        {
+          "text": "Hematologic Oncology Field — Bispecific Antibodies — Multiple Myeloma/Lymphoma/Leukemia — Shifting from innovation to implementation with focus on outpatient models and community-based administration to improve access.",
+          "url": "https://cancernetwork.com/view/learning-to-implement-novel-cellular-therapies-in-hematologic-oncology-care"
+        },
+        {
+          "text": "Partner Therapeutics — Zenocutuzumab-zbco (Bizengri) — NRG1 fusion-positive cholangiocarcinoma — FDA granted Commissioner's National Priority Voucher based on phase 1/2 eNRGy trial data showing 37% ORR and 9.2-month median PFS.",
+          "url": "https://cancernetwork.com/view/zenocutuzumab-earns-fda-national-priority-voucher-in-cholangiocarcinoma"
+        },
+        {
+          "text": "Cevostamab — Multiple Myeloma — FcRH5-targeting bispecific antibody demonstrated deep minimal residual disease (MRD)-negative responses in heavily pretreated, relapsed/refractory patients who had received prior BCMA-directed therapy.",
+          "url": "https://cancernetwork.com/view/cevostamab-may-fill-gap-in-multiple-myeloma-armamentarium"
         }
       ]
     },
@@ -61,24 +105,44 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Novelty Nobility — Bispecific antibody commercialization — NN4101 — Clinical-stage biotech advancing first-in-class bispecific (anti-c-Kit mAb + VEGF trap) for neovascular retinal diseases; partnered with AGC Biologics for global manufacturing scale-up.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286385/0/en/novelty-nobility-taps-agc-biologics-to-further-develop-bispecific-drug-candidate.html"
+          "text": "CellCentric — Late-stage financing for oral epigenetic therapy — Inobrodib — $220M Series D secured; evaluating combination with bispecific antibodies (Elrexfio, Tecvayli) for multiple myeloma.",
+          "url": "https://biopharmadive.com/news/cellcentric-series-d-multiple-myeloma-inobrodib/819348/"
         },
         {
-          "text": "AGC Biologics — Bispecific manufacturing capacity expansion — NN4101 program — Executed second partnership with Novelty Nobility; leveraging Chiba and new Yokohama facilities with single-use bioreactor technology for complex protein GMP production.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286385/0/en/novelty-nobility-taps-agc-biologics-to-further-develop-bispecific-drug-candidate.html"
+          "text": "Research and Markets — Bi-Specific MAb market intelligence — Global bi-specific antibody sector — Released 2026 report detailing $21.83B market size, trends, and competitive strategies through 2035F.",
+          "url": "https://globenewswire.com/news-release/2026/05/07/3290146/28124/en/bi-specific-mabs-market-research-report-2026-21-83-bn-opportunities-trends-competitive-landscape-strategies-and-forecasts-2020-2025-2025-2030f-2035f.html"
         },
         {
-          "text": "Medicenna Therapeutics — Development of tumor-anchored conditionally activated bifunctional Superkines — MDNA113 (anti-PD-1 x IL-2) — Preclinical data presented at AACR 2026; IND submission planned for H2 2026.",
-          "url": "https://globenewswire.com/news-release/2026/04/30/3284740/0/en/medicenna-and-fondazione-melanoma-onlus-announce-presentation-on-neocyt-trial-at-asco-2026.html"
+          "text": "Aclaris Therapeutics — Bispecific antibody development and oral inhibitor expansion — ATI-052 (anti-TSLP/IL-4Rα bispecific) + ATI-2138 (ITK/JAK3 inhibitor) — Phase 1b trials ongoing in asthma/AD; Phase 2b basket study in lichen planus planned.",
+          "url": "https://globenewswire.com/news-release/2026/05/07/3289773/37216/en/aclaris-therapeutics-reports-first-quarter-2026-financial-results-and-provides-corporate-and-clinical-update.html"
         },
         {
-          "text": "Crescent Biopharma — Next-generation oncology therapies — CR-001 (PD-1 x VEGF bispecific) + ADC pipeline — Clinical-stage; ASCEND Phase 1/2 trial active for solid tumors.",
-          "url": "https://globenewswire.com/news-release/2026/04/29/3284277/0/en/crescent-biopharma-reports-first-quarter-2026-financial-results-and-recent-business-highlights.html"
+          "text": "Shattuck Labs — DR3 pathway targeting via monoclonal and bispecific formats — SL-325 (DR3 blocker) + novel DR3/TL1A bispecific — Phase 1 data expected Q2 2026; Phase 2 Crohn's trial Q3 2026; bispecific IND-enabling activities active.",
+          "url": "https://globenewswire.com/news-release/2026/05/07/3289733/0/en/shattuck-labs-reports-first-quarter-2026-financial-results-and-recent-business-highlights.html"
         },
         {
-          "text": "BeOne Medicines — Regulatory advancement of HER2 bispecific combination — Zanidatamab (HER2-targeted bispecific) + Tislelizumab — Priority review granted for 1L gastric cancer; Breakthrough Therapy Designation secured.",
-          "url": "https://cancernetwork.com/view/fda-grants-priority-review-to-tislelizumab-zanidatamab-in-1l-her2-gastric-cancers"
+          "text": "UCB — Inorganic growth strategy via T-cell engager platform — Cizutamig (acquired from Candid) — $2 billion acquisition to expand pipeline in severe immune-mediated diseases.",
+          "url": "https://nordiclifescience.org/ucb-to-acquire-candid-therapeutics/"
+        },
+        {
+          "text": "Candid Therapeutics — Bispecific T-cell engager development — Cizutamig + multi-specific TCE pipeline — Acquired by UCB; lead asset targets BCMA and CD3 for autoimmune indications.",
+          "url": "https://nordiclifescience.org/ucb-to-acquire-candid-therapeutics/"
+        },
+        {
+          "text": "Novelty Nobility — Clinical-stage bispecific antibody development — NN4101 — Partnered with AGC Biologics for GMP manufacturing in Japan to support process scalability for neovascular retinal disease indication.",
+          "url": "https://pharmamanufacturing.com/industry-news/news/55375190/agc-biologics-and-novelty-nobility-expand-manufacturing-deal"
+        },
+        {
+          "text": "AGC Biologics — CDMO capacity expansion for complex biologics — NN4101 manufacturing — Leveraging Chiba facility and planned Yokohama site to support mammalian expression and single-use bioreactor technologies for bispecific programs.",
+          "url": "https://pharmamanufacturing.com/industry-news/news/55375190/agc-biologics-and-novelty-nobility-expand-manufacturing-deal"
+        },
+        {
+          "text": "Partner Therapeutics — Commercialization of first-in-class bispecific antibody — Zenocutuzumab-zbco (Bizengri) — Secured FDA National Priority Voucher for NRG1+ cholangiocarcinoma indication; phase 1/2 eNRGy trial reported 37% ORR and 58% CBR.",
+          "url": "https://cancernetwork.com/view/zenocutuzumab-earns-fda-national-priority-voucher-in-cholangiocarcinoma"
+        },
+        {
+          "text": "Cevostamab developers — Advancing FcRH5-targeting bispecific antibody strategy — Cevostamab — Positioned to treat multiple myeloma patients refractory to BCMA and GPRC5D cellular therapies based on deep MRD-negative response data.",
+          "url": "https://cancernetwork.com/view/cevostamab-may-fill-gap-in-multiple-myeloma-armamentarium"
         }
       ]
     },
@@ -86,24 +150,40 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "NN4101 — Mechanism: First-in-class bispecific antibody fusing fully human anti-c-Kit monoclonal antibody with VEGF trap — Phase: Pre-clinical/Manufacturing readiness — Population: Neovascular retinal disease patients — Comparator: None stated — Status: Technical transfer to Chiba facility for GMP manufacturing initiated.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286385/0/en/novelty-nobility-taps-agc-biologics-to-further-develop-bispecific-drug-candidate.html"
+          "text": "Inobrodib — Mechanism: Oral p300/CBP dual inhibitor — Phase: 2 (planned Phase 3) — Population: Multiple myeloma patients — Comparator: N/A (combination study) — Endpoints: Evaluated in all-oral regimen with bispecific antibodies (Elrexfio, Tecvayli).",
+          "url": "https://biopharmadive.com/news/cellcentric-series-d-multiple-myeloma-inobrodib/819348/"
         },
         {
-          "text": "MDNA113 — Mechanism: Tumor-anchored, conditionally activated anti-PD-1 x IL-2 bifunctional Superkine (β-enhanced IL-2) — Phase: Preclinical — Population: Non-human primates — Comparator: Anti-PD-1 x IL-2α-biased bispecific — Results: Tolerated at 50 mg/kg with PK consistent with approved anti-PD-1; comparator failed at fraction of exposure due to vascular leak syndrome.",
-          "url": "https://globenewswire.com/news-release/2026/04/30/3284740/0/en/medicenna-and-fondazione-melanoma-onlus-announce-presentation-on-neocyt-trial-at-asco-2026.html"
+          "text": "Bi-Specific MAb — Mechanism: Dual-target binding for enhanced efficacy — Phase: Market analysis covers various clinical stages — Population: Oncology and immunology indications — Data: Report identifies key trends and strategic opportunities in the $21.83B market.",
+          "url": "https://globenewswire.com/news-release/2026/05/07/3290146/28124/en/bi-specific-mabs-market-research-report-2026-21-83-bn-opportunities-trends-competitive-landscape-strategies-and-forecasts-2020-2025-2025-2030f-2035f.html"
         },
         {
-          "text": "CR-001 — Mechanism: PD-1 x VEGF bispecific antibody — Phase: 1/2 (ASCEND) — Population: Multiple solid tumor types (first-line and previously treated) — Comparator: Not specified — Status: Ongoing global trial.",
-          "url": "https://globenewswire.com/news-release/2026/04/29/3284277/0/en/crescent-biopharma-reports-first-quarter-2026-financial-results-and-recent-business-highlights.html"
+          "text": "ATI-052 — Mechanism: Dual inhibition of TSLP and IL-4Rα — Phase: 1a (completed) / 1b (ongoing) — Population: Healthy volunteers (1a); Asthma and Atopic Dermatitis patients (1b) — Endpoints/Results: ~45-day half-life; complete/sustained CCL17 inhibition; dose-proportional PK/PD.",
+          "url": "https://globenewswire.com/news-release/2026/05/07/3289773/37216/en/aclaris-therapeutics-reports-first-quarter-2026-financial-results-and-provides-corporate-and-clinical-update.html"
         },
         {
-          "text": "Zanidatamab — Mechanism: HER2-targeted bispecific antibody (binds two distinct epitopes on HER2) — Phase: 3 (HERIZON-GEA-01) — Population: Unresectable, locally advanced, or metastatic HER2-positive gastric/GEJ/esophageal adenocarcinoma — Comparator: Chemotherapy alone or with tislelizumab — Endpoints/Results: Median PFS 12.4 vs 8.1 months (HR 0.63, p<0.0001); Median OS 26.4 vs 19.2 months (HR 0.72, p=0.0043); Grade 3+ TR-TEAEs 71.8% in combination arm.",
-          "url": "https://cancernetwork.com/view/fda-grants-priority-review-to-tislelizumab-zanidatamab-in-1l-her2-gastric-cancers"
+          "text": "Shattuck Bispecific (Unnamed) — Mechanism: Dual inhibition of DR3/TL1A axis and secondary target — Phase: IND-enabling — Population: Inflammatory and immune-mediated diseases — Endpoints/Results: Entered IND-enabling activities; designed to inhibit DR3/TL1A plus another biologically relevant target.",
+          "url": "https://globenewswire.com/news-release/2026/05/07/3289733/0/en/shattuck-labs-reports-first-quarter-2026-financial-results-and-recent-business-highlights.html"
         },
         {
-          "text": "Bispecific antibodies (general class) — Mechanism: Dual-target engagement (CRS risk) — Phase: Clinical use — Population: Oncology patients — Comparator: Inpatient monitoring — Endpoints/Results: Outpatient monitoring kits (BP, O2, temp) and virtual visits demonstrated safety net efficacy comparable to inpatient care for CRS mitigation.",
-          "url": "https://cancernetwork.com/view/managing-bispecific-logistics-remote-monitoring-and-crs-mitigation-strategies"
+          "text": "Cizutamig — Mechanism: Bispecific BCMA x CD3 T-cell engager inducing cytotoxicity against plasma cells — Phase: Clinical (multiple studies) — Population: Multiple myelum and autoimmune disease patients (n>100) — Comparator: Not specified — Results: Designed to limit cytokine release while maintaining cytotoxicity.",
+          "url": "https://nordiclifescience.org/ucb-to-acquire-candid-therapeutics/"
+        },
+        {
+          "text": "NN4101 — Mechanism: Bispecific antibody targeting neovascular retinal diseases — Phase: Pre-clinical/Process development (GMP transition) — Population: Neovascular retinal disease patients — Comparator: Not specified — Status: Advanced to GMP manufacturing via AGC Biologics partnership.",
+          "url": "https://pharmamanufacturing.com/industry-news/news/55375190/agc-biologics-and-novelty-nobility-expand-manufacturing-deal"
+        },
+        {
+          "text": "Bispecific Antibodies — Mechanism: Dual-targeting cellular engagement — Phase: Clinical implementation — Population: Multiple myeloma, lymphoma, leukemia patients — Context: Positioned as alternatives to CAR-T for rural access and earlier-line use.",
+          "url": "https://cancernetwork.com/view/learning-to-implement-novel-cellular-therapies-in-hematologic-oncology-care"
+        },
+        {
+          "text": "Zenocutuzumab — Mechanism: Bispecific antibody inhibiting HER2 and HER3 to block NRG1-mediated signaling — Phase: 1/2 (eNRGy) — Population: Advanced unresectable or metastatic NRG1 fusion-positive cholangiocarcinoma — Comparator: None (single-arm) — Results: 37% ORR (95% CI 16%-62%), 58% CBR, 9.2-month median PFS, 7.4-month median DOR.",
+          "url": "https://cancernetwork.com/view/zenocutuzumab-earns-fda-national-priority-voucher-in-cholangiocarcinoma"
+        },
+        {
+          "text": "Cevostamab — Mechanism: FcRH5-targeting bispecific antibody — Phase: Investigational — Population: Relapsed/refractory multiple myeloma patients post-BCMA and GPRC5D therapy — Endpoints: Deep minimal residual disease (MRD)-negative responses observed in heavily pretreated cohorts.",
+          "url": "https://cancernetwork.com/view/cevostamab-may-fill-gap-in-multiple-myeloma-armamentarium"
         }
       ]
     },
@@ -111,8 +191,20 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Novelty Nobility / AGC Biologics — Manufacturing partnership expansion — NN4101 bispecific program — Second collaboration agreement executed; AGC Biologics to handle process development and GMP manufacturing at Chiba facility following Copenhagen cell line development success.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286385/0/en/novelty-nobility-taps-agc-biologics-to-further-develop-bispecific-drug-candidate.html"
+          "text": "CellCentric — Secured $220M Series D round led by Venrock — Inobrodib — Funding allocated to Phase 2 completion and Phase 3 initiation; strategic positioning includes combination with bispecific antibodies.",
+          "url": "https://biopharmadive.com/news/cellcentric-series-d-multiple-myeloma-inobrodib/819348/"
+        },
+        {
+          "text": "Novelty Nobility / AGC Biologics — Manufacturing agreement expansion — NN4101 — Deal advances bispecific antibody program to GMP production at AGC's Chiba, Japan facility; reflects growing demand for complex biologics manufacturing in Asia-Pacific.",
+          "url": "https://pharmamanufacturing.com/industry-news/news/55375190/agc-biologics-and-novelty-nobility-expand-manufacturing-deal"
+        },
+        {
+          "text": "UCB / Candid Therapeutics — Acquisition of clinical-stage biotech — Cizutamig (bispecific TCE) — $2 billion upfront; up to $200 million in milestones; expected close Q2–Q3 2026.",
+          "url": "https://nordiclifescience.org/ucb-to-acquire-candid-therapeutics/"
+        },
+        {
+          "text": "Partner Therapeutics — Regulatory milestone — Zenocutuzumab-zbco (Bizengri) — FDA awarded Commissioner's National Priority Voucher, reducing review timeline from 10-12 months to 1-2 months for NRG1 fusion-positive cholangiocarcinoma.",
+          "url": "https://cancernetwork.com/view/zenocutuzumab-earns-fda-national-priority-voucher-in-cholangiocarcinoma"
         }
       ]
     }
