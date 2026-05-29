@@ -1,42 +1,58 @@
 {
   "query": "monoclonal",
-  "generated_at": "2026-05-05 07:16:06",
-  "article_count": 48,
+  "generated_at": "2026-05-29 09:22:45",
+  "article_count": 46,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Ecolab Life Sciences opened a Bioprocessing Applications Lab in Dongtan, Korea to support downstream process development for monoclonal antibody processes across Asia.",
-          "url": "https://drug-dev.com/ecolab-life-sciences-opens-bioprocessing-applications-lab-in-korea-to-support-downstream-process-development-across-asia/"
+          "text": "Tonix Pharmaceuticals published Phase 1 clinical data for TNX-1500, an Fc-modified anti-CD40L (CD154) monoclonal antibody, demonstrating a favorable safety profile and suppression of T cell-dependent antibody responses in healthy adults.",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3303298/28908/en/tonix-pharmaceuticals-presented-retrospective-u-s-real-world-claims-analysis-of-opioid-use-in-patients-with-fibromyalgia-at-the-2026-american-society-of-clinical-psychopharmacology.html"
         },
         {
-          "text": "Bicara Therapeutics — ficerafusp alfa — Head and Neck Squamous Cell Carcinoma — Bifunctional EGFR-directed monoclonal antibody fused to TGF-β ligand trap designed to block EGFR survival and TGF-β signaling in tumor microenvironment.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286695/0/en/bicara-therapeutics-to-report-first-quarter-2026-financial-results-and-business-updates-on-may-11-2026-at-8-30-am-et.html"
+          "text": "Tonix Pharmaceuticals plans to initiate a Phase 2 investigator-initiated study for TNX-1500 in adult kidney transplant rejection at Massachusetts General Hospital in the second half of 2026 pending FDA clearance.",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3303298/28908/en/tonix-pharmaceuticals-presented-retrospective-u-s-real-world-claims-analysis-of-opioid-use-in-patients-with-fibromyalgia-at-the-2026-american-society-of-clinical-psychopharmacology.html"
         },
         {
-          "text": "Windward Bio secured $165M in crossover financing led by OrbiMed to advance WIN378, a fully human monoclonal antibody targeting TSLP for asthma and COPD, into Phase 3 by Q4 2026.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286605/0/en/windward-bio-announces-165m-crossover-financing-to-advance-pipeline-of-long-acting-immunology-therapies-with-best-in-disease-potential.html"
+          "text": "Zenas BioPharma submitted a Biologics License Application (BLA) to the U.S. FDA for obexelimab, a B-cell inhibitor monoclonal antibody, for the treatment of Immunoglobulin G4-Related Disease (IgG4-RD).",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3302683/0/en/zenas-biopharma-announces-submission-of-biologics-license-application-bla-to-u-s-fda-for-obexelimab-in-igg4-rd.html"
         },
         {
-          "text": "InflaRx N.V. highlighted vilobelimab, a first-in-class intravenous anti-C5a monoclonal antibody, as a key asset with demonstrated disease-modifying activity in multiple clinical studies.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286600/0/en/inflarx-reports-favorable-reactive-metabolite-profile-for-izicopan-in-human-liver-microsomes.html"
+          "text": "Tiziana Life Sciences completed enrollment in its Phase 2a INFORM-MS trial for intranasal foralumab, a fully human anti-CD3 monoclonal antibody, in patients with non-active Secondary Progressive Multiple Sclerosis (na-SPMS).",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3302663/0/en/tiziana-life-sciences-to-present-at-the-jefferies-global-healthcare-conference-in-new-york.html"
         },
         {
-          "text": "MacroGenics received FDA removal of partial clinical hold on Phase 2 LINNET study for lorigerlimab, a bispecific DART molecule targeting PD-1 and CTLA-4, enabling resumption of enrollment in platinum-resistant ovarian and clear cell gynecologic cancers.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286588/0/en/macrogenics-and-sagard-healthcare-partners-enter-into-expanded-zynyz-royalty-purchase-agreement.html"
+          "text": "Zenas BioPharma's Phase 3 INDIGO trial for obexelimab met its primary endpoint with a 56% reduction in IgG4-RD flare risk versus placebo (HR 0.443; p=0.0005).",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3302683/0/en/zenas-biopharma-announces-submission-of-biologics-license-application-bla-to-u-s-fda-for-obexelimab-in-igg4-rd.html"
         },
         {
-          "text": "Novelty Nobility expanded manufacturing partnership with AGC Biologics to advance NN4101, a first-in-class bispecific antibody combining a fully human anti-c-Kit monoclonal antibody with a VEGF trap, for neovascular retinal diseases.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286385/0/en/novelty-nobility-taps-agc-biologics-to-further-develop-bispecific-drug-candidate.html"
+          "text": "Topline data for Tiziana Life Sciences' intranasal foralumab Phase 2a trial is expected in late Q3 2026, with results scheduled for presentation at the ACTRIMS/ECTRIMS meeting in October 2026.",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3302663/0/en/tiziana-life-sciences-to-present-at-the-jefferies-global-healthcare-conference-in-new-york.html"
         },
         {
-          "text": "Rezolute — Ersodetug — Congenital Hyperinsulinism — Phase 3 sunRIZE study results presented at Pediatric Endocrine Society Annual Meeting; ersodetug is a fully human monoclonal antibody binding allosterically to the insulin receptor to decrease receptor overactivity.",
-          "url": "https://globenewswire.com/news-release/2026/05/01/3286124/0/en/rezolute-announces-oral-presentation-of-results-from-its-phase-3-sunrize-study-of-ersodetug-in-patients-with-congenital-hyperinsulinism-at-the-pediatric-endocrine-society-annual-me.html"
+          "text": "Therini Bio dosed first patients in Phase 1b trial of THN391, a humanized monoclonal antibody targeting fibrin's inflammatory epitope for Diabetic Macular Edema (DME), with initial data expected Q4 2026.",
+          "url": "https://globenewswire.com/news-release/2026/05/27/3302124/0/en/therini-bio-doses-first-patients-in-phase-1b-trial-of-novel-anti-inflammatory-therapy-thn391-for-diabetic-macular-edema.html"
         },
         {
-          "text": "Healio reported that rituximab (Rituxan, Genentech), a B-cell depleting monoclonal antibody, has demonstrated suboptimal data in lupus nephritis trials compared to other emerging therapies.",
-          "url": "https://www.healio.com/news/rheumatology/20260501/speaker-we-have-to-be-aggressive-treating-lupus-nephritis"
+          "text": "Therini Bio advanced THN622, a fibrin/VEGF bispecific antibody, as lead candidate for retinal neurodegeneration, combining VEGF blockade with fibrin inhibition.",
+          "url": "https://globenewswire.com/news-release/2026/05/27/3302124/0/en/therini-bio-doses-first-patients-in-phase-1b-trial-of-novel-anti-inflammatory-therapy-thn391-for-diabetic-macular-edema.html"
+        },
+        {
+          "text": "A 2024 review in Graefe's Archive for Clinical and Experimental Ophthalmology identified alemtuzumab and immune checkpoint inhibitors as monoclonal antibodies associated with medication-induced thyroid eye disease (TED).",
+          "url": "https://www.healio.com/news/optometry/20260527/alemtuzumab-immune-checkpoint-inhibitors-can-cause-thyroid-eye-disease"
+        },
+        {
+          "text": "Alemtuzumab treatment resulted in autoimmune thyroid disorder in up to 33% of patients, with Graves' disease accounting for 63% of cases, according to a systematic review of 23 studies.",
+          "url": "https://www.healio.com/news/optometry/20260527/alemtuzumab-immune-checkpoint-inhibitors-can-cause-thyroid-eye-disease"
+        },
+        {
+          "text": "University of Pennsylvania researchers identified GPNMB as a key protein driving Parkinson's disease spread, with early experiments showing monoclonal antibodies blocking the protein halted toxic cell-to-cell transmission.",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260527023214.htm"
+        },
+        {
+          "text": "Mitchell E. Horwitz (Duke University) discussed ongoing pilot studies evaluating the addition of a co-stimulatory blocking monoclonal antibody to reduce graft-versus-host disease (GVHD) risk in cord blood-derived transplantation.",
+          "url": "https://cancernetwork.com/view/navigating-the-dynamic-landscape-of-stem-cell-transplantation"
         }
       ]
     },
@@ -44,36 +60,36 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Ecolab Life Sciences — Bioprocessing Applications Lab (BPAL) — Monoclonal antibody downstream purification — Launched first Asia facility in Dongtan, Korea to optimize chromatography steps and improve yield for regional manufacturers.",
-          "url": "https://drug-dev.com/ecolab-life-sciences-opens-bioprocessing-applications-lab-in-korea-to-support-downstream-process-development-across-asia/"
+          "text": "Tonix Pharmaceuticals — TNX-1500 — Kidney transplant rejection / Autoimmune diseases — Phase 1 data published in Journal of Clinical Immunology; third-generation Fc-modified anti-CD40L monoclonal antibody showed favorable safety, suppressed TDARs, and supports monthly IV dosing; Phase 2 study expected H2 2026.",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3303298/28908/en/tonix-pharmaceuticals-presented-retrospective-u-s-real-world-claims-analysis-of-opioid-use-in-patients-with-fibromyalgia-at-the-2026-american-society-of-clinical-psychopharmacology.html"
         },
         {
-          "text": "Bicara Therapeutics — ficerafusp alfa — Head and Neck Squamous Cell Carcinoma — Clinical-stage bifunctional EGFR-directed monoclonal antibody bound to TGF-β ligand trap targeting solid tumors.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286695/0/en/bicara-therapeutics-to-report-first-quarter-2026-financial-results-and-business-updates-on-may-11-2026-at-8-30-am-et.html"
+          "text": "Zenas BioPharma — Obexelimab — IgG4-Related Disease — BLA submitted to FDA; Phase 3 INDIGO trial met primary endpoint with 56% flare risk reduction (HR 0.443; p=0.0005) vs placebo.",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3302683/0/en/zenas-biopharma-announces-submission-of-biologics-license-application-bla-to-u-s-fda-for-obexelimab-in-igg4-rd.html"
         },
         {
-          "text": "Windward Bio — WIN378 — Asthma/COPD — Fully human anti-TSLP monoclonal antibody; Phase 2/3 POLARIS program dose-ranging fully recruited; Phase 3 study initiation planned Q4 2026.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286605/0/en/windward-bio-announces-165m-crossover-financing-to-advance-pipeline-of-long-acting-immunology-therapies-with-best-in-disease-potential.html"
+          "text": "Tiziana Life Sciences — Foralumab (intranasal) — Non-active Secondary Progressive Multiple Sclerosis — Phase 2a INFORM-MS trial fully enrolled (48 patients); topline data expected late Q3 2026.",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3302663/0/en/tiziana-life-sciences-to-present-at-the-jefferies-global-healthcare-conference-in-new-york.html"
         },
         {
-          "text": "InflaRx — Vilobelimab — Inflammatory diseases (including ARDS) — First-in-class anti-C5a monoclonal antibody; demonstrated disease-modifying clinical activity and tolerability in multiple studies.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286600/0/en/inflarx-reports-favorable-reactive-metabolite-profile-for-izicopan-in-human-liver-microsomes.html"
+          "text": "Therini Bio — THN391 — Diabetic Macular Edema — Phase 1b trial initiated; humanized monoclonal antibody blocking fibrin inflammatory epitope; three monthly intravitreal injections; initial data Q4 2026.",
+          "url": "https://globenewswire.com/news-release/2026/05/27/3302124/0/en/therini-bio-doses-first-patients-in-phase-1b-trial-of-novel-anti-inflammatory-therapy-thn391-for-diabetic-macular-edema.html"
         },
         {
-          "text": "MacroGenics — Lorigerlimab — Platinum-resistant ovarian cancer and clear cell gynecologic cancer — FDA removed partial clinical hold on Phase 2 LINNET study; enrollment to resume under revised protocol with risk-mitigation measures for hematologic and cardiac toxicities.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286588/0/en/macrogenics-and-sagard-healthcare-partners-enter-into-expanded-zynyz-royalty-purchase-agreement.html"
+          "text": "Therini Bio — THN622 — Retinal Neurodegeneration — Lead candidate selection completed; fibrin/VEGF bispecific antibody; targets vascular dysfunction in DME.",
+          "url": "https://globenewswire.com/news-release/2026/05/27/3302124/0/en/therini-bio-doses-first-patients-in-phase-1b-trial-of-novel-anti-inflammatory-therapy-thn391-for-diabetic-macular-edema.html"
         },
         {
-          "text": "Novelty Nobility — NN4101 — Neovascular retinal diseases — Expanded manufacturing agreement with AGC Biologics for GMP production at Chiba facility following successful cell line development in Copenhagen; technology transfer underway.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286385/0/en/novelty-nobility-taps-agc-biologics-to-further-develop-bispecific-drug-candidate.html"
+          "text": "Alemtuzumab — Thyroid Eye Disease — Adverse event profile — Patients developed thyroid dysfunction 26.3 months post-initiation, progressing to orbitopathy after an additional 19.9 months on average.",
+          "url": "https://www.healio.com/news/optometry/20260527/alemtuzumab-immune-checkpoint-inhibitors-can-cause-thyroid-eye-disease"
         },
         {
-          "text": "Rezolute — Ersodetug — Congenital Hyperinsulinism — Phase 3 sunRIZE trial (RZ358-301) oral presentation includes topline and post-hoc data; study enrolled 63 patients across 12+ countries; primary endpoints: change in weekly hypoglycemia events and percent time in hypoglycemia over 6 months.",
-          "url": "https://globenewswire.com/news-release/2026/05/01/3286124/0/en/rezolute-announces-oral-presentation-of-results-from-its-phase-3-sunrize-study-of-ersodetug-in-patients-with-congenital-hyperinsulinism-at-the-pediatric-endocrine-society-annual-me.html"
+          "text": "University of Pennsylvania — GPNMB-targeting monoclonal antibodies — Parkinson's disease — Preclinical study demonstrated that blocking GPNMB with antibodies stopped the spread of alpha-synuclein pathology between neurons in lab models.",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260527023214.htm"
         },
         {
-          "text": "Genentech — Rituximab — Lupus Nephritis — B-cell depleting monoclonal antibody; clinical data described as suboptimal for this indication per Congress of Clinical Rheumatology East presentation.",
-          "url": "https://www.healio.com/news/rheumatology/20260501/speaker-we-have-to-be-aggressive-treating-lupus-nephritis"
+          "text": "Duke University / Mitchell E. Horwitz — Co-stimulatory blocking monoclonal antibody — Graft-versus-host disease (GVHD) prophylaxis in cord blood transplantation — Pilot study ongoing to assess feasibility of adding agent to limit GVHD risk.",
+          "url": "https://cancernetwork.com/view/navigating-the-dynamic-landscape-of-stem-cell-transplantation"
         }
       ]
     },
@@ -81,40 +97,28 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Ecolab Life Sciences — Expansion of bioprocessing support for monoclonal antibody manufacturing — Purolite™ resin portfolio — Established first Asian site to serve Korea, China, Japan, India, and Singapore pipelines.",
-          "url": "https://drug-dev.com/ecolab-life-sciences-opens-bioprocessing-applications-lab-in-korea-to-support-downstream-process-development-across-asia/"
+          "text": "Tonix Pharmaceuticals — Development of third-generation anti-CD40L monoclonal antibody — TNX-1500 — Phase 1 data supports safety and pharmacokinetics; Phase 2 kidney transplant study pending FDA IND clearance at MGH.",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3303298/28908/en/tonix-pharmaceuticals-presented-retrospective-u-s-real-world-claims-analysis-of-opioid-use-in-patients-with-fibromyalgia-at-the-2026-american-society-of-clinical-psychopharmacology.html"
         },
         {
-          "text": "Bicara Therapeutics — Bifunctional therapy platform development — ficerafusp alfa (EGFR-directed monoclonal antibody/TGF-β trap) — Clinical-stage program for solid tumors; lead candidate combines EGFR blockade with TGF-β inhibition.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286695/0/en/bicara-therapeutics-to-report-first-quarter-2026-financial-results-and-business-updates-on-may-11-2026-at-8-30-am-et.html"
+          "text": "Zenas BioPharma — Regulatory submission for autoimmune therapy — Obexelimab (anti-CD19/CD20 bispecific mAb) — BLA filed for IgG4-RD following positive Phase 3 INDIGO results.",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3302683/0/en/zenas-biopharma-announces-submission-of-biologics-license-application-bla-to-u-s-fda-for-obexelimab-in-igg4-rd.html"
         },
         {
-          "text": "Windward Bio — Long-acting immunology therapy commercialization — WIN378 (anti-TSLP mAb) + WIN027 (bispecific antibody) — $165M crossover financing secured; cash runway extended for multiple 2026 readouts.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286605/0/en/windward-bio-announces-165m-crossover-financing-to-advance-pipeline-of-long-acting-immunology-therapies-with-best-in-disease-potential.html"
+          "text": "Tiziana Life Sciences — Clinical advancement of neurodegenerative candidate — Foralumab (fully human anti-CD3 mAb) — Phase 2a enrollment completed for na-SPMS; open-label extension phase initiated.",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3302663/0/en/tiziana-life-sciences-to-present-at-the-jefferies-global-healthcare-conference-in-new-york.html"
         },
         {
-          "text": "InflaRx N.V. — Complement system targeting — Vilobelimab (anti-C5a mAb) + Izicopan (small molecule) — Vilobelimab advanced as first-in-class IV monoclonal antibody with clinical activity in inflammatory indications.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286600/0/en/inflarx-reports-favorable-reactive-metabolite-profile-for-izicopan-in-human-liver-microsomes.html"
+          "text": "Therini Bio — Fibrin-targeting immunotherapy development — THN391 (monoclonal antibody) + THN622 (bispecific antibody) — Phase 1b dosing initiated for DME; preclinical data showed efficacy comparable to VEGF antagonists.",
+          "url": "https://globenewswire.com/news-release/2026/05/27/3302124/0/en/therini-bio-doses-first-patients-in-phase-1b-trial-of-novel-anti-inflammatory-therapy-thn391-for-diabetic-macular-edema.html"
         },
         {
-          "text": "MacroGenics — Monoclonal antibody-based oncology therapeutics — Lorigerlimab (bispecific DART) — Phase 2 LINNET study enrollment resuming post-FDA hold removal; 41 participants dosed to date in LINNET, over 300 across all prior studies.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286588/0/en/macrogenics-and-sagard-healthcare-partners-enter-into-expanded-zynyz-royalty-purchase-agreement.html"
+          "text": "Tonix Pharmaceuticals — Development of third-generation anti-CD40L monoclonal antibody — TNX-1500 — Phase 1 results support progression to Phase 2 for organ transplant rejection prevention; no approved anti-CD40L mAbs currently exist.",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3303298/28908/en/tonix-pharmaceuticals-presented-retrospective-u-s-real-world-claims-analysis-of-opioid-use-in-patients-with-fibromyalgia-at-the-2026-american-society-of-clinical-psychopharmacology.html"
         },
         {
-          "text": "Novelty Nobility — Next-generation antibody therapeutics — NN4101 (bispecific anti-c-Kit mAb/VEGF trap) — Advancing to GMP manufacturing via AGC Biologics partnership; pipeline includes monoclonal antibodies, bispecifics, and ADCs.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286385/0/en/novelty-nobility-taps-agc-biologics-to-further-develop-bispecific-drug-candidate.html"
-        },
-        {
-          "text": "AGC Biologics — Global CDMO services — NN4101 manufacturing — Executing process development and GMP production at Chiba facility; expanding capacity with new Yokohama site featuring advanced single-use bioreactor technology.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286385/0/en/novelty-nobility-taps-agc-biologics-to-further-develop-bispecific-drug-candidate.html"
-        },
-        {
-          "text": "Rezolute — Late-stage rare disease development — Ersodetug (fully human monoclonal antibody) — Phase 3 sunRIZE study completed; oral presentation of results scheduled for Pediatric Endocrine Society Annual Meeting May 1, 2026.",
-          "url": "https://globenewswire.com/news-release/2026/05/01/3286124/0/en/rezolute-announces-oral-presentation-of-results-from-its-phase-3-sunrize-study-of-ersodetug-in-patients-with-congenital-hyperinsulinism-at-the-pediatric-endocrine-society-annual-me.html"
-        },
-        {
-          "text": "Genentech — Monoclonal antibody evaluation in nephritis — Rituximab — B-cell depleting mechanism; efficacy in lupus nephritis noted as suboptimal in recent clinical assessments.",
-          "url": "https://www.healio.com/news/rheumatology/20260501/speaker-we-have-to-be-aggressive-treating-lupus-nephritis"
+          "text": "Zenas BioPharma — Commercialization of first-in-class bispecific monoclonal antibody — Obexelimab (anti-CD19/CD32b) — BLA filed for IgG4-RD; Phase 3 INDIGO data to be presented at EULAR 2026.",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3302683/0/en/zenas-biopharma-announces-submission-of-biologics-license-application-bla-to-u-s-fda-for-obexelimab-in-igg4-rd.html"
         }
       ]
     },
@@ -122,49 +126,40 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "ficerafusp alfa — Mechanism: Bifunctional EGFR-directed monoclonal antibody fused to human TGF-β ligand trap — Phase: Clinical — Population: Solid tumors (Head and Neck Squamous Cell Carcinoma) — Comparator: N/A — Endpoint: Simultaneous EGFR survival blockade and TGF-β signaling inhibition in tumor microenvironment.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286695/0/en/bicara-therapeutics-to-report-first-quarter-2026-financial-results-and-business-updates-on-may-11-2026-at-8-30-am-et.html"
+          "text": "TNX-1500 — Mechanism: Fc-modified IgG4 anti-CD40L (CD154) monoclonal antibody — Phase: 1 (completed) — Population: Healthy adults — Comparator: Placebo — Endpoints/Results: Generally well tolerated, suppressed primary and secondary T cell-dependent antibody responses (TDARs) to KLH, demonstrated half-life supporting monthly intravenous dosing.",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3303298/28908/en/tonix-pharmaceuticals-presented-retrospective-u-s-real-world-claims-analysis-of-opioid-use-in-patients-with-fibromyalgia-at-the-2026-american-society-of-clinical-psychopharmacology.html"
         },
         {
-          "text": "WIN378 — Mechanism: Fully human monoclonal antibody binding TSLP ligand — Phase: 2/3 (POLARIS) — Population: Asthma and COPD patients — Comparator: Not specified — Status: Phase 2 dose-ranging fully recruited; Phase 3 start Q4 2026.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286605/0/en/windward-bio-announces-165m-crossover-financing-to-advance-pipeline-of-long-acting-immunology-therapies-with-best-in-disease-potential.html"
+          "text": "Obexelimab — Mechanism: B-cell inhibition (anti-CD19/CD20) — Phase: 3 — Population: IgG4-Related Disease — Comparator: Placebo — Results: 56% reduction in flare risk (HR 0.443; p=0.0005); Grade ≥3 TEAEs 11.3% vs 23.7%.",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3302683/0/en/zenas-biopharma-announces-submission-of-biologics-license-application-bla-to-u-s-fda-for-obexelimab-in-igg4-rd.html"
         },
         {
-          "text": "Vilobelimab — Mechanism: Selective binding to free C5a (anti-C5a monoclonal antibody) — Phase: Multiple completed studies — Population: Inflammatory disease patients (including ARDS) — Comparator: Not specified — Results: Demonstrated disease-modifying clinical activity and tolerability.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286600/0/en/inflarx-reports-favorable-reactive-metabolite-profile-for-izicopan-in-human-liver-microsomes.html"
+          "text": "Foralumab — Mechanism: Fully human anti-CD3 monoclonal antibody — Phase: 2a — Population: Non-active Secondary Progressive Multiple Sclerosis — Comparator: Placebo — Design: 48 patients, 12-week treatment, PET/MRI assessments; topline data expected late Q3 2026.",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3302663/0/en/tiziana-life-sciences-to-present-at-the-jefferies-global-healthcare-conference-in-new-york.html"
         },
         {
-          "text": "Lorigerlimab — Mechanism: Bispecific DART targeting PD-1 and CTLA-4 — Phase: 2 (LINNET) — Population: Platinum-resistant ovarian cancer and clear cell gynecologic cancer patients with prior therapy — Endpoint: Objective response rate (ORR) as primary endpoint; 41 participants dosed to date.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286588/0/en/macrogenics-and-sagard-healthcare-partners-enter-into-expanded-zynyz-royalty-purchase-agreement.html"
+          "text": "THN391 — Mechanism: Humanized monoclonal antibody blocking fibrin inflammatory epitope without disrupting coagulation — Phase: 1b — Population: Diabetic Macular Edema — Comparator: VEGF antagonists (preclinical) — Results: As effective as VEGF antagonists in containing neovascular leakage in preclinical models.",
+          "url": "https://globenewswire.com/news-release/2026/05/27/3302124/0/en/therini-bio-doses-first-patients-in-phase-1b-trial-of-novel-anti-inflammatory-therapy-thn391-for-diabetic-macular-edema.html"
         },
         {
-          "text": "NN4101 — Mechanism: Fully human anti-c-Kit monoclonal antibody combined with VEGF trap — Phase: Pre-GMP/Manufacturing — Population: Neovascular retinal diseases — Status: First-in-class bispecific antibody advancing to GMP manufacturing at AGC Biologics Chiba facility.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286385/0/en/novelty-nobility-taps-agc-biologics-to-further-develop-bispecific-drug-candidate.html"
+          "text": "THN622 — Mechanism: Bispecific antibody targeting fibrin inflammatory epitope and VEGF — Phase: Preclinical/Lead Candidate — Population: Retinal conditions with vascular dysfunction (DME) — Comparator: Standard of care (VEGF antagonists) — Endpoint: Dual mechanism combining VEGF blockade with fibrin inhibition.",
+          "url": "https://globenewswire.com/news-release/2026/05/27/3302124/0/en/therini-bio-doses-first-patients-in-phase-1b-trial-of-novel-anti-inflammatory-therapy-thn391-for-diabetic-macular-edema.html"
         },
         {
-          "text": "Ersodetug — Mechanism: Fully human monoclonal antibody binding allosterically to insulin receptor to decrease receptor overactivity — Phase: 3 (sunRIZE) — Population: Congenital hyperinsulinism patients aged 3 months to 45 years with hypoglycemia on standard of care — Comparator: Placebo — Endpoints: Change from baseline in average weekly hypoglycemia events and average percent time in hypoglycemia over 6 months.",
-          "url": "https://globenewswire.com/news-release/2026/05/01/3286124/0/en/rezolute-announces-oral-presentation-of-results-from-its-phase-3-sunrize-study-of-ersodetug-in-patients-with-congenital-hyperinsulinism-at-the-pediatric-endocrine-society-annual-me.html"
+          "text": "Alemtuzumab — Mechanism: Monoclonal antibody (anti-CD52) — Indication: Multiple sclerosis — Adverse Event: Thyroid Eye Disease (TED) — Incidence: Up to 33% of patients developed autoimmune thyroid disorder, primarily Graves' disease.",
+          "url": "https://www.healio.com/news/optometry/20260527/alemtuzumab-immune-checkpoint-inhibitors-can-cause-thyroid-eye-disease"
         },
         {
-          "text": "Rituximab — Mechanism: B-cell depletion via monoclonal antibody targeting CD20 — Phase: Clinical evaluation — Population: Lupus nephritis patients — Results: Data described as suboptimal for achieving disease control compared to standard of care additions.",
-          "url": "https://www.healio.com/news/rheumatology/20260501/speaker-we-have-to-be-aggressive-treating-lupus-nephritis"
-        }
-      ]
-    },
-    {
-      "heading": "Business & Deals",
-      "points": [
-        {
-          "text": "Ecolab Life Sciences — Strategic expansion in Asia — Monoclonal antibody process development — Opened new BPAL facility in Korea to reduce resin shipping times and accelerate regulatory pathways for customers.",
-          "url": "https://drug-dev.com/ecolab-life-sciences-opens-bioprocessing-applications-lab-in-korea-to-support-downstream-process-development-across-asia/"
+          "text": "Ipilimumab, tremelimumab, durvalumab, nivolumab — Mechanism: Immune checkpoint inhibitor monoclonal antibodies — Adverse Event: Induce 'TED-like' orbitopathy without underlying thyroid dysfunction.",
+          "url": "https://www.healio.com/news/optometry/20260527/alemtuzumab-immune-checkpoint-inhibitors-can-cause-thyroid-eye-disease"
         },
         {
-          "text": "Windward Bio — $165M crossover financing — Led by OrbiMed with participation from RA Capital, Janus Henderson, Sanofi Ventures, Harbour BioMed, and existing investors — Proceeds to fund WIN378 Phase 3 and WIN027 studies.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286605/0/en/windward-bio-announces-165m-crossover-financing-to-advance-pipeline-of-long-acting-immunology-therapies-with-best-in-disease-potential.html"
+          "text": "GPNMB-targeting antibodies — Mechanism: Block glycoprotein nonmetastatic melanoma B to prevent alpha-synuclein spread — Phase: Preclinical — Population: Neuronal cell models of Parkinson's disease — Comparator: Unblocked controls — Results: Antibody blockade halted toxic process and cell-to-cell transmission in early experiments.",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260527023214.htm"
         },
         {
-          "text": "Novelty Nobility / AGC Biologics — Manufacturing partnership expansion — NN4101 — Second collaboration agreement for process development and GMP manufacturing at AGC's Chiba facility following successful cell line development in Copenhagen.",
-          "url": "https://globenewswire.com/news-release/2026/05/04/3286385/0/en/novelty-nobility-taps-agc-biologics-to-further-develop-bispecific-drug-candidate.html"
+          "text": "Co-stimulatory blocking monoclonal antibody — Mechanism: Co-stimulation blockade to limit immune activation — Phase: Pilot study — Population: Cord blood transplantation recipients — Goal: Reduction of graft-versus-host disease (GVHD) risk.",
+          "url": "https://cancernetwork.com/view/navigating-the-dynamic-landscape-of-stem-cell-transplantation"
         }
       ]
     }
