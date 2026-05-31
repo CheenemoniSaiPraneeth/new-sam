@@ -1,22 +1,42 @@
 {
   "query": "CRISPR",
-  "generated_at": "2026-05-27 08:58:27",
-  "article_count": 24,
+  "generated_at": "2026-05-31 09:38:59",
+  "article_count": 40,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Editas Medicine — CRISPR genome editing systems — In vivo medicines pipeline — Announced public offering of up to $319.4 million in common stock and warrants to fund development of transformative CRISPR-based therapies.",
+          "text": "CRISPR Therapeutics (Nasdaq: CRSP) confirmed senior management participation at the Bank of America Securities 2026 Global Healthcare Conference on May 12, 2026, highlighting its portfolio including CASGEVY (exagamglogene autotemcel), the world's first approved CRISPR-based therapy for sickle cell disease and transfusion-dependent beta thalassemia.",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3302788/0/en/crispr-therapeutics-to-participate-in-upcoming-investor-conferences.html"
+        },
+        {
+          "text": "Caribou Biosciences (Nasdaq: CRBU), a clinical-stage CRISPR genome-editing biopharmaceutical company, announced management participation in the H.C. Wainwright 4th Annual BioConnect Investor Conference on May 19, 2026, to discuss its chRDNA genome-editing technology and pipeline.",
+          "url": "https://globenewswire.com/news-release/2026/05/27/3302384/0/en/caribou-biosciences-to-participate-in-the-2026-jefferies-global-healthcare-conference.html"
+        },
+        {
+          "text": "Editas Medicine — CRISPR genome editing systems — In vivo gene editing pipeline — Announced pricing of up to $319.4 million public offering to fund development of transformative medicines for serious diseases.",
           "url": "https://globenewswire.com/news-release/2026/05/26/3301169/0/en/editas-medicine-announces-pricing-of-up-to-319-4-million-public-offering.html"
         },
         {
-          "text": "Editas Medicine — EDIT-401 — Hypercholesterolemia — Preclinical data in non-human primates demonstrated robust reductions in LDL-C, Lp(a), and ApoB; company priced public offering of 55,555,556 shares at $2.25 to raise ~$125M gross proceeds.",
-          "url": "https://globenewswire.com/news-release/2026/05/26/3300882/0/en/editas-medicine-presents-edit-401-preclinical-data-demonstrating-robust-reductions-in-ldl-c-lp-a-and-apob-in-non-human-primates-at-the-94th-european-atherosclerosis-society-congres.html"
+          "text": "Editas Medicine — CRISPR technology — Patent portfolio — Holds exclusive license to Broad Institute's Cas12a patent estate and Broad Institute/Harvard University's Cas9 patent estates for human medicines.",
+          "url": "https://globenewswire.com/news-release/2026/05/26/3301169/0/en/editas-medicine-announces-pricing-of-up-to-319-4-million-public-offering.html"
         },
         {
-          "text": "University of Washington / Seattle Children's Research Institute — CRISPR-engineered B cells — Multiple sclerosis (mouse model) — Gene-edited regulatory B cells demonstrated ability to suppress disease-associated T cells and expand in response to autoimmune tissue damage.",
-          "url": "https://the-scientist.com/crispr-engineered-b-cells-dampen-autoimmune-responses-in-mice-74507"
+          "text": "Verve Therapeutics — VERVE-102 — Genetic hypercholesterolemia — In vivo base editing (CRISPR-derived technology) achieved up to 88% reduction in PCSK9 and 62% reduction in LDL cholesterol at highest dose in Heart-2 study.",
+          "url": "https://www.healio.com/news/cardiology/20260529/pcsk9-inhibition-via-base-editing-lowers-ldl-in-patients-with-genetic-high-cholesterol"
+        },
+        {
+          "text": "Caribou Biosciences (Nasdaq: CRBU) operates as a clinical-stage CRISPR genome-editing biopharmaceutical company developing vispacabtagene regedleucel (vispa-cel) and CB-011 as off-the-shelf CAR-T cell therapies for hematologic malignancies.",
+          "url": "https://globenewswire.com/news-release/2026/05/27/3302384/0/en/caribou-biosciences-to-participate-in-the-2026-jefferies-global-healthcare-conference.html"
+        },
+        {
+          "text": "Editas Medicine (Nasdaq: EDIT) is a pioneering gene editing company focused on translating CRISPR genome editing systems into a robust pipeline of transformative in vivo medicines.",
+          "url": "https://globenewswire.com/news-release/2026/05/26/3301169/0/en/editas-medicine-announces-pricing-of-up-to-319-4-million-public-offering.html"
+        },
+        {
+          "text": "Verve Therapeutics — VERVE-102 — Genetic high cholesterol — In vivo base editing therapy demonstrated up to 88% reduction in PCSK9 and 62% reduction in LDL cholesterol at highest dose in Heart-2 study.",
+          "url": "https://www.healio.com/news/cardiology/20260529/pcsk9-inhibition-via-base-editing-lowers-ldl-in-patients-with-genetic-high-cholesterol"
         }
       ]
     },
@@ -24,20 +44,32 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Editas Medicine — CRISPR-based in vivo medicines — Serious diseases — Initiated underwritten public offering of up to $319.4 million to advance CRISPR genome editing systems pipeline.",
+          "text": "CRISPR Therapeutics — CASGEVY (exagamglogene autotemcel) — Sickle Cell Disease / Transfusion-Dependent Beta Thalassemia — World's first approved CRISPR-based therapy; company advancing SyNTase™ editing platform for precise gene correction.",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3302788/0/en/crispr-therapeutics-to-participate-in-upcoming-investor-conferences.html"
+        },
+        {
+          "text": "Caribou Biosciences — vispacabtagene regedleucel (vispa-cel) — Hematologic Malignancies — Clinical-stage off-the-shelf CAR-T cell therapy utilizing chRDNA genome-editing technology for armored cell therapy.",
+          "url": "https://globenewswire.com/news-release/2026/05/27/3302384/0/en/caribou-biosciences-to-participate-in-the-2026-jefferies-global-healthcare-conference.html"
+        },
+        {
+          "text": "Editas Medicine — CRISPR-based pipeline — In vivo gene editing — Secured $319.4 million via public offering to advance precision gene editing medicines for serious diseases.",
           "url": "https://globenewswire.com/news-release/2026/05/26/3301169/0/en/editas-medicine-announces-pricing-of-up-to-319-4-million-public-offering.html"
         },
         {
-          "text": "Editas Medicine — EDIT-401 — Hypercholesterolemia — Preclinical NHP data showed significant LDL-C, Lp(a), and ApoB reduction; warrant exercise triggered by Phase 1 data showing >80% LDL-C reduction in ≥3 patients with 1-month follow-up.",
-          "url": "https://globenewswire.com/news-release/2026/05/26/3300882/0/en/editas-medicine-presents-edit-401-preclinical-data-demonstrating-robust-reductions-in-ldl-c-lp-a-and-apob-in-non-human-primates-at-the-94th-european-atherosclerosis-society-congres.html"
+          "text": "Verve Therapeutics — VERVE-102 — Atherosclerotic cardiovascular disease — Phase 1b/2 Heart-2 study presented at European Atherosclerosis Society Congress demonstrated durable, dose-dependent lowering of PCSK9 and LDL via single-dose in vivo base editing.",
+          "url": "https://www.healio.com/news/cardiology/20260529/pcsk9-inhibition-via-base-editing-lowers-ldl-in-patients-with-genetic-high-cholesterol"
         },
         {
-          "text": "Ragan Pitner (University of Washington) — CRISPR-engineered Bregs — Autoimmune modulation — Presented data at 2026 ASGCT annual meeting showing engineered B cells can dampen overactive immune responses in a mouse model of multiple sclerosis.",
-          "url": "https://the-scientist.com/crispr-engineered-b-cells-dampen-autoimmune-responses-in-mice-74507"
+          "text": "Caribou Biosciences — vispa-cel and CB-011 — Hematologic malignancies — Management team to participate in fireside chat at H.C. Wainwright 4th Annual BioConnect Investor Conference on May 19, 2026, highlighting chRDNA genome-editing technology for armored cell therapies.",
+          "url": "https://globenewswire.com/news-release/2026/05/27/3302384/0/en/caribou-biosciences-to-participate-in-the-2026-jefferies-global-healthcare-conference.html"
         },
         {
-          "text": "Ragan Pitner (University of Washington) — CRISPR-engineered Bregs — Multiple sclerosis — Presented data at 2026 ASGCT annual meeting showing engineered B cells secrete regulatory cytokines (IL-10, IL-35, TGF-beta) to modulate helper T cell activation in meningeal B cell accumulation model.",
-          "url": "https://the-scientist.com/crispr-engineered-b-cells-dampen-autoimmune-responses-in-mice-74507"
+          "text": "Editas Medicine — CRISPR in vivo pipeline — Serious diseases — Announced pricing of up to $319.4 million public offering to fund development of durable, precision in vivo gene editing medicines.",
+          "url": "https://globenewswire.com/news-release/2026/05/26/3301169/0/en/editas-medicine-announces-pricing-of-up-to-319-4-million-public-offering.html"
+        },
+        {
+          "text": "Verve Therapeutics — VERVE-102 — Atherosclerotic CVD prevention — Base editing mechanism achieved durable, dose-dependent LDL lowering; presented at European Atherosclerosis Society Congress and published in NEJM.",
+          "url": "https://www.healio.com/news/cardiology/20260529/pcsk9-inhibition-via-base-editing-lowers-ldl-in-patients-with-genetic-high-cholesterol"
         }
       ]
     },
@@ -45,25 +77,32 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Editas Medicine — CRISPR genome editing commercialization — In vivo CRISPR medicines pipeline — Raising up to $319.4 million via public stock and warrant offering to accelerate development of transformative gene therapies.",
+          "text": "CRISPR Therapeutics — CRISPR/Cas9 and SyNTase™ gene editing platform commercialization — CASGEVY + diversified pipeline (hemoglobinopathies, cardiovascular, oncology) — Strategic collaboration with Vertex Pharmaceuticals; HQ in Zug, Switzerland with US R&D in Boston and San Francisco.",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3302788/0/en/crispr-therapeutics-to-participate-in-upcoming-investor-conferences.html"
+        },
+        {
+          "text": "Caribou Biosciences — chRDNA genome-editing technology for off-the-shelf CAR-T therapies — vispa-cel + CB-011 — Clinical-stage biopharmaceutical focused on hematologic malignancies; HQ in Berkeley, California.",
+          "url": "https://globenewswire.com/news-release/2026/05/27/3302384/0/en/caribou-biosciences-to-participate-in-the-2026-jefferies-global-healthcare-conference.html"
+        },
+        {
+          "text": "Editas Medicine — CRISPR commercialization strategy — In vivo gene editing pipeline — Exclusive licensee of Cas12a and Cas9 patent estates; raised $319.4M in public offering May 2026.",
           "url": "https://globenewswire.com/news-release/2026/05/26/3301169/0/en/editas-medicine-announces-pricing-of-up-to-319-4-million-public-offering.html"
         },
         {
-          "text": "Editas Medicine — Gene editing therapy commercialization — EDIT-401 (CRISPR-based) — Priced $125M public offering (55.5M shares @ $2.25) to fund Phase 1 trials; warrants exercisable upon Phase 1 data meeting >80% LDL-C reduction threshold.",
-          "url": "https://globenewswire.com/news-release/2026/05/26/3300882/0/en/editas-medicine-presents-edit-401-preclinical-data-demonstrating-robust-reductions-in-ldl-c-lp-a-and-apob-in-non-human-primates-at-the-94th-european-atherosclerosis-society-congres.html"
-        }
-      ]
-    },
-    {
-      "heading": "Business & Deals",
-      "points": [
+          "text": "Verve Therapeutics — Development of single-dose in vivo base editing medicines — VERVE-102 — Heart-2 study data published in NEJM showing 88% PCSK9 reduction; positioned to address treatment persistence issues in familial hypercholesterolemia.",
+          "url": "https://www.healio.com/news/cardiology/20260529/pcsk9-inhibition-via-base-editing-lowers-ldl-in-patients-with-genetic-high-cholesterol"
+        },
         {
-          "text": "Editas Medicine — Capital raise — CRISPR pipeline funding — Pricing public offering of up to $319.4 million in common stock and warrants; Cantor Fitzgerald and Wells Fargo Securities acting as joint book-running managers.",
+          "text": "Caribou Biosciences — Clinical-stage CRISPR genome-editing development — vispa-cel and CB-011 — Utilizing chRDNA technology to create armored off-the-shelf CAR-T cell therapies for hematologic malignancies.",
+          "url": "https://globenewswire.com/news-release/2026/05/27/3302384/0/en/caribou-biosciences-to-participate-in-the-2026-jefferies-global-healthcare-conference.html"
+        },
+        {
+          "text": "Editas Medicine — In vivo CRISPR medicine commercialization — Broad pipeline of transformative in vivo medicines — Exclusive licensee of Broad Institute's Cas12a patent estate and Broad Institute/Harvard University's Cas9 patent estates for human medicines.",
           "url": "https://globenewswire.com/news-release/2026/05/26/3301169/0/en/editas-medicine-announces-pricing-of-up-to-319-4-million-public-offering.html"
         },
         {
-          "text": "Editas Medicine — Capital raise — Public offering — Priced 55,555,556 shares at $2.25 plus warrants for total gross proceeds of ~$125M (up to ~$319.4M if all warrants exercised); proceeds to advance EDIT-401.",
-          "url": "https://globenewswire.com/news-release/2026/05/26/3300882/0/en/editas-medicine-presents-edit-401-preclinical-data-demonstrating-robust-reductions-in-ldl-c-lp-a-and-apob-in-non-human-primates-at-the-94th-european-atherosclerosis-society-congres.html"
+          "text": "Verve Therapeutics — In vivo base editing commercialization — VERVE-102 — Single-dose therapeutic candidate for heterozygous familial hypercholesterolemia; Heart-2 study data confirms safety and efficacy profile.",
+          "url": "https://www.healio.com/news/cardiology/20260529/pcsk9-inhibition-via-base-editing-lowers-ldl-in-patients-with-genetic-high-cholesterol"
         }
       ]
     },
@@ -71,16 +110,53 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "EDIT-401 — Mechanism: CRISPR/Cas9 gene editing targeting PCSK9 — Phase: Preclinical (NHP) — Population: Non-human primates — Comparator: Baseline — Results: Robust reductions in LDL-C, Lp(a), and ApoB observed.",
-          "url": "https://globenewswire.com/news-release/2026/05/26/3300882/0/en/editas-medicine-presents-edit-401-preclinical-data-demonstrating-robust-reductions-in-ldl-c-lp-a-and-apob-in-non-human-primates-at-the-94th-european-atherosclerosis-society-congres.html"
+          "text": "CASGEVY (exagamglogene autotemcel) — Mechanism: CRISPR/Cas9 gene editing — Phase: Approved — Population: Sickle cell disease and transfusion-dependent beta thalassemia — Status: First approved CRISPR-based therapy globally.",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3302788/0/en/crispr-therapeutics-to-participate-in-upcoming-investor-conferences.html"
         },
         {
-          "text": "CRISPR-engineered B cells — Mechanism: Gene editing to express regulatory cytokines (IL-10, IL-35, TGF-beta) and modulate antigen presentation — Phase: Preclinical (mouse model) — Population: Multiple sclerosis model — Comparator: Natural Bregs (noted as heterogeneous and less viable for therapy) — Results: Suppression of disease-associated T cells and expansion upon tissue damage.",
-          "url": "https://the-scientist.com/crispr-engineered-b-cells-dampen-autoimmune-responses-in-mice-74507"
+          "text": "vispacabtagene regedleucel (vispa-cel) — Mechanism: chRDNA genome-editing for armored CAR-T cells — Phase: Clinical — Population: Hematologic malignancies — Differentiation: Off-the-shelf therapy designed for broad access and rapid treatment.",
+          "url": "https://globenewswire.com/news-release/2026/05/27/3302384/0/en/caribou-biosciences-to-participate-in-the-2026-jefferies-global-healthcare-conference.html"
         },
         {
-          "text": "CRISPR-engineered Bregs — Mechanism: Gene editing to express regulatory cytokines (IL-10, IL-35, TGF-beta) and modulate antigen presentation — Phase: Preclinical (mouse model) — Population: Murine multiple sclerosis model — Comparator: Natural heterogeneous Bregs (noted as unlikely to succeed therapeutically due to heterogeneity) — Results: Suppression of overactive immune responses and expansion upon tissue damage.",
-          "url": "https://the-scientist.com/crispr-engineered-b-cells-dampen-autoimmune-responses-in-mice-74507"
+          "text": "Editas Medicine CRISPR programs — Mechanism: Cas9 and Cas12a genome editing — Phase: Preclinical to clinical pipeline — Population: Patients with serious diseases — Strategy: Development of durable, precision in vivo gene editing medicines.",
+          "url": "https://globenewswire.com/news-release/2026/05/26/3301169/0/en/editas-medicine-announces-pricing-of-up-to-319-4-million-public-offering.html"
+        },
+        {
+          "text": "VERVE-102 — Mechanism: In vivo base editing (CRISPR-derived) targeting PCSK9 gene — Phase: 1b/2 (Heart-2) — Population: Patients with heterozygous familial hypercholesterolemia or premature coronary artery disease — Comparator: None (dose-ranging) — Results: Up to 88% PCSK9 reduction, 62% LDL reduction; safety profile consistent with prior studies.",
+          "url": "https://www.healio.com/news/cardiology/20260529/pcsk9-inhibition-via-base-editing-lowers-ldl-in-patients-with-genetic-high-cholesterol"
+        },
+        {
+          "text": "vispa-cel — Mechanism: chRDNA genome-editing for armored CAR-T cell therapy — Phase: Clinical-stage — Population: Patients with hematologic malignancies — Status: Off-the-shelf candidate under development.",
+          "url": "https://globenewswire.com/news-release/2026/05/27/3302384/0/en/caribou-biosciences-to-participate-in-the-2026-jefferies-global-healthcare-conference.html"
+        },
+        {
+          "text": "CB-011 — Mechanism: chRDNA genome-editing for armored CAR-T cell therapy — Phase: Clinical-stage — Population: Patients with hematologic malignancies — Status: Off-the-shelf candidate under development.",
+          "url": "https://globenewswire.com/news-release/2026/05/27/3302384/0/en/caribou-biosciences-to-participate-in-the-2026-jefferies-global-healthcare-conference.html"
+        },
+        {
+          "text": "VERVE-102 — Mechanism: In vivo base editing to mimic cardioprotective PCSK9 variants — Phase: Clinical (Heart-2 study) — Population: Patients with genetic high cholesterol or premature coronary disease — Endpoints: 88% PCSK9 reduction, 62% LDL reduction at highest dose.",
+          "url": "https://www.healio.com/news/cardiology/20260529/pcsk9-inhibition-via-base-editing-lowers-ldl-in-patients-with-genetic-high-cholesterol"
+        }
+      ]
+    },
+    {
+      "heading": "Business & Deals",
+      "points": [
+        {
+          "text": "CRISPR Therapeutics — Investor Relations — Bank of America Securities 2026 Global Healthcare Conference — Senior management presentation scheduled for May 12, 2026, 1:40 p.m. PDT.",
+          "url": "https://globenewswire.com/news-release/2026/05/28/3302788/0/en/crispr-therapeutics-to-participate-in-upcoming-investor-conferences.html"
+        },
+        {
+          "text": "Caribou Biosciences — Investor Relations — H.C. Wainwright 4th Annual BioConnect Investor Conference — Management team fireside chat scheduled for May 19, 2026, 12:30 p.m. ET in New York.",
+          "url": "https://globenewswire.com/news-release/2026/05/27/3302384/0/en/caribou-biosciences-to-participate-in-the-2026-jefferies-global-healthcare-conference.html"
+        },
+        {
+          "text": "Editas Medicine — Public offering — Capital raise — Pricing of up to $319.4 million in equity offering announced May 26, 2026 to fund CRISPR-based drug development.",
+          "url": "https://globenewswire.com/news-release/2026/05/26/3301169/0/en/editas-medicine-announces-pricing-of-up-to-319-4-million-public-offering.html"
+        },
+        {
+          "text": "Editas Medicine — Public equity financing — Up to $319.4 million raised — Proceeds to support CRISPR-based in vivo medicine pipeline development.",
+          "url": "https://globenewswire.com/news-release/2026/05/26/3301169/0/en/editas-medicine-announces-pricing-of-up-to-319-4-million-public-offering.html"
         }
       ]
     }
