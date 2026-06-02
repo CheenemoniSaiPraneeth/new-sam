@@ -1,58 +1,70 @@
 {
   "query": "monoclonal",
-  "generated_at": "2026-05-29 09:22:45",
-  "article_count": 46,
+  "generated_at": "2026-06-02 09:39:56",
+  "article_count": 48,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Tonix Pharmaceuticals published Phase 1 clinical data for TNX-1500, an Fc-modified anti-CD40L (CD154) monoclonal antibody, demonstrating a favorable safety profile and suppression of T cell-dependent antibody responses in healthy adults.",
-          "url": "https://globenewswire.com/news-release/2026/05/28/3303298/28908/en/tonix-pharmaceuticals-presented-retrospective-u-s-real-world-claims-analysis-of-opioid-use-in-patients-with-fibromyalgia-at-the-2026-american-society-of-clinical-psychopharmacology.html"
+          "text": "Outlook Therapeutics resubmitted Biologics License Application (BLA) to FDA for ONS-5010/LYTENAVA (bevacizumab-vikg), a biosimilar monoclonal antibody targeting VEGF for wet age-related macular degeneration.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304397/0/en/outlook-therapeutics-announces-resubmission-of-biologics-license-application-to-u-s-fda-for-ons-5010-lytenava-bevacizumab-vikg.html"
         },
         {
-          "text": "Tonix Pharmaceuticals plans to initiate a Phase 2 investigator-initiated study for TNX-1500 in adult kidney transplant rejection at Massachusetts General Hospital in the second half of 2026 pending FDA clearance.",
-          "url": "https://globenewswire.com/news-release/2026/05/28/3303298/28908/en/tonix-pharmaceuticals-presented-retrospective-u-s-real-world-claims-analysis-of-opioid-use-in-patients-with-fibromyalgia-at-the-2026-american-society-of-clinical-psychopharmacology.html"
+          "text": "Invivyd announced completion of enrollment in the upsized Phase 3 DECLARATION trial for VYD2311, an investigational monoclonal antibody to prevent COVID-19.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304208/0/en/invivyd-announces-completion-of-enrollment-in-upsized-declaration-clinical-trial-a-phase-3-pivotal-study-of-vyd2311-an-investigational-antibody-to-prevent-covid.html"
         },
         {
-          "text": "Zenas BioPharma submitted a Biologics License Application (BLA) to the U.S. FDA for obexelimab, a B-cell inhibitor monoclonal antibody, for the treatment of Immunoglobulin G4-Related Disease (IgG4-RD).",
-          "url": "https://globenewswire.com/news-release/2026/05/28/3302683/0/en/zenas-biopharma-announces-submission-of-biologics-license-application-bla-to-u-s-fda-for-obexelimab-in-igg4-rd.html"
+          "text": "Jade Biosciences reported positive interim Phase 1 results for JADE101, a fully human anti-APRIL monoclonal antibody, demonstrating a potential best-in-class profile with every-12-week dosing in IgA nephropathy.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304176/0/en/jade-biosciences-announces-positive-interim-phase-1-results-for-jade101-demonstrating-potential-best-in-class-profile-and-every-12-week-dosing-in-iga-nephropathy.html"
         },
         {
-          "text": "Tiziana Life Sciences completed enrollment in its Phase 2a INFORM-MS trial for intranasal foralumab, a fully human anti-CD3 monoclonal antibody, in patients with non-active Secondary Progressive Multiple Sclerosis (na-SPMS).",
-          "url": "https://globenewswire.com/news-release/2026/05/28/3302663/0/en/tiziana-life-sciences-to-present-at-the-jefferies-global-healthcare-conference-in-new-york.html"
+          "text": "Invivyd received FDA emergency use authorization in March 2024 for a monoclonal antibody in its pipeline to protect against serious viral infectious diseases.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304208/0/en/invivyd-announces-completion-of-enrollment-in-upsized-declaration-clinical-trial-a-phase-3-pivotal-study-of-vyd2311-an-investigational-antibody-to-prevent-covid.html"
         },
         {
-          "text": "Zenas BioPharma's Phase 3 INDIGO trial for obexelimab met its primary endpoint with a 56% reduction in IgG4-RD flare risk versus placebo (HR 0.443; p=0.0005).",
-          "url": "https://globenewswire.com/news-release/2026/05/28/3302683/0/en/zenas-biopharma-announces-submission-of-biologics-license-application-bla-to-u-s-fda-for-obexelimab-in-igg4-rd.html"
+          "text": "Jade Biosciences announced positive interim Phase 1 results for JADE101, a novel anti-APRIL monoclonal antibody, showing ~70% IgA reductions sustained at 12 weeks in healthy volunteers with a projected every-12-week dosing schedule for IgA Nephropathy.",
+          "url": "https://globenewswire.com/news-release/2026/05/29/3303809/0/en/jade-biosciences-to-host-conference-call-and-webcast-on-june-1-2026-at-8-00-a-m-et-to-discuss-interim-phase-1-healthy-volunteer-results-for-jade101-a-novel-potentially-best-in-clas.html"
         },
         {
-          "text": "Topline data for Tiziana Life Sciences' intranasal foralumab Phase 2a trial is expected in late Q3 2026, with results scheduled for presentation at the ACTRIMS/ECTRIMS meeting in October 2026.",
-          "url": "https://globenewswire.com/news-release/2026/05/28/3302663/0/en/tiziana-life-sciences-to-present-at-the-jefferies-global-healthcare-conference-in-new-york.html"
+          "text": "Jiangsu Hengrui Pharmaceuticals — Vunakizumab — Radiographic axial spondyloarthritis — Novel humanized IgG1 monoclonal antibody targeting IL-17A demonstrated superiority over placebo in ASAS20 response at 16 weeks in active disease; safety profile showed no difference in adverse events vs placebo.",
+          "url": "https://www.healio.com/news/rheumatology/20260529/vunakizumab-bests-placebo-in-radiographic-axial-spondyloarthritis-symptom-improvement"
         },
         {
-          "text": "Therini Bio dosed first patients in Phase 1b trial of THN391, a humanized monoclonal antibody targeting fibrin's inflammatory epitope for Diabetic Macular Edema (DME), with initial data expected Q4 2026.",
-          "url": "https://globenewswire.com/news-release/2026/05/27/3302124/0/en/therini-bio-doses-first-patients-in-phase-1b-trial-of-novel-anti-inflammatory-therapy-thn391-for-diabetic-macular-edema.html"
+          "text": "Jasper Therapeutics — briquilimab — Chronic Spontaneous Urticaria (CSU) — Phase 2b protocol refiled with FDA; 67% of patients (n=6) on 240mg/180mg regimen achieved complete response at 12 weeks in BEACON study.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304277/0/en/jasper-therapeutics-announces-exploration-of-strategic-alternatives-to-maximize-shareholder-value.html"
         },
         {
-          "text": "Therini Bio advanced THN622, a fibrin/VEGF bispecific antibody, as lead candidate for retinal neurodegeneration, combining VEGF blockade with fibrin inhibition.",
-          "url": "https://globenewswire.com/news-release/2026/05/27/3302124/0/en/therini-bio-doses-first-patients-in-phase-1b-trial-of-novel-anti-inflammatory-therapy-thn391-for-diabetic-macular-edema.html"
+          "text": "TG Therapeutics — BRIUMVI (ublituximab-xiiy) — Relapsing Forms of Multiple Sclerosis (RMS) — Post-hoc data published in Frontiers in Immunology showing 56.7% reduction in annualized relapse rate vs teriflunomide in treatment-naïve patients.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304240/8790/en/tg-therapeutics-announces-publication-of-post-hoc-data-from-the-phase-3-ultimate-i-ii-trials-in-treatment-naive-patients-with-relapsing-forms-of-ms-published-in-frontiers-in-immuno.html"
         },
         {
-          "text": "A 2024 review in Graefe's Archive for Clinical and Experimental Ophthalmology identified alemtuzumab and immune checkpoint inhibitors as monoclonal antibodies associated with medication-induced thyroid eye disease (TED).",
+          "text": "Alemtuzumab — Thyroid Eye Disease — Monoclonal antibody identified as a causative agent for thyroid eye disease alongside immune checkpoint inhibitors in clinical observations.",
           "url": "https://www.healio.com/news/optometry/20260527/alemtuzumab-immune-checkpoint-inhibitors-can-cause-thyroid-eye-disease"
         },
         {
-          "text": "Alemtuzumab treatment resulted in autoimmune thyroid disorder in up to 33% of patients, with Graves' disease accounting for 63% of cases, according to a systematic review of 23 studies.",
-          "url": "https://www.healio.com/news/optometry/20260527/alemtuzumab-immune-checkpoint-inhibitors-can-cause-thyroid-eye-disease"
+          "text": "WHO experts recommended the use of an antiviral and two monoclonal antibodies in the response to the Bundibugyo Ebola outbreak.",
+          "url": "https://statnews.com/2026/05/29/biotech-news-allogene-ceo-david-chang-steps-down/"
         },
         {
-          "text": "University of Pennsylvania researchers identified GPNMB as a key protein driving Parkinson's disease spread, with early experiments showing monoclonal antibodies blocking the protein halted toxic cell-to-cell transmission.",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260527023214.htm"
+          "text": "Janssen's teclistamab-cqyv (Tecvayli), a bispecific monoclonal antibody, demonstrated a 71% reduction in risk of progression or death (HR 0.29) vs investigator's choice in Phase 3 MajesTEC-9 for relapsed/refractory multiple myeloma (RRMM).",
+          "url": "https://cancernetwork.com/view/teclistamab-monotherapy-improves-pfs-and-os-in-relapsed-refractory-myeloma"
         },
         {
-          "text": "Mitchell E. Horwitz (Duke University) discussed ongoing pilot studies evaluating the addition of a co-stimulatory blocking monoclonal antibody to reduce graft-versus-host disease (GVHD) risk in cord blood-derived transplantation.",
-          "url": "https://cancernetwork.com/view/navigating-the-dynamic-landscape-of-stem-cell-transplantation"
+          "text": "Prophylactic tocilizumab (Actemra) enabled outpatient administration of bispecific monoclonal antibodies teclistamab and talquetamab-tgvs by reducing cytokine release syndrome (CRS) to 12.2% with no grade 3+ events in the Phase 2 OPTec/OPTal trial.",
+          "url": "https://cancernetwork.com/view/tocilizumab-supports-outpatient-bispecific-antibody-use-in-multiple-myeloma"
+        },
+        {
+          "text": "Teclistamab monotherapy achieved an 84.5% overall response rate (ORR) and 65.9% complete response (CR) or better rate in RRMM patients with 1-3 prior lines of therapy, significantly outperforming standard care (PVd/Kd).",
+          "url": "https://cancernetwork.com/view/teclistamab-monotherapy-improves-pfs-and-os-in-relapsed-refractory-myeloma"
+        },
+        {
+          "text": "Bristol Myers Squibb — Mezigdomide (CC-92480) — Relapsed/Refractory Multiple Myeloma (RRMM) — Phase 3 SUCCESSOR-2 trial met primary endpoint: 52% reduction in risk of progression or death vs carfilzomib/dexamethasone (HR 0.48; p<0.0001) in patients previously exposed to anti-CD38 monoclonal antibodies.",
+          "url": "https://cancernetwork.com/view/mezigdomide-regimen-improves-pfs-in-pretreated-r-r-multiple-myeloma"
+        },
+        {
+          "text": "Bristol Myers Squibb — Mezigdomide (CC-92480) — Relapsed/Refractory Multiple Myeloma (RRMM) — Phase 3 SUCCESSOR-2 trial demonstrated median progression-free survival of 18.0 months vs 8.3 months in anti-CD38 monoclonal antibody-exposed patients.",
+          "url": "https://cancernetwork.com/view/mezigdomide-regimen-improves-pfs-in-pretreated-r-r-multiple-myeloma"
         }
       ]
     },
@@ -60,36 +72,48 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Tonix Pharmaceuticals — TNX-1500 — Kidney transplant rejection / Autoimmune diseases — Phase 1 data published in Journal of Clinical Immunology; third-generation Fc-modified anti-CD40L monoclonal antibody showed favorable safety, suppressed TDARs, and supports monthly IV dosing; Phase 2 study expected H2 2026.",
-          "url": "https://globenewswire.com/news-release/2026/05/28/3303298/28908/en/tonix-pharmaceuticals-presented-retrospective-u-s-real-world-claims-analysis-of-opioid-use-in-patients-with-fibromyalgia-at-the-2026-american-society-of-clinical-psychopharmacology.html"
+          "text": "Outlook Therapeutics — ONS-5010/LYTENAVA (bevacizumab-vikg) — Wet Age-Related Macular Degeneration — Resubmitted BLA to FDA; biosimilar monoclonal antibody targeting VEGF-A.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304397/0/en/outlook-therapeutics-announces-resubmission-of-biologics-license-application-to-u-s-fda-for-ons-5010-lytenava-bevacizumab-vikg.html"
         },
         {
-          "text": "Zenas BioPharma — Obexelimab — IgG4-Related Disease — BLA submitted to FDA; Phase 3 INDIGO trial met primary endpoint with 56% flare risk reduction (HR 0.443; p=0.0005) vs placebo.",
-          "url": "https://globenewswire.com/news-release/2026/05/28/3302683/0/en/zenas-biopharma-announces-submission-of-biologics-license-application-bla-to-u-s-fda-for-obexelimab-in-igg4-rd.html"
+          "text": "Invivyd — VYD2311 — COVID-19 prevention — Phase 3 DECLARATION trial enrollment completed; pivotal randomized, placebo-controlled study evaluating safety and efficacy at three months.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304208/0/en/invivyd-announces-completion-of-enrollment-in-upsized-declaration-clinical-trial-a-phase-3-pivotal-study-of-vyd2311-an-investigational-antibody-to-prevent-covid.html"
         },
         {
-          "text": "Tiziana Life Sciences — Foralumab (intranasal) — Non-active Secondary Progressive Multiple Sclerosis — Phase 2a INFORM-MS trial fully enrolled (48 patients); topline data expected late Q3 2026.",
-          "url": "https://globenewswire.com/news-release/2026/05/28/3302663/0/en/tiziana-life-sciences-to-present-at-the-jefferies-global-healthcare-conference-in-new-york.html"
+          "text": "Jade Biosciences — JADE101 — IgA Nephropathy — Interim Phase 1 healthy volunteer results confirm potential for every-12-week dosing schedule and best-in-class differentiation as an anti-APRIL monoclonal antibody.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304176/0/en/jade-biosciences-announces-positive-interim-phase-1-results-for-jade101-demonstrating-potential-best-in-class-profile-and-every-12-week-dosing-in-iga-nephropathy.html"
         },
         {
-          "text": "Therini Bio — THN391 — Diabetic Macular Edema — Phase 1b trial initiated; humanized monoclonal antibody blocking fibrin inflammatory epitope; three monthly intravitreal injections; initial data Q4 2026.",
-          "url": "https://globenewswire.com/news-release/2026/05/27/3302124/0/en/therini-bio-doses-first-patients-in-phase-1b-trial-of-novel-anti-inflammatory-therapy-thn391-for-diabetic-macular-edema.html"
+          "text": "Jade Biosciences — JADE101 — IgA Nephropathy — Interim Phase 1 healthy volunteer results: ~70% IgA reduction sustained at 12 weeks after single dose; Phase 2 trial underway with interim data expected 2027; Phase 3 registrational trial initiation planned H1 2027.",
+          "url": "https://globenewswire.com/news-release/2026/05/29/3303809/0/en/jade-biosciences-to-host-conference-call-and-webcast-on-june-1-2026-at-8-00-a-m-et-to-discuss-interim-phase-1-healthy-volunteer-results-for-jade101-a-novel-potentially-best-in-clas.html"
         },
         {
-          "text": "Therini Bio — THN622 — Retinal Neurodegeneration — Lead candidate selection completed; fibrin/VEGF bispecific antibody; targets vascular dysfunction in DME.",
-          "url": "https://globenewswire.com/news-release/2026/05/27/3302124/0/en/therini-bio-doses-first-patients-in-phase-1b-trial-of-novel-anti-inflammatory-therapy-thn391-for-diabetic-macular-edema.html"
+          "text": "Jiangsu Hengrui Pharmaceuticals — Vunakizumab — Radiographic axial spondyloarthritis — Phase 2 to 3 randomized, double-blind, placebo-controlled trial met primary endpoint with significant ASAS20 response at 16 weeks; drug is a humanized IgG1 monoclonal antibody selective for IL-17A.",
+          "url": "https://www.healio.com/news/rheumatology/20260529/vunakizumab-bests-placebo-in-radiographic-axial-spondyloarthritis-symptom-improvement"
         },
         {
-          "text": "Alemtuzumab — Thyroid Eye Disease — Adverse event profile — Patients developed thyroid dysfunction 26.3 months post-initiation, progressing to orbitopathy after an additional 19.9 months on average.",
-          "url": "https://www.healio.com/news/optometry/20260527/alemtuzumab-immune-checkpoint-inhibitors-can-cause-thyroid-eye-disease"
+          "text": "Jasper Therapeutics — briquilimab — Chronic Spontaneous Urticaria — Phase 2b protocol updated and refiled with FDA; 75% of CSU participants (n=36) in open-label extension achieved complete response or well-controlled disease at 12 weeks with 180mg every 8 weeks.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304277/0/en/jasper-therapeutics-announces-exploration-of-strategic-alternatives-to-maximize-shareholder-value.html"
         },
         {
-          "text": "University of Pennsylvania — GPNMB-targeting monoclonal antibodies — Parkinson's disease — Preclinical study demonstrated that blocking GPNMB with antibodies stopped the spread of alpha-synuclein pathology between neurons in lab models.",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260527023214.htm"
+          "text": "TG Therapeutics — BRIUMVI (ublituximab-xiiy) — Relapsing Forms of Multiple Sclerosis — Phase 3 ULTIMATE I & II post-hoc analysis published; demonstrated significant improvements in disability and MRI outcomes in treatment-naïve patients.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304240/8790/en/tg-therapeutics-announces-publication-of-post-hoc-data-from-the-phase-3-ultimate-i-ii-trials-in-treatment-naive-patients-with-relapsing-forms-of-ms-published-in-frontiers-in-immuno.html"
         },
         {
-          "text": "Duke University / Mitchell E. Horwitz — Co-stimulatory blocking monoclonal antibody — Graft-versus-host disease (GVHD) prophylaxis in cord blood transplantation — Pilot study ongoing to assess feasibility of adding agent to limit GVHD risk.",
-          "url": "https://cancernetwork.com/view/navigating-the-dynamic-landscape-of-stem-cell-transplantation"
+          "text": "WHO — Bundibugyo Ebola response — Ebola Virus Disease — Recommended inclusion of two monoclonal antibodies alongside an antiviral in outbreak containment strategy.",
+          "url": "https://statnews.com/2026/05/29/biotech-news-allogene-ceo-david-chang-steps-down/"
+        },
+        {
+          "text": "Janssen — Teclistamab-cqyv (Tecvayli) — Relapsed/Refractory Multiple Myeloma — Phase 3 MajesTEC-9: HR 0.29 for PFS (71% risk reduction), 18-month PFS 69.8% vs 26.9%; HR 0.60 for OS; ORR 84.5% vs 54.2%.",
+          "url": "https://cancernetwork.com/view/teclistamab-monotherapy-improves-pfs-and-os-in-relapsed-refractory-myeloma"
+        },
+        {
+          "text": "SCRI / Janssen — Teclistamab + Talquetamab-tgvs — Relapsed/Refractory Multiple Myeloma — Phase 2 OPTec/OPTal: Prophylactic tocilizumab reduced CRS to 12.2% (no grade 3+ events), enabling outpatient dosing; ORR 68.9% (teclistamab) and 71.4% (talquetamab).",
+          "url": "https://cancernetwork.com/view/tocilizumab-supports-outpatient-bispecific-antibody-use-in-multiple-myeloma"
+        },
+        {
+          "text": "Bristol Myers Squibb — Mezigdomide (CC-92480) — Relapsed/Refractory Multiple Myeloma — Phase 3 SUCCESSOR-2 trial: MeziKd regimen (mezigdomide + carfilzomib + dexamethasone) achieved 80.2% overall response rate vs 53.4% for control in patients with prior anti-CD38 monoclonal antibody exposure.",
+          "url": "https://cancernetwork.com/view/mezigdomide-regimen-improves-pfs-in-pretreated-r-r-multiple-myeloma"
         }
       ]
     },
@@ -97,28 +121,40 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Tonix Pharmaceuticals — Development of third-generation anti-CD40L monoclonal antibody — TNX-1500 — Phase 1 data supports safety and pharmacokinetics; Phase 2 kidney transplant study pending FDA IND clearance at MGH.",
-          "url": "https://globenewswire.com/news-release/2026/05/28/3303298/28908/en/tonix-pharmaceuticals-presented-retrospective-u-s-real-world-claims-analysis-of-opioid-use-in-patients-with-fibromyalgia-at-the-2026-american-society-of-clinical-psychopharmacology.html"
+          "text": "Outlook Therapeutics — Commercialization of biosimilar monoclonal antibody — ONS-5010/LYTENAVA (bevacizumab-vikg) — BLA resubmitted to FDA; secured $5.0M registered direct offering from GMS Ventures.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304397/0/en/outlook-therapeutics-announces-resubmission-of-biologics-license-application-to-u-s-fda-for-ons-5010-lytenava-bevacizumab-vikg.html"
         },
         {
-          "text": "Zenas BioPharma — Regulatory submission for autoimmune therapy — Obexelimab (anti-CD19/CD20 bispecific mAb) — BLA filed for IgG4-RD following positive Phase 3 INDIGO results.",
-          "url": "https://globenewswire.com/news-release/2026/05/28/3302683/0/en/zenas-biopharma-announces-submission-of-biologics-license-application-bla-to-u-s-fda-for-obexelimab-in-igg4-rd.html"
+          "text": "Invivyd — Monoclonal antibody platform commercialization — VYD2311 (COVID-19) + PEMGARDA (pemivibart) — Phase 3 DECLARATION trial fully enrolled; Q1 2026 PEMGARDA revenue $13.7M (+22% YoY).",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304208/0/en/invivyd-announces-completion-of-enrollment-in-upsized-declaration-clinical-trial-a-phase-3-pivotal-study-of-vyd2311-an-investigational-antibody-to-prevent-covid.html"
         },
         {
-          "text": "Tiziana Life Sciences — Clinical advancement of neurodegenerative candidate — Foralumab (fully human anti-CD3 mAb) — Phase 2a enrollment completed for na-SPMS; open-label extension phase initiated.",
-          "url": "https://globenewswire.com/news-release/2026/05/28/3302663/0/en/tiziana-life-sciences-to-present-at-the-jefferies-global-healthcare-conference-in-new-york.html"
+          "text": "Jade Biosciences — Anti-APRIL monoclonal antibody development — JADE101 — Phase 1 healthy volunteer study completed; engineered for half-life extension with ~27-day serum half-life to support 12-week dosing.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304176/0/en/jade-biosciences-announces-positive-interim-phase-1-results-for-jade101-demonstrating-potential-best-in-class-profile-and-every-12-week-dosing-in-iga-nephropathy.html"
         },
         {
-          "text": "Therini Bio — Fibrin-targeting immunotherapy development — THN391 (monoclonal antibody) + THN622 (bispecific antibody) — Phase 1b dosing initiated for DME; preclinical data showed efficacy comparable to VEGF antagonists.",
-          "url": "https://globenewswire.com/news-release/2026/05/27/3302124/0/en/therini-bio-doses-first-patients-in-phase-1b-trial-of-novel-anti-inflammatory-therapy-thn391-for-diabetic-macular-edema.html"
+          "text": "Jade Biosciences — Development of best-in-class anti-APRIL monoclonal antibody — JADE101 — Clinical-stage biotech advancing JADE101 for IgA Nephropathy; Phase 1 data supports potential for superior durability and dosing interval vs first-generation agents.",
+          "url": "https://globenewswire.com/news-release/2026/05/29/3303809/0/en/jade-biosciences-to-host-conference-call-and-webcast-on-june-1-2026-at-8-00-a-m-et-to-discuss-interim-phase-1-healthy-volunteer-results-for-jade101-a-novel-potentially-best-in-clas.html"
         },
         {
-          "text": "Tonix Pharmaceuticals — Development of third-generation anti-CD40L monoclonal antibody — TNX-1500 — Phase 1 results support progression to Phase 2 for organ transplant rejection prevention; no approved anti-CD40L mAbs currently exist.",
-          "url": "https://globenewswire.com/news-release/2026/05/28/3303298/28908/en/tonix-pharmaceuticals-presented-retrospective-u-s-real-world-claims-analysis-of-opioid-use-in-patients-with-fibromyalgia-at-the-2026-american-society-of-clinical-psychopharmacology.html"
+          "text": "Jiangsu Hengrui Pharmaceuticals — Monoclonal antibody expansion in rheumatology — Vunakizumab (IL-17A mAb) — Phase 2/3 data supports efficacy in radiographic axial spondyloarthritis; previously approved for moderate to severe plaque psoriasis in China.",
+          "url": "https://www.healio.com/news/rheumatology/20260529/vunakizumab-bests-placebo-in-radiographic-axial-spondyloarthritis-symptom-improvement"
         },
         {
-          "text": "Zenas BioPharma — Commercialization of first-in-class bispecific monoclonal antibody — Obexelimab (anti-CD19/CD32b) — BLA filed for IgG4-RD; Phase 3 INDIGO data to be presented at EULAR 2026.",
-          "url": "https://globenewswire.com/news-release/2026/05/28/3302683/0/en/zenas-biopharma-announces-submission-of-biologics-license-application-bla-to-u-s-fda-for-obexelimab-in-igg4-rd.html"
+          "text": "Jasper Therapeutics — Clinical-stage antibody therapy development — briquilimab (anti-c-Kit/CD117) — Q1 2026 cash balance $14.1M; net loss $1.2M; advancing briquilimab in CSU and asthma indications.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304277/0/en/jasper-therapeutics-announces-exploration-of-strategic-alternatives-to-maximize-shareholder-value.html"
+        },
+        {
+          "text": "TG Therapeutics — Commercial-stage B-cell disease treatments — BRIUMVI (ublituximab-xiiy) — FDA-approved for RMS; post-hoc data from Phase 3 ULTIMATE I & II trials published in June 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304240/8790/en/tg-therapeutics-announces-publication-of-post-hoc-data-from-the-phase-3-ultimate-i-ii-trials-in-treatment-naive-patients-with-relapsing-forms-of-ms-published-in-frontiers-in-immuno.html"
+        },
+        {
+          "text": "Janssen — Bispecific monoclonal antibody commercialization in myeloma — Teclistamab (Tecvayli) + Talquetamab (Talvey) — Phase 3 MajesTEC-9 met primary PFS and secondary OS endpoints; Phase 2 OPTec/OPTal supports outpatient administration strategy.",
+          "url": "https://cancernetwork.com/view/teclistamab-monotherapy-improves-pfs-and-os-in-relapsed-refractory-myeloma"
+        },
+        {
+          "text": "Bristol Myers Squibb — Advancing oral immunomodulatory therapy in myeloma — Mezigdomide (CC-92480) — Phase 3 SUCCESSOR-2 data presented at ASCO 2026 showing superior efficacy in anti-CD38 monoclonal antibody-pretreated RRMM population.",
+          "url": "https://cancernetwork.com/view/mezigdomide-regimen-improves-pfs-in-pretreated-r-r-multiple-myeloma"
         }
       ]
     },
@@ -126,40 +162,81 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "TNX-1500 — Mechanism: Fc-modified IgG4 anti-CD40L (CD154) monoclonal antibody — Phase: 1 (completed) — Population: Healthy adults — Comparator: Placebo — Endpoints/Results: Generally well tolerated, suppressed primary and secondary T cell-dependent antibody responses (TDARs) to KLH, demonstrated half-life supporting monthly intravenous dosing.",
-          "url": "https://globenewswire.com/news-release/2026/05/28/3303298/28908/en/tonix-pharmaceuticals-presented-retrospective-u-s-real-world-claims-analysis-of-opioid-use-in-patients-with-fibromyalgia-at-the-2026-american-society-of-clinical-psychopharmacology.html"
+          "text": "LYTENAVA (bevacizumab-vikg) — Mechanism: VEGF-A inhibition via monoclonal antibody — Phase: BLA resubmission (previously Phase 3) — Population: Wet age-related macular degeneration — Comparator: Lucentis (ranibizumab) — Status: Regulatory review pending.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304397/0/en/outlook-therapeutics-announces-resubmission-of-biologics-license-application-to-u-s-fda-for-ons-5010-lytenava-bevacizumab-vikg.html"
         },
         {
-          "text": "Obexelimab — Mechanism: B-cell inhibition (anti-CD19/CD20) — Phase: 3 — Population: IgG4-Related Disease — Comparator: Placebo — Results: 56% reduction in flare risk (HR 0.443; p=0.0005); Grade ≥3 TEAEs 11.3% vs 23.7%.",
-          "url": "https://globenewswire.com/news-release/2026/05/28/3302683/0/en/zenas-biopharma-announces-submission-of-biologics-license-application-bla-to-u-s-fda-for-obexelimab-in-igg4-rd.html"
+          "text": "VYD2311 — Mechanism: Investigational monoclonal antibody — Phase: 3 — Population: Adults for COVID-19 prevention — Comparator: Placebo — Endpoint: Symptomatic COVID-19 incidence at 3 months; enrollment completed.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304208/0/en/invivyd-announces-completion-of-enrollment-in-upsized-declaration-clinical-trial-a-phase-3-pivotal-study-of-vyd2311-an-investigational-antibody-to-prevent-covid.html"
         },
         {
-          "text": "Foralumab — Mechanism: Fully human anti-CD3 monoclonal antibody — Phase: 2a — Population: Non-active Secondary Progressive Multiple Sclerosis — Comparator: Placebo — Design: 48 patients, 12-week treatment, PET/MRI assessments; topline data expected late Q3 2026.",
-          "url": "https://globenewswire.com/news-release/2026/05/28/3302663/0/en/tiziana-life-sciences-to-present-at-the-jefferies-global-healthcare-conference-in-new-york.html"
+          "text": "JADE101 — Mechanism: Fully human monoclonal antibody selectively blocking APRIL with ultra-high binding affinity and half-life extension — Phase: 1 — Population: Healthy volunteers (Phase 1) / IgA Nephropathy (target) — Results: Potent sustained IgA suppression in non-human primates; serum half-life ~27 days; supports 12-week dosing.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304176/0/en/jade-biosciences-announces-positive-interim-phase-1-results-for-jade101-demonstrating-potential-best-in-class-profile-and-every-12-week-dosing-in-iga-nephropathy.html"
         },
         {
-          "text": "THN391 — Mechanism: Humanized monoclonal antibody blocking fibrin inflammatory epitope without disrupting coagulation — Phase: 1b — Population: Diabetic Macular Edema — Comparator: VEGF antagonists (preclinical) — Results: As effective as VEGF antagonists in containing neovascular leakage in preclinical models.",
-          "url": "https://globenewswire.com/news-release/2026/05/27/3302124/0/en/therini-bio-doses-first-patients-in-phase-1b-trial-of-novel-anti-inflammatory-therapy-thn391-for-diabetic-macular-edema.html"
+          "text": "JADE101 — Mechanism: Anti-APRIL monoclonal antibody with ultra-high binding affinity to block pathogenic IgA production — Phase: 1 (Interim) — Population: Healthy volunteers — Comparator: Not specified in interim data — Endpoints/Results: ~70% IgA reduction sustained at 12 weeks; faster, deeper, and more durable effect than first-generation anti-APRIL or dual APRIL/BAFF agents; well-tolerated across all doses.",
+          "url": "https://globenewswire.com/news-release/2026/05/29/3303809/0/en/jade-biosciences-to-host-conference-call-and-webcast-on-june-1-2026-at-8-00-a-m-et-to-discuss-interim-phase-1-healthy-volunteer-results-for-jade101-a-novel-potentially-best-in-clas.html"
         },
         {
-          "text": "THN622 — Mechanism: Bispecific antibody targeting fibrin inflammatory epitope and VEGF — Phase: Preclinical/Lead Candidate — Population: Retinal conditions with vascular dysfunction (DME) — Comparator: Standard of care (VEGF antagonists) — Endpoint: Dual mechanism combining VEGF blockade with fibrin inhibition.",
-          "url": "https://globenewswire.com/news-release/2026/05/27/3302124/0/en/therini-bio-doses-first-patients-in-phase-1b-trial-of-novel-anti-inflammatory-therapy-thn391-for-diabetic-macular-edema.html"
+          "text": "Vunakizumab — Mechanism: Humanized IgG1 monoclonal antibody selectively targeting IL-17A — Phase: 2 to 3 — Population: Active radiographic axial spondyloarthritis — Comparator: Placebo — Endpoints/Results: Superior ASAS20 response at 16 weeks; no difference in adverse events vs placebo.",
+          "url": "https://www.healio.com/news/rheumatology/20260529/vunakizumab-bests-placebo-in-radiographic-axial-spondyloarthritis-symptom-improvement"
         },
         {
-          "text": "Alemtuzumab — Mechanism: Monoclonal antibody (anti-CD52) — Indication: Multiple sclerosis — Adverse Event: Thyroid Eye Disease (TED) — Incidence: Up to 33% of patients developed autoimmune thyroid disorder, primarily Graves' disease.",
+          "text": "briquilimab — Mechanism: Anti-c-Kit (CD117) antibody targeting mast cells — Phase: 2b — Population: Chronic Spontaneous Urticaria — Comparator: None (dose selection study) — Results: 67% complete response at 12 weeks with 240mg/180mg regimen; low frequency of KIT-related AEs.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304277/0/en/jasper-therapeutics-announces-exploration-of-strategic-alternatives-to-maximize-shareholder-value.html"
+        },
+        {
+          "text": "ublituximab-xiiy (BRIUMVI) — Mechanism: Anti-CD20 monoclonal antibody — Phase: 3 (ULTIMATE I & II) — Population: Treatment-naïve Relapsing Forms of MS — Comparator: Teriflunomide — Results: 56.7% reduction in annualized relapse rate; significant disability and MRI improvements.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304240/8790/en/tg-therapeutics-announces-publication-of-post-hoc-data-from-the-phase-3-ultimate-i-ii-trials-in-treatment-naive-patients-with-relapsing-forms-of-ms-published-in-frontiers-in-immuno.html"
+        },
+        {
+          "text": "Alemtuzumab — Mechanism: Monoclonal antibody (CD52) — Clinical Observation: Associated with induction of thyroid eye disease in patients receiving treatment; distinct from immune checkpoint inhibitor-induced cases.",
           "url": "https://www.healio.com/news/optometry/20260527/alemtuzumab-immune-checkpoint-inhibitors-can-cause-thyroid-eye-disease"
         },
         {
-          "text": "Ipilimumab, tremelimumab, durvalumab, nivolumab — Mechanism: Immune checkpoint inhibitor monoclonal antibodies — Adverse Event: Induce 'TED-like' orbitopathy without underlying thyroid dysfunction.",
-          "url": "https://www.healio.com/news/optometry/20260527/alemtuzumab-immune-checkpoint-inhibitors-can-cause-thyroid-eye-disease"
+          "text": "Two monoclonal antibodies — Mechanism: Not specified in source — Phase: Not specified — Population: Bundibugyo Ebola outbreak response — Comparator: Not specified — Endpoints/Results: Recommended by WHO experts for outbreak containment.",
+          "url": "https://statnews.com/2026/05/29/biotech-news-allogene-ceo-david-chang-steps-down/"
         },
         {
-          "text": "GPNMB-targeting antibodies — Mechanism: Block glycoprotein nonmetastatic melanoma B to prevent alpha-synuclein spread — Phase: Preclinical — Population: Neuronal cell models of Parkinson's disease — Comparator: Unblocked controls — Results: Antibody blockade halted toxic process and cell-to-cell transmission in early experiments.",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260527023214.htm"
+          "text": "Teclistamab-cqyv — Mechanism: Bispecific T-cell engager (CD3 x BCMA) monoclonal antibody — Phase: 3 (MajesTEC-9) — Population: RRMM (1-3 prior lines) — Comparator: PVd or Kd — Endpoints: PFS HR 0.29, OS HR 0.60, ORR 84.5%, CR+ 65.9%.",
+          "url": "https://cancernetwork.com/view/teclistamab-monotherapy-improves-pfs-and-os-in-relapsed-refractory-myeloma"
         },
         {
-          "text": "Co-stimulatory blocking monoclonal antibody — Mechanism: Co-stimulation blockade to limit immune activation — Phase: Pilot study — Population: Cord blood transplantation recipients — Goal: Reduction of graft-versus-host disease (GVHD) risk.",
-          "url": "https://cancernetwork.com/view/navigating-the-dynamic-landscape-of-stem-cell-transplantation"
+          "text": "Talquetamab-tgvs — Mechanism: Bispecific T-cell engager (CD3 x GPRC5D) monoclonal antibody — Phase: 2 (OPTec/OPTal) — Population: RRMM — Comparator: N/A (single arm with prophylaxis) — Endpoints: ORR 71.4%, CRS rate 28.5% (all grade 1-2) with tocilizumab prophylaxis.",
+          "url": "https://cancernetwork.com/view/tocilizumab-supports-outpatient-bispecific-antibody-use-in-multiple-myeloma"
+        },
+        {
+          "text": "Teclistamab-cqyv (Tecvayli) — Mechanism: Bispecific BCMAxCD3 antibody — Phase: 2 (OPTec arm A) — Population: RRMM — Comparator: None (single arm with tocilizumab) — Endpoints: ORR 68.9%, 8.9% CRS events (all grade 1) with tocilizumab prophylaxis.",
+          "url": "https://cancernetwork.com/view/tocilizumab-supports-outpatient-bispecific-antibody-use-in-multiple-myeloma"
+        },
+        {
+          "text": "Mezigdomide (CC-92480) — Mechanism: Cereblon E3 ligase modulator — Phase: 3 (SUCCESSOR-2) — Population: Anti-CD38 monoclonal antibody- and lenalidomide-exposed RRMM — Comparator: Carfilzomib + dexamethasone — Endpoints: 52% risk reduction in progression/death (HR 0.48), median PFS 18.0 vs 8.3 months, ORR 80.2% vs 53.4%.",
+          "url": "https://cancernetwork.com/view/mezigdomide-regimen-improves-pfs-in-pretreated-r-r-multiple-myeloma"
+        }
+      ]
+    },
+    {
+      "heading": "Business & Deals",
+      "points": [
+        {
+          "text": "Outlook Therapeutics — Secured $5.0M registered direct offering from GMS Ventures at $0.5855/share; amended warrants for 15.5M shares to $0.5855 exercise price to fund ONS-5010/LYTENAVA commercialization.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304397/0/en/outlook-therapeutics-announces-resubmission-of-biologics-license-application-to-u-s-fda-for-ons-5010-lytenava-bevacizumab-vikg.html"
+        },
+        {
+          "text": "Invivyd — Q1 2026 financial performance — PEMGARDA (pemivibart) — Net product revenue $13.7M, representing 22% growth versus Q1 2025 ($11.3M).",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304208/0/en/invivyd-announces-completion-of-enrollment-in-upsized-declaration-clinical-trial-a-phase-3-pivotal-study-of-vyd2311-an-investigational-antibody-to-prevent-covid.html"
+        },
+        {
+          "text": "Jasper Therapeutics — Strategic alternatives exploration — briquilimab program — Announced June 1, 2026 to maximize shareholder value; Q1 2026 R&D expense $5.8M, G&A $5.1M.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304277/0/en/jasper-therapeutics-announces-exploration-of-strategic-alternatives-to-maximize-shareholder-value.html"
+        },
+        {
+          "text": "TG Therapeutics — Conference participation — BRIUMVI (ublituximab-xiiy) — CEO Michael S. Weiss scheduled for Jefferies Global Healthcare Conference fireside chat on June 3, 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304240/8790/en/tg-therapeutics-announces-publication-of-post-hoc-data-from-the-phase-3-ultimate-i-ii-trials-in-treatment-naive-patients-with-relapsing-forms-of-ms-published-in-frontiers-in-immuno.html"
+        },
+        {
+          "text": "SCRI (South Carolina Research Institute) — Outpatient bispecific antibody administration strategy — Teclistamab + Talquetamab with Tocilizumab prophylaxis — Phase 2 OPTec/OPTal trial showed 68.9%-71.4% ORR with no grade 3+ toxicity.",
+          "url": "https://cancernetwork.com/view/tocilizumab-supports-outpatient-bispecific-antibody-use-in-multiple-myeloma"
         }
       ]
     }
