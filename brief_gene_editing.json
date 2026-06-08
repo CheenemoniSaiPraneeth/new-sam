@@ -1,25 +1,41 @@
 {
   "query": "CRISPR",
-  "generated_at": "2026-06-04 09:10:19",
-  "article_count": 30,
+  "generated_at": "2026-06-08 09:44:44",
+  "article_count": 26,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Intellia Therapeutics — Lonvoguran Ziclumeran (lonvo-z) — Hereditary Angioedema (HAE) — Phase 3 HAELO trial met primary endpoint with 87% attack reduction vs placebo (0.26 vs 2.10 monthly attacks, p<0.0001); rolling BLA submission initiated; U.S. launch anticipated H1 2027.",
-          "url": "https://globenewswire.com/news-release/2026/06/01/3304241/0/en/intellia-therapeutics-to-report-additional-phase-3-haelo-data-for-lonvoguran-ziclumeran-lonvo-z-in-late-breaking-oral-presentation-at-eaaci-2026.html"
+          "text": "Intellia Therapeutics — Lonvoguran Ziclumeran (lonvo-z) — Hereditary Angioedema (HAE) — Phase 3 HAELO trial data to be presented at EAACI 2026; in vivo CRISPR/Cas9 therapy designed to permanently lower kallikrein by inactivating KLKB1 gene with single dose.",
+          "url": "https://globenewswire.com/news-release/2026/06/05/3307600/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
         },
         {
-          "text": "Intellia Therapeutics — Nex-z — ATTR-CM and ATTRv-PN — Resumed patient screening for Phase 3 MAGNITUDE and MAGNITUDE-2 trials; in vivo CRISPR gene editing candidate targeting TTR gene.",
-          "url": "https://globenewswire.com/news-release/2026/06/01/3304241/0/en/intellia-therapeutics-to-report-additional-phase-3-haelo-data-for-lonvoguran-ziclumeran-lonvo-z-in-late-breaking-oral-presentation-at-eaaci-2026.html"
+          "text": "Beam Therapeutics — In vivo gene editing — Base editing and targeted delivery — Gopi Shanker, Ph.D., CSO, discussed the rapidly evolving landscape of precision genetic medicines in a Life Science Leader podcast episode.",
+          "url": "https://lifescienceleader.com/doc/reimagining-in-vivo-gene-editing-through-base-editing-and-targeted-delivery-with-beam-therapeutics-gopi-shanker-ph-d-0001"
         },
         {
-          "text": "Intellia Therapeutics — Financial Position — Q1 2026 — Cash resources including April underwritten public offering proceeds expected to fund operations through at least 2028.",
-          "url": "https://globenewswire.com/news-release/2026/06/01/3304241/0/en/intellia-therapeutics-to-report-additional-phase-3-haelo-data-for-lonvoguran-ziclumeran-lonvo-z-in-late-breaking-oral-presentation-at-eaaci-2026.html"
+          "text": "Mammoth Biosciences — Proprietary ultracompact CRISPR systems — Gene editing — Lucas Harrington, Co-Founder and CSO, highlighted the development of potential medicines using compact CRISPR technology in a Cell & Gene podcast.",
+          "url": "https://lifescienceleader.com/doc/reimagining-in-vivo-gene-editing-through-base-editing-and-targeted-delivery-with-beam-therapeutics-gopi-shanker-ph-d-0001"
         },
         {
-          "text": "Washington University School of Medicine (WashU Medicine) — CRISPR-edited hookworms — Tetrodotoxin neutralization — Bioengineered hookworms successfully secreted neutralizing antibodies into hamster bloodstream, demonstrating a proof-of-concept for transgenic parasite-based drug delivery systems.",
+          "text": "Scribe Therapeutics — Next-generation CRISPR and epigenetic editing tools — Cardiovascular disease (CVD) — Benjamin Oakes, CEO and Co-Founder, discussed building safer CRISPR medicines for CVD indications in a Cell & Gene podcast.",
+          "url": "https://lifescienceleader.com/doc/reimagining-in-vivo-gene-editing-through-base-editing-and-targeted-delivery-with-beam-therapeutics-gopi-shanker-ph-d-0001"
+        },
+        {
+          "text": "Intellia Therapeutics — Lonvoguran Ziclumeran (lonvo-z) — Hereditary Angioedema (HAE) — Phase 3 HAELO trial data to be presented at EAACI 2026; therapy utilizes Nobel Prize-winning CRISPR/Cas9 technology to permanently lower kallikrein by inactivating KLKB1 gene with a single dose.",
+          "url": "https://globenewswire.com/news-release/2026/06/05/3307600/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+        },
+        {
+          "text": "Intellia Therapeutics — Lonvoguran Ziclumeran (lonvo-z) — Hereditary Angioedema (HAE) — Received Orphan Drug and RMAT Designation (FDA), Innovation Passport (MHRA), PRIME Designation (EMA), and Orphan Drug Designation (European Commission).",
+          "url": "https://globenewswire.com/news-release/2026/06/05/3307600/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+        },
+        {
+          "text": "Washington University School of Medicine (WashU Medicine) — CRISPR-edited hookworms — Tetrodotoxin neutralization — Bioengineered parasites successfully secrete neutralizing antibodies into hamster bloodstream, demonstrating proof-of-concept for transgenic parasite-based drug delivery.",
+          "url": "https://the-scientist.com/bioengineered-hookworms-deliver-therapeutic-antibodies-in-hamsters-74580"
+        },
+        {
+          "text": "Washington University School of Medicine (WashU Medicine) — CRISPR-edited hookworms — Tetrodotoxin neutralization — Bioengineered hookworms successfully secrete neutralizing antibodies into hamster bloodstream, demonstrating a proof-of-concept for transgenic parasite-based drug delivery systems.",
           "url": "https://the-scientist.com/bioengineered-hookworms-deliver-therapeutic-antibodies-in-hamsters-74580"
         }
       ]
@@ -28,15 +44,31 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Intellia Therapeutics — Lonvoguran Ziclumeran (lonvo-z) — Hereditary Angioedema — Phase 3 HAELO trial: 62% of patients achieved attack-free and therapy-free status vs 11% placebo; rolling BLA submitted for one-time in vivo CRISPR treatment inactivating KLKB1 gene.",
-          "url": "https://globenewswire.com/news-release/2026/06/01/3304241/0/en/intellia-therapeutics-to-report-additional-phase-3-haelo-data-for-lonvoguran-ziclumeran-lonvo-z-in-late-breaking-oral-presentation-at-eaaci-2026.html"
+          "text": "Intellia Therapeutics — Lonvoguran Ziclumeran (lonvo-z) — Hereditary Angioedema — Phase 3 HAELO global, randomized, double-blind, placebo-controlled study data presentation scheduled for EAACI 2026 Annual Congress (June 12-15, Istanbul); therapy utilizes Nobel Prize-winning CRISPR/Cas9 technology.",
+          "url": "https://globenewswire.com/news-release/2026/06/05/3307600/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
         },
         {
-          "text": "Intellia Therapeutics — Nex-z — ATTR-CM/ATTRv-PN — Phase 3 MAGNITUDE and MAGNITUDE-2 trials: Patient screening resumed for in vivo CRISPR candidate targeting transthyretin (TTR) gene.",
-          "url": "https://globenewswire.com/news-release/2026/06/01/3304241/0/en/intellia-therapeutics-to-report-additional-phase-3-haelo-data-for-lonvoguran-ziclumeran-lonvo-z-in-late-breaking-oral-presentation-at-eaaci-2026.html"
+          "text": "Beam Therapeutics — In vivo gene editing platform — Base editing and targeted delivery — CSO Gopi Shanker detailed strategic approaches to reimagining in vivo gene editing in a June 2026 podcast interview.",
+          "url": "https://lifescienceleader.com/doc/reimagining-in-vivo-gene-editing-through-base-editing-and-targeted-delivery-with-beam-therapeutics-gopi-shanker-ph-d-0001"
         },
         {
-          "text": "Makedonka Mitreva / WashU Medicine — CRISPR-edited hookworm platform — Chronic disease/toxin exposure delivery — Published in Nature Communications; engineered worms produce toxin-neutralizing antibodies against tetrodotoxin, leveraging natural secretion mechanisms for long-term therapeutic delivery.",
+          "text": "Mammoth Biosciences — Ultracompact CRISPR systems — Gene editing — Lucas Harrington presented on the utility of proprietary compact CRISPR systems for drug development in a June 2026 podcast.",
+          "url": "https://lifescienceleader.com/doc/reimagining-in-vivo-gene-editing-through-base-editing-and-targeted-delivery-with-beam-therapeutics-gopi-shanker-ph-d-0001"
+        },
+        {
+          "text": "Scribe Therapeutics — CRISPR and epigenetic editing tools — Cardiovascular disease — Benjamin Oakes outlined the development of next-generation CRISPR tools specifically for CVD applications in a June 2026 podcast.",
+          "url": "https://lifescienceleader.com/doc/reimagining-in-vivo-gene-editing-through-base-editing-and-targeted-delivery-with-beam-therapeutics-gopi-shanker-ph-d-0001"
+        },
+        {
+          "text": "Intellia Therapeutics — Lonvoguran Ziclumeran (lonvo-z) — Hereditary Angioedema — Phase 3 HAELO global, randomized, double-blind, placebo-controlled study data presentation scheduled for EAACI 2026 (June 12-15, Istanbul) as late-breaking oral presentation.",
+          "url": "https://globenewswire.com/news-release/2026/06/05/3307600/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+        },
+        {
+          "text": "Makedonka Mitreva / WashU Medicine — CRISPR-edited hookworm platform — Chronic disease/toxin exposure — Published in Nature Communications; engineered worms produce toxin-neutralizing antibodies for continuous in vivo delivery.",
+          "url": "https://the-scientist.com/bioengineered-hookworms-deliver-therapeutic-antibodies-in-hamsters-74580"
+        },
+        {
+          "text": "Makedonka Mitreva / WashU Medicine — CRISPR-edited hookworm platform — Tetrodotoxin neutralization — Published proof-of-concept in Nature Communications showing genetically modified hookworms produce and deliver toxin-neutralizing antibodies in hamsters.",
           "url": "https://the-scientist.com/bioengineered-hookworms-deliver-therapeutic-antibodies-in-hamsters-74580"
         }
       ]
@@ -45,12 +77,24 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Intellia Therapeutics — CRISPR gene editing commercialization — Lonvoguran Ziclumeran (lonvo-z) + Nex-z pipeline — Phase 3 HAELO data positive; rolling BLA submitted; Q1 2026 cash runway extended to 2028 via public offering.",
-          "url": "https://globenewswire.com/news-release/2026/06/01/3304241/0/en/intellia-therapeutics-to-report-additional-phase-3-haelo-data-for-lonvoguran-ziclumeran-lonvo-z-in-late-breaking-oral-presentation-at-eaaci-2026.html"
+          "text": "Intellia Therapeutics — CRISPR gene editing commercialization — Lonvoguran Ziclumeran (lonvo-z) — Phase 3 HAELO trial ongoing; secured Orphan Drug, RMAT (FDA), Innovation Passport (MHRA), PRIME (EMA), and Orphan Drug Designation (EC) regulatory statuses.",
+          "url": "https://globenewswire.com/news-release/2026/06/05/3307600/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
         },
         {
-          "text": "Washington University School of Medicine (WashU Medicine) — Transgenic parasite platform development — CRISPR-edited hookworms — Proof-of-concept established in hamsters for continuous antibody delivery; no commercial entity or deal value reported in source.",
-          "url": "https://the-scientist.com/bioengineered-hookworms-deliver-therapeutic-antibodies-in-hamsters-74580"
+          "text": "Beam Therapeutics — In vivo gene editing commercialization — Base editing and targeted delivery programs — CSO Gopi Shanker discussed the company's strategic focus on precision genetic medicines in a June 2026 podcast.",
+          "url": "https://lifescienceleader.com/doc/reimagining-in-vivo-gene-editing-through-base-editing-and-targeted-delivery-with-beam-therapeutics-gopi-shanker-ph-d-0001"
+        },
+        {
+          "text": "Mammoth Biosciences — Compact CRISPR system development — Proprietary ultracompact CRISPR platforms — Lucas Harrington highlighted the company's unique approach to gene editing in a June 2026 podcast.",
+          "url": "https://lifescienceleader.com/doc/reimagining-in-vivo-gene-editing-through-base-editing-and-targeted-delivery-with-beam-therapeutics-gopi-shanker-ph-d-0001"
+        },
+        {
+          "text": "Scribe Therapeutics — Next-generation CRISPR tool creation — Epigenetic editing and CRISPR for CVD — Benjamin Oakes detailed the company's pipeline and safety focus in a June 2026 podcast.",
+          "url": "https://lifescienceleader.com/doc/reimagining-in-vivo-gene-editing-through-base-editing-and-targeted-delivery-with-beam-therapeutics-gopi-shanker-ph-d-0001"
+        },
+        {
+          "text": "Intellia Therapeutics — CRISPR gene editing commercialization — Lonvoguran Ziclumeran (lonvo-z) — Advancing Phase 3 HAELO trial for HAE; candidate designed as first one-time treatment via in vivo KLKB1 gene inactivation.",
+          "url": "https://globenewswire.com/news-release/2026/06/05/3307600/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
         }
       ]
     },
@@ -58,15 +102,31 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "Lonvoguran Ziclumeran (lonvo-z) — Mechanism: In vivo CRISPR gene editing inactivating KLKB1 gene to lower kallikrein/bradykinin — Phase: 3 (HAELO) — Population: Hereditary Angioedema — Comparator: Placebo — Results: 87% attack reduction (0.26 vs 2.10/month, p<0.0001); 62% attack-free/therapy-free vs 11% placebo.",
-          "url": "https://globenewswire.com/news-release/2026/06/01/3304241/0/en/intellia-therapeutics-to-report-additional-phase-3-haelo-data-for-lonvoguran-ziclumeran-lonvo-z-in-late-breaking-oral-presentation-at-eaaci-2026.html"
+          "text": "Lonvoguran Ziclumeran (lonvo-z) — Mechanism: In vivo CRISPR/Cas9 gene editing inactivating KLKB1 gene to permanently lower kallikrein — Phase: 3 (HAELO) — Population: Patients with Hereditary Angioedema — Comparator: Placebo — Status: Late-breaking oral presentation of primary data scheduled for EAACI 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/05/3307600/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
         },
         {
-          "text": "Nex-z — Mechanism: In vivo CRISPR gene editing targeting TTR gene — Phase: 3 (MAGNITUDE/MAGNITUDE-2) — Population: ATTR-CM and ATTRv-PN — Status: Patient screening resumed after prior pause.",
-          "url": "https://globenewswire.com/news-release/2026/06/01/3304241/0/en/intellia-therapeutics-to-report-additional-phase-3-haelo-data-for-lonvoguran-ziclumeran-lonvo-z-in-late-breaking-oral-presentation-at-eaaci-2026.html"
+          "text": "Beam Therapeutics programs — Mechanism: Base editing and targeted delivery — Phase: Preclinical/Clinical (contextual) — Population: In vivo gene editing targets — Endpoints: Reimagining precision genetic medicine delivery strategies discussed by CSO Gopi Shanker.",
+          "url": "https://lifescienceleader.com/doc/reimagining-in-vivo-gene-editing-through-base-editing-and-targeted-delivery-with-beam-therapeutics-gopi-shanker-ph-d-0001"
         },
         {
-          "text": "CRISPR-edited hookworms — Mechanism: Genetic modification to secrete therapeutic antibodies — Phase: Preclinical (Hamster model) — Population: Hamsters exposed to tetrodotoxin — Comparator: Not specified — Results: Successful secretion of neutralizing antibodies into host bloodstream; no safety data or human trial status reported.",
+          "text": "Mammoth Biosciences programs — Mechanism: Ultracompact CRISPR systems — Phase: Preclinical/Clinical (contextual) — Population: Gene editing targets — Endpoints: Development of potential medicines using compact CRISPR technology discussed by Lucas Harrington.",
+          "url": "https://lifescienceleader.com/doc/reimagining-in-vivo-gene-editing-through-base-editing-and-targeted-delivery-with-beam-therapeutics-gopi-shanker-ph-d-0001"
+        },
+        {
+          "text": "Scribe Therapeutics programs — Mechanism: Next-generation CRISPR and epigenetic editing — Phase: Preclinical/Clinical (contextual) — Population: Cardiovascular disease patients — Endpoints: Building safer CRISPR medicines for CVD discussed by Benjamin Oakes.",
+          "url": "https://lifescienceleader.com/doc/reimagining-in-vivo-gene-editing-through-base-editing-and-targeted-delivery-with-beam-therapeutics-gopi-shanker-ph-d-0001"
+        },
+        {
+          "text": "Lonvoguran Ziclumeran (lonvo-z) — Mechanism: In vivo CRISPR/Cas9 gene editing to inactivate KLKB1 gene — Phase: 3 (HAELO) — Population: Patients with Hereditary Angioedema — Comparator: Placebo — Goal: Permanent kallikrein reduction with single dose.",
+          "url": "https://globenewswire.com/news-release/2026/06/05/3307600/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+        },
+        {
+          "text": "CRISPR-edited hookworms — Mechanism: Genetic modification to secrete therapeutic antibodies — Phase: Preclinical (Hamster model) — Population: Hamsters — Comparator: None stated — Results: Successful secretion of tetrodotoxin-neutralizing antibodies into host bloodstream.",
+          "url": "https://the-scientist.com/bioengineered-hookworms-deliver-therapeutic-antibodies-in-hamsters-74580"
+        },
+        {
+          "text": "CRISPR-edited hookworms — Mechanism: Genetic modification to secrete therapeutic antibodies — Phase: Preclinical (Hamster model) — Population: Hamsters exposed to tetrodotoxin — Comparator: Not specified — Results: Successful secretion of neutralizing antibodies into host bloodstream; platform enables continuous delivery of therapeutics.",
           "url": "https://the-scientist.com/bioengineered-hookworms-deliver-therapeutic-antibodies-in-hamsters-74580"
         }
       ]
@@ -75,8 +135,8 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Intellia Therapeutics — Capital raise — Underwritten public offering in April 2026 — Proceeds combined with existing cash to fund operations through at least 2028.",
-          "url": "https://globenewswire.com/news-release/2026/06/01/3304241/0/en/intellia-therapeutics-to-report-additional-phase-3-haelo-data-for-lonvoguran-ziclumeran-lonvo-z-in-late-breaking-oral-presentation-at-eaaci-2026.html"
+          "text": "Intellia Therapeutics — Inducement grants under Nasdaq Listing Rule 5635(c)(4) — CRISPR pipeline advancement — Announced equity grants to attract key talent while advancing lonvo-z Phase 3 program.",
+          "url": "https://globenewswire.com/news-release/2026/06/05/3307600/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
         }
       ]
     }
