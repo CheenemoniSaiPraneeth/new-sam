@@ -1,102 +1,62 @@
 {
   "query": "monoclonal",
-  "generated_at": "2026-06-06 08:31:17",
-  "article_count": 68,
+  "generated_at": "2026-06-10 10:26:50",
+  "article_count": 58,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Summit Therapeutics — Ivonescimab — Non-small cell lung cancer — Phase 3 trial reduced risk of death by 34% vs standard chemotherapy plus PD-1 inhibitor, validating the PD-1/VEGF bispecific antibody class.",
-          "url": "https://biopharmadive.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/822035/"
-        },
-        {
-          "text": "Ona Therapeutics — Series B funding — Breast and colorectal cancer — Raised $86.6M to advance a pair of antibody-drug conjugates (ADCs) into clinical development.",
+          "text": "Ona Therapeutics raised $86.6 million in Series B funding to advance a pair of antibody-drug conjugates (ADCs) for breast and colorectal cancers.",
           "url": "https://biopharmadive.com/news/ona-antibody-drug-conjugate-breast-colorectal-cancer/821891/"
         },
         {
-          "text": "Lonza announced an enhanced preclinical development offering enabling monoclonal antibody programs to achieve IND readiness in as little as six months with toxicology-grade drug substance available in approximately two months.",
-          "url": "https://drug-dev.com/lonza-advances-integrated-dna-to-ind-programs-through-acceleration-de-risking-and-innovation/"
+          "text": "Abzena reports increased demand for formulation services supporting next-generation bioconjugate drugs and novel cargo conjugation to antibodies.",
+          "url": "https://drug-dev.com/special-feature-outsourcing-formulation-development-manufacturing-connecting-your-project-to-the-right-service-provider/"
         },
         {
-          "text": "Shattuck Labs reported completion of enrollment for the Phase 1 clinical trial of SL-325, a first-in-class DR3 blocking monoclonal antibody, with data expected in Q2 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307601/0/en/shattuck-labs-to-host-investor-call-and-webcast-on-phase-1-clinical-data-of-sl-325-a-potentially-first-in-class-dr3-blocking-antibody-and-pipeline-update-on-june-8.html"
+          "text": "Shattuck Labs, Inc. — Clinical-stage biotechnology company — Monoclonal and bispecific DR3 blocking antibodies — Announced pricing of $75 million public offering to fund development of first-in-class monoclonal antibodies for inflammatory and immune-mediated diseases.",
+          "url": "https://globenewswire.com/news-release/2026/06/09/3309333/0/en/shattuck-labs-inc-announces-proposed-public-offering.html"
         },
         {
-          "text": "Shattuck Labs plans to initiate a Phase 2 clinical trial of SL-325 in patients with Crohn's disease in Q3 2026, subject to positive Phase 1 data and regulatory alignment.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307601/0/en/shattuck-labs-to-host-investor-call-and-webcast-on-phase-1-clinical-data-of-sl-325-a-potentially-first-in-class-dr3-blocking-antibody-and-pipeline-update-on-june-8.html"
+          "text": "Windward Bio advanced WIN378, a fully human monoclonal antibody targeting TSLP, into Phase 2 SIRIUS study for COPD with ultra long-acting twice-yearly dosing potential.",
+          "url": "https://globenewswire.com/news-release/2026/06/09/3308746/0/en/windward-bio-doses-first-patients-in-phase-2-sirius-copd-study-of-ultra-long-acting-anti-tslp-antibody-win378.html"
         },
         {
-          "text": "Memo Therapeutics AG presented Phase II data for potravitug, a human BK polyomavirus-neutralizing monoclonal antibody, showing 64.1% cumulative probability of ≥1-log10 viral load reduction vs 44.8% in controls (HR 1.60, p=0.05) at week 20 in kidney transplant recipients.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307483/0/en/memo-therapeutics-ag-presents-further-analyses-of-the-phase-ii-trial-results-of-potravitug-for-the-treatment-of-bkpyv-infection-in-kidney-transplant-recipients-in-an-oral-presentat.html"
+          "text": "Windward Bio secured $165M in crossover financing led by OrbiMed to advance its pipeline of long-acting immunology therapies including monoclonal antibody WIN378.",
+          "url": "https://globenewswire.com/news-release/2026/06/09/3308746/0/en/windward-bio-doses-first-patients-in-phase-2-sirius-copd-study-of-ultra-long-acting-anti-tslp-antibody-win378.html"
         },
         {
-          "text": "Edesa Biotech reported Phase 3 exploratory data for paridiprubart, an anti-TLR4 monoclonal antibody, demonstrating a statistically significant reduction in mortality for patients with acute kidney injury and respiratory distress.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307429/0/en/edesa-biotech-reports-positive-exploratory-data-for-paridiprubart-in-patients-with-acute-kidney-injury.html"
-        },
-        {
-          "text": "Climb Bio presented initial Phase 1 safety data and translational modeling for CLYM116, a novel 'sweeper' anti-APRIL monoclonal antibody for IgA nephropathy, at the European Renal Association Congress 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307292/0/en/climb-bio-presents-clym116-initial-phase-1-safety-data-and-translational-modeling-results-at-european-renal-association-era-congress-2026-supporting-continued-development.html"
-        },
-        {
-          "text": "Climb Bio presented trial-in-progress data for PrisMN, a Phase 2 study of budoprutug, a low-fucosylated anti-CD19 monoclonal antibody, in primary membranous nephropathy at the European Renal Association Congress 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307292/0/en/climb-bio-presents-clym116-initial-phase-1-safety-data-and-translational-modeling-results-at-european-renal-association-era-congress-2026-supporting-continued-development.html"
-        },
-        {
-          "text": "Lupin received FDA approval for Ranluspec (ranibizumab-hkdz), an interchangeable biosimilar to Lucentis, indicated for wet age-related macular degeneration and other retinal diseases.",
-          "url": "https://www.healio.com/news/ophthalmology/20260605/fda-approves-ranluspec-as-biosimilar-to-lucentis"
-        },
-        {
-          "text": "Ranluspec is a recombinant humanized IgG1 monoclonal antibody fragment that inhibits VEGF, approved in 0.3 mg and 0.5 mg strengths for vial and prefilled syringe delivery.",
-          "url": "https://www.healio.com/news/ophthalmology/20260605/fda-approves-ranluspec-as-biosimilar-to-lucentis"
-        },
-        {
-          "text": "Janssen's guselkumab (Tremfya), a fully human monoclonal antibody targeting IL-23p19, received an FDA label update to include inhibition of structural joint damage progression in adults with active psoriatic arthritis.",
-          "url": "https://www.healio.com/news/rheumatology/20260603/fda-updates-tremfya-label-to-include-joint-damage-inhibition-in-psoriatic-arthritis"
-        },
-        {
-          "text": "Sanofi and Regeneron's dupilumab (Dupixent), a biologic targeting type 2 inflammation, remains a key FDA-approved treatment for prurigo nodularis since 2022.",
+          "text": "Kyowa Kirin discontinued all clinical trials for rocatinlimab, an anti-OX40 monoclonal antibody, following safety reviews identifying emerging concerns of malignancies including Kaposi's sarcoma.",
           "url": "https://www.healio.com/news/dermatology/20260605/many-things-in-the-pipeline-offer-more-options-for-prurigo-nodularis"
         },
         {
-          "text": "Lonza — Biologics development services — Accelerated DNA-to-IND programs — Monoclonal antibody programs can achieve IND readiness in as little as six months with toxicology-grade drug substance available in approximately two months.",
-          "url": "https://drug-dev.com/lonza-advances-integrated-dna-to-ind-programs-through-acceleration-de-risking-and-innovation/"
+          "text": "FDA updated the Tremfya (guselkumab) label to include inhibition of structural joint damage progression in adults with active psoriatic arthritis based on APEX trial data.",
+          "url": "https://www.healio.com/news/rheumatology/20260603/fda-updates-tremfya-label-to-include-joint-damage-inhibition-in-psoriatic-arthritis"
         },
         {
-          "text": "Shattuck Labs — SL-325 — Crohn's disease and inflammatory immune-mediated diseases — Phase 1 clinical trial enrollment complete; data on safety, tolerability, and pharmacokinetics expected Q2 2026; Phase 2 initiation planned Q3 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307601/0/en/shattuck-labs-to-host-investor-call-and-webcast-on-phase-1-clinical-data-of-sl-325-a-potentially-first-in-class-dr3-blocking-antibody-and-pipeline-update-on-june-8.html"
-        },
-        {
-          "text": "Shattuck Labs — DR3 blocking bispecific antibodies — Inflammatory and immune-mediated diseases — Lead bispecific antibody entered IND-enabling activities to inhibit DR3/TL1A axis and a secondary target.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307601/0/en/shattuck-labs-to-host-investor-call-and-webcast-on-phase-1-clinical-data-of-sl-325-a-potentially-first-in-class-dr3-blocking-antibody-and-pipeline-update-on-june-8.html"
-        },
-        {
-          "text": "Climb Bio presented initial Phase 1 safety data for CLYM116, a novel 'sweeper' anti-APRIL monoclonal antibody, at the European Renal Association Congress 2026 for IgA nephropathy treatment.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307292/0/en/climb-bio-presents-clym116-initial-phase-1-safety-data-and-translational-modeling-results-at-european-renal-association-era-congress-2026-supporting-continued-development.html"
-        },
-        {
-          "text": "Climb Bio presented a trial-in-progress poster for PrisMN, a Phase 2 study of budoprutug, a low-fucosylated anti-CD19 monoclonal antibody, in primary membranous nephropathy.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307292/0/en/climb-bio-presents-clym116-initial-phase-1-safety-data-and-translational-modeling-results-at-european-renal-association-era-congress-2026-supporting-continued-development.html"
-        },
-        {
-          "text": "Mapp Biopharmaceuticals — MBP-134 — Ebola virus disease — HHS confirmed US access to this experimental antibody treatment for high-risk exposures; product developed with BARDA funding prior to human clinical trials.",
-          "url": "https://statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/"
-        },
-        {
-          "text": "J&J's phase 2 study for nipocalimab, a monoclonal antibody targeting the neonatal Fc receptor (FcRn), showed significant reduction in systemic lupus erythematosus disease activity.",
+          "text": "Johnson & Johnson — Nipocalimab — Systemic Lupus Erythematosus — Phase 2 study demonstrated significant reduction in disease activity; drug is an FcRn blocker monoclonal antibody.",
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186284&sid=2"
         },
         {
-          "text": "MSD's Enflonsia (clesrovimab-cfor), a monoclonal antibody for RSV prevention, received Singapore HSA approval for infants born during or entering their first RSV season.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186270&sid=2"
+          "text": "University of Montreal / Dr. André Veillette — Anti-SLAMF6 antibodies — Cancer immunotherapy — Developed monoclonal antibodies blocking SLAMF6 to prevent T-cell exhaustion; showed strong anti-tumor responses in mice.",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260608040021.htm"
         },
         {
-          "text": "Aragen announced a strategic collaboration to manufacture Renaissance Pharma's monoclonal antibody (mAb) program, expanding its biologics manufacturing capabilities.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186255&sid=2"
+          "text": "Connect Biopharma is advancing rademikibart, a humanized monoclonal antibody targeting IL-4Rα, for acute asthma and COPD exacerbations via a dual inhibition strategy.",
+          "url": "https://the-scientist.com/a-new-approach-to-treating-respiratory-attacks-74572"
         },
         {
-          "text": "Mapp Biopharmaceuticals — MBP-134 — Ebola virus disease — HHS confirmed US access to this experimental antibody treatment for high-risk exposures; product developed with BARDA funding but not yet tested in human clinical trials.",
+          "text": "Sanofi's subcutaneous isatuximab-irfc (Sarclisa), a monoclonal antibody, received EU approval for multiple myeloma across all existing indications for the intravenous formulation.",
+          "url": "https://cancernetwork.com/view/subcutaneous-isatuximab-earns-eu-approval-in-multiple-myeloma"
+        },
+        {
+          "text": "Mapp Biopharmaceuticals — MBP-134 — Ebola — HHS confirmed access to this experimental antibody treatment for Americans with high-risk exposures; product developed with BARDA funding but efficacy in humans not yet established via clinical trial.",
           "url": "https://statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/"
+        },
+        {
+          "text": "Bio X Cell — Anti-mouse PD-L1 × TIGIT × LAG3 trispecific antibody — Preclinical research — Launched first commercially available ready-to-use trispecific format to study combinatorial checkpoint biology in vivo, expanding beyond traditional monoclonal antibody tools.",
+          "url": "https://the-scientist.com/bio-x-cell-introduces-first-commercially-available-ready-to-use-anti-mouse-trispecific-antibody-for-preclinical-research-74611"
         }
       ]
     },
@@ -104,84 +64,52 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Akeso / Summit Therapeutics — Ivonescimab — Non-small cell lung cancer — Phase 3 data showed 34% reduction in mortality risk vs chemo + PD-1 inhibitor, driving industry focus on PD-1/VEGF bispecific antibodies.",
-          "url": "https://biopharmadive.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/822035/"
-        },
-        {
-          "text": "Ona Therapeutics — Undisclosed ADC candidates — Breast and colorectal cancer — Secured $86.6M Series B financing to initiate clinical development of next-generation antibody-drug conjugates.",
+          "text": "Ona Therapeutics — ADC pipeline — Breast and Colorectal Cancer — Secured $86.6M Series B to launch two antibody-drug conjugates into clinical development.",
           "url": "https://biopharmadive.com/news/ona-antibody-drug-conjugate-breast-colorectal-cancer/821891/"
         },
         {
-          "text": "Lonza — DNA-to-IND Program — Monoclonal Antibodies — Launched GS Ori-Go vector technology to accelerate IND readiness to six months and toxicology-grade drug substance availability to two months.",
-          "url": "https://drug-dev.com/lonza-advances-integrated-dna-to-ind-programs-through-acceleration-de-risking-and-innovation/"
+          "text": "Abzena — Formulation Services — Biologics and Bioconjugates — Deploying 'Fast-to-Clinic' and 'Best-in-Clinic' approaches to address instability in bi/multi-specific formats and antibody-cargo conjugates.",
+          "url": "https://drug-dev.com/special-feature-outsourcing-formulation-development-manufacturing-connecting-your-project-to-the-right-service-provider/"
         },
         {
-          "text": "Shattuck Labs — SL-325 — Crohn's Disease / Ulcerative Colitis — Phase 1 enrollment complete for all six single-ascending dose and three multiple-ascending dose cohorts; topline data expected Q2 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307601/0/en/shattuck-labs-to-host-investor-call-and-webcast-on-phase-1-clinical-data-of-sl-325-a-potentially-first-in-class-dr3-blocking-antibody-and-pipeline-update-on-june-8.html"
+          "text": "Shattuck Labs — Monoclonal and bispecific DR3 blocking antibodies — Inflammatory and immune-mediated diseases — Completed pricing of public offering for 10,879,376 shares at $4.00/share and pre-funded warrants for 7,870,624 shares at $3.9999/warrant, raising ~$75M gross proceeds.",
+          "url": "https://globenewswire.com/news-release/2026/06/09/3309333/0/en/shattuck-labs-inc-announces-proposed-public-offering.html"
         },
         {
-          "text": "Shattuck Labs — Lead Bispecific DR3 Antibody — Inflammatory and Immune-Mediated Diseases — Entered IND-enabling activities; designed to inhibit DR3/TL1A axis and a secondary target.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307601/0/en/shattuck-labs-to-host-investor-call-and-webcast-on-phase-1-clinical-data-of-sl-325-a-potentially-first-in-class-dr3-blocking-antibody-and-pipeline-update-on-june-8.html"
+          "text": "Windward Bio — WIN378 (anti-TSLP monoclonal antibody) — Chronic Obstructive Pulmonary Disease (COPD) — Dosed first patients in Phase 2 SIRIUS study; ultra long-acting formulation planned for twice-yearly dosing.",
+          "url": "https://globenewswire.com/news-release/2026/06/09/3308746/0/en/windward-bio-doses-first-patients-in-phase-2-sirius-copd-study-of-ultra-long-acting-anti-tslp-antibody-win378.html"
         },
         {
-          "text": "Memo Therapeutics — Potravitug — BK polyomavirus infection in kidney transplant recipients — Phase II SAFE KIDNEY II trial: 44.9% viral clearance vs 27.3% controls (HR 1.89, p=0.028) at week 20; propensity score matching confirmed high-quality covariate balance.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307483/0/en/memo-therapeutics-ag-presents-further-analyses-of-the-phase-ii-trial-results-of-potravitug-for-the-treatment-of-bkpyv-infection-in-kidney-transplant-recipients-in-an-oral-presentat.html"
+          "text": "Windward Bio — WIN378 — Asthma — Phase 2/3 POLARIS program dose-ranging component fully recruited; initial data expected H2 2026; Phase 3 study start expected Q4 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/09/3308746/0/en/windward-bio-doses-first-patients-in-phase-2-sirius-copd-study-of-ultra-long-acting-anti-tslp-antibody-win378.html"
         },
         {
-          "text": "Edesa Biotech — Paridiprubart — Acute Kidney Injury (AKI) with respiratory distress — Phase 3 data presented at ERA Congress showed consistent, statistically significant mortality reduction; >400 patients exposed with favorable safety profile.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307429/0/en/edesa-biotech-reports-positive-exploratory-data-for-paridiprubart-in-patients-with-acute-kidney-injury.html"
+          "text": "Kyowa Kirin — Rocatinlimab — Atopic Dermatitis, Asthma, Prurigo Nodularis — Discontinued all Phase 2 and 3 trials after safety review identified one confirmed and one suspected case of Kaposi's sarcoma linked to OX40 pathway modulation.",
+          "url": "https://www.healio.com/news/dermatology/20260605/many-things-in-the-pipeline-offer-more-options-for-prurigo-nodularis"
         },
         {
-          "text": "Climb Bio — CLYM116 — IgA nephropathy — Novel 'sweeper' anti-APRIL monoclonal antibody; Phase 1 safety data and PK/PD modeling from nonhuman primates to healthy volunteers presented at ERA 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307292/0/en/climb-bio-presents-clym116-initial-phase-1-safety-data-and-translational-modeling-results-at-european-renal-association-era-congress-2026-supporting-continued-development.html"
-        },
-        {
-          "text": "Climb Bio — Budoprutug — Primary membranous nephropathy — Low-fucosylated anti-CD19 monoclonal antibody; Phase 2 PrisMN trial ongoing with data presented at ERA 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307292/0/en/climb-bio-presents-clym116-initial-phase-1-safety-data-and-translational-modeling-results-at-european-renal-association-era-congress-2026-supporting-continued-development.html"
-        },
-        {
-          "text": "Lupin — Ranluspec (ranibizumab-hkdz) — Wet age-related macular degeneration, diabetic macular edema, and other retinal diseases — FDA approved as interchangeable biosimilar to Lucentis; recombinant humanized IgG1 monoclonal antibody fragment inhibiting VEGF.",
-          "url": "https://www.healio.com/news/ophthalmology/20260605/fda-approves-ranluspec-as-biosimilar-to-lucentis"
-        },
-        {
-          "text": "Janssen — Guselkumab (Tremfya) — Psoriatic Arthritis — FDA label expanded to include structural joint damage inhibition based on APEX trial data showing significantly lower radiographic progression vs placebo at 24 weeks in >1,000 biologic-naïve adults.",
+          "text": "Janssen — Tremfya (guselkumab) — Psoriatic Arthritis — FDA label expansion approved to include inhibition of structural joint damage progression; APEX trial showed significantly lower radiographic progression vs placebo at 24 weeks in >1,000 biologic-naïve adults.",
           "url": "https://www.healio.com/news/rheumatology/20260603/fda-updates-tremfya-label-to-include-joint-damage-inhibition-in-psoriatic-arthritis"
         },
         {
-          "text": "Lonza — GS Ori-Go vector technology — Biologics manufacturing — Launched next-generation vector platform for GS Expression System to improve productivity and consistency in early-stage biomanufacturing for monoclonal antibody programs.",
-          "url": "https://drug-dev.com/lonza-advances-integrated-dna-to-ind-programs-through-acceleration-de-risking-and-innovation/"
+          "text": "University of Montreal — Anti-SLAMF6 monoclonal antibodies — Cancer — Preclinical development of antibodies blocking SLAMF6 self-binding to restore T-cell function; superior to existing SLAMF6 targeting approaches in mouse models.",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260608040021.htm"
         },
         {
-          "text": "Shattuck Labs — SL-325 — Crohn's disease — Phase 1 trial completed enrollment across six single-ascending dose and three multiple-ascending dose cohorts; topline data expected Q2 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307601/0/en/shattuck-labs-to-host-investor-call-and-webcast-on-phase-1-clinical-data-of-sl-325-a-potentially-first-in-class-dr3-blocking-antibody-and-pipeline-update-on-june-8.html"
+          "text": "Sanofi — Isatuximab-irfc (Sarclisa) — Multiple Myeloma — EU approval granted for subcutaneous on-body injector formulation based on Phase 3 IRAKLIA trial showing noninferiority to IV (ORR 71.7% vs 70.5%; P=.0006).",
+          "url": "https://cancernetwork.com/view/subcutaneous-isatuximab-earns-eu-approval-in-multiple-myeloma"
         },
         {
-          "text": "Climb Bio — CLYM116 — IgA nephropathy — Novel 'sweeper' anti-APRIL monoclonal antibody; Phase 1 safety data presented at ERA 2026 with PK/PD modeling extrapolated from nonhuman primates to humans.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307292/0/en/climb-bio-presents-clym116-initial-phase-1-safety-data-and-translational-modeling-results-at-european-renal-association-era-congress-2026-supporting-continued-development.html"
+          "text": "Connect Biopharma — Rademikibart — Acute Asthma/COPD Exacerbations — Humanized monoclonal antibody targeting IL-4Rα advancing in global clinical studies for acute exacerbations.",
+          "url": "https://the-scientist.com/a-new-approach-to-treating-respiratory-attacks-74572"
         },
         {
-          "text": "Climb Bio — Budoprutug — Primary membranous nephropathy — Low-fucosylated anti-CD19 monoclonal antibody; Phase 2 PrisMN trial ongoing to evaluate safety and efficacy in B-cell mediated diseases.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307292/0/en/climb-bio-presents-clym116-initial-phase-1-safety-data-and-translational-modeling-results-at-european-renal-association-era-congress-2026-supporting-continued-development.html"
-        },
-        {
-          "text": "Mapp Biopharmaceuticals — MBP-134 — Ebola virus disease — Experimental antibody treatment authorized for US high-risk exposure cases; efficacy in humans not yet established via clinical trial; dosing inventory held by BARDA.",
+          "text": "Mapp Biopharmaceuticals — MBP-134 — Ebola — HHS authorized access for high-risk US exposures; antibody developed with BARDA funding; dose inventory undisclosed as BARDA owns stock; no human clinical trial data available.",
           "url": "https://statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/"
         },
         {
-          "text": "J&J — Nipocalimab — Systemic Lupus Erythematosus — Phase 2 study demonstrated significant reduction in disease activity; FcRn-targeting monoclonal antibody mechanism confirmed.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186284&sid=2"
-        },
-        {
-          "text": "MSD — Enflonsia (clesrovimab-cfor) — RSV lower respiratory tract disease in infants — Singapore HSA approval granted for prevention in infants born during or entering first RSV season; monoclonal antibody class.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186270&sid=2"
-        },
-        {
-          "text": "Aragen — Renaissance Pharma mAb — Undisclosed indication — Secured manufacturing agreement for Renaissance Pharma's monoclonal antibody pipeline as part of ongoing strategic collaboration.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186255&sid=2"
-        },
-        {
-          "text": "Mapp Biopharmaceuticals — MBP-134 — Ebola virus disease — Experimental antibody treatment authorized for US patients with high-risk exposures; dosing inventory held by BARDA and undisclosed to the public.",
-          "url": "https://statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/"
+          "text": "Bio X Cell — Anti-mouse PD-L1 × TIGIT × LAG3 — Preclinical oncology research — Released first ready-to-use trispecific antibody (murine IgG2a constant region) enabling simultaneous interrogation of three checkpoint pathways in standard mouse models.",
+          "url": "https://the-scientist.com/bio-x-cell-introduces-first-commercially-available-ready-to-use-anti-mouse-trispecific-antibody-for-preclinical-research-74611"
         }
       ]
     },
@@ -189,80 +117,52 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Summit Therapeutics — Commercialization of PD-1/VEGF bispecific antibody — Ivonescimab — Phase 3 data supports lung cancer indication; industry benchmark for bispecific antibody efficacy.",
-          "url": "https://biopharmadive.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/822035/"
-        },
-        {
-          "text": "Ona Therapeutics — Differentiated antibody-drug conjugate development — Breast and colorectal cancer ADCs — $86.6M Series B raised to advance clinical pipeline; positioned to compete with approved ADCs like Enhertu.",
+          "text": "Ona Therapeutics — ADC commercialization — Breast and Colorectal Cancer pipeline — $86.6M Series B raised June 2026 to initiate clinical trials.",
           "url": "https://biopharmadive.com/news/ona-antibody-drug-conjugate-breast-colorectal-cancer/821891/"
         },
         {
-          "text": "Lonza — Accelerated biologics development services — Monoclonal antibody programs — Deployed GS Ori-Go vector platform to support over 100 commercial products and reduce early-stage development risk.",
-          "url": "https://drug-dev.com/lonza-advances-integrated-dna-to-ind-programs-through-acceleration-de-risking-and-innovation/"
+          "text": "Abzena — Formulation development for bioconjugates — Antibody conjugation services — Addressing instability in bi/multi-specific formats and novel cargo conjugation.",
+          "url": "https://drug-dev.com/special-feature-outsourcing-formulation-development-manufacturing-connecting-your-project-to-the-right-service-provider/"
         },
         {
-          "text": "Shattuck Labs — First-in-class DR3 blocking antibody commercialization — SL-325 (monoclonal) + Bispecific pipeline — Phase 1 enrollment complete; Phase 2 in Crohn's disease targeted for Q3 2026 initiation.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307601/0/en/shattuck-labs-to-host-investor-call-and-webcast-on-phase-1-clinical-data-of-sl-325-a-potentially-first-in-class-dr3-blocking-antibody-and-pipeline-update-on-june-8.html"
+          "text": "Shattuck Labs — Pioneering first-in-class monoclonal and bispecific DR3 blocking antibodies — Pipeline for inflammatory and immune-mediated diseases — Secured $75M capital raise via public offering to advance clinical-stage monoclonal antibody programs.",
+          "url": "https://globenewswire.com/news-release/2026/06/09/3309333/0/en/shattuck-labs-inc-announces-proposed-public-offering.html"
         },
         {
-          "text": "Memo Therapeutics AG — Late-stage biotech targeting viral infections and cancer — Potravitug (BKPyV-neutralizing mAb) — Phase II data presented at 63rd European Renal Association Congress; no approved treatments currently exist for BKPyV infection.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307483/0/en/memo-therapeutics-ag-presents-further-analyses-of-the-phase-ii-trial-results-of-potravitug-for-the-treatment-of-bkpyv-infection-in-kidney-transplant-recipients-in-an-oral-presentat.html"
+          "text": "Windward Bio — Commercialization of long-acting monoclonal antibodies — WIN378 (anti-TSLP mAb) and WIN027 (bispecific TSLP/IL-13) — $165M crossover financing secured; total raised $365M since Jan 2025.",
+          "url": "https://globenewswire.com/news-release/2026/06/09/3308746/0/en/windward-bio-doses-first-patients-in-phase-2-sirius-copd-study-of-ultra-long-acting-anti-tslp-antibody-win378.html"
         },
         {
-          "text": "Edesa Biotech — Host-directed therapeutics for immuno-inflammatory diseases — Paridiprubart (anti-TLR4 mAb) — Phase 3 data supports mortality reduction in AKI; mechanism agnostic to causal agent with potential utility in ARDS, sepsis, and biodefense.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307429/0/en/edesa-biotech-reports-positive-exploratory-data-for-paridiprubart-in-patients-with-acute-kidney-injury.html"
-        },
-        {
-          "text": "Climb Bio — Development of immune-mediated disease therapeutics — CLYM116 (anti-APRIL mAb) and Budoprutug (anti-CD19 mAb) — Clinical-stage; presenting Phase 1 and Phase 2 data at ERA 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307292/0/en/climb-bio-presents-clym116-initial-phase-1-safety-data-and-translational-modeling-results-at-european-renal-association-era-congress-2026-supporting-continued-development.html"
-        },
-        {
-          "text": "Lupin — Biosimilar portfolio expansion — Ranluspec (ranibizumab-hkdz) — Second US biosimilar approved; targets complex biologics market with interchangeable status for Lucentis indications.",
-          "url": "https://www.healio.com/news/ophthalmology/20260605/fda-approves-ranluspec-as-biosimilar-to-lucentis"
-        },
-        {
-          "text": "Janssen — Label expansion for structural damage inhibition — Guselkumab (Tremfya) — Fully human monoclonal antibody against IL-23p19; APEX trial data supports immediate clinical impact for early or late-stage psoriatic arthritis.",
-          "url": "https://www.healio.com/news/rheumatology/20260603/fda-updates-tremfya-label-to-include-joint-damage-inhibition-in-psoriatic-arthritis"
-        },
-        {
-          "text": "Sanofi / Regeneron — Chronic inflammatory skin disease management — Dupilumab (Dupixent) — Biologic targeting IL-4/IL-13; approved for prurigo nodularis in 2022, representing a paradigm shift in limited therapeutic options.",
+          "text": "Kyowa Kirin — Monoclonal antibody safety management — Rocatinlimab (anti-OX40 mAb) — Halted global development program due to malignancy signals; previously reported durable efficacy in ROCKET program for atopic dermatitis.",
           "url": "https://www.healio.com/news/dermatology/20260605/many-things-in-the-pipeline-offer-more-options-for-prurigo-nodularis"
         },
         {
-          "text": "Lonza — Accelerated DNA-to-IND services for monoclonal antibodies — GS Ori-Go vector platform — Enhanced preclinical offering reduces IND timeline to six months while integrating development, manufacturing, and regulatory insights.",
-          "url": "https://drug-dev.com/lonza-advances-integrated-dna-to-ind-programs-through-acceleration-de-risking-and-innovation/"
+          "text": "Janssen — Label expansion for structural damage inhibition — Tremfya (guselkumab) — Fully human monoclonal antibody targeting IL-23p19; now indicated for inhibition of structural joint damage in active psoriatic arthritis.",
+          "url": "https://www.healio.com/news/rheumatology/20260603/fda-updates-tremfya-label-to-include-joint-damage-inhibition-in-psoriatic-arthritis"
         },
         {
-          "text": "Shattuck Labs — First-in-class DR3 blocking monoclonal and bispecific antibody development — SL-325 and lead bispecific candidate — Phase 1 enrollment complete for SL-325; lead bispecific entered IND-enabling activities.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307601/0/en/shattuck-labs-to-host-investor-call-and-webcast-on-phase-1-clinical-data-of-sl-325-a-potentially-first-in-class-dr3-blocking-antibody-and-pipeline-update-on-june-8.html"
-        },
-        {
-          "text": "Climb Bio — Development of immune-mediated disease therapeutics — CLYM116 (anti-APRIL mAb) + Budoprutug (anti-CD19 mAb) — Clinical-stage pipeline advancing with Phase 1 and Phase 2 data presentations at ERA 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307292/0/en/climb-bio-presents-clym116-initial-phase-1-safety-data-and-translational-modeling-results-at-european-renal-association-era-congress-2026-supporting-continued-development.html"
-        },
-        {
-          "text": "Mapp Biopharmaceuticals — Emergency Ebola response — MBP-134 (antibody treatment) — Product authorized by HHS for US high-risk exposures; manufacturing and inventory funded by BARDA; human efficacy data pending.",
-          "url": "https://statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/"
-        },
-        {
-          "text": "J&J — Advancing FcRn-targeting monoclonal antibody pipeline — Nipocalimab — Phase 2 data positive for systemic lupus erythematosus; regulatory submissions anticipated.",
+          "text": "Johnson & Johnson — FcRn blockade commercialization — Nipocalimab (monoclonal antibody) — Phase 2 data supports advancement in systemic lupus erythematosus indication.",
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186284&sid=2"
         },
         {
-          "text": "MSD — Commercializing RSV monoclonal antibody — Enflonsia (clesrovimab-cfor) — Singapore HSA approval secured; positioned for infant RSV prevention market entry.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186270&sid=2"
+          "text": "University of Montreal / Montreal Clinical Research Institute — Novel cancer immunotherapy platform — Anti-SLAMF6 monoclonal antibodies — Preclinical stage; targeting patients resistant to PD1/PDL1 inhibitors.",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260608040021.htm"
         },
         {
-          "text": "Aragen — Biologics manufacturing expansion — Renaissance Pharma mAb program — Executed strategic collaboration to manufacture monoclonal antibodies for partner.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186255&sid=2"
+          "text": "Sanofi — Commercialization of subcutaneous monoclonal antibody delivery — Isatuximab-irfc (Sarclisa) — EU approval secured for on-body injector; Phase 3 data supports noninferior efficacy and reduced infusion reactions (1.5% vs 25%).",
+          "url": "https://cancernetwork.com/view/subcutaneous-isatuximab-earns-eu-approval-in-multiple-myeloma"
         },
         {
-          "text": "Renaissance Pharma — Monoclonal antibody commercialization — mAb pipeline — Partnered with Aragen for manufacturing of its monoclonal antibody assets.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186255&sid=2"
+          "text": "Connect Biopharma — Development of dual-cytokine targeting biologic — Rademikibart (anti-IL-4Rα mAb) — Clinical-stage program addressing unmet need in acute respiratory exacerbations.",
+          "url": "https://the-scientist.com/a-new-approach-to-treating-respiratory-attacks-74572"
         },
         {
-          "text": "Mapp Biopharmaceuticals — Emergency Ebola response — MBP-134 (antibody treatment) — Product authorized for US high-risk exposure cases; manufacturing and inventory controlled by BARDA; efficacy in humans not yet established via clinical trial.",
+          "text": "Mapp Biopharmaceuticals — Emergency Ebola countermeasure development — MBP-134 (antibody) — Product authorized for US high-risk exposure access; manufacturing and inventory controlled by BARDA; human efficacy data pending.",
           "url": "https://statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/"
+        },
+        {
+          "text": "Bio X Cell — Expansion into multispecific antibody formats — Anti-mouse PD-L1 × TIGIT × LAG3 — Transitioning beyond traditional monoclonal antibodies to offer recombinant trispecific tools for in vivo checkpoint biology research.",
+          "url": "https://the-scientist.com/bio-x-cell-introduces-first-commercially-available-ready-to-use-anti-mouse-trispecific-antibody-for-preclinical-research-74611"
         }
       ]
     },
@@ -270,76 +170,52 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "Ivonescimab — Mechanism: PD-1/VEGF bispecific antibody — Phase: 3 — Population: Non-small cell lung cancer — Comparator: Chemotherapy + PD-1 inhibitor — Results: 34% reduction in risk of death.",
-          "url": "https://biopharmadive.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/822035/"
-        },
-        {
-          "text": "Ona Therapeutics ADC candidates — Mechanism: Antibody-drug conjugate (protein linked to toxic payload) — Phase: Pre-clinical/early clinical — Population: Advanced breast and colorectal cancer — Status: $86.6M funding secured for clinical entry.",
+          "text": "Ona Therapeutics ADCs — Mechanism: Antibody-drug conjugate linking protein to toxic payload — Phase: Pre-clinical to Clinical initiation — Population: Advanced breast and colorectal cancer — Status: Funding secured for development.",
           "url": "https://biopharmadive.com/news/ona-antibody-drug-conjugate-breast-colorectal-cancer/821891/"
         },
         {
-          "text": "SL-325 — Mechanism: DR3 blocking monoclonal antibody — Phase: 1 — Population: Healthy volunteers — Endpoints: Safety, tolerability, pharmacokinetics, receptor occupancy, duration of receptor occupancy, pharmacodynamics, and immunogenicity — Status: Enrollment complete, data analysis ongoing.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307601/0/en/shattuck-labs-to-host-investor-call-and-webcast-on-phase-1-clinical-data-of-sl-325-a-potentially-first-in-class-dr3-blocking-antibody-and-pipeline-update-on-june-8.html"
+          "text": "Antibody-cargo conjugates — Mechanism: Conjugation of novel cargos to antibodies — Challenge: Inherent instability requiring considered formulation approaches — Context: Increasing demand for high-concentration forms in next-generation biologics.",
+          "url": "https://drug-dev.com/special-feature-outsourcing-formulation-development-manufacturing-connecting-your-project-to-the-right-service-provider/"
         },
         {
-          "text": "Lonza GS Ori-Go — Mechanism: Next-generation vector platform for GS Expression System — Application: Monoclonal antibody biomanufacturing — Outcome: Improved productivity and consistency enabling six-month IND readiness.",
-          "url": "https://drug-dev.com/lonza-advances-integrated-dna-to-ind-programs-through-acceleration-de-risking-and-innovation/"
+          "text": "Shattuck Labs monoclonal and bispecific DR3 blocking antibodies — Mechanism: DR3 receptor blockade — Phase: Clinical-stage — Population: Patients with inflammatory and immune-mediated diseases — Status: First-in-class candidates advancing with $75M funding secured.",
+          "url": "https://globenewswire.com/news-release/2026/06/09/3309333/0/en/shattuck-labs-inc-announces-proposed-public-offering.html"
         },
         {
-          "text": "Potravitug — Mechanism: Human BK polyomavirus-neutralizing monoclonal antibody — Phase: 2 (SAFE KIDNEY II) — Population: Kidney transplant recipients with BKPyV infection — Comparator: Placebo/external control — Results: 64.1% achieved ≥1-log10 viral reduction (HR 1.60, p=0.05); 44.9% viral clearance (HR 1.89, p=0.028) at week 20.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307483/0/en/memo-therapeutics-ag-presents-further-analyses-of-the-phase-ii-trial-results-of-potravitug-for-the-treatment-of-bkpyv-infection-in-kidney-transplant-recipients-in-an-oral-presentat.html"
+          "text": "WIN378 — Mechanism: Fully human monoclonal antibody binding thymic stromal lymphopoietin (TSLP) ligand — Phase: 2 (SIRIUS) and 2/3 (POLARIS) — Population: COPD and Asthma patients — Dosing: Ultra long-acting, twice-yearly — Status: First patient dosed in COPD study Q2 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/09/3308746/0/en/windward-bio-doses-first-patients-in-phase-2-sirius-copd-study-of-ultra-long-acting-anti-tslp-antibody-win378.html"
         },
         {
-          "text": "Paridiprubart — Mechanism: Anti-TLR4 (Toll-like Receptor 4) monoclonal antibody dampening hyperinflammatory cascade — Phase: 3 — Population: Patients with acute kidney injury and respiratory distress — Comparator: Not specified in abstract — Results: Statistically significant reduction in mortality; >400 patients exposed with favorable safety profile.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307429/0/en/edesa-biotech-reports-positive-exploratory-data-for-paridiprubart-in-patients-with-acute-kidney-injury.html"
+          "text": "Rocatinlimab — Mechanism: Anti-OX40 monoclonal antibody targeting memory T cells — Phase: 2/3 (discontinued) — Population: Moderate to severe atopic dermatitis, uncontrolled asthma, prurigo nodularis — Comparator: N/A (trial halted) — Results: Development halted due to Kaposi's sarcoma cases suggesting mechanistic link to OX40 modulation.",
+          "url": "https://www.healio.com/news/dermatology/20260605/many-things-in-the-pipeline-offer-more-options-for-prurigo-nodularis"
         },
         {
-          "text": "CLYM116 — Mechanism: Anti-APRIL 'sweeper' monoclonal antibody — Phase: 1 — Population: Healthy volunteers — Endpoints/Results: Initial safety data presented; PK/PD extrapolation from nonhuman primates to humans confirmed.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307292/0/en/climb-bio-presents-clym116-initial-phase-1-safety-data-and-translational-modeling-results-at-european-renal-association-era-congress-2026-supporting-continued-development.html"
-        },
-        {
-          "text": "Budoprutug — Mechanism: Low-fucosylated anti-CD19 monoclonal antibody with enhanced effector function — Phase: 2 (PrisMN) — Population: Primary membranous nephropathy — Endpoints/Results: Trial in progress; targets CD19-expressing B cells including plasmablasts and plasma cells.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307292/0/en/climb-bio-presents-clym116-initial-phase-1-safety-data-and-translational-modeling-results-at-european-renal-association-era-congress-2026-supporting-continued-development.html"
-        },
-        {
-          "text": "Ranluspec — Mechanism: Recombinant humanized IgG1 monoclonal antibody fragment inhibiting VEGF — Phase: Approved (Biosimilar) — Population: Patients with wet AMD, diabetic macular edema, retinal vein occlusion, diabetic retinopathy, myopic CNV — Comparator: Lucentis (reference product) — Status: Interchangeable biosimilar approved in 0.3 mg and 0.5 mg strengths.",
-          "url": "https://www.healio.com/news/ophthalmology/20260605/fda-approves-ranluspec-as-biosimilar-to-lucentis"
-        },
-        {
-          "text": "Guselkumab — Mechanism: Fully human monoclonal antibody binding CD64 and inhibiting IL-23p19 subunit — Phase: 3 (APEX trial) — Population: >1,000 biologic-naïve adults with active psoriatic arthritis — Comparator: Placebo — Results: Significantly lower rates of radiographic progression at 24 weeks.",
+          "text": "Guselkumab — Mechanism: Fully human monoclonal antibody binding CD64 and inhibiting IL-23p19 subunit — Phase: 3 (APEX) — Population: >1,000 biologic-naïve adults with active psoriatic arthritis — Comparator: Placebo — Endpoint: Radiographic progression at 24 weeks; results showed significantly lower progression rates.",
           "url": "https://www.healio.com/news/rheumatology/20260603/fda-updates-tremfya-label-to-include-joint-damage-inhibition-in-psoriatic-arthritis"
         },
         {
-          "text": "SL-325 — Mechanism: DR3 blocking antibody — Phase: 1 — Population: Healthy volunteers — Comparator: None stated — Endpoints: Safety, tolerability, pharmacokinetics, receptor occupancy, duration of receptor occupancy, pharmacodynamics, and immunogenicity; data expected Q2 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307601/0/en/shattuck-labs-to-host-investor-call-and-webcast-on-phase-1-clinical-data-of-sl-325-a-potentially-first-in-class-dr3-blocking-antibody-and-pipeline-update-on-june-8.html"
-        },
-        {
-          "text": "Shattuck lead bispecific antibody — Mechanism: Dual inhibition of DR3/TL1A axis and secondary target — Phase: IND-enabling — Population: Inflammatory and immune-mediated diseases — Comparator: None stated — Status: Entered IND-enabling activities.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307601/0/en/shattuck-labs-to-host-investor-call-and-webcast-on-phase-1-clinical-data-of-sl-325-a-potentially-first-in-class-dr3-blocking-antibody-and-pipeline-update-on-june-8.html"
-        },
-        {
-          "text": "CLYM116 — Mechanism: Anti-APRIL monoclonal antibody with 'sweeper' properties — Phase: 1 — Population: Healthy volunteers — Endpoints: Initial safety data and PK/PD modeling from NHPs to humans presented.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307292/0/en/climb-bio-presents-clym116-initial-phase-1-safety-data-and-translational-modeling-results-at-european-renal-association-era-congress-2026-supporting-continued-development.html"
-        },
-        {
-          "text": "Budoprutug — Mechanism: Low-fucosylated anti-CD19 monoclonal antibody targeting CD19-expressing B cells, plasmablasts, and plasma cells — Phase: 2 (PrisMN) — Population: Primary membranous nephropathy — Endpoints: Safety and efficacy evaluation for durable B-cell depletion and autoantibody reduction.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307292/0/en/climb-bio-presents-clym116-initial-phase-1-safety-data-and-translational-modeling-results-at-european-renal-association-era-congress-2026-supporting-continued-development.html"
-        },
-        {
-          "text": "MBP-134 — Mechanism: Antibody treatment (monoclonal class implied by context of 'antibody treatment' and BARDA portfolio) — Phase: Pre-clinical/Investigational — Population: Humans with high-risk Ebola exposure — Comparator: None stated — Results: Promising animal testing data; human efficacy not yet confirmed.",
-          "url": "https://statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/"
-        },
-        {
-          "text": "Nipocalimab — Mechanism: FcRn blockade to reduce pathogenic IgG — Phase: 2 — Population: Systemic lupus erythematosus patients — Comparator: Not specified — Endpoints/Results: Significant reduction in disease activity reported.",
+          "text": "Nipocalimab — Mechanism: FcRn blockade reducing pathogenic IgG — Phase: 2 — Population: Systemic Lupus Erythematosus — Comparator: Not specified in source — Results: Significant reduction in disease activity reported.",
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186284&sid=2"
         },
         {
-          "text": "Enflonsia (clesrovimab-cfor) — Mechanism: Monoclonal antibody neutralizing RSV — Phase: Post-approval — Population: Infants born during or entering first RSV season — Comparator: Not specified — Endpoints/Results: Singapore HSA approval for prevention of lower respiratory tract disease.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186270&sid=2"
+          "text": "Anti-SLAMF6 antibodies — Mechanism: Monoclonal blockade of SLAMF6 self-association to prevent T-cell exhaustion — Phase: Preclinical — Population: Murine tumor models — Comparator: Existing PD1/PDL1 approaches — Results: Increased T-cell activation, reduced exhaustion, and strong anti-tumor responses observed.",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260608040021.htm"
         },
         {
-          "text": "MBP-134 — Mechanism: Antibody-based neutralization (specific MOA not detailed in source) — Phase: Pre-clinical/Investigational — Population: Humans with high-risk Ebola exposure (authorized for emergency use) — Comparator: None stated — Results: Promising efficacy demonstrated in animal testing; human clinical trial data not yet available.",
+          "text": "Isatuximab-irfc (SC) — Mechanism: Anti-CD38 monoclonal antibody — Phase: 3 (IRAKLIA) — Population: Relapsed/refractory multiple myeloma — Comparator: Intravenous isatuximab — Endpoints/Results: ORR 71.7% vs 70.5% (noninferior); systemic infusion reactions 1.5% vs 25%; patient satisfaction 70% vs 53.4%.",
+          "url": "https://cancernetwork.com/view/subcutaneous-isatuximab-earns-eu-approval-in-multiple-myeloma"
+        },
+        {
+          "text": "Rademikibart — Mechanism: Humanized monoclonal antibody targeting IL-4Rα with dual inhibition strategy — Phase: Clinical studies — Population: Acute asthma and COPD exacerbations — Comparator: Not specified in source — Endpoints/Results: Designed for faster intervention than current options; specific trial data not provided.",
+          "url": "https://the-scientist.com/a-new-approach-to-treating-respiratory-attacks-74572"
+        },
+        {
+          "text": "MBP-134 — Mechanism: Antibody treatment (specific MOA not detailed in source) — Phase: Pre-clinical/Animal testing only — Population: Humans (high-risk Ebola exposure) — Comparator: None — Status: Efficacy in humans not yet established; authorized for emergency access.",
           "url": "https://statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/"
+        },
+        {
+          "text": "Anti-mouse PD-L1 × TIGIT × LAG3 — Mechanism: Trispecific antibody targeting PD-L1, TIGIT, and LAG3 immune checkpoints — Phase: Preclinical tool — Population: Standard mouse models — Comparator: Multi-agent study designs — Utility: Reduces variability in studying T-cell exhaustion and immune suppression.",
+          "url": "https://the-scientist.com/bio-x-cell-introduces-first-commercially-available-ready-to-use-anti-mouse-trispecific-antibody-for-preclinical-research-74611"
         }
       ]
     },
@@ -347,36 +223,28 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Ona Therapeutics — Series B financing — ADC pipeline — Raised $86.6M to fund clinical development of differentiated antibody-drug conjugates for breast and colorectal cancers.",
+          "text": "Ona Therapeutics — Series B financing — ADC development — Raised $86.6M to fund clinical launch of differentiated antibody-drug conjugates.",
           "url": "https://biopharmadive.com/news/ona-antibody-drug-conjugate-breast-colorectal-cancer/821891/"
         },
         {
-          "text": "Akeso / Summit Therapeutics — Licensing deal — Ivonescimab — Partnership drives global commercialization of PD-1/VEGF bispecific antibody following positive Phase 3 lung cancer data.",
-          "url": "https://biopharmadive.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/822035/"
+          "text": "Shattuck Labs — Public offering — $75 million gross proceeds — Issued 10,879,376 common shares at $4.00 and 7,870,624 pre-funded warrants at $3.9999; underwriters granted 30-day option for 2,812,500 additional shares; joint bookrunners: Leerink Partners, J.P. Morgan, Piper Sandler, Cantor.",
+          "url": "https://globenewswire.com/news-release/2026/06/09/3309333/0/en/shattuck-labs-inc-announces-proposed-public-offering.html"
         },
         {
-          "text": "Lonza — Strategic service expansion — Monoclonal antibody development — Integrated DNA-to-IND offering launched to de-risk early-stage decisions and accelerate timelines for pharma and biotech customers.",
-          "url": "https://drug-dev.com/lonza-advances-integrated-dna-to-ind-programs-through-acceleration-de-risking-and-innovation/"
+          "text": "Windward Bio — $165M crossover financing — Led by OrbiMed with participation from RA Capital, Janus Henderson, Sanofi Ventures, Harbour BioMed — Proceeds to advance WIN378 to Phase 3 and WIN027 to respiratory/dermatology studies by Q4 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/09/3308746/0/en/windward-bio-doses-first-patients-in-phase-2-sirius-copd-study-of-ultra-long-acting-anti-tslp-antibody-win378.html"
         },
         {
-          "text": "Lupin — Commercial launch of Ranluspec — Ranibizumab biosimilar — FDA approval secures market entry for second US biosimilar in portfolio, expanding access to proven vision therapies.",
-          "url": "https://www.healio.com/news/ophthalmology/20260605/fda-approves-ranluspec-as-biosimilar-to-lucentis"
+          "text": "Sanofi — Regulatory filing and approval — Isatuximab-irfc (Sarclisa) — EU Committee for Medicinal Products for Human View issued positive opinion leading to approval of subcutaneous formulation.",
+          "url": "https://cancernetwork.com/view/subcutaneous-isatuximab-earns-eu-approval-in-multiple-myeloma"
         },
         {
-          "text": "Lonza — Strategic service expansion — Monoclonal antibody development — Launched enhanced DNA-to-IND program leveraging GS Ori-Go technology to de-risk and accelerate timelines for early-stage pharma and biotech clients.",
-          "url": "https://drug-dev.com/lonza-advances-integrated-dna-to-ind-programs-through-acceleration-de-risking-and-innovation/"
-        },
-        {
-          "text": "Mapp Biopharmaceuticals / BARDA — MBP-134 development and supply — BARDA funded development and holds inventory of MBP-134 antibody treatment; specific deal value undisclosed.",
+          "text": "Mapp Biopharmaceuticals — BARDA funding partnership — MBP-134 — BARDA owns all existing doses; inventory quantity undisclosed; no commercial sales reported.",
           "url": "https://statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/"
         },
         {
-          "text": "Aragen / Renaissance Pharma — Strategic manufacturing collaboration — Monoclonal antibody (mAb) production — Agreement established for Aragen to manufacture Renaissance Pharma's mAb assets.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186255&sid=2"
-        },
-        {
-          "text": "Mapp Biopharmaceuticals / BARDA — Emergency access authorization — MBP-134 — BARDA retains ownership of all doses; HHS confirmed distribution protocol for US citizens with high-risk Ebola exposure in Central Africa.",
-          "url": "https://statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/"
+          "text": "Bio X Cell — Product launch — Anti-mouse PD-L1 × TIGIT × LAG3 — First commercially available ready-to-use trispecific antibody; manufactured to in vivo-ready quality standards with ultra-pure, carrier-free formulations.",
+          "url": "https://the-scientist.com/bio-x-cell-introduces-first-commercially-available-ready-to-use-anti-mouse-trispecific-antibody-for-preclinical-research-74611"
         }
       ]
     }
