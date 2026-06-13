@@ -1,54 +1,58 @@
 {
   "query": "bispecific",
-  "generated_at": "2026-06-09 08:49:47",
-  "article_count": 38,
+  "generated_at": "2026-06-13 08:38:54",
+  "article_count": 32,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Akeso and Summit Therapeutics — ivonescimab — PD-1/VEGF bispecific — Phase 3 trial in lung cancer reduced risk of death by 34% vs standard chemotherapy plus PD-1 inhibitor.",
-          "url": "https://biopharmadive.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/822035/"
+          "text": "Genmab — Epcoritamab — Relapsed/Refractory Follicular Lymphoma — Presented EPCORE FL-1 subgroup data showing consistent efficacy and safety for epcoritamab (bispecific antibody) in combination with rituximab and lenalidomide (R2).",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310630/0/en/genmab-presents-epcore-fl-1-subgroup-data-demonstrating-consistent-efficacy-and-safety-results-for-epcoritamab-in-combination-with-rituximab-and-lenalidomide-r2-across-relapsed-or-.html"
         },
         {
-          "text": "BioNTech, Merck & Co., and Pfizer — investigational PD-1/VEGF bispecifics — Lung cancer — Currently testing against lung tumors despite skepticism regarding patient demographic differences between Chinese and Western trials.",
-          "url": "https://biopharmadive.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/822035/"
+          "text": "Genmab — Pipeline Strategy — Bispecific Antibodies — Confirmed advancement of bispecific antibodies as a core therapeutic format alongside ADCs and immune-modulating antibodies within its late-stage clinical pipeline.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310630/0/en/genmab-presents-epcore-fl-1-subgroup-data-demonstrating-consistent-efficacy-and-safety-results-for-epcoritamab-in-combination-with-rituximab-and-lenalidomide-r2-across-relapsed-or-.html"
         },
         {
-          "text": "Shattuck Labs is pioneering the development of potentially first-in-class monoclonal and bispecific DR3-blocking antibodies for inflammatory and immune-mediated diseases.",
-          "url": "https://globenewswire.com/news-release/2026/06/08/3307885/0/en/shattuck-labs-announces-phase-1-results-for-sl-325.html"
+          "text": "Crescent Biopharma is advancing a clinical-stage PD-1 x VEGF bispecific antibody as its lead program for solid tumors alongside novel antibody-drug conjugates.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310796/0/en/crescent-biopharma-announces-grants-of-inducement-awards.html"
         },
         {
-          "text": "Cullinan Therapeutics presented initial clinical data for CLN-978, a CD19xCD3 T cell engager bispecific antibody, at the EULAR 2026 Congress covering treatment-refractory SLE and RA.",
-          "url": "https://globenewswire.com/news-release/2026/06/06/3307681/0/en/cullinan-therapeutics-presents-initial-clinical-data-for-cln-978-a-cd19xcd3-t-cell-engager-at-the-eular-2026-congress.html"
+          "text": "Genmab presented Phase 3 EPCORE FL-1 subgroup data at the 2026 EHA Congress showing epcoritamab, a subcutaneous T-cell engaging bispecific antibody, combined with rituximab and lenalidomide (R2) delivered consistent efficacy across relapsed or refractory follicular lymphoma subgroups.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310738/0/en/grant-of-restricted-stock-units-and-warrants-to-employees-in-genmab.html"
         },
         {
-          "text": "Cullinan Therapeutics also shared initial data for Velinotamig, a BCMAxCD3 T cell engager bispecific antibody, from the first multi-dose cohort of the Genrix Bio study in China.",
-          "url": "https://globenewswire.com/news-release/2026/06/06/3307681/0/en/cullinan-therapeutics-presents-initial-clinical-data-for-cln-978-a-cd19xcd3-t-cell-engager-at-the-eular-2026-congress.html"
+          "text": "Post-hoc analysis of the pivotal Phase 3 EPCORE FL-1 trial (N=481) confirmed progression-free survival benefits for epcoritamab + R2 versus R2 alone with hazard ratios consistently below 0.3 across FLIPI scores, POD24 status, and patient fitness levels.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310738/0/en/grant-of-restricted-stock-units-and-warrants-to-employees-in-genmab.html"
         },
         {
-          "text": "Shattuck Labs — SL-325 — Inflammatory and immune-mediated diseases — Phase 1 data showed 3.7% antidrug antibody rate, complete TL1A-DR3 blockade for >3 months at ≥1 mg/kg, and no DR3 agonism; RECEPTIVE-CD1 Phase 2b trial in Crohn's disease to initiate Q3 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307601/0/en/shattuck-labs-to-host-investor-call-and-webcast-on-phase-1-clinical-data-of-sl-325-a-potentially-first-in-class-dr3-blocking-antibody-and-pipeline-update-on-june-8.html"
+          "text": "Cullinan Therapeutics — CLN-978 (CD19xCD3 T cell engager) — Systemic Lupus Erythematosus and Rheumatoid Arthritis — Initial Phase 1 data presented at EULAR 2026 showed clinical benefit including remissions after single target dose; deep, dose-dependent B cell depletion observed in peripheral blood and tissue.",
+          "url": "https://globenewswire.com/news-release/2026/06/10/3309602/0/en/cullinan-therapeutics-shares-new-clinical-data-across-its-portfolio-of-t-cell-engager-programs-targeting-cd19-and-bcma-in-autoimmune-diseases.html"
         },
         {
-          "text": "Shattuck Labs — SL-846 — Inflammatory bowel disease and beyond — Lead bispecific candidate (DR3xIL-23R) currently in IND-enabling toxicology studies; Phase 1 initiation expected H1 2027.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307601/0/en/shattuck-labs-to-host-investor-call-and-webcast-on-phase-1-clinical-data-of-sl-325-a-potentially-first-in-class-dr3-blocking-antibody-and-pipeline-update-on-june-8.html"
+          "text": "Cullinan Therapeutics — CLN-978 (CD19xCD3 T cell engager) — Rheumatoid Arthritis — Favorable safety profile demonstrated with single target doses up to 30 µg; multi-dose regimen data from first cohort to be shared at Immunology Day on June 10.",
+          "url": "https://globenewswire.com/news-release/2026/06/10/3309602/0/en/cullinan-therapeutics-shares-new-clinical-data-across-its-portfolio-of-t-cell-engager-programs-targeting-cd19-and-bcma-in-autoimmune-diseases.html"
         },
         {
-          "text": "CytomX Therapeutics expanded its strategic research collaboration with Regeneron specifically in the field of conditional bispecific therapeutics for cancer treatment.",
-          "url": "https://globenewswire.com/news-release/2026/06/03/3305966/37704/en/cytomx-announces-expansion-of-strategic-research-collaboration-with-regeneron-in-the-field-of-conditional-bispecific-therapeutics-for-the-treatment-of-cancer.html"
+          "text": "Cullinan Therapeutics — Velinotamig (BCMAxCD3 T cell engager) — Autoimmune diseases — Initial clinical data scheduled for presentation at Cullinan's Immunology Day on June 10, 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/10/3309602/0/en/cullinan-therapeutics-shares-new-clinical-data-across-its-portfolio-of-t-cell-engager-programs-targeting-cd19-and-bcma-in-autoimmune-diseases.html"
         },
         {
-          "text": "Dark Horse Consulting Group and Altruist Biologics (Innovent Biologics subsidiary) signed an MOU to advance biologics manufacturing in China, explicitly including development support for bispecific antibodies alongside monoclonal antibodies and ADCs.",
-          "url": "https://globenewswire.com/news-release/2026/06/03/3305905/0/en/dark-horse-consulting-group-and-altruist-biologics-announce-memorandum-of-understanding-to-advance-biologics-manufacturing-and-development-in-china.html"
+          "text": "Merck and Akeso are competing in the lung cancer space where bispecific antibodies are gaining traction alongside antibody-drug conjugates (ADCs).",
+          "url": "https://pharmavoice.com/news/competition-merck-summit-akeso-cancer-adc-bispecific/822585/"
         },
         {
-          "text": "A retrospective cohort study presented at ASCO 2026 compared BCMA CAR T-cell therapy against teclistamab (a bispecific antibody) in multiple myeloma, showing CAR T-cell therapy improved 2-year overall survival (HR 0.61; 95% CI 0.43-0.87; P=.005) but with higher immune-related toxicities.",
-          "url": "https://cancernetwork.com/view/bcma-car-t-cell-therapy-improves-os-vs-teclistamab-in-multiple-myeloma"
+          "text": "CSPC Pharmaceutical Group — Anbenitamab (KN026) — HER2-positive breast cancer — Phase 3 HEALER trial met primary endpoint of progression-free survival with significant risk reduction vs trastuzumab/pertuzumab/docetaxel; designed as a HER2 bispecific antibody.",
+          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
         },
         {
-          "text": "Industry analysts suggest PD-1/VEGF bispecifics may achieve superior outcomes in hepatocellular carcinoma and gastric cancers compared to lung cancer due to higher reliance on the VEGF pathway in liver tumors.",
-          "url": "https://pharmavoice.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/821919/"
+          "text": "CSPC Pharmaceutical Group — Anbenitamab — HER2-positive gastric/gastroesophageal junction adenocarcinoma — China NMPA approved combination with chemotherapy in May 2026 for patients with 1 prior trastuzumab line.",
+          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
+        },
+        {
+          "text": "CSPC Pharmaceutical Group — Anbenitamab — Early/locally advanced HER2-positive breast cancer — Phase 3 Neo-Healer trial achieved 62.4% total pathological complete response vs 51.2% for standard THP regimen (absolute difference 11.4%).",
+          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
         }
       ]
     },
@@ -56,56 +60,40 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Akeso / Summit Therapeutics — ivonescimab — Lung cancer — Phase 3 trial met primary endpoint with 34% reduction in risk of death vs standard of care; trial enrolled 93% male patients with median age 64.",
-          "url": "https://biopharmadive.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/822035/"
+          "text": "Genmab — Epcoritamab — Relapsed/Refractory Follicular Lymphoma — EPCORE FL-1 subgroup analysis demonstrated consistent efficacy and safety results for the bispecific antibody epcoritamab when combined with rituximab and lenalidomide (R2).",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310630/0/en/genmab-presents-epcore-fl-1-subgroup-data-demonstrating-consistent-efficacy-and-safety-results-for-epcoritamab-in-combination-with-rituximab-and-lenalidomide-r2-across-relapsed-or-.html"
         },
         {
-          "text": "Shattuck Labs — SL-325 — Inflammatory and immune-mediated diseases — Announced Phase 1 results for a bispecific DR3-blocking antibody including safety, tolerability, pharmacokinetics, and receptor occupancy data.",
-          "url": "https://globenewswire.com/news-release/2026/06/08/3307885/0/en/shattuck-labs-announces-phase-1-results-for-sl-325.html"
+          "text": "Crescent Biopharma — PD-1 x VEGF bispecific antibody — Solid tumors — Clinical-stage lead program advancing as single agent and in combination regimens.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310796/0/en/crescent-biopharma-announces-grants-of-inducement-awards.html"
         },
         {
-          "text": "Cullinan Therapeutics — CLN-978 — Systemic Lupus Erythematosus (SLE) and Rheumatoid Arthritis (RA) — Presented initial clinical data for a CD19xCD3 bispecific T cell engager at EULAR 2026 from over 30 patients.",
-          "url": "https://globenewswire.com/news-release/2026/06/06/3307681/0/en/cullinan-therapeutics-presents-initial-clinical-data-for-cln-978-a-cd19xcd3-t-cell-engager-at-the-eular-2026-congress.html"
+          "text": "Genmab — Epcoritamab + R2 — Relapsed or Refractory Follicular Lymphoma — Phase 3 EPCORE FL-1 subgroup analysis presented at EHA 2026: epcoritamab (subcutaneous T-cell engaging bispecific antibody) + R2 showed sustained efficacy and manageable safety with PFS hazard ratios <0.3 across all risk subgroups.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310738/0/en/grant-of-restricted-stock-units-and-warrants-to-employees-in-genmab.html"
         },
         {
-          "text": "Cullinan Therapeutics — Velinotamig — Autoimmune diseases driven by long-lived plasma cells — Shared initial data for a BCMAxCD3 bispecific T cell engager from the first multi-dose cohort in China.",
-          "url": "https://globenewswire.com/news-release/2026/06/06/3307681/0/en/cullinan-therapeutics-presents-initial-clinical-data-for-cln-978-a-cd19xcd3-t-cell-engager-at-the-eular-2026-congress.html"
+          "text": "Cullinan Therapeutics — CLN-978 — Systemic Lupus Erythematosus / Rheumatoid Arthritis — Phase 1 study presented at EULAR 2026; single target dose induced remissions and deep B cell depletion; subcutaneous administration supported for outpatient use.",
+          "url": "https://globenewswire.com/news-release/2026/06/10/3309602/0/en/cullinan-therapeutics-shares-new-clinical-data-across-its-portfolio-of-t-cell-engager-programs-targeting-cd19-and-bcma-in-autoimmune-diseases.html"
         },
         {
-          "text": "Shattuck Labs — SL-846 — Inflammatory bowel disease — Lead bispecific product candidate (DR3xIL-23R) advancing through IND-enabling toxicology studies; Phase 1 initiation planned for first half of 2027.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307601/0/en/shattuck-labs-to-host-investor-call-and-webcast-on-phase-1-clinical-data-of-sl-325-a-potentially-first-in-class-dr3-blocking-antibody-and-pipeline-update-on-june-8.html"
+          "text": "Cullinan Therapeutics — Velinotamig — Autoimmune diseases — BCMAxCD3 T cell engager program advancing; initial clinical data to be released June 10, 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/10/3309602/0/en/cullinan-therapeutics-shares-new-clinical-data-across-its-portfolio-of-t-cell-engager-programs-targeting-cd19-and-bcma-in-autoimmune-diseases.html"
         },
         {
-          "text": "Shattuck Labs — SL-325 — Inflammatory and immune-mediated diseases — Announced Phase 1 clinical data presentation on June 8, 2026, covering safety, tolerability, pharmacokinetics, receptor occupancy, pharmacodynamics, and immunogenicity for a bispecific DR3-blocking antibody.",
-          "url": "https://globenewswire.com/news-release/2026/06/08/3307885/0/en/shattuck-labs-announces-phase-1-results-for-sl-325.html"
+          "text": "Merck / Akeso — Bispecific antibodies — Lung cancer — Competitive landscape analysis indicates both modalities are gaining traction; strategic alliance potential under review.",
+          "url": "https://pharmavoice.com/news/competition-merck-summit-akeso-cancer-adc-bispecific/822585/"
         },
         {
-          "text": "Cullinan Therapeutics — CLN-978 — Systemic Lupus Erythematosus and Rheumatoid Arthritis — Presented single target dose escalation data for CD19xCD3 bispecific T cell engager at EULAR 2026; multi-dose cohort data for RA study released.",
-          "url": "https://globenewswire.com/news-release/2026/06/06/3307681/0/en/cullinan-therapeutics-presents-initial-clinical-data-for-cln-978-a-cd19xcd3-t-cell-engager-at-the-eular-2026-congress.html"
+          "text": "CSPC Pharmaceutical Group — Anbenitamab (KN026) — HER2-positive breast cancer — Phase 3 HEALER trial (NCT05838066) met primary endpoint of PFS in 880-patient study comparing anbenitamab/docetaxel vs THP regimen.",
+          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
         },
         {
-          "text": "Shattuck Labs — SL-846 — Inflammatory and immune-mediated diseases — Lead bispecific (DR3xIL-23R) currently in IND-enabling toxicology studies; Phase 1 initiation expected H1 2027.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307601/0/en/shattuck-labs-to-host-investor-call-and-webcast-on-phase-1-clinical-data-of-sl-325-a-potentially-first-in-class-dr3-blocking-antibody-and-pipeline-update-on-june-8.html"
+          "text": "CSPC Pharmaceutical Group — Anbenitamab (KN026) — HER2-positive gastric cancer — China NMPA granted approval in May 2026 for combination with chemotherapy in second-line setting.",
+          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
         },
         {
-          "text": "CytomX Therapeutics — Regeneron Collaboration — Conditional Bispecific Therapeutics — Strategic research partnership expanded to advance novel bispecific programs for cancer treatment.",
-          "url": "https://globenewswire.com/news-release/2026/06/03/3305966/37704/en/cytomx-announces-expansion-of-strategic-research-collaboration-with-regeneron-in-the-field-of-conditional-bispecific-therapeutics-for-the-treatment-of-cancer.html"
-        },
-        {
-          "text": "Dark Horse Consulting Group — Altruist Biologics — Bispecific Antibodies — Strategic MOU established to provide end-to-end cGMP manufacturing and regulatory strategy for bispecific programs in China; Altruist facilities offer 232,000L total capacity.",
-          "url": "https://globenewswire.com/news-release/2026/06/03/3305905/0/en/dark-horse-consulting-group-and-altruist-biologics-announce-memorandum-of-understanding-to-advance-biologics-manufacturing-and-development-in-china.html"
-        },
-        {
-          "text": "Jacobi Medical Center / Albert Einstein College of Medicine — Teclistamab vs BCMA CAR T-cell therapy — Relapsed/Refractory Multiple Myeloma — Retrospective analysis at ASCO 2026: CAR T-cell therapy demonstrated superior 2-year OS (HR 0.61) compared to teclistamab (bispecific), though with increased CRS (HR 1.48) and ICANS (HR 2.02).",
-          "url": "https://cancernetwork.com/view/bcma-car-t-cell-therapy-improves-os-vs-teclistamab-in-multiple-myeloma"
-        },
-        {
-          "text": "Akeso / Summit Therapeutics — Ivonescimab — Non-small cell lung cancer — Phase 3 trial data showed 34% reduction in risk of death versus standard of care (chemotherapy + PD-1 inhibitor); trial enrolled 93% male patients with median age 64.",
-          "url": "https://pharmavoice.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/821919/"
-        },
-        {
-          "text": "Summit Therapeutics / Akeso — ivonescimab — Non-small cell lung cancer — Phase 3 data showed 34% reduction in mortality risk vs chemo + PD-1 inhibitor; trial enrolled 93% male patients with median age 64.",
-          "url": "https://pharmavoice.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/821919/"
+          "text": "CSPC Pharmaceutical Group — Anbenitamab (KN026) — Early HER2-positive breast cancer — Phase 3 Neo-Healer trial (NCT06747338) reported 62.4% tpCR vs 51.2% for THP control arm in neoadjuvant setting.",
+          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
         }
       ]
     },
@@ -113,92 +101,32 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Akeso — PD-1/VEGF bispecific commercialization — ivonescimab — Licensed to Summit Therapeutics; Phase 3 data supports field optimism despite questions on indication suitability.",
-          "url": "https://biopharmadive.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/822035/"
+          "text": "Genmab — Bispecific antibody commercialization and pipeline expansion — Epcoritamab (bispecific) + broader antibody portfolio — Advancing eight approved antibody medicines and a strong late-stage clinical pipeline including wholly owned bispecific programs.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310630/0/en/genmab-presents-epcore-fl-1-subgroup-data-demonstrating-consistent-efficacy-and-safety-results-for-epcoritamab-in-combination-with-rituximab-and-lenalidomide-r2-across-relapsed-or-.html"
         },
         {
-          "text": "Summit Therapeutics — PD-1/VEGF bispecific commercialization — ivonescimab — Leveraging Phase 3 lung cancer data (34% mortality reduction) to advance program; facing scrutiny on trial demographics.",
-          "url": "https://biopharmadive.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/822035/"
+          "text": "Crescent Biopharma — Oncology pipeline expansion — PD-1 x VEGF bispecific antibody + ADCs — Clinical-stage; presenting at Jefferies Global Healthcare Conference (June 3, 2026) and Goldman Sachs 47th Annual Global Healthcare Conference (June 8, 2026).",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310796/0/en/crescent-biopharma-announces-grants-of-inducement-awards.html"
         },
         {
-          "text": "BioNTech — PD-1/VEGF bispecific development — Investigational program — Testing against lung tumors as part of broader industry shift toward bispecific antibody strategies.",
-          "url": "https://biopharmadive.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/822035/"
+          "text": "Genmab — Bispecific antibody commercialization and pipeline expansion — Epcoritamab (bispecific) + R2 regimen — Phase 3 EPCORE FL-1 trial established fixed-duration therapy for R/R follicular lymphoma with consistent efficacy across high- and low-risk disease features.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310738/0/en/grant-of-restricted-stock-units-and-warrants-to-employees-in-genmab.html"
         },
         {
-          "text": "Merck & Co. — PD-1/VEGF bispecific development — Investigational program — Testing against lung tumors; part of major industry wager on bispecific targets.",
-          "url": "https://biopharmadive.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/822035/"
+          "text": "Cullinan Therapeutics — Clinical-stage T cell engager development — CLN-978 (CD19xCD3) + Velinotamig (BCMAxCD3) — Phase 1 data presented June 2026; focused on disease-modifying treatments for autoimmune diseases and cancer.",
+          "url": "https://globenewswire.com/news-release/2026/06/10/3309602/0/en/cullinan-therapeutics-shares-new-clinical-data-across-its-portfolio-of-t-cell-engager-programs-targeting-cd19-and-bcma-in-autoimmune-diseases.html"
         },
         {
-          "text": "Pfizer — PD-1/VEGF bispecific development — Investigational program — Testing against lung tumors; joining wave of deals and trials following ivonescimab's 2024 success.",
-          "url": "https://biopharmadive.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/822035/"
+          "text": "Merck — Bispecific antibody competition in oncology — Lung cancer programs — Positioning against ADCs and other bispecifics in a rapidly evolving therapeutic area.",
+          "url": "https://pharmavoice.com/news/competition-merck-summit-akeso-cancer-adc-bispecific/822585/"
         },
         {
-          "text": "Shattuck Labs — Development of bispecific DR3-blocking antibodies — SL-325 pipeline — Clinical-stage biotechnology company advancing a fully Fc-silenced, fully human immunoglobulin G bispecific antibody.",
-          "url": "https://globenewswire.com/news-release/2026/06/08/3307885/0/en/shattuck-labs-announces-phase-1-results-for-sl-325.html"
+          "text": "Akeso — Bispecific antibody development — Lung cancer — Expanding pipeline presence to compete with global players like Merck in the bispecific modality space.",
+          "url": "https://pharmavoice.com/news/competition-merck-summit-akeso-cancer-adc-bispecific/822585/"
         },
         {
-          "text": "Cullinan Therapeutics — Bispecific T cell engager commercialization — CLN-978 (CD19xCD3) + Velinotamig (BCMAxCD3) — Clinical-stage biopharma presenting data for multiple bispecific programs in autoimmune diseases.",
-          "url": "https://globenewswire.com/news-release/2026/06/06/3307681/0/en/cullinan-therapeutics-presents-initial-clinical-data-for-cln-978-a-cd19xcd3-t-cell-engager-at-the-eular-2026-congress.html"
-        },
-        {
-          "text": "Shattuck Labs — Development of bispecific DR3 blocking antibodies — SL-846 (DR3xIL-23R) — IND-enabling toxicology studies ongoing; Phase 1 initiation expected H1 2027.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307601/0/en/shattuck-labs-to-host-investor-call-and-webcast-on-phase-1-clinical-data-of-sl-325-a-potentially-first-in-class-dr3-blocking-antibody-and-pipeline-update-on-june-8.html"
-        },
-        {
-          "text": "Shattuck Labs — Development of bispecific DR3-blocking antibodies — SL-325 (bispecific DR3 antagonist) — Clinical-stage biotech leveraging protein engineering for novel TNF receptor therapeutics; lead program SL-325 is a fully Fc-silenced, fully human IgG antibody.",
-          "url": "https://globenewswire.com/news-release/2026/06/08/3307885/0/en/shattuck-labs-announces-phase-1-results-for-sl-325.html"
-        },
-        {
-          "text": "Cullinan Therapeutics — Bispecific T cell engager development in autoimmune diseases — CLN-978 (CD19xCD3) + Velinotamig (BCMAxCD3) — Clinical data presented for over 30 patients in SLE and RA studies; Immunology Day event hosted June 10, 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/06/3307681/0/en/cullinan-therapeutics-presents-initial-clinical-data-for-cln-978-a-cd19xcd3-t-cell-engager-at-the-eular-2026-congress.html"
-        },
-        {
-          "text": "Shattuck Labs — Bispecific DR3 blocking antibody pipeline — SL-846 (DR3xIL-23R) — IND-enabling toxicology ongoing; Phase 1 expected H1 2027; leveraging DR3 blockade mechanism pioneered by SL-325.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307601/0/en/shattuck-labs-to-host-investor-call-and-webcast-on-phase-1-clinical-data-of-sl-325-a-potentially-first-in-class-dr3-blocking-antibody-and-pipeline-update-on-june-8.html"
-        },
-        {
-          "text": "CytomX Therapeutics — Conditional bispecific therapeutic development — PROBODY platform pipeline — Expanded collaboration with Regeneron to advance masked, conditionally activated bispecific candidates for oncology.",
-          "url": "https://globenewswire.com/news-release/2026/06/03/3305966/37704/en/cytomx-announces-expansion-of-strategic-research-collaboration-with-regeneron-in-the-field-of-conditional-bispecific-therapeutics-for-the-treatment-of-cancer.html"
-        },
-        {
-          "text": "Altruist Biologics — Bispecific antibody manufacturing expansion — Innovent Biologics subsidiary — Deploying 232,000L cGMP capacity in Suzhou and Hangzhou to support global clients developing bispecifics, ADCs, and monoclonal antibodies.",
-          "url": "https://globenewswire.com/news-release/2026/06/03/3305905/0/en/dark-horse-consulting-group-and-altruist-biologics-announce-memorandum-of-understanding-to-advance-biologics-manufacturing-and-development-in-china.html"
-        },
-        {
-          "text": "Janssen (Teclistamab/TECVAYLI) — Bispecific antibody commercialization — Teclistamab (BCMA x CD3 bispecific) — Used as comparator in ASCO 2026 study; associated with lower immune-mediated toxicities but inferior 2-year overall survival (HR 0.61) versus BCMA CAR T-cell therapy in relapsed/refractory multiple myeloma.",
-          "url": "https://cancernetwork.com/view/bcma-car-t-cell-therapy-improves-os-vs-teclistamab-in-multiple-myeloma"
-        },
-        {
-          "text": "Summit Therapeutics — Commercialization of PD-1/VEGF bispecifics — Ivonescimab — Licensed from Akeso; Phase 3 data supports lung cancer indication despite demographic concerns regarding trial population.",
-          "url": "https://pharmavoice.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/821919/"
-        },
-        {
-          "text": "BioNTech — Development of PD-1/VEGF bispecifics — Investigational pipeline — Actively pursuing lung cancer indication; trial demographics and efficacy compared to ivonescimab data.",
-          "url": "https://pharmavoice.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/821919/"
-        },
-        {
-          "text": "Merck & Co. — Development of PD-1/VEGF bispecifics — Investigational pipeline — Chasing lung cancer indication; part of broader industry shift toward bispecific antibody strategies.",
-          "url": "https://pharmavoice.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/821919/"
-        },
-        {
-          "text": "Pfizer — Development of PD-1/VEGF bispecifics — Investigational pipeline — Pursuing lung cancer indication; evaluating potential for hepatocellular carcinoma and gastric cancer applications.",
-          "url": "https://pharmavoice.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/821919/"
-        },
-        {
-          "text": "Akeso — Development and licensing of PD-1/VEGF bispecifics — ivonescimab — Originator of the bispecific antibody; licensed to Summit Therapeutics following 2024 trial success.",
-          "url": "https://pharmavoice.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/821919/"
-        },
-        {
-          "text": "BioNTech — Pipeline expansion into bispecific antibodies — Investigational PD-1/VEGF bispecific — Targeting lung cancer indication.",
-          "url": "https://pharmavoice.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/821919/"
-        },
-        {
-          "text": "Merck & Co. — Pipeline expansion into bispecific antibodies — Investigational PD-1/VEGF bispecific — Targeting lung cancer indication.",
-          "url": "https://pharmavoice.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/821919/"
-        },
-        {
-          "text": "Pfizer — Pipeline expansion into bispecific antibodies — Investigational PD-1/VEGF bispecific — Targeting lung cancer indication.",
-          "url": "https://pharmavoice.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/821919/"
+          "text": "CSPC Pharmaceutical Group — Commercialization of HER2 bispecific antibody — Anbenitamab (KN026) — Phase 3 data positive in breast cancer; NMPA approval secured for gastric cancer indication in May 2026.",
+          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
         }
       ]
     },
@@ -206,77 +134,36 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "ivonescimab — Mechanism: PD-1/VEGF bispecific antibody — Phase: 3 — Population: Lung cancer (93% male, median age 64, mostly ex/current smokers in Chinese trials) — Comparator: Standard chemotherapy plus PD-1 inhibitor — Results: 34% reduction in risk of death.",
-          "url": "https://biopharmadive.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/822035/"
+          "text": "Epcoritamab — Mechanism: Bispecific T-cell engager (implied by class) — Phase: Late-stage (EPCORE FL-1) — Population: Relapsed or Refractory Follicular Lymphoma — Comparator: Combination with Rituximab and Lenalidomide (R2) — Results: Consistent efficacy and safety results demonstrated in subgroup analysis.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310630/0/en/genmab-presents-epcore-fl-1-subgroup-data-demonstrating-consistent-efficacy-and-safety-results-for-epcoritamab-in-combination-with-rituximab-and-lenalidomide-r2-across-relapsed-or-.html"
         },
         {
-          "text": "SL-325 — Mechanism: Bispecific DR3-blocking antibody targeting TNF receptor DR3 — Phase: 1 — Population: Patients with inflammatory and immune-mediated diseases — Results: Comprehensive safety, tolerability, pharmacokinetics, receptor occupancy, and immunogenicity data presented.",
-          "url": "https://globenewswire.com/news-release/2026/06/08/3307885/0/en/shattuck-labs-announces-phase-1-results-for-sl-325.html"
+          "text": "PD-1 x VEGF bispecific antibody — Mechanism: Dual blockade of PD-1 and VEGF pathways — Phase: Clinical-stage — Population: Solid tumors — Strategy: Single agent and combination regimens.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310796/0/en/crescent-biopharma-announces-grants-of-inducement-awards.html"
         },
         {
-          "text": "CLN-978 — Mechanism: CD19xCD3 bispecific T cell engager — Phase: 1 (dose escalation) — Population: Treatment-refractory moderate to severe SLE and difficult-to-treat RA — Comparator: Not specified — Results: Single target dose escalation data presented across over 30 patients.",
-          "url": "https://globenewswire.com/news-release/2026/06/06/3307681/0/en/cullinan-therapeutics-presents-initial-clinical-data-for-cln-978-a-cd19xcd3-t-cell-engager-at-the-eular-2026-congress.html"
+          "text": "Epcoritamab — Mechanism: Subcutaneous T-cell engaging bispecific antibody targeting CD20 and CD3 — Phase: 3 (EPCORE FL-1) — Population: Relapsed or refractory follicular lymphoma (N=481) — Comparator: Rituximab + lenalidomide (R2) — Results: PFS hazard ratios consistently below 0.3 across FLIPI 0–2 vs 3–5, POD24 vs non-POD24, and NHL-5 fitness subgroups.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310738/0/en/grant-of-restricted-stock-units-and-warrants-to-employees-in-genmab.html"
         },
         {
-          "text": "Velinotamig — Mechanism: BCMAxCD3 bispecific T cell engager — Phase: 1 (multi-dose cohort) — Population: Treatment-refractory autoimmune diseases driven by long-lived plasma cells — Comparator: Not specified — Results: Initial data from first multi-dose cohort in China shared.",
-          "url": "https://globenewswire.com/news-release/2026/06/06/3307681/0/en/cullinan-therapeutics-presents-initial-clinical-data-for-cln-978-a-cd19xcd3-t-cell-engager-at-the-eular-2026-congress.html"
+          "text": "CLN-978 — Mechanism: CD19xCD3 T cell engager — Phase: 1 — Population: Refractory SLE and difficult-to-treat RA patients — Comparator: None stated — Results: Clinical benefit including remissions; deep, dose-dependent B cell depletion in peripheral blood and tissue; safe up to 30 µg single dose.",
+          "url": "https://globenewswire.com/news-release/2026/06/10/3309602/0/en/cullinan-therapeutics-shares-new-clinical-data-across-its-portfolio-of-t-cell-engager-programs-targeting-cd19-and-bcma-in-autoimmune-diseases.html"
         },
         {
-          "text": "SL-846 — Mechanism: Bispecific DR3xIL-23R blockade — Phase: Preclinical (IND-enabling) — Population: Inflammatory bowel disease and beyond — Comparator: N/A — Status: IND-enabling toxicology studies ongoing; Phase 1 initiation expected H1 2027.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307601/0/en/shattuck-labs-to-host-investor-call-and-webcast-on-phase-1-clinical-data-of-sl-325-a-potentially-first-in-class-dr3-blocking-antibody-and-pipeline-update-on-june-8.html"
+          "text": "Velinotamig — Mechanism: BCMAxCD3 T cell engager — Phase: 1 — Population: Autoimmune disease patients — Comparator: None stated — Status: Initial clinical data pending release June 10, 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/10/3309602/0/en/cullinan-therapeutics-shares-new-clinical-data-across-its-portfolio-of-t-cell-engager-programs-targeting-cd19-and-bcma-in-autoimmune-diseases.html"
         },
         {
-          "text": "SL-325 — Mechanism: Bispecific DR3-blocking antibody targeting TNF receptor DR3 — Phase: 1 — Population: Patients with inflammatory and immune-mediated diseases — Comparator: None stated — Endpoints/Results: Comprehensive Phase 1 data on safety, tolerability, PK, receptor occupancy, PD, and immunogenicity presented June 8, 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/08/3307885/0/en/shattuck-labs-announces-phase-1-results-for-sl-325.html"
+          "text": "Bispecific antibodies — Mechanism: Dual-target engagement — Phase: Varies by program — Population: Lung cancer patients — Context: Emerging as a key modality competing with ADCs in oncology treatment.",
+          "url": "https://pharmavoice.com/news/competition-merck-summit-akeso-cancer-adc-bispecific/822585/"
         },
         {
-          "text": "CLN-978 — Mechanism: CD19xCD3 bispecific T cell engager — Phase: 1 — Population: Treatment-refractory moderate to severe SLE and difficult-to-treat RA — Endpoints: Single target dose escalation data presented; multi-dose cohort data for RA study shared.",
-          "url": "https://globenewswire.com/news-release/2026/06/06/3307681/0/en/cullinan-therapeutics-presents-initial-clinical-data-for-cln-978-a-cd19xcd3-t-cell-engager-at-the-eular-2026-congress.html"
+          "text": "Anbenitamab — Mechanism: HER2 bispecific antibody — Phase: 3 — Population: HER2-positive advanced breast cancer — Comparator: Trastuzumab/pertuzumab/docetaxel — Endpoints: Significant PFS improvement; trend toward OS benefit.",
+          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
         },
         {
-          "text": "SL-846 — Mechanism: DR3xIL-23R bispecific blocking antibody — Phase: Preclinical/IND-enabling — Population: Inflammatory and immune-mediated diseases — Status: IND-enabling toxicology studies ongoing; Phase 1 initiation expected H1 2027.",
-          "url": "https://globenewswire.com/news-release/2026/06/05/3307601/0/en/shattuck-labs-to-host-investor-call-and-webcast-on-phase-1-clinical-data-of-sl-325-a-potentially-first-in-class-dr3-blocking-antibody-and-pipeline-update-on-june-8.html"
-        },
-        {
-          "text": "CytomX-Regeneron Pipeline — Mechanism: Conditional bispecific therapeutics (masked, tumor-activated) — Phase: Preclinical/Early Clinical — Population: Cancer patients — Status: Strategic collaboration expanded to develop novel bispecific modalities.",
-          "url": "https://globenewswire.com/news-release/2026/06/03/3305966/37704/en/cytomx-announces-expansion-of-strategic-research-collaboration-with-regeneron-in-the-field-of-conditional-bispecific-therapeutics-for-the-treatment-of-cancer.html"
-        },
-        {
-          "text": "Teclistamab — Mechanism: BCMA x CD3 bispecific antibody — Phase: Approved/Real-world comparison — Population: Relapsed/Refractory Multiple Myeloma — Comparator: BCMA CAR T-cell therapy — Results: Inferior 2-year OS (HR 0.61 vs CAR T) but lower incidence of CRS (HR 0.68) and ICANS (HR 0.50) in retrospective cohort.",
-          "url": "https://cancernetwork.com/view/bcma-car-t-cell-therapy-improves-os-vs-teclistamab-in-multiple-myeloma"
-        },
-        {
-          "text": "Ivonescimab — Mechanism: PD-1 and VEGF bispecific antibody — Phase: 3 — Population: Advanced non-small cell lung cancer (93% male, median age 64) — Comparator: Chemotherapy + PD-1 inhibitor — Results: 34% reduction in risk of death; potential efficacy in hepatocellular carcinoma and gastric cancer suggested due to VEGF pathway reliance.",
-          "url": "https://pharmavoice.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/821919/"
-        },
-        {
-          "text": "ivonescimab — Mechanism: PD-1 and VEGF bispecific antibody — Phase: 3 — Population: Non-small cell lung cancer (93% male, median age 64) — Comparator: Standard chemotherapy plus PD-1 inhibitor — Results: 34% reduction in risk of death.",
-          "url": "https://pharmavoice.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/821919/"
-        }
-      ]
-    },
-    {
-      "heading": "Business & Deals",
-      "points": [
-        {
-          "text": "Akeso / Summit Therapeutics — Licensing deal for ivonescimab — PD-1/VEGF bispecific — Deal spurred by 2024 lung cancer trial victory over Keytruda; part of billions wagered on bispecific antibody drugs.",
-          "url": "https://biopharmadive.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/822035/"
-        },
-        {
-          "text": "CytomX Therapeutics / Regeneron — Strategic research collaboration expansion — Conditional bispecific therapeutics — Partnership broadened to accelerate development of novel bispecific cancer treatments.",
-          "url": "https://globenewswire.com/news-release/2026/06/03/3305966/37704/en/cytomx-announces-expansion-of-strategic-research-collaboration-with-regeneron-in-the-field-of-conditional-bispecific-therapeutics-for-the-treatment-of-cancer.html"
-        },
-        {
-          "text": "Dark Horse Consulting Group / Altruist Biologics — Strategic partnership — Bispecific antibody development services — MOU signed June 2026 to integrate DHCG regulatory/CMC consulting with Altruist's 232,000L Chinese manufacturing infrastructure.",
-          "url": "https://globenewswire.com/news-release/2026/06/03/3305905/0/en/dark-horse-consulting-group-and-altruist-biologics-announce-memorandum-of-understanding-to-advance-biologics-manufacturing-and-development-in-china.html"
-        },
-        {
-          "text": "Summit Therapeutics / Akeso — Licensing agreement for ivonescimab — PD-1/VEGF bispecific — Deal spurred by 2024 lung cancer trial victory over Keytruda; billions wagered by industry on bispecific antibody class.",
-          "url": "https://pharmavoice.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/821919/"
-        },
-        {
-          "text": "Akeso / Summit Therapeutics — Licensing deal for ivonescimab — PD-1/VEGF bispecific — Deal triggered wave of industry activity following 2024 Phase 3 success in lung cancer.",
-          "url": "https://pharmavoice.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/821919/"
+          "text": "Anbenitamab — Mechanism: HER2 bispecific antibody — Phase: 3 (Neo-Healer) — Population: Early/locally advanced HER2-positive breast cancer — Comparator: THP regimen — Endpoints: 62.4% tpCR vs 51.2% (95% CI 3.19%-21.6% difference).",
+          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
         }
       ]
     }
