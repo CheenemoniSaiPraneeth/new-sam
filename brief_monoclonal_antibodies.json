@@ -1,62 +1,94 @@
 {
   "query": "monoclonal",
-  "generated_at": "2026-06-10 10:26:50",
-  "article_count": 58,
+  "generated_at": "2026-06-14 10:01:10",
+  "article_count": 66,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Ona Therapeutics raised $86.6 million in Series B funding to advance a pair of antibody-drug conjugates (ADCs) for breast and colorectal cancers.",
-          "url": "https://biopharmadive.com/news/ona-antibody-drug-conjugate-breast-colorectal-cancer/821891/"
+          "text": "Ethyreal Bio emerged from stealth with $101M funding to advance ETHY-001, a monoclonal antibody targeting the TSHR receptor for Graves disease and thyroid eye disease.",
+          "url": "https://biopharmadive.com/news/ethyreal-bio-graves-thyroid-eye-disease-tshr/822477/"
         },
         {
-          "text": "Abzena reports increased demand for formulation services supporting next-generation bioconjugate drugs and novel cargo conjugation to antibodies.",
-          "url": "https://drug-dev.com/special-feature-outsourcing-formulation-development-manufacturing-connecting-your-project-to-the-right-service-provider/"
+          "text": "Sanofi halted its Phase 3 MOBILIZE trial for riliprubart, an anti-inflammatory monoclonal antibody, in chronic inflammatory demyelinating polyneuropathy (CIDP) after an independent board deemed success unlikely.",
+          "url": "https://biopharmadive.com/news/sanofi-rilipubart-cidp-fail-vigil/822472/"
         },
         {
-          "text": "Shattuck Labs, Inc. — Clinical-stage biotechnology company — Monoclonal and bispecific DR3 blocking antibodies — Announced pricing of $75 million public offering to fund development of first-in-class monoclonal antibodies for inflammatory and immune-mediated diseases.",
-          "url": "https://globenewswire.com/news-release/2026/06/09/3309333/0/en/shattuck-labs-inc-announces-proposed-public-offering.html"
+          "text": "Sanofi's riliprubart (SAR445088), an IgG4 humanized monoclonal antibody targeting activated C1s, failed the interim analysis of the Phase 3 MOBILIZE study in chronic inflammatory demyelinating polyneuropathy (CIDP) due to insufficient efficacy.",
+          "url": "https://globenewswire.com/news-release/2026/06/12/3311349/0/en/press-release-sanofi-s-tzield-approved-in-the-us-as-the-first-disease-modifying-therapy-for-patients-recently-diagnosed-with-stage-3-type-1-diabetes.html"
         },
         {
-          "text": "Windward Bio advanced WIN378, a fully human monoclonal antibody targeting TSLP, into Phase 2 SIRIUS study for COPD with ultra long-acting twice-yearly dosing potential.",
-          "url": "https://globenewswire.com/news-release/2026/06/09/3308746/0/en/windward-bio-doses-first-patients-in-phase-2-sirius-copd-study-of-ultra-long-acting-anti-tslp-antibody-win378.html"
+          "text": "Over 100 monoclonal antibodies are currently approved globally with hundreds more in clinical development, driving the need for improved single B cell discovery platforms to reduce downstream attrition.",
+          "url": "https://drug-dev.com/single-b-cell-antibody-discovery-improving-therapeutic-candidate-selection-in-drug-development/"
         },
         {
-          "text": "Windward Bio secured $165M in crossover financing led by OrbiMed to advance its pipeline of long-acting immunology therapies including monoclonal antibody WIN378.",
-          "url": "https://globenewswire.com/news-release/2026/06/09/3308746/0/en/windward-bio-doses-first-patients-in-phase-2-sirius-copd-study-of-ultra-long-acting-anti-tslp-antibody-win378.html"
+          "text": "Zenas BioPharma — Obexelimab — Immunoglobulin G4-Related Disease (IgG4-RD) — Phase 3 INDIGO trial met primary and all key secondary endpoints with statistically significant results; BLA submitted to FDA in May 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310795/0/en/zenas-biopharma-to-present-at-the-h-c-wainwright-7th-annual-neuro-perspectives-expert-summit.html"
         },
         {
-          "text": "Kyowa Kirin discontinued all clinical trials for rocatinlimab, an anti-OX40 monoclonal antibody, following safety reviews identifying emerging concerns of malignancies including Kaposi's sarcoma.",
-          "url": "https://www.healio.com/news/dermatology/20260605/many-things-in-the-pipeline-offer-more-options-for-prurigo-nodularis"
+          "text": "Edesa Biotech — Paridiprubart — Acute Kidney Injury (AKI) with respiratory distress — First-in-class anti-TLR4 monoclonal antibody showed 32% relative reduction in mortality at 28 days in 101-patient post hoc analysis.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310539/0/en/edesa-biotech-announces-3-5-million-private-placement-of-common-shares-led-by-ceo-and-healthcare-focused-investors.html"
         },
         {
-          "text": "FDA updated the Tremfya (guselkumab) label to include inhibition of structural joint damage progression in adults with active psoriatic arthritis based on APEX trial data.",
-          "url": "https://www.healio.com/news/rheumatology/20260603/fda-updates-tremfya-label-to-include-joint-damage-inhibition-in-psoriatic-arthritis"
+          "text": "CytoDyn — Leronlimab — Alzheimer's Disease — First patient dosed in Phase 2a study in collaboration with Weill Cornell Medicine; leronlimab is a humanized monoclonal antibody targeting the CCR5 receptor.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310459/19782/en/cytodyn-announces-first-patient-dosed-in-phase-2a-study-in-collaboration-with-weill-cornell-medicine-evaluating-leronlimab-in-alzheimer-s-disease.html"
         },
         {
-          "text": "Johnson & Johnson — Nipocalimab — Systemic Lupus Erythematosus — Phase 2 study demonstrated significant reduction in disease activity; drug is an FcRn blocker monoclonal antibody.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186284&sid=2"
+          "text": "Climb Bio — CLYM116 — IgA nephropathy (IgAN) — Anti-APRIL monoclonal antibody Phase 1 data showed favorable safety profile in healthy volunteers at doses up to 320 mg with no unexpected findings.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310326/0/en/climb-bio-announces-initial-phase-1b-data-demonstrating-on-target-clinical-activity-for-budoprutug-in-immune-thrombocytopenia-at-eha-congress-2026.html"
         },
         {
-          "text": "University of Montreal / Dr. André Veillette — Anti-SLAMF6 antibodies — Cancer immunotherapy — Developed monoclonal antibodies blocking SLAMF6 to prevent T-cell exhaustion; showed strong anti-tumor responses in mice.",
+          "text": "Zenas Biopharma — Obexelimab — IgG4-related disease — Humanized bifunctional monoclonal antibody demonstrated 56% reduction in flare risk vs placebo at 52 weeks in INDIGO trial presented at EULAR 2026.",
+          "url": "https://www.healio.com/news/rheumatology/20260610/obexelimab-may-represent-paradigm-shift-in-igg4related-disease"
+        },
+        {
+          "text": "Sanofi halted the Phase 3 MOBILIZE trial for riliprubart, an anti-inflammatory drug, after an independent monitoring board deemed success unlikely in patients with chronic inflammatory demyelinating polyneuropathy (CIDP).",
+          "url": "https://biopharmadive.com/news/sanofi-rilipubart-cidp-fail-vigil/822472/"
+        },
+        {
+          "text": "Sanofi — Riliprubart — Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) — Phase 3 MOBILIZE trial stopped due to futility; interim analysis indicated insufficient efficacy with no safety signals.",
+          "url": "https://globenewswire.com/news-release/2026/06/12/3311349/0/en/press-release-sanofi-s-tzield-approved-in-the-us-as-the-first-disease-modifying-therapy-for-patients-recently-diagnosed-with-stage-3-type-1-diabetes.html"
+        },
+        {
+          "text": "Sanofi — Riliprubart — CIDP — IgG4 humanized monoclonal antibody selectively inhibiting activated C1s in the classical complement pathway; VITALIZE Phase 3 study in IVIg-treated patients remains under evaluation.",
+          "url": "https://globenewswire.com/news-release/2026/06/12/3311349/0/en/press-release-sanofi-s-tzield-approved-in-the-us-as-the-first-disease-modifying-therapy-for-patients-recently-diagnosed-with-stage-3-type-1-diabetes.html"
+        },
+        {
+          "text": "Edesa Biotech reported positive exploratory data for paridiprubart, a first-in-class anti-TLR4 monoclonal antibody, showing a 32% relative reduction in 28-day mortality in acute kidney injury (AKI) patients with respiratory distress.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310539/0/en/edesa-biotech-announces-3-5-million-private-placement-of-common-shares-led-by-ceo-and-healthcare-focused-investors.html"
+        },
+        {
+          "text": "CytoDyn dosed the first patient in a Phase 2a study evaluating leronlimab, a humanized monoclonal antibody targeting the CCR5 receptor, for the treatment of Alzheimer's disease in collaboration with Weill Cornell Medicine.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310459/19782/en/cytodyn-announces-first-patient-dosed-in-phase-2a-study-in-collaboration-with-weill-cornell-medicine-evaluating-leronlimab-in-alzheimer-s-disease.html"
+        },
+        {
+          "text": "Edesa Biotech secured $3.5 million in a private placement of common shares led by CEO Par Nijhawan and healthcare-focused investors to fund clinical operations.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310539/0/en/edesa-biotech-announces-3-5-million-private-placement-of-common-shares-led-by-ceo-and-healthcare-focused-investors.html"
+        },
+        {
+          "text": "Climb Bio — CLYM116 — Immune-mediated diseases — Initial Phase 1 safety data for anti-APRIL monoclonal antibody demonstrated favorable profile in healthy volunteers at doses up to 320 mg with no unexpected safety findings.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310326/0/en/climb-bio-announces-initial-phase-1b-data-demonstrating-on-target-clinical-activity-for-budoprutug-in-immune-thrombocytopenia-at-eha-congress-2026.html"
+        },
+        {
+          "text": "Zenas Biopharma — Obexelimab — IgG4-related disease — Humanized bifunctional monoclonal antibody targeting CD19 and FcRIIb demonstrated 56% reduction in flare risk vs placebo at 52 weeks in INDIGO trial data presented at EULAR 2026.",
+          "url": "https://www.healio.com/news/rheumatology/20260610/obexelimab-may-represent-paradigm-shift-in-igg4related-disease"
+        },
+        {
+          "text": "Université de Montréal researchers developed monoclonal antibodies targeting SLAMF6 to block immune exhaustion and restore T-cell anti-tumor activity in preclinical mouse models.",
           "url": "https://www.sciencedaily.com/releases/2026/06/260608040021.htm"
         },
         {
-          "text": "Connect Biopharma is advancing rademikibart, a humanized monoclonal antibody targeting IL-4Rα, for acute asthma and COPD exacerbations via a dual inhibition strategy.",
-          "url": "https://the-scientist.com/a-new-approach-to-treating-respiratory-attacks-74572"
+          "text": "Université de Montréal researchers led by Dr. André Veillette developed monoclonal antibodies targeting SLAMF6 to block immune exhaustion and enhance T-cell anti-tumor activity in mouse models.",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260608040021.htm"
         },
         {
-          "text": "Sanofi's subcutaneous isatuximab-irfc (Sarclisa), a monoclonal antibody, received EU approval for multiple myeloma across all existing indications for the intravenous formulation.",
+          "text": "Genmab/AbbVie — Epcoritamab-bysp (Epkinly) — Relapsed/refractory follicular lymphoma — Phase 3 EPCORE FL-1 trial showed 95% ORR and 83% CR vs 79% ORR and 50% CR for lenalidomide/rituximab control; HR for PFS 0.21.",
+          "url": "https://cancernetwork.com/view/fixed-duration-epcoritamab-combo-shows-superiority-in-follicular-lymphoma"
+        },
+        {
+          "text": "Sanofi — Isatuximab-irfc (Sarclisa) — Multiple myeloma — EU approved subcutaneous on-body injector formulation based on Phase 3 IRAKLIA trial noninferiority data (ORR 71.7% vs 70.5% IV) and reduced infusion reactions (1.5% vs 25%).",
           "url": "https://cancernetwork.com/view/subcutaneous-isatuximab-earns-eu-approval-in-multiple-myeloma"
-        },
-        {
-          "text": "Mapp Biopharmaceuticals — MBP-134 — Ebola — HHS confirmed access to this experimental antibody treatment for Americans with high-risk exposures; product developed with BARDA funding but efficacy in humans not yet established via clinical trial.",
-          "url": "https://statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/"
-        },
-        {
-          "text": "Bio X Cell — Anti-mouse PD-L1 × TIGIT × LAG3 trispecific antibody — Preclinical research — Launched first commercially available ready-to-use trispecific format to study combinatorial checkpoint biology in vivo, expanding beyond traditional monoclonal antibody tools.",
-          "url": "https://the-scientist.com/bio-x-cell-introduces-first-commercially-available-ready-to-use-anti-mouse-trispecific-antibody-for-preclinical-research-74611"
         }
       ]
     },
@@ -64,52 +96,80 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Ona Therapeutics — ADC pipeline — Breast and Colorectal Cancer — Secured $86.6M Series B to launch two antibody-drug conjugates into clinical development.",
-          "url": "https://biopharmadive.com/news/ona-antibody-drug-conjugate-breast-colorectal-cancer/821891/"
+          "text": "Ethyreal Bio — ETHY-001 — Graves disease / Thyroid eye disease — Launched with $101M; monoclonal antibody designed to block TSHR receptor; long-lasting subcutaneous injection format.",
+          "url": "https://biopharmadive.com/news/ethyreal-bio-graves-thyroid-eye-disease-tshr/822477/"
         },
         {
-          "text": "Abzena — Formulation Services — Biologics and Bioconjugates — Deploying 'Fast-to-Clinic' and 'Best-in-Clinic' approaches to address instability in bi/multi-specific formats and antibody-cargo conjugates.",
-          "url": "https://drug-dev.com/special-feature-outsourcing-formulation-development-manufacturing-connecting-your-project-to-the-right-service-provider/"
+          "text": "Sanofi — Riliprubart — Chronic inflammatory demyelinating polyneuropathy (CIDP) — Phase 3 MOBILIZE trial stopped early by independent monitoring board due to futility; no safety concerns identified.",
+          "url": "https://biopharmadive.com/news/sanofi-rilipubart-cidp-fail-vigil/822472/"
         },
         {
-          "text": "Shattuck Labs — Monoclonal and bispecific DR3 blocking antibodies — Inflammatory and immune-mediated diseases — Completed pricing of public offering for 10,879,376 shares at $4.00/share and pre-funded warrants for 7,870,624 shares at $3.9999/warrant, raising ~$75M gross proceeds.",
-          "url": "https://globenewswire.com/news-release/2026/06/09/3309333/0/en/shattuck-labs-inc-announces-proposed-public-offering.html"
+          "text": "Sanofi — Riliprubart — Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) — Phase 3 MOBILIZE trial stopped following interim analysis indicating unlikely efficacy; no safety signals identified.",
+          "url": "https://globenewswire.com/news-release/2026/06/12/3311349/0/en/press-release-sanofi-s-tzield-approved-in-the-us-as-the-first-disease-modifying-therapy-for-patients-recently-diagnosed-with-stage-3-type-1-diabetes.html"
         },
         {
-          "text": "Windward Bio — WIN378 (anti-TSLP monoclonal antibody) — Chronic Obstructive Pulmonary Disease (COPD) — Dosed first patients in Phase 2 SIRIUS study; ultra long-acting formulation planned for twice-yearly dosing.",
-          "url": "https://globenewswire.com/news-release/2026/06/09/3308746/0/en/windward-bio-doses-first-patients-in-phase-2-sirius-copd-study-of-ultra-long-acting-anti-tslp-antibody-win378.html"
+          "text": "Zenas BioPharma — Obexelimab — IgG4-RD — Phase 3 INDIGO trial met primary endpoint; significant reduction in glucocorticoid use and toxicity; BLA submitted to FDA May 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310795/0/en/zenas-biopharma-to-present-at-the-h-c-wainwright-7th-annual-neuro-perspectives-expert-summit.html"
         },
         {
-          "text": "Windward Bio — WIN378 — Asthma — Phase 2/3 POLARIS program dose-ranging component fully recruited; initial data expected H2 2026; Phase 3 study start expected Q4 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/09/3308746/0/en/windward-bio-doses-first-patients-in-phase-2-sirius-copd-study-of-ultra-long-acting-anti-tslp-antibody-win378.html"
+          "text": "Edesa Biotech — Paridiprubart — Acute Kidney Injury (AKI) — Anti-TLR4 monoclonal antibody associated with 32% relative mortality reduction at 28 days in 101-patient exploratory analysis of AKI/ARDS cohort.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310539/0/en/edesa-biotech-announces-3-5-million-private-placement-of-common-shares-led-by-ceo-and-healthcare-focused-investors.html"
         },
         {
-          "text": "Kyowa Kirin — Rocatinlimab — Atopic Dermatitis, Asthma, Prurigo Nodularis — Discontinued all Phase 2 and 3 trials after safety review identified one confirmed and one suspected case of Kaposi's sarcoma linked to OX40 pathway modulation.",
-          "url": "https://www.healio.com/news/dermatology/20260605/many-things-in-the-pipeline-offer-more-options-for-prurigo-nodularis"
+          "text": "CytoDyn — Leronlimab — Alzheimer's Disease — Phase 2a study initiated; leronlimab is a first-in-class humanized monoclonal antibody targeting CCR5 receptor.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310459/19782/en/cytodyn-announces-first-patient-dosed-in-phase-2a-study-in-collaboration-with-weill-cornell-medicine-evaluating-leronlimab-in-alzheimer-s-disease.html"
         },
         {
-          "text": "Janssen — Tremfya (guselkumab) — Psoriatic Arthritis — FDA label expansion approved to include inhibition of structural joint damage progression; APEX trial showed significantly lower radiographic progression vs placebo at 24 weeks in >1,000 biologic-naïve adults.",
-          "url": "https://www.healio.com/news/rheumatology/20260603/fda-updates-tremfya-label-to-include-joint-damage-inhibition-in-psoriatic-arthritis"
+          "text": "Climb Bio — CLYM116 — IgA nephropathy — Phase 1 safety data presented at ERA Congress 2026; partner Beijing Mabworks Biotech to initiate dosing in IgAN patients in Phase 2 study in Q3 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310326/0/en/climb-bio-announces-initial-phase-1b-data-demonstrating-on-target-clinical-activity-for-budoprutug-in-immune-thrombocytopenia-at-eha-congress-2026.html"
         },
         {
-          "text": "University of Montreal — Anti-SLAMF6 monoclonal antibodies — Cancer — Preclinical development of antibodies blocking SLAMF6 self-binding to restore T-cell function; superior to existing SLAMF6 targeting approaches in mouse models.",
+          "text": "Zenas Biopharma — Obexelimab — IgG4-related disease — Global multicenter randomized double-blind placebo-controlled INDIGO trial showed 56% flare risk reduction at 52 weeks; no new safety signals reported.",
+          "url": "https://www.healio.com/news/rheumatology/20260610/obexelimab-may-represent-paradigm-shift-in-igg4related-disease"
+        },
+        {
+          "text": "Ethyreal Bio — ETHY-001 — Graves disease / Thyroid Eye Disease — Monoclonal antibody designed to block TSHR receptor; raised $101M in initial funding; formulated as long-lasting subcutaneous injection.",
+          "url": "https://biopharmadive.com/news/ethyreal-bio-graves-thyroid-eye-disease-tshr/822477/"
+        },
+        {
+          "text": "Sanofi — Riliprubart — Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) — Phase 3 MOBILIZE trial stopped for futility; independent monitoring board found no safety concerns but low probability of success.",
+          "url": "https://biopharmadive.com/news/sanofi-rilipubart-cidp-fail-vigil/822472/"
+        },
+        {
+          "text": "Sanofi — Riliprubart — Chronic Inflammatory Demyelinating Polyneuropathy — Phase 3 MOBILIZE trial terminated following interim analysis showing unlikely efficacy; no significant financial cost incurred.",
+          "url": "https://globenewswire.com/news-release/2026/06/12/3311349/0/en/press-release-sanofi-s-tzield-approved-in-the-us-as-the-first-disease-modifying-therapy-for-patients-recently-diagnosed-with-stage-3-type-1-diabetes.html"
+        },
+        {
+          "text": "Edesa Biotech — Paridiprubart — Acute Kidney Injury (AKI) with Respiratory Distress — Phase 3 exploratory analysis of 101 patients showed 32% relative reduction in 28-day mortality vs standard of care; data presented at 63rd ERA Congress.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310539/0/en/edesa-biotech-announces-3-5-million-private-placement-of-common-shares-led-by-ceo-and-healthcare-focused-investors.html"
+        },
+        {
+          "text": "CytoDyn — Leronlimab — Alzheimer's Disease — First patient dosed in Phase 2a study conducted in collaboration with Weill Cornell Medicine targeting CCR5 receptor.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310459/19782/en/cytodyn-announces-first-patient-dosed-in-phase-2a-study-in-collaboration-with-weill-cornell-medicine-evaluating-leronlimab-in-alzheimer-s-disease.html"
+        },
+        {
+          "text": "Climb Bio — CLYM116 — IgA nephropathy (IgAN) — Phase 1b data presented at ERA 2026; partner Beijing Mabworks Biotech expects to initiate dosing in IgAN patients for Phase 2 study in Q3 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310326/0/en/climb-bio-announces-initial-phase-1b-data-demonstrating-on-target-clinical-activity-for-budoprutug-in-immune-thrombocytopenia-at-eha-congress-2026.html"
+        },
+        {
+          "text": "Zenas Biopharma — Obexelimab — IgG4-related disease — Phase 3 INDIGO trial results: 56% flare risk reduction vs placebo at 52 weeks; no new safety signals reported for the CD19/FcRIIb co-engaging monoclonal antibody.",
+          "url": "https://www.healio.com/news/rheumatology/20260610/obexelimab-may-represent-paradigm-shift-in-igg4related-disease"
+        },
+        {
+          "text": "Université de Montréal — Anti-SLAMF6 monoclonal antibodies — Cancer immunotherapy — Preclinical study demonstrated increased T-cell activation, reduced exhaustion, and strong anti-tumor responses in mice; mechanism involves blocking SLAMF6 self-binding.",
           "url": "https://www.sciencedaily.com/releases/2026/06/260608040021.htm"
         },
         {
-          "text": "Sanofi — Isatuximab-irfc (Sarclisa) — Multiple Myeloma — EU approval granted for subcutaneous on-body injector formulation based on Phase 3 IRAKLIA trial showing noninferiority to IV (ORR 71.7% vs 70.5%; P=.0006).",
+          "text": "Université de Montréal — Anti-SLAMF6 monoclonal antibodies — Cancer immunotherapy — Preclinical mouse studies demonstrated increased T-cell activation, reduced exhaustion, and strong anti-tumor responses compared to existing approaches.",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260608040021.htm"
+        },
+        {
+          "text": "Genmab/AbbVie — Epcoritamab-bysp — Relapsed/refractory follicular lymphoma — Phase 3 EPCORE FL-1 subgroup analysis: 96% ORR and 84% CR in patients <70 years; HR for PFS 0.19 vs control.",
+          "url": "https://cancernetwork.com/view/fixed-duration-epcoritamab-combo-shows-superiority-in-follicular-lymphoma"
+        },
+        {
+          "text": "Sanofi — Isatuximab-irfc — Multiple myeloma — EU approval granted for subcutaneous on-body injector (OBI) across all existing IV indications following EMA CHMP positive opinion.",
           "url": "https://cancernetwork.com/view/subcutaneous-isatuximab-earns-eu-approval-in-multiple-myeloma"
-        },
-        {
-          "text": "Connect Biopharma — Rademikibart — Acute Asthma/COPD Exacerbations — Humanized monoclonal antibody targeting IL-4Rα advancing in global clinical studies for acute exacerbations.",
-          "url": "https://the-scientist.com/a-new-approach-to-treating-respiratory-attacks-74572"
-        },
-        {
-          "text": "Mapp Biopharmaceuticals — MBP-134 — Ebola — HHS authorized access for high-risk US exposures; antibody developed with BARDA funding; dose inventory undisclosed as BARDA owns stock; no human clinical trial data available.",
-          "url": "https://statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/"
-        },
-        {
-          "text": "Bio X Cell — Anti-mouse PD-L1 × TIGIT × LAG3 — Preclinical oncology research — Released first ready-to-use trispecific antibody (murine IgG2a constant region) enabling simultaneous interrogation of three checkpoint pathways in standard mouse models.",
-          "url": "https://the-scientist.com/bio-x-cell-introduces-first-commercially-available-ready-to-use-anti-mouse-trispecific-antibody-for-preclinical-research-74611"
         }
       ]
     },
@@ -117,52 +177,72 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Ona Therapeutics — ADC commercialization — Breast and Colorectal Cancer pipeline — $86.6M Series B raised June 2026 to initiate clinical trials.",
-          "url": "https://biopharmadive.com/news/ona-antibody-drug-conjugate-breast-colorectal-cancer/821891/"
+          "text": "Ethyreal Bio — Monoclonal antibody development for immune diseases — ETHY-001 (TSHR blocker) — $101M seed funding secured; targeting Graves disease and thyroid eye disease.",
+          "url": "https://biopharmadive.com/news/ethyreal-bio-graves-thyroid-eye-disease-tshr/822477/"
         },
         {
-          "text": "Abzena — Formulation development for bioconjugates — Antibody conjugation services — Addressing instability in bi/multi-specific formats and novel cargo conjugation.",
-          "url": "https://drug-dev.com/special-feature-outsourcing-formulation-development-manufacturing-connecting-your-project-to-the-right-service-provider/"
+          "text": "Sanofi — Late-stage monoclonal antibody pipeline optimization — Riliprubart (anti-inflammatory mAb) — Phase 3 trial terminated for CIDP indication; potential blockbuster status now in doubt.",
+          "url": "https://biopharmadive.com/news/sanofi-rilipubart-cidp-fail-vigil/822472/"
         },
         {
-          "text": "Shattuck Labs — Pioneering first-in-class monoclonal and bispecific DR3 blocking antibodies — Pipeline for inflammatory and immune-mediated diseases — Secured $75M capital raise via public offering to advance clinical-stage monoclonal antibody programs.",
-          "url": "https://globenewswire.com/news-release/2026/06/09/3309333/0/en/shattuck-labs-inc-announces-proposed-public-offering.html"
+          "text": "Sanofi — Clinical program restructuring — Riliprubart (IgG4 humanized monoclonal antibody) — Phase 3 MOBILIZE study terminated; VITALIZE Phase 3 study in IVIg-treated CIDP patients under evaluation.",
+          "url": "https://globenewswire.com/news-release/2026/06/12/3311349/0/en/press-release-sanofi-s-tzield-approved-in-the-us-as-the-first-disease-modifying-therapy-for-patients-recently-diagnosed-with-stage-3-type-1-diabetes.html"
         },
         {
-          "text": "Windward Bio — Commercialization of long-acting monoclonal antibodies — WIN378 (anti-TSLP mAb) and WIN027 (bispecific TSLP/IL-13) — $165M crossover financing secured; total raised $365M since Jan 2025.",
-          "url": "https://globenewswire.com/news-release/2026/06/09/3308746/0/en/windward-bio-doses-first-patients-in-phase-2-sirius-copd-study-of-ultra-long-acting-anti-tslp-antibody-win378.html"
+          "text": "Zenas BioPharma — Commercialization of IgG4-RD therapy — Obexelimab (FcγRIIb/CD19 dual-targeting monoclonal antibody) — Phase 3 INDIGO trial positive; BLA submitted to FDA May 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310795/0/en/zenas-biopharma-to-present-at-the-h-c-wainwright-7th-annual-neuro-perspectives-expert-summit.html"
         },
         {
-          "text": "Kyowa Kirin — Monoclonal antibody safety management — Rocatinlimab (anti-OX40 mAb) — Halted global development program due to malignancy signals; previously reported durable efficacy in ROCKET program for atopic dermatitis.",
-          "url": "https://www.healio.com/news/dermatology/20260605/many-things-in-the-pipeline-offer-more-options-for-prurigo-nodularis"
+          "text": "Edesa Biotech — Host-directed anti-inflammatory therapy — Paridiprubart (anti-TLR4 monoclonal antibody) — Phase 3 exploratory data in AKI/ARDS showing 32% mortality reduction; presentation at 63rd ERA Congress.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310539/0/en/edesa-biotech-announces-3-5-million-private-placement-of-common-shares-led-by-ceo-and-healthcare-focused-investors.html"
         },
         {
-          "text": "Janssen — Label expansion for structural damage inhibition — Tremfya (guselkumab) — Fully human monoclonal antibody targeting IL-23p19; now indicated for inhibition of structural joint damage in active psoriatic arthritis.",
-          "url": "https://www.healio.com/news/rheumatology/20260603/fda-updates-tremfya-label-to-include-joint-damage-inhibition-in-psoriatic-arthritis"
+          "text": "CytoDyn — Advancing humanized monoclonal antibody leronlimab across oncology and neurodegenerative indications — Leronlimab (CCR5-targeting mAb) — Phase 2a in Alzheimer's Disease initiated; also advancing in metastatic triple-negative breast cancer and colorectal cancer.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310459/19782/en/cytodyn-announces-first-patient-dosed-in-phase-2a-study-in-collaboration-with-weill-cornell-medicine-evaluating-leronlimab-in-alzheimer-s-disease.html"
         },
         {
-          "text": "Johnson & Johnson — FcRn blockade commercialization — Nipocalimab (monoclonal antibody) — Phase 2 data supports advancement in systemic lupus erythematosus indication.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186284&sid=2"
+          "text": "Climb Bio — Anti-APRIL monoclonal antibody development — CLYM116 — Global rights outside Greater China; advancing Phase 1 in healthy volunteers with partner Beijing Mabworks Biotech initiating Phase 2 in China Q3 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310326/0/en/climb-bio-announces-initial-phase-1b-data-demonstrating-on-target-clinical-activity-for-budoprutug-in-immune-thrombocytopenia-at-eha-congress-2026.html"
         },
         {
-          "text": "University of Montreal / Montreal Clinical Research Institute — Novel cancer immunotherapy platform — Anti-SLAMF6 monoclonal antibodies — Preclinical stage; targeting patients resistant to PD1/PDL1 inhibitors.",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260608040021.htm"
+          "text": "Zenas Biopharma — B-cell activation inhibition via bifunctional mAb — Obexelimab — INDIGO trial results presented at EULAR 2026 showing 56% flare risk reduction in IgG4-related disease; no new safety signals.",
+          "url": "https://www.healio.com/news/rheumatology/20260610/obexelimab-may-represent-paradigm-shift-in-igg4related-disease"
         },
         {
-          "text": "Sanofi — Commercialization of subcutaneous monoclonal antibody delivery — Isatuximab-irfc (Sarclisa) — EU approval secured for on-body injector; Phase 3 data supports noninferior efficacy and reduced infusion reactions (1.5% vs 25%).",
+          "text": "Ethyreal Bio — Monoclonal antibody development for immune diseases — ETHY-001 — $101M seed funding secured; targeting TSHR overactivation in Graves disease and thyroid eye disease.",
+          "url": "https://biopharmadive.com/news/ethyreal-bio-graves-thyroid-eye-disease-tshr/822477/"
+        },
+        {
+          "text": "Sanofi — Pipeline optimization following late-stage failure — Riliprubart — Phase 3 trial discontinued June 10, 2026, marking a setback for a therapy previously viewed as a potential blockbuster.",
+          "url": "https://biopharmadive.com/news/sanofi-rilipubart-cidp-fail-vigil/822472/"
+        },
+        {
+          "text": "Sanofi — Complement pathway inhibition strategy — Riliprubart (SAR445088) — Phase 3 MOBILIZE trial stopped; VITALIZE Phase 3 study in IVIg-treated CIDP patients ongoing pending evaluation.",
+          "url": "https://globenewswire.com/news-release/2026/06/12/3311349/0/en/press-release-sanofi-s-tzield-approved-in-the-us-as-the-first-disease-modifying-therapy-for-patients-recently-diagnosed-with-stage-3-type-1-diabetes.html"
+        },
+        {
+          "text": "Edesa Biotech — Host-directed therapeutic development for immuno-inflammatory diseases — Paridiprubart (anti-TLR4 mAb) — Raised $3.5M private placement; advancing Phase 3 program in AKI/ARDS with positive mortality signals.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310539/0/en/edesa-biotech-announces-3-5-million-private-placement-of-common-shares-led-by-ceo-and-healthcare-focused-investors.html"
+        },
+        {
+          "text": "CytoDyn — CCR5-targeted monoclonal antibody commercialization — Leronlimab — Expanding indications from oncology (mTNBC, CRC) to neurodegenerative disease (Alzheimer's) with new Phase 2a initiation.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310459/19782/en/cytodyn-announces-first-patient-dosed-in-phase-2a-study-in-collaboration-with-weill-cornell-medicine-evaluating-leronlimab-in-alzheimer-s-disease.html"
+        },
+        {
+          "text": "Climb Bio — Anti-APRIL monoclonal antibody development — CLYM116 — Global rights held outside Greater China; Phase 1 studies ongoing in Australia and China with dosing expansion planned for Q3 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310326/0/en/climb-bio-announces-initial-phase-1b-data-demonstrating-on-target-clinical-activity-for-budoprutug-in-immune-thrombocytopenia-at-eha-congress-2026.html"
+        },
+        {
+          "text": "Zenas Biopharma — Development of bifunctional monoclonal antibody therapy — Obexelimab — INDIGO trial data presented at EULAR 2026 showing 56% flare risk reduction in IgG4-related disease; mechanism involves co-engagement of CD19 and FcRIIb.",
+          "url": "https://www.healio.com/news/rheumatology/20260610/obexelimab-may-represent-paradigm-shift-in-igg4related-disease"
+        },
+        {
+          "text": "Genmab/AbbVie — Advancing bispecific T-cell engager (anti-CD20/CD3) monoclonal antibody — Epcoritamab-bysp — Phase 3 EPCORE FL-1 demonstrated superiority over standard chemo-immunotherapy in follicular lymphoma.",
+          "url": "https://cancernetwork.com/view/fixed-duration-epcoritamab-combo-shows-superiority-in-follicular-lymphoma"
+        },
+        {
+          "text": "Sanofi — Expanding subcutaneous delivery options for anti-CD38 monoclonal antibody — Isatuximab-irfc — EU approval of OBI formulation achieved with 70% patient satisfaction vs 53.4% for IV.",
           "url": "https://cancernetwork.com/view/subcutaneous-isatuximab-earns-eu-approval-in-multiple-myeloma"
-        },
-        {
-          "text": "Connect Biopharma — Development of dual-cytokine targeting biologic — Rademikibart (anti-IL-4Rα mAb) — Clinical-stage program addressing unmet need in acute respiratory exacerbations.",
-          "url": "https://the-scientist.com/a-new-approach-to-treating-respiratory-attacks-74572"
-        },
-        {
-          "text": "Mapp Biopharmaceuticals — Emergency Ebola countermeasure development — MBP-134 (antibody) — Product authorized for US high-risk exposure access; manufacturing and inventory controlled by BARDA; human efficacy data pending.",
-          "url": "https://statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/"
-        },
-        {
-          "text": "Bio X Cell — Expansion into multispecific antibody formats — Anti-mouse PD-L1 × TIGIT × LAG3 — Transitioning beyond traditional monoclonal antibodies to offer recombinant trispecific tools for in vivo checkpoint biology research.",
-          "url": "https://the-scientist.com/bio-x-cell-introduces-first-commercially-available-ready-to-use-anti-mouse-trispecific-antibody-for-preclinical-research-74611"
         }
       ]
     },
@@ -170,52 +250,80 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "Ona Therapeutics ADCs — Mechanism: Antibody-drug conjugate linking protein to toxic payload — Phase: Pre-clinical to Clinical initiation — Population: Advanced breast and colorectal cancer — Status: Funding secured for development.",
-          "url": "https://biopharmadive.com/news/ona-antibody-drug-conjugate-breast-colorectal-cancer/821891/"
+          "text": "ETHY-001 — Mechanism: TSHR receptor blockade — Phase: Preclinical/Early development — Population: Graves disease and thyroid eye disease patients — Design: Long-lasting subcutaneous monoclonal antibody.",
+          "url": "https://biopharmadive.com/news/ethyreal-bio-graves-thyroid-eye-disease-tshr/822477/"
         },
         {
-          "text": "Antibody-cargo conjugates — Mechanism: Conjugation of novel cargos to antibodies — Challenge: Inherent instability requiring considered formulation approaches — Context: Increasing demand for high-concentration forms in next-generation biologics.",
-          "url": "https://drug-dev.com/special-feature-outsourcing-formulation-development-manufacturing-connecting-your-project-to-the-right-service-provider/"
+          "text": "Riliprubart — Mechanism: Anti-inflammatory monoclonal antibody — Phase: 3 (MOBILIZE) — Population: CIDP patients refractory to standard-of-care — Outcome: Trial stopped for futility by independent board.",
+          "url": "https://biopharmadive.com/news/sanofi-rilipubart-cidp-fail-vigil/822472/"
         },
         {
-          "text": "Shattuck Labs monoclonal and bispecific DR3 blocking antibodies — Mechanism: DR3 receptor blockade — Phase: Clinical-stage — Population: Patients with inflammatory and immune-mediated diseases — Status: First-in-class candidates advancing with $75M funding secured.",
-          "url": "https://globenewswire.com/news-release/2026/06/09/3309333/0/en/shattuck-labs-inc-announces-proposed-public-offering.html"
+          "text": "Riliprubart — Mechanism: IgG4 humanized monoclonal antibody selectively inhibiting activated C1s in the classical complement pathway — Phase: 3 (MOBILIZE) — Population: CIDP patients refractory to standard-of-care — Comparator: Not specified in termination notice — Results: Study stopped due to insufficient efficacy; no safety signals identified.",
+          "url": "https://globenewswire.com/news-release/2026/06/12/3311349/0/en/press-release-sanofi-s-tzield-approved-in-the-us-as-the-first-disease-modifying-therapy-for-patients-recently-diagnosed-with-stage-3-type-1-diabetes.html"
         },
         {
-          "text": "WIN378 — Mechanism: Fully human monoclonal antibody binding thymic stromal lymphopoietin (TSLP) ligand — Phase: 2 (SIRIUS) and 2/3 (POLARIS) — Population: COPD and Asthma patients — Dosing: Ultra long-acting, twice-yearly — Status: First patient dosed in COPD study Q2 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/09/3308746/0/en/windward-bio-doses-first-patients-in-phase-2-sirius-copd-study-of-ultra-long-acting-anti-tslp-antibody-win378.html"
+          "text": "Obexelimab — Mechanism: FcγRIIb/CD19 dual-targeting monoclonal antibody — Phase: 3 — Population: IgG4-Related Disease — Comparator: Placebo — Results: Met primary endpoint; significant reduction in flare burden, glucocorticoid use, and toxicity; safety profile comparable to placebo.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310795/0/en/zenas-biopharma-to-present-at-the-h-c-wainwright-7th-annual-neuro-perspectives-expert-summit.html"
         },
         {
-          "text": "Rocatinlimab — Mechanism: Anti-OX40 monoclonal antibody targeting memory T cells — Phase: 2/3 (discontinued) — Population: Moderate to severe atopic dermatitis, uncontrolled asthma, prurigo nodularis — Comparator: N/A (trial halted) — Results: Development halted due to Kaposi's sarcoma cases suggesting mechanistic link to OX40 modulation.",
-          "url": "https://www.healio.com/news/dermatology/20260605/many-things-in-the-pipeline-offer-more-options-for-prurigo-nodularis"
+          "text": "Paridiprubart — Mechanism: Anti-TLR4 monoclonal antibody — Phase: 3 (exploratory analysis) — Population: Acute Kidney Injury with respiratory distress (101 patients) — Comparator: Standard of Care — Results: 32% relative reduction in mortality at 28 days; improvements in MAKE30 composite endpoint.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310539/0/en/edesa-biotech-announces-3-5-million-private-placement-of-common-shares-led-by-ceo-and-healthcare-focused-investors.html"
         },
         {
-          "text": "Guselkumab — Mechanism: Fully human monoclonal antibody binding CD64 and inhibiting IL-23p19 subunit — Phase: 3 (APEX) — Population: >1,000 biologic-naïve adults with active psoriatic arthritis — Comparator: Placebo — Endpoint: Radiographic progression at 24 weeks; results showed significantly lower progression rates.",
-          "url": "https://www.healio.com/news/rheumatology/20260603/fda-updates-tremfya-label-to-include-joint-damage-inhibition-in-psoriatic-arthritis"
+          "text": "Leronlimab — Mechanism: Humanized monoclonal antibody targeting CCR5 receptor — Phase: 2a — Population: Alzheimer's Disease patients — Comparator: Not specified in source — Endpoints/Results: First patient dosed in study with Weill Cornell Medicine.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310459/19782/en/cytodyn-announces-first-patient-dosed-in-phase-2a-study-in-collaboration-with-weill-cornell-medicine-evaluating-leronlimab-in-alzheimer-s-disease.html"
         },
         {
-          "text": "Nipocalimab — Mechanism: FcRn blockade reducing pathogenic IgG — Phase: 2 — Population: Systemic Lupus Erythematosus — Comparator: Not specified in source — Results: Significant reduction in disease activity reported.",
-          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186284&sid=2"
+          "text": "CLYM116 — Mechanism: Anti-APRIL monoclonal antibody — Phase: 1 — Population: Healthy volunteers — Comparator: None stated — Results: Favorable safety profile at doses up to 320 mg; no unexpected safety findings.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310326/0/en/climb-bio-announces-initial-phase-1b-data-demonstrating-on-target-clinical-activity-for-budoprutug-in-immune-thrombocytopenia-at-eha-congress-2026.html"
         },
         {
-          "text": "Anti-SLAMF6 antibodies — Mechanism: Monoclonal blockade of SLAMF6 self-association to prevent T-cell exhaustion — Phase: Preclinical — Population: Murine tumor models — Comparator: Existing PD1/PDL1 approaches — Results: Increased T-cell activation, reduced exhaustion, and strong anti-tumor responses observed.",
+          "text": "Obexelimab — Mechanism: Humanized bifunctional monoclonal antibody co-engaging CD19 and FcRIIb (CD32b) to inhibit B-cell activation — Phase: 3 (INDIGO) — Population: IgG4-related disease — Comparator: Placebo — Results: 56% reduction in flare risk at 52 weeks; no new safety signals.",
+          "url": "https://www.healio.com/news/rheumatology/20260610/obexelimab-may-represent-paradigm-shift-in-igg4related-disease"
+        },
+        {
+          "text": "ETHY-001 — Mechanism: TSHR receptor blockade — Phase: Preclinical/Startup — Population: Graves disease and thyroid eye disease patients — Comparator: N/A — Status: Designed as long-lasting subcutaneous injection to halt disease progression.",
+          "url": "https://biopharmadive.com/news/ethyreal-bio-graves-thyroid-eye-disease-tshr/822477/"
+        },
+        {
+          "text": "Riliprubart — Mechanism: Anti-inflammatory (specific target not explicitly stated as monoclonal in source) — Phase: 3 — Population: CIDP patients refractory to standard-of-care — Comparator: Not applicable (trial stopped for futility) — Results: Independent monitoring board determined trial unlikely to succeed.",
+          "url": "https://biopharmadive.com/news/sanofi-rilipubart-cidp-fail-vigil/822472/"
+        },
+        {
+          "text": "Riliprubart — Mechanism: IgG4 humanized monoclonal antibody inhibiting activated C1s in classical complement pathway — Phase: 3 (MOBILIZE terminated, VITALIZE ongoing) — Population: CIDP patients refractory to standard-of-care or IVIg-treated — Comparator: Not specified in termination notice — Results: MOBILIZE stopped for futility; no safety signals identified.",
+          "url": "https://globenewswire.com/news-release/2026/06/12/3311349/0/en/press-release-sanofi-s-tzield-approved-in-the-us-as-the-first-disease-modifying-therapy-for-patients-recently-diagnosed-with-stage-3-type-1-diabetes.html"
+        },
+        {
+          "text": "Paridiprubart — Mechanism: Anti-TLR4 monoclonal antibody blocking toll-like receptor 4 inflammation — Phase: 3 (exploratory analysis) — Population: AKI patients with ARDS (n=101) — Comparator: Standard of Care — Results: 32% relative reduction in 28-day mortality; improved MAKE30 composite endpoint.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310539/0/en/edesa-biotech-announces-3-5-million-private-placement-of-common-shares-led-by-ceo-and-healthcare-focused-investors.html"
+        },
+        {
+          "text": "Leronlimab — Mechanism: Humanized monoclonal antibody targeting CCR5 receptor — Phase: 2a — Population: Alzheimer's disease patients — Comparator: Not specified — Endpoint: Safety and tolerability; first patient dosed June 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310459/19782/en/cytodyn-announces-first-patient-dosed-in-phase-2a-study-in-collaboration-with-weill-cornell-medicine-evaluating-leronlimab-in-alzheimer-s-disease.html"
+        },
+        {
+          "text": "CLYM116 — Mechanism: Anti-APRIL monoclonal antibody — Phase: 1b — Population: Healthy volunteers and IgA nephropathy patients — Comparator: None stated — Results: Favorable safety profile up to 320 mg; translational modeling supports potential for substantial IgA reduction and less frequent dosing.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310326/0/en/climb-bio-announces-initial-phase-1b-data-demonstrating-on-target-clinical-activity-for-budoprutug-in-immune-thrombocytopenia-at-eha-congress-2026.html"
+        },
+        {
+          "text": "Obexelimab — Mechanism: Bifunctional monoclonal antibody co-engaging CD19 and inhibitory receptor FcRIIb (CD32b) to inhibit B-cell activation — Phase: 3 (INDIGO) — Population: IgG4-related disease — Comparator: Placebo — Results: 56% reduction in flare risk at 52 weeks; no new safety signals.",
+          "url": "https://www.healio.com/news/rheumatology/20260610/obexelimab-may-represent-paradigm-shift-in-igg4related-disease"
+        },
+        {
+          "text": "Anti-SLAMF6 monoclonal antibodies — Mechanism: Block SLAMF6 self-binding to prevent T-cell exhaustion — Phase: Preclinical — Population: Mouse tumor models — Comparator: Existing PD1/PDL1 inhibitors — Results: Superior anti-tumor response; increased durable immune cell numbers.",
           "url": "https://www.sciencedaily.com/releases/2026/06/260608040021.htm"
         },
         {
-          "text": "Isatuximab-irfc (SC) — Mechanism: Anti-CD38 monoclonal antibody — Phase: 3 (IRAKLIA) — Population: Relapsed/refractory multiple myeloma — Comparator: Intravenous isatuximab — Endpoints/Results: ORR 71.7% vs 70.5% (noninferior); systemic infusion reactions 1.5% vs 25%; patient satisfaction 70% vs 53.4%.",
+          "text": "Anti-SLAMF6 monoclonal antibodies — Mechanism: Blockade of SLAMF6 self-binding to prevent T-cell exhaustion signals — Phase: Preclinical (mice) — Population: Tumor-bearing mice — Results: Increased durable immune cells, reduced exhausted T cells, and enhanced tumor attack efficacy.",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260608040021.htm"
+        },
+        {
+          "text": "Epcoritamab-bysp — Mechanism: Bispecific anti-CD20/CD3 T-cell engager — Phase: 3 (EPCORE FL-1) — Population: Relapsed/refractory follicular lymphoma — Comparator: Lenalidomide/rituximab — Results: 95% ORR, 83% CR, PFS HR 0.21.",
+          "url": "https://cancernetwork.com/view/fixed-duration-epcoritamab-combo-shows-superiority-in-follicular-lymphoma"
+        },
+        {
+          "text": "Isatuximab-irfc — Mechanism: Anti-CD38 monoclonal antibody — Phase: 3 (IRAKLIA) — Population: Relapsed/refractory multiple myeloma — Comparator: Intravenous formulation — Results: Noninferior ORR (71.7% vs 70.5%), 1.5% systemic infusion reactions vs 25% IV.",
           "url": "https://cancernetwork.com/view/subcutaneous-isatuximab-earns-eu-approval-in-multiple-myeloma"
-        },
-        {
-          "text": "Rademikibart — Mechanism: Humanized monoclonal antibody targeting IL-4Rα with dual inhibition strategy — Phase: Clinical studies — Population: Acute asthma and COPD exacerbations — Comparator: Not specified in source — Endpoints/Results: Designed for faster intervention than current options; specific trial data not provided.",
-          "url": "https://the-scientist.com/a-new-approach-to-treating-respiratory-attacks-74572"
-        },
-        {
-          "text": "MBP-134 — Mechanism: Antibody treatment (specific MOA not detailed in source) — Phase: Pre-clinical/Animal testing only — Population: Humans (high-risk Ebola exposure) — Comparator: None — Status: Efficacy in humans not yet established; authorized for emergency access.",
-          "url": "https://statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/"
-        },
-        {
-          "text": "Anti-mouse PD-L1 × TIGIT × LAG3 — Mechanism: Trispecific antibody targeting PD-L1, TIGIT, and LAG3 immune checkpoints — Phase: Preclinical tool — Population: Standard mouse models — Comparator: Multi-agent study designs — Utility: Reduces variability in studying T-cell exhaustion and immune suppression.",
-          "url": "https://the-scientist.com/bio-x-cell-introduces-first-commercially-available-ready-to-use-anti-mouse-trispecific-antibody-for-preclinical-research-74611"
         }
       ]
     },
@@ -223,28 +331,32 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Ona Therapeutics — Series B financing — ADC development — Raised $86.6M to fund clinical launch of differentiated antibody-drug conjugates.",
-          "url": "https://biopharmadive.com/news/ona-antibody-drug-conjugate-breast-colorectal-cancer/821891/"
+          "text": "Ethyreal Bio — Secured $101M in funding to launch operations and advance ETHY-001 monoclonal antibody program for immune diseases.",
+          "url": "https://biopharmadive.com/news/ethyreal-bio-graves-thyroid-eye-disease-tshr/822477/"
         },
         {
-          "text": "Shattuck Labs — Public offering — $75 million gross proceeds — Issued 10,879,376 common shares at $4.00 and 7,870,624 pre-funded warrants at $3.9999; underwriters granted 30-day option for 2,812,500 additional shares; joint bookrunners: Leerink Partners, J.P. Morgan, Piper Sandler, Cantor.",
-          "url": "https://globenewswire.com/news-release/2026/06/09/3309333/0/en/shattuck-labs-inc-announces-proposed-public-offering.html"
+          "text": "Zenas BioPharma — Regulatory filing — Obexelimab BLA for IgG4-RD — Submitted to FDA in May 2026 following Phase 3 INDIGO trial success.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310795/0/en/zenas-biopharma-to-present-at-the-h-c-wainwright-7th-annual-neuro-perspectives-expert-summit.html"
         },
         {
-          "text": "Windward Bio — $165M crossover financing — Led by OrbiMed with participation from RA Capital, Janus Henderson, Sanofi Ventures, Harbour BioMed — Proceeds to advance WIN378 to Phase 3 and WIN027 to respiratory/dermatology studies by Q4 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/09/3308746/0/en/windward-bio-doses-first-patients-in-phase-2-sirius-copd-study-of-ultra-long-acting-anti-tslp-antibody-win378.html"
+          "text": "Edesa Biotech — Capital raise — $3.5 million private placement of common shares — Led by CEO and healthcare-focused investors announced June 11, 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310539/0/en/edesa-biotech-announces-3-5-million-private-placement-of-common-shares-led-by-ceo-and-healthcare-focused-investors.html"
         },
         {
-          "text": "Sanofi — Regulatory filing and approval — Isatuximab-irfc (Sarclisa) — EU Committee for Medicinal Products for Human View issued positive opinion leading to approval of subcutaneous formulation.",
-          "url": "https://cancernetwork.com/view/subcutaneous-isatuximab-earns-eu-approval-in-multiple-myeloma"
+          "text": "Ethyreal Bio — $101M initial funding round — ETHY-001 — Capital raised to advance monoclonal antibody program targeting TSHR for thyroid-related immune diseases.",
+          "url": "https://biopharmadive.com/news/ethyreal-bio-graves-thyroid-eye-disease-tshr/822477/"
         },
         {
-          "text": "Mapp Biopharmaceuticals — BARDA funding partnership — MBP-134 — BARDA owns all existing doses; inventory quantity undisclosed; no commercial sales reported.",
-          "url": "https://statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/"
+          "text": "Sanofi — Clinical trial termination — Riliprubart MOBILIZE study — No significant financial cost incurred; 2026 financial guidance unchanged.",
+          "url": "https://globenewswire.com/news-release/2026/06/12/3311349/0/en/press-release-sanofi-s-tzield-approved-in-the-us-as-the-first-disease-modifying-therapy-for-patients-recently-diagnosed-with-stage-3-type-1-diabetes.html"
         },
         {
-          "text": "Bio X Cell — Product launch — Anti-mouse PD-L1 × TIGIT × LAG3 — First commercially available ready-to-use trispecific antibody; manufactured to in vivo-ready quality standards with ultra-pure, carrier-free formulations.",
-          "url": "https://the-scientist.com/bio-x-cell-introduces-first-commercially-available-ready-to-use-anti-mouse-trispecific-antibody-for-preclinical-research-74611"
+          "text": "Edesa Biotech — Secured $3.5 million private placement of common shares led by CEO Par Nijhawan and healthcare-focused investors to support clinical development.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310539/0/en/edesa-biotech-announces-3-5-million-private-placement-of-common-shares-led-by-ceo-and-healthcare-focused-investors.html"
+        },
+        {
+          "text": "CytoDyn — Initiated strategic collaboration with Weill Cornell Medicine — Leronlimab — Phase 2a study in Alzheimer's disease launched with first patient dosed.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310459/19782/en/cytodyn-announces-first-patient-dosed-in-phase-2a-study-in-collaboration-with-weill-cornell-medicine-evaluating-leronlimab-in-alzheimer-s-disease.html"
         }
       ]
     }
