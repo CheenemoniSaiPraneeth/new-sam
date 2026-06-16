@@ -1,26 +1,50 @@
 {
   "query": "CRISPR",
-  "generated_at": "2026-06-12 09:22:10",
-  "article_count": 44,
+  "generated_at": "2026-06-16 10:28:11",
+  "article_count": 48,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Caribou Biosciences — CRISPR genome-editing biopharmaceutical company — reported long-term durability data for CB-011 (Vispa-cel) at EHA 2026, demonstrating deep responses in heavily pretreated multiple myeloma and large B-cell lymphoma patients.",
+          "text": "Intellia Therapeutics — CRISPR gene editing — Hereditary Angioedema — Phase 3 HAELO trial data for lonvoguran ziclumeran (lonvo-z) presented at European Academy of Allergy & Clinical Immunology Annual Congress 2026 showing positive results.",
+          "url": "https://globenewswire.com/news-release/2026/06/13/3311378/0/en/intellia-therapeutics-reports-additional-positive-phase-3-results-for-lonvoguran-ziclumeran-lonvo-z-in-patients-with-hereditary-angioedema.html"
+        },
+        {
+          "text": "Caribou Biosciences — CRISPR genome-editing biopharmaceutical — reported long-term durability data for CB-011 (Vispa-cel) at EHA 2026, demonstrating deep responses in heavily pretreated r/r MM and 2L LBCL patients.",
           "url": "https://globenewswire.com/news-release/2026/06/11/3310427/0/en/caribou-biosciences-reports-long-term-vispa-cel-data-in-second-line-large-b-cell-lymphoma-at-eha-2026.html"
         },
         {
-          "text": "Caribou Biosciences — CRISPR-engineered off-the-shelf CAR-T platform — achieved 83% complete response rate and 91% MRD negativity in BCMA-naïve multiple myeloma patients treated with CB-011 in the CaMMouflage Phase 1 trial.",
+          "text": "Caribou Biosciences — CRISPR-engineered off-the-shelf CAR-T platform — CB-011 (Vispa-cel) achieved 83% CR rate and 91% MRD negativity in BCMA-naïve r/r MM patients at 15-month follow-up.",
           "url": "https://globenewswire.com/news-release/2026/06/11/3310427/0/en/caribou-biosciences-reports-long-term-vispa-cel-data-in-second-line-large-b-cell-lymphoma-at-eha-2026.html"
         },
         {
-          "text": "Caribou Biosciences — CRISPR-based vispa-cel (CB-011) — reported 82% overall response rate and 67% complete response rate in second-line large B-cell lymphoma patients in the ANTLER Phase 1 trial.",
+          "text": "Caribou Biosciences — CRISPR-based cell therapy — Vispa-cel (CD19-targeted) demonstrated 82% ORR and 67% CR rate in 2L LBCL patients with 17.1-month median PFS in ANTLER phase 1 trial.",
           "url": "https://globenewswire.com/news-release/2026/06/11/3310377/0/en/caribou-biosciences-reports-dose-escalation-durability-data-for-cb-011-at-the-2026-european-hematology-association-eha-annual-meeting.html"
         },
         {
-          "text": "Caribou Biosciences — CRISPR-edited allogeneic CAR-T therapy — established a recommended dose for expansion of 450 million CB-011 cells for multiple myeloma treatment in the CaMMouflage trial.",
+          "text": "Caribou Biosciences — CRISPR genome-editing technology — advancing ANTLER-3 pivotal phase 3 trial for Vispa-cel in 2L LBCL to address unmet need in patients lacking curative options.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310377/0/en/caribou-biosciences-reports-dose-escalation-durability-data-for-cb-011-at-the-2026-european-hematology-association-eha-annual-meeting.html"
+        },
+        {
+          "text": "Caribou Biosciences — CRISPR-derived CB-011 — CaMMouflage phase 1 trial established RDE of 450 million CAR-T cells with lymphodepletion regimen of cyclophosphamide and fludarabine.",
           "url": "https://globenewswire.com/news-release/2026/06/11/3310427/0/en/caribou-biosciences-reports-long-term-vispa-cel-data-in-second-line-large-b-cell-lymphoma-at-eha-2026.html"
+        },
+        {
+          "text": "Caribou Biosciences — CRISPR-engineered allogeneic CAR-T — Vispa-cel showed no graft-versus-host disease (GvHD) or grade 3+ immune-related adverse events in pivotal optimized subgroup of 27 LBCL patients.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310377/0/en/caribou-biosciences-reports-dose-escalation-durability-data-for-cb-011-at-the-2026-european-hematology-association-eha-annual-meeting.html"
+        },
+        {
+          "text": "Intellia Therapeutics (NTLA), a clinical-stage biopharmaceutical company leveraging CRISPR gene editing, awarded inducement grants of 47,150 restricted stock units to six new employees under its 2024 Inducement Plan to secure talent for its curative treatment pipeline.",
+          "url": "https://globenewswire.com/news-release/2026/06/13/3311378/0/en/intellia-therapeutics-reports-additional-positive-phase-3-results-for-lonvoguran-ziclumeran-lonvo-z-in-patients-with-hereditary-angioedema.html"
+        },
+        {
+          "text": "Caribou Biosciences (CRBU), a clinical-stage CRISPR genome-editing biopharmaceutical company, reported long-term durability data for its off-the-shelf BCMA-targeted CAR-T cell therapy CB-011 in relapsed/refractory multiple myeloma at EHA 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310427/0/en/caribou-biosciences-reports-long-term-vispa-cel-data-in-second-line-large-b-cell-lymphoma-at-eha-2026.html"
+        },
+        {
+          "text": "Caribou Biosciences — CRISPR genome-editing platform — vispa-cel (CD19-targeted CAR-T) — Reported 82% ORR and 67% CR rate in 27 second-line large B cell lymphoma patients at EHA 2026; median PFS of 17.1 months.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310377/0/en/caribou-biosciences-reports-dose-escalation-durability-data-for-cb-011-at-the-2026-european-hematology-association-eha-annual-meeting.html"
         }
       ]
     },
@@ -28,19 +52,35 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Caribou Biosciences — CB-011 (Vispa-cel) — Relapsed/Refractory Multiple Myeloma — CaMMouflage Phase 1 trial: 83% CR rate, 91% MRD negativity, and 50% of patients in ≥CR at 15 months in BCMA-naïve cohort.",
+          "text": "Intellia Therapeutics — Lonvoguran Ziclumeran (lonvo-z) — Hereditary Angioedema — Phase 3 HAELO trial presented positive additional results in late-breaking oral session at EACCI 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/13/3311378/0/en/intellia-therapeutics-reports-additional-positive-phase-3-results-for-lonvoguran-ziclumeran-lonvo-z-in-patients-with-hereditary-angioedema.html"
+        },
+        {
+          "text": "Caribou Biosciences — CB-011 (Vispa-cel) — Relapsed/Refractory Multiple Myeloma — Phase 1 CaMMouflage trial: 83% CR rate, 91% MRD negativity, 50% ≥CR at 15 months in BCMA-naïve patients.",
           "url": "https://globenewswire.com/news-release/2026/06/11/3310427/0/en/caribou-biosciences-reports-long-term-vispa-cel-data-in-second-line-large-b-cell-lymphoma-at-eha-2026.html"
         },
         {
-          "text": "Caribou Biosciences — vispa-cel — Second-line Large B-Cell Lymphoma — ANTLER Phase 1 trial: 82% ORR, 67% CR rate, and 17.1-month median PFS in pivotal optimized subgroup (N=27).",
+          "text": "Caribou Biosciences — Vispa-cel — Second-line Large B Cell Lymphoma — Phase 1 ANTLER trial: 82% ORR, 67% CR rate, 17.1-month median PFS in pivotal optimized subgroup (N=27).",
           "url": "https://globenewswire.com/news-release/2026/06/11/3310377/0/en/caribou-biosciences-reports-dose-escalation-durability-data-for-cb-011-at-the-2026-european-hematology-association-eha-annual-meeting.html"
         },
         {
-          "text": "Caribou Biosciences — CB-011 — Relapsed/Refractory Multiple Myeloma — CaMMouflage Phase 1 trial: Recommended dose for expansion set at 450 million cells with lymphodepletion of 500 mg/m² cyclophosphamide and 30 mg/m² fludarabide.",
+          "text": "Caribou Biosciences — CB-011 — Relapsed/Refractory Multiple Myeloma — Phase 1 CaMMouflage trial: Recommended Dose for Expansion (RDE) set at 450 million CAR-T cells with 500 mg/m² cyclophosphamide + 30 mg/m² fludarabine.",
           "url": "https://globenewswire.com/news-release/2026/06/11/3310427/0/en/caribou-biosciences-reports-long-term-vispa-cel-data-in-second-line-large-b-cell-lymphoma-at-eha-2026.html"
         },
         {
-          "text": "Caribou Biosciences — vispa-cel — Second-line Large B-Cell Lymphoma — ANTLER-3 pivotal Phase 3 trial designed to address unmet need in academic and community centers for curative intent therapy.",
+          "text": "Caribou Biosciences — Vispa-cel — Second-line Large B Cell Lymphoma — ANTLER-3 pivotal phase 3 trial designed to evaluate curative intent in academic and community centers.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310377/0/en/caribou-biosciences-reports-dose-escalation-durability-data-for-cb-011-at-the-2026-european-hematology-association-eha-annual-meeting.html"
+        },
+        {
+          "text": "Intellia Therapeutics — CRISPR gene editing platform — Hereditary Angioedema (via lonvoguran ziclumeran) — Announced inducement grants of 47,150 RSUs to six new employees under 2024 Inducement Plan to support clinical development.",
+          "url": "https://globenewswire.com/news-release/2026/06/13/3311378/0/en/intellia-therapeutics-reports-additional-positive-phase-3-results-for-lonvoguran-ziclumeran-lonvo-z-in-patients-with-hereditary-angioedema.html"
+        },
+        {
+          "text": "Caribou Biosciences — CB-011 (Vispa-cel) — Relapsed/Refractory Multiple Myeloma — Phase 1 CaMMouflage trial: 83% complete response rate, 91% MRD negativity, and 50% of patients maintained ≥CR at 15 months in BCMA-naïve cohort (n=12) with median follow-up of 17.7 months.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310427/0/en/caribou-biosciences-reports-long-term-vispa-cel-data-in-second-line-large-b-cell-lymphoma-at-eha-2026.html"
+        },
+        {
+          "text": "Caribou Biosciences — vispa-cel — Relapsed/Refractory Large B Cell Lymphoma — ANTLER phase 1 trial: 82% ORR, 67% CR, 17.1-month mPFS in optimized subgroup (N=27); ANTLER-3 phase 3 trial designed for 2L setting.",
           "url": "https://globenewswire.com/news-release/2026/06/11/3310377/0/en/caribou-biosciences-reports-dose-escalation-durability-data-for-cb-011-at-the-2026-european-hematology-association-eha-annual-meeting.html"
         }
       ]
@@ -49,8 +89,24 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Caribou Biosciences — CRISPR genome-editing platform commercialization — CB-011 (Vispa-cel) pipeline — Advancing two off-the-shelf CAR-T candidates (BCMA-targeted for MM, CD19-targeted for LBCL) with Phase 1 durability data presented at EHA 2026.",
+          "text": "Intellia Therapeutics — CRISPR gene editing commercialization — Lonvoguran Ziclumeran (lonvo-z) pipeline — Phase 3 HAELO trial data positive; company awarded inducement grants of 47,150 RSUs to six new employees in June 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/13/3311378/0/en/intellia-therapeutics-reports-additional-positive-phase-3-results-for-lonvoguran-ziclumeran-lonvo-z-in-patients-with-hereditary-angioedema.html"
+        },
+        {
+          "text": "Caribou Biosciences — CRISPR genome-editing platform commercialization — CB-011 (Vispa-cel) pipeline — Phase 1 CaMMouflage and ANTLER trials reporting durable efficacy; ANTLER-3 phase 3 planned for 2L LBCL.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310377/0/en/caribou-biosciences-reports-dose-escalation-durability-data-for-cb-011-at-the-2026-european-hematology-association-eha-annual-meeting.html"
+        },
+        {
+          "text": "Intellia Therapeutics — CRISPR gene editing commercialization — Lonvoguran Ziclumeran (HAE) + NTLA-2001/2002 pipelines — Awarded 47,150 RSUs to new hires in June 2026 to accelerate curative treatment development.",
+          "url": "https://globenewswire.com/news-release/2026/06/13/3311378/0/en/intellia-therapeutics-reports-additional-positive-phase-3-results-for-lonvoguran-ziclumeran-lonvo-z-in-patients-with-hereditary-angioedema.html"
+        },
+        {
+          "text": "Caribou Biosciences — Off-the-shelf CRISPR CAR-T therapy — CB-011 (Vispa-cel) — Phase 1 CaMMouflage trial fully enrolled in dose expansion; topline data for BCMA-exposed patients expected H2 2026.",
           "url": "https://globenewswire.com/news-release/2026/06/11/3310427/0/en/caribou-biosciences-reports-long-term-vispa-cel-data-in-second-line-large-b-cell-lymphoma-at-eha-2026.html"
+        },
+        {
+          "text": "Caribou Biosciences — CRISPR-based off-the-shelf CAR-T commercialization — vispa-cel (CB-011) — Leading clinical-stage CRISPR genome-editing biopharma; advancing ANTLER-3 pivotal phase 3 trial for 2L LBCL.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310377/0/en/caribou-biosciences-reports-dose-escalation-durability-data-for-cb-011-at-the-2026-european-hematology-association-eha-annual-meeting.html"
         }
       ]
     },
@@ -58,12 +114,41 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "CB-011 — Mechanism: CRISPR-engineered allogeneic BCMA-targeted CAR-T cell therapy — Phase: 1 (CaMMouflage) — Population: Heavily pretreated, BCMA-naïve r/r MM patients — Comparator: None (single-arm) — Endpoints/Results: 83% CR rate, 91% MRD negativity, 50% ≥CR at 15 months.",
+          "text": "Lonvoguran Ziclumeran (lonvo-z) — Mechanism: CRISPR gene editing — Phase: 3 (HAELO) — Population: Patients with Hereditary Angioedema — Comparator: Not specified in source — Results: Positive additional data presented at EACCI 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/13/3311378/0/en/intellia-therapeutics-reports-additional-positive-phase-3-results-for-lonvoguran-ziclumeran-lonvo-z-in-patients-with-hereditary-angioedema.html"
+        },
+        {
+          "text": "CB-011 (Vispa-cel) — Mechanism: CRISPR-engineered off-the-shelf BCMA-targeted CAR-T cell therapy — Phase: 1 (CaMMouflage) — Population: Relapsed/Refractory Multiple Myeloma (BCMA-naïve) — Comparator: None (single-arm) — Results: 83% CR, 91% MRD negativity, 50% ≥CR at 15 months.",
           "url": "https://globenewswire.com/news-release/2026/06/11/3310427/0/en/caribou-biosciences-reports-long-term-vispa-cel-data-in-second-line-large-b-cell-lymphoma-at-eha-2026.html"
         },
         {
-          "text": "vispa-cel — Mechanism: CRISPR-engineered allogeneic CD19-targeted CAR-T cell therapy — Phase: 1 (ANTLER) — Population: Second-line r/r LBCL patients — Comparator: None (single-arm) — Endpoints/Results: 82% ORR, 67% CR rate, 17.1-month median PFS; no GvHD or ≥Gr 3 CRS reported in optimized subgroup.",
+          "text": "Vispa-cel — Mechanism: CRISPR-engineered off-the-shelf CD19-targeted CAR-T cell therapy — Phase: 1 (ANTLER) — Population: Second-line Large B Cell Lymphoma — Comparator: None (single-arm) — Results: 82% ORR, 67% CR, 17.1-month median PFS; no GvHD or ≥Gr 3 immune events.",
           "url": "https://globenewswire.com/news-release/2026/06/11/3310377/0/en/caribou-biosciences-reports-dose-escalation-durability-data-for-cb-011-at-the-2026-european-hematology-association-eha-annual-meeting.html"
+        },
+        {
+          "text": "CB-011 — Mechanism: CRISPR-engineered off-the-shelf BCMA-targeted CAR-T cell therapy — Phase: 1 (CaMMouflage) — Population: Relapsed/refractory multiple myeloma (BCMA-naïve) — Comparator: None (single-arm) — Endpoints/Results: 83% CR rate, 91% MRD negativity, 50% ≥CR at 15 months; median follow-up 17.7 months.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310427/0/en/caribou-biosciences-reports-long-term-vispa-cel-data-in-second-line-large-b-cell-lymphoma-at-eha-2026.html"
+        },
+        {
+          "text": "CB-011 — Mechanism: CRISPR-engineered off-the-shelf BCMA-targeted CAR-T cell therapy — Phase: 1 (CaMMouflage) — Population: Prior autologous CAR-T failure — Comparator: None — Endpoints/Results: Case study showed early complete response ongoing at data cutoff in patient with prior anti-BCMA CAR-T exposure.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310427/0/en/caribou-biosciences-reports-long-term-vispa-cel-data-in-second-line-large-b-cell-lymphoma-at-eha-2026.html"
+        },
+        {
+          "text": "vispa-cel — Mechanism: CRISPR-engineered off-the-shelf CD19-targeted CAR-T cell therapy — Phase: 1 (ANTLER) — Population: Second-line large B cell lymphoma (N=27 optimized subgroup) — Comparator: None reported — Results: 82% ORR, 67% CR, 17.1-month median PFS; no GvHD or ≥Gr 3 immune-related adverse events reported.",
+          "url": "https://globenewswire.com/news-release/2026/06/11/3310377/0/en/caribou-biosciences-reports-dose-escalation-durability-data-for-cb-011-at-the-2026-european-hematology-association-eha-annual-meeting.html"
+        }
+      ]
+    },
+    {
+      "heading": "Business & Deals",
+      "points": [
+        {
+          "text": "Intellia Therapeutics — Employee inducement grants — CRISPR-focused workforce expansion — Awarded 47,150 time-based RSUs to six new employees under 2024 Inducement Plan in June 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/13/3311378/0/en/intellia-therapeutics-reports-additional-positive-phase-3-results-for-lonvoguran-ziclumeran-lonvo-z-in-patients-with-hereditary-angioedema.html"
+        },
+        {
+          "text": "Intellia Therapeutics — Equity compensation — 2024 Inducement Plan — Granted 47,150 time-based RSUs to six new employees with 1/3 annual vesting over three years to secure talent for CRISPR pipeline.",
+          "url": "https://globenewswire.com/news-release/2026/06/13/3311378/0/en/intellia-therapeutics-reports-additional-positive-phase-3-results-for-lonvoguran-ziclumeran-lonvo-z-in-patients-with-hereditary-angioedema.html"
         }
       ]
     }
