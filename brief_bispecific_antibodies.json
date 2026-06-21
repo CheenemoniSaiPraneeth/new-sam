@@ -1,146 +1,90 @@
 {
   "query": "bispecific",
-  "generated_at": "2026-06-17 11:05:50",
-  "article_count": 40,
+  "generated_at": "2026-06-21 09:28:55",
+  "article_count": 38,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Johnson & Johnson announced data showing Talvey (teclistamab) plus Darzalex Faspro reduced risk of death by 53% in relapsed/refractory multiple myeloma, supporting label expansion for the bispecific antibody.",
+          "text": "Jazz Pharmaceuticals partnered with AbCellera to develop next-generation T-cell engagers for solid tumors, with T-cell engagers classified as multispecific antibodies in the deal announcement.",
+          "url": "https://biopharmadive.com/news/jazz-abcellera-t-cell-engager-multispecific-antibodies-deal/823125/"
+        },
+        {
+          "text": "Johnson & Johnson reported that Talvey, a bispecific antibody, combined with Darzalex Faspro reduced the risk of death by 53% in relapsed or refractory multiple myeloma patients.",
           "url": "https://biopharmadive.com/news/jj-multiple-myeloma-drug-talvey-earlier-stage-disease/822904/"
         },
         {
-          "text": "Genmab A/S confirmed its pipeline includes bispecific antibodies as a core therapeutic format alongside ADCs and immune-modulating antibodies.",
+          "text": "VERAXA Biotech established in vitro proof-of-concept for its novel BiTAC (bispecific T-cell engager) ADC technology platform and launched partnering discussions at BIO International Convention 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314047/0/en/veraxa-biotech-establishes-in-vitro-proof-of-concept-for-novel-bitac-adc-technology-platform-and-launches-partnering-discussions-at-bio-international-convention-2026.html"
+        },
+        {
+          "text": "VERAXA Biotech completed a business combination with Voyager Acquisition Corp to become a Nasdaq-listed company focused on next-generation cancer therapies utilizing novel bispecific T-cell engagers (TCEs) and antibody-drug conjugates (ADCs).",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314047/0/en/veraxa-biotech-establishes-in-vitro-proof-of-concept-for-novel-bitac-adc-technology-platform-and-launches-partnering-discussions-at-bio-international-convention-2026.html"
+        },
+        {
+          "text": "VERAXA Biotech secured $27.5 million in senior secured note financing and a $50 million share purchase agreement to advance its pipeline of oncology drug candidates utilizing its BiTAC bispecific platform.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314047/0/en/veraxa-biotech-establishes-in-vitro-proof-of-concept-for-novel-bitac-adc-technology-platform-and-launches-partnering-discussions-at-bio-international-convention-2026.html"
+        },
+        {
+          "text": "Johnson & Johnson reported Phase 3 MonumenTAL-3 results for TALVEY (talquetamab), a bispecific anti-GPRC5D antibody, in combination with daratumumab for relapsed/refractory multiple myeloma, showing a 72% reduction in progression or death risk versus standard care.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314021/0/de/neue-daten-zu-talvey-talquetamab-in-kombination-mit-daratumumab-belegen-das-potenzial-einer-neuartigen-bispezifischen-kombinationsbehandlung-bei-rezidiviertem-oder-refrakt%c3%a4rem-mult.html"
+        },
+        {
+          "text": "The MonumenTAL-3 study demonstrated a 24-month progression-free survival rate of 81.3% for the talquetamab-daratumumab combination compared to 51.2% for the standard daratumumab-pomalidomide-dexamethasone regimen.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314021/0/de/neue-daten-zu-talvey-talquetamab-in-kombination-mit-daratumumab-belegen-das-potenzial-einer-neuartigen-bispezifischen-kombinationsbehandlung-bei-rezidiviertem-oder-refrakt%c3%a4rem-mult.html"
+        },
+        {
+          "text": "Johnson & Johnson's bispecific portfolio achieved a third consecutive positive study outcome with MonumenTAL-3, marking the first Phase 3 trial to show superior progression-free survival for a bispecific GPRC5D combination in earlier lines of multiple myeloma treatment.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314020/0/fr/de-nouvelles-donn%c3%a9es-sur-l-association-talvey-talquetamab-et-daratumumab-d%c3%a9montrent-le-potentiel-d-une-nouvelle-association-bisp%c3%a9cifique-dans-les-lignes-pr%c3%a9coces-du-traitement-du-m.html"
+        },
+        {
+          "text": "Genmab A/S — Bispecific antibodies — Corporate profile — Company explicitly identifies bispecific antibodies as a core therapeutic format alongside ADCs and immune-modulating antibodies within its portfolio of eight approved medicines and late-stage pipeline.",
           "url": "https://globenewswire.com/news-release/2026/06/16/3312970/0/en/capital-increase-in-genmab-as-a-result-of-employee-warrant-exercise.html"
         },
         {
-          "text": "AmMax Bio — ADC pipeline expansion — Acute Myeloid Leukemia and solid tumors — Appointed Travis Read as President and COO to advance lead program AMB-104 and two bispecific ADCs targeting solid tumors.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312540/0/en/ammax-bio-names-biopharmaceutical-executive-travis-read-as-president-and-chief-operating-officer.html"
+          "text": "Memento Medicines launched with $93M Series A financing co-led by Forbion, RA Capital Management, and Avego BioScience Capital to advance MMT-205, a Tie2 agonist/VEGF inhibitor bispecific antibody for retinal diseases.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314508/0/en/memento-medicines-launches-with-93-million-series-a-financing-to-advance-tie2-agonist-and-vegf-inhibitor-bispecific-antibody-therapy-for-retinal-diseases.html"
         },
         {
-          "text": "Genmab A/S — Capital increase of 185 shares at DKK 1,334.50 per share via employee warrant exercise — Proceeds approximately DKK 0.2 million — Company maintains broad antibody portfolio including bispecific antibodies, ADCs, and immune-modulating antibodies.",
-          "url": "https://globenewswire.com/news-release/2026/06/15/3312002/0/en/major-shareholder-announcement.html"
+          "text": "Memento Medicines secured worldwide rights to MMT-205 (formerly MT-103) via exclusive license from MabTics Co., Ltd. and Curacle Co., Ltd., with upfront cash and equity payments plus tiered royalties.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314508/0/en/memento-medicines-launches-with-93-million-series-a-financing-to-advance-tie2-agonist-and-vegf-inhibitor-bispecific-antibody-therapy-for-retinal-diseases.html"
         },
         {
-          "text": "Context Therapeutics — advancing T cell engaging bispecific antibodies for solid tumors — reported positive interim efficacy and safety results for CTIM-76 in platinum-resistant ovarian cancer.",
-          "url": "https://globenewswire.com/news-release/2026/06/15/3311621/0/en/context-therapeutics-announces-positive-interim-efficacy-and-safety-results-from-ongoing-phase-1-clinical-trial-for-ctim-76.html"
+          "text": "MMT-205 is a bispecific antibody designed to activate Tie2 and inhibit VEGF, targeting neovascular age-related macular degeneration (nAMD) and diabetic macular edema (DME).",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314508/0/en/memento-medicines-launches-with-93-million-series-a-financing-to-advance-tie2-agonist-and-vegf-inhibitor-bispecific-antibody-therapy-for-retinal-diseases.html"
         },
         {
-          "text": "Johnson & Johnson — Talvey (talquetamab) — Multiple Myeloma — Combination with Darzalex Faspro reduced risk of death by 53% at 2 years in relapsed/refractory patients, supporting label expansion.",
-          "url": "https://biopharmadive.com/news/jj-multiple-myeloma-drug-talvey-earlier-stage-disease/822904/"
+          "text": "Memento Medicines plans to use financing proceeds for IND-enabling studies for MMT-205, with clinical trials expected to initiate in 2027.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314508/0/en/memento-medicines-launches-with-93-million-series-a-financing-to-advance-tie2-agonist-and-vegf-inhibitor-bispecific-antibody-therapy-for-retinal-diseases.html"
         },
         {
-          "text": "AmMax Bio — ADC pipeline expansion — AMB-104 (Acute Myeloid Leukemia) + two bispecific ADCs (solid tumors) — Appointed Travis Read as President and COO to oversee operational strategy and financing for clinical-stage antibody drug conjugate portfolio.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312540/0/en/ammax-bio-names-biopharmaceutical-executive-travis-read-as-president-and-chief-operating-officer.html"
+          "text": "NovaBridge Biosciences received FDA Fast Track designation for givastomig (TJ033721/ABL111), a CLDN18.2 x 4-1BB bispecific antibody, for first-line treatment of HER2-negative, CLDN18.2-positive, and PD-L1-positive advanced or metastatic gastroesophageal adenocarcinoma.",
+          "url": "https://cancernetwork.com/view/givastomig-earns-fda-fast-track-designation-in-her2-negative-gastric-cancer"
         },
         {
-          "text": "NovaBridge Biosciences received FDA Fast Track designation for givastomig, a Claudin 18.2 x 4-1BB bispecific antibody, for first-line HER2-negative metastatic gastric cancer.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312417/0/en/novabridge-biosciences-receives-fda-fast-track-designation-for-givastomig-in-first-line-her2-negative-metastatic-gastric-cancer.html"
+          "text": "A registrational Phase 3 trial for givastomig combined with nivolumab and chemotherapy in HER2-negative metastatic gastric cancer is planned to commence in Q4 2026.",
+          "url": "https://cancernetwork.com/view/givastomig-earns-fda-fast-track-designation-in-her2-negative-gastric-cancer"
         },
         {
-          "text": "NovaBridge Biosciences is advancing givastomig, a Claudin 18.2 x 4-1BB bispecific antibody, in a global randomized Phase 2 study following positive Phase 1b topline results in first-line gastric cancer.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312417/0/en/novabridge-biosciences-receives-fda-fast-track-designation-for-givastomig-in-first-line-her2-negative-metastatic-gastric-cancer.html"
+          "text": "Phase 1b data for givastomig demonstrated an objective response rate (ORR) of 77% at the 8-mg/kg dose level and 73% at the 12-mg/kg dose level in first-line HER2-negative, CLDN18.2-positive metastatic gastric cancer.",
+          "url": "https://cancernetwork.com/view/givastomig-earns-fda-fast-track-designation-in-her2-negative-gastric-cancer"
         },
         {
-          "text": "NovaBridge Biosciences collaborates with ABL Bio on ragistomig, a bispecific antibody integrating PD-L1 as a tumor engager and 4-1BB as a conditional T cell activator, for solid tumors.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312417/0/en/novabridge-biosciences-receives-fda-fast-track-designation-for-givastomig-in-first-line-her2-negative-metastatic-gastric-cancer.html"
-        },
-        {
-          "text": "Genmab A/S maintains a pipeline of innovative antibody medicines including bispecific antibodies, antibody-drug conjugates, and immune-modulating antibodies.",
-          "url": "https://globenewswire.com/news-release/2026/06/15/3312002/0/en/major-shareholder-announcement.html"
-        },
-        {
-          "text": "Context Therapeutics — CTIM-76 — Platinum-resistant ovarian cancer — Phase 1 interim data showed 29% confirmed overall response rate per RECIST v1.1 in patients progressing after median 7 prior lines of therapy.",
-          "url": "https://globenewswire.com/news-release/2026/06/15/3311621/0/en/context-therapeutics-announces-positive-interim-efficacy-and-safety-results-from-ongoing-phase-1-clinical-trial-for-ctim-76.html"
-        },
-        {
-          "text": "Context Therapeutics — CTIM-76, CT-95, CT-202 — Solid tumors — Company advancing portfolio of T cell engaging bispecific antibodies targeting Claudin 6 x CD3, Mesothelin x CD3, and Nectin-4 x CD3 respectively.",
-          "url": "https://globenewswire.com/news-release/2026/06/15/3311621/0/en/context-therapeutics-announces-positive-interim-efficacy-and-safety-results-from-ongoing-phase-1-clinical-trial-for-ctim-76.html"
-        },
-        {
-          "text": "University of Virginia researchers reported a Phase I/II trial of HER2 BATs (anti-CD3 x anti-HER2 bispecific armed T-cells) combined with pembrolizumab in metastatic breast cancer, achieving stable disease in 35% of 17 evaluable patients with no dose-limiting toxicities.",
+          "text": "University of Virginia researchers reported that HER2 BATs (activated T-cells armed with anti-CD3 x anti-HER2 bispecific antibodies) combined with pembrolizumab were safe and well-tolerated in a Phase I/II study for metastatic breast cancer.",
           "url": "https://cancernetwork.com/view/64-a-phase-i-ii-study-of-pembrolizumab-and-anti-cd3-x-anti-her2-armed-activated-t-cells-in-metastatic-breast-cancer"
         },
         {
-          "text": "Emmanuel Bachy presented Phase 1b/2 CO41942 data for subcutaneous mosunetuzumab (CD20/CD3 bispecific) plus lenalidomide in first-line high-tumor-burden follicular lymphoma, showing an 87% 24-month PFS rate and 88% complete response rate.",
+          "text": "In the Phase I/II study of HER2 BATs and pembrolizumab, the best response was stable disease in 6 of 17 evaluable patients (35%), with a median overall survival of 21.4 months.",
+          "url": "https://cancernetwork.com/view/64-a-phase-i-ii-study-of-pembrolizumab-and-anti-cd3-x-anti-her2-armed-activated-t-cells-in-metastatic-breast-cancer"
+        },
+        {
+          "text": "Emmanuel Bachy presented phase 1b/2 CO41942 data for subcutaneous mosunetuzumab (CD20/CD3 bispecific) plus lenalidomide in first-line follicular lymphoma, reporting 87% 24-month PFS and 88% CR rate.",
           "url": "https://cancernetwork.com/view/elucidating-first-line-sc-mosunetuzumab-benefit-in-follicular-lymphoma"
         },
         {
-          "text": "The CO41942 study established proof of concept for the ongoing Phase 3 MorningLyte trial (NCT06284122) comparing subcutaneous mosunetuzumab plus lenalidomide against standard immunochemotherapy in follicular lymphoma.",
-          "url": "https://cancernetwork.com/view/elucidating-first-line-sc-mosunetuzumab-benefit-in-follicular-lymphoma"
-        },
-        {
-          "text": "CD20×CD3 bispecific antibodies demonstrated feasibility as a bridging strategy in large B-cell lymphoma (LBCL) with lower hematologic toxicity and preserved CAR T fitness compared to conventional bridging.",
-          "url": "https://cancernetwork.com/view/cd20-cd3-bispecific-antibodies-may-be-feasible-bridging-strategy-in-lbcl"
-        },
-        {
-          "text": "Epcoritamab (CD3×CD20 bispecific) met the co-primary progression-free survival endpoint in the phase 3 EPCORE DLBCL-1 trial, reducing progression or death risk by 26% versus chemoimmunotherapy in relapsed/refractory LBCL.",
-          "url": "https://cancernetwork.com/view/epcoritamab-yields-superior-pfs-vs-chemoimmunotherapy-in-pretreated-lbcl"
-        },
-        {
-          "text": "Glofitamab-gxbm (Columbi) combined with gemcitabine and oxaliplatin achieved a 42% complete response rate during bridging therapy in LBCL patients, outperforming bispecific monotherapy.",
-          "url": "https://cancernetwork.com/view/cd20-cd3-bispecific-antibodies-may-be-feasible-bridging-strategy-in-lbcl"
-        },
-        {
-          "text": "CSPC Pharmaceutical Group — Anbenitamab (KN026) — HER2-positive breast cancer — Phase 3 HEALER trial met primary endpoint of progression-free survival vs trastuzumab/pertuzumab/docetaxel; designed as a HER2 bispecific antibody.",
-          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
-        },
-        {
-          "text": "CSPC Pharmaceutical Group — Anbenitamab — HER2-positive gastric/gastroesophageal junction adenocarcinoma — China NMPA approved combination with chemotherapy in May 2026 for patients with prior trastuzumab exposure.",
-          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
-        },
-        {
-          "text": "Candid Therapeutics — Bispecific drug pipeline — Oncology — UCB pledged up to $2.2 billion in acquisition deal announced in 2026.",
+          "text": "UCB pledged up to $2.2 billion in a deal with Candid Therapeutics, a bispecific drug developer, signaling increased M&A activity in the bispecific sector.",
           "url": "https://pharmavoice.com/news/biotech-market-rebounding-where-executive-jobs-drug/822860/"
-        },
-        {
-          "text": "Competition is intensifying between antibody-drug conjugates (ADCs) and bispecific antibodies in the lung cancer therapeutic space as both modalities gain clinical traction.",
-          "url": "https://pharmavoice.com/news/competition-merck-summit-akeso-cancer-adc-bispecific/822585/"
-        },
-        {
-          "text": "Emmanuel Bachy presented phase 1b/2 CO41942 data showing subcutaneous CD20/CD3 bispecific mosunetuzumab plus lenalidomide achieved 87% 24-month PFS and 88% CR in first-line follicular lymphoma.",
-          "url": "https://cancernetwork.com/view/elucidating-first-line-sc-mosunetuzumab-benefit-in-follicular-lymphoma"
-        },
-        {
-          "text": "Analysis of 112 large B-cell lymphoma patients demonstrated CD20×CD3 bispecific antibodies as bridging therapy yielded 69% ORR and lower grade 3-4 cytopenias (3%) compared to conventional bridging (22%).",
-          "url": "https://cancernetwork.com/view/cd20-cd3-bispecific-antibodies-may-be-feasible-bridging-strategy-in-lbcl"
-        },
-        {
-          "text": "The phase 3 MorningLyte trial (NCT06284122) is now comparing subcutaneous mosunetuzumab plus lenalidomide against standard immunochemotherapy in first-line follicular lymphoma based on phase 1b proof of concept.",
-          "url": "https://cancernetwork.com/view/elucidating-first-line-sc-mosunetuzumab-benefit-in-follicular-lymphoma"
-        },
-        {
-          "text": "Glofitamab-gxbm (Columvi) combined with GemOx in bispecific bridging therapy for LBCL achieved a 42% complete response rate during the bridging period, outperforming bispecific monotherapy.",
-          "url": "https://cancernetwork.com/view/cd20-cd3-bispecific-antibodies-may-be-feasible-bridging-strategy-in-lbcl"
-        },
-        {
-          "text": "Genmab/AbbVie's epcoritamab-bysp (Epkinly), a CD3×CD20 bispecific antibody, met the co-primary PFS endpoint in Phase 3 EPCORE DLBCL-1, reducing progression or death risk by 26% vs chemoimmunotherapy (HR 0.74; p=0.0059) in relapsed/refractory LBCL.",
-          "url": "https://cancernetwork.com/view/epcoritamab-yields-superior-pfs-vs-chemoimmunotherapy-in-pretreated-lbcl"
-        },
-        {
-          "text": "CSPC Pharmaceutical Group's anbenitamab (KN026/Ennituo), a HER2 bispecific antibody, met the primary PFS endpoint in Phase 3 HEALER trial when combined with albumin-bound docetaxel vs standard THP regimen in HER2-positive advanced breast cancer.",
-          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
-        },
-        {
-          "text": "Anbenitamab received NMPA approval in May 2026 for locally advanced or metastatic HER2-positive gastric or gastroesophageal junction adenocarcinoma after prior trastuzumab, marking a regulatory milestone for the HER2 bispecific.",
-          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
-        },
-        {
-          "text": "In the EPCORE DLBCL-1 trial, 38% of patients treated with the bispecific epcoritamab achieved complete response vs 26% with chemoimmunotherapy (p=0.0032), with 59% of responders maintaining CR at 3 years.",
-          "url": "https://cancernetwork.com/view/epcoritamab-yields-superior-pfs-vs-chemoimmunotherapy-in-pretreated-lbcl"
-        },
-        {
-          "text": "Phase 3 Neo-Healer trial data for anbenitamab (HER2 bispecific) plus HB1801 showed significantly higher total pathological complete response (tpCR) of 62.4% vs 51.2% with THP in early/locally advanced HER2+ breast cancer (absolute difference 11.4%).",
-          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
-        },
-        {
-          "text": "UCB pledged up to $2.2 billion in a deal with Candid Therapeutics, a bispecific drug developer, signaling renewed M&A activity in the sector.",
-          "url": "https://pharmavoice.com/news/biotech-market-rebounding-where-executive-jobs-drug/822860/"
-        },
-        {
-          "text": "Competition is intensifying between antibody-drug conjugates (ADCs) and bispecifics as both modalities gain traction in lung cancer treatment.",
-          "url": "https://pharmavoice.com/news/competition-merck-summit-akeso-cancer-adc-bispecific/822585/"
         }
       ]
     },
@@ -148,112 +92,48 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Johnson & Johnson — Talvey (teclistamab) — Relapsed/Refractory Multiple Myeloma — Combination with Darzalex Faspro reduced risk of death by 53% at 2 years; potential label expansion for earlier disease stage.",
+          "text": "Jazz Pharmaceuticals — AbCellera collaboration — Solid tumors (T-cell engagers/multispecific antibodies) — $56M upfront payment for two discovery programs; potential $792M per program in milestones; third program option triggers $28M.",
+          "url": "https://biopharmadive.com/news/jazz-abcellera-t-cell-engager-multispecific-antibodies-deal/823125/"
+        },
+        {
+          "text": "Johnson & Johnson — Talvey (teclistamab) — Relapsed/refractory multiple myeloma — Combination with Darzalex Faspro reduced risk of death by 53% and progression/death by 72% at 2 years vs standard regimen.",
           "url": "https://biopharmadive.com/news/jj-multiple-myeloma-drug-talvey-earlier-stage-disease/822904/"
         },
         {
-          "text": "AmMax Bio — Bispecific ADCs — Solid tumors — Pipeline includes two bispecific antibody-drug conjugates in development to address unmet needs in solid tumor patient populations.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312540/0/en/ammax-bio-names-biopharmaceutical-executive-travis-read-as-president-and-chief-operating-officer.html"
+          "text": "VERAXA Biotech — BiTAC platform — Solid tumors — Established in vitro proof-of-concept for novel bispecific T-cell engager (TCE) ADC technology enabling conditionally activated, AND-gated therapeutic strategies targeting dual antigens.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314047/0/en/veraxa-biotech-establishes-in-vitro-proof-of-concept-for-novel-bitac-adc-technology-platform-and-launches-partnering-discussions-at-bio-international-convention-2026.html"
         },
         {
-          "text": "Genmab A/S — Bispecific antibody platform — Strategic focus — Company explicitly lists bispecific antibodies among its core innovative antibody-based therapeutic formats alongside ADCs and immune-modulating antibodies.",
-          "url": "https://globenewswire.com/news-release/2026/06/15/3312002/0/en/major-shareholder-announcement.html"
+          "text": "VERAXA Biotech — BiTAC pipeline — Solid tumors — Completed business combination with Voyager Acquisition Corp to list on Nasdaq (VRXA) and advance bispecific TCE and ADC candidates.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314047/0/en/veraxa-biotech-establishes-in-vitro-proof-of-concept-for-novel-bitac-adc-technology-platform-and-launches-partnering-discussions-at-bio-international-convention-2026.html"
         },
         {
-          "text": "Context Therapeutics — CTIM-76 — Platinum-resistant ovarian cancer — Phase 1 interim data showed 29% confirmed overall response rate per RECIST v1.1 in patients progressing on median 7 prior lines of therapy.",
-          "url": "https://globenewswire.com/news-release/2026/06/15/3311621/0/en/context-therapeutics-announces-positive-interim-efficacy-and-safety-results-from-ongoing-phase-1-clinical-trial-for-ctim-76.html"
+          "text": "Johnson & Johnson — TALVEY (talquetamab) + daratumumab — Relapsed/Refractory Multiple Myeloma — Phase 3 MonumenTAL-3 met primary endpoint: 72% reduction in progression/death risk; 24-month PFS 81.3% vs 51.2% standard; OS 89.2% vs 79.1% standard.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314021/0/de/neue-daten-zu-talvey-talquetamab-in-kombination-mit-daratumumab-belegen-das-potenzial-einer-neuartigen-bispezifischen-kombinationsbehandlung-bei-rezidiviertem-oder-refrakt%c3%a4rem-mult.html"
         },
         {
-          "text": "Johnson & Johnson — Talvey (talquetamab) — Multiple Myeloma — Phase 2/3 data presented June 15, 2026 showing 53% reduction in death risk vs standard of care when combined with Darzalex Faspro.",
-          "url": "https://biopharmadive.com/news/jj-multiple-myeloma-drug-talvey-earlier-stage-disease/822904/"
+          "text": "Genmab A/S — Bispecific antibody platform — General oncology/serious diseases — Confirmed advancement of a broad range of antibody-based therapeutic formats including bispecific antibodies as part of its 25-year strategic focus on innovative antibody medicines.",
+          "url": "https://globenewswire.com/news-release/2026/06/16/3312970/0/en/capital-increase-in-genmab-as-a-result-of-employee-warrant-exercise.html"
         },
         {
-          "text": "AmMax Bio — Bispecific ADCs — Solid tumors — Pipeline includes two bispecific antibody drug conjugates expected to serve patient populations with solid tumors, advancing alongside lead program AMB-104 for Acute Myeloid Leukemia.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312540/0/en/ammax-bio-names-biopharmaceutical-executive-travis-read-as-president-and-chief-operating-officer.html"
+          "text": "Memento Medicines — MMT-205 — Neovascular Age-Related Macular Degeneration / Diabetic Macular Edema — Secured $93M Series A financing and exclusive global license for Tie2 agonist/VEGF inhibitor bispecific antibody; IND-enabling studies underway, clinical trials planned for 2027.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314508/0/en/memento-medicines-launches-with-93-million-series-a-financing-to-advance-tie2-agonist-and-vegf-inhibitor-bispecific-antibody-therapy-for-retinal-diseases.html"
         },
         {
-          "text": "NovaBridge Biosciences — Givastomig — First-line HER2-negative metastatic gastric cancer — FDA Fast Track designation granted; global randomized Phase 2 study ongoing following positive Phase 1b topline results.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312417/0/en/novabridge-biosciences-receives-fda-fast-track-designation-for-givastomig-in-first-line-her2-negative-metastatic-gastric-cancer.html"
+          "text": "NovaBridge Biosciences — Givastomig (TJ033721/ABL111) — HER2-negative, CLDN18.2-positive, PD-L1-positive gastroesophageal adenocarcinoma — FDA granted Fast Track designation; Phase 3 trial planned Q4 2026; Phase 1b ORR 77% (8 mg/kg) and 73% (12 mg/kg).",
+          "url": "https://cancernetwork.com/view/givastomig-earns-fda-fast-track-designation-in-her2-negative-gastric-cancer"
         },
         {
-          "text": "NovaBridge Biosciences / ABL Bio — Ragistomig — Solid tumors — Bispecific antibody integrating PD-L1 tumor engager and 4-1BB conditional T cell activator under collaborative development.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312417/0/en/novabridge-biosciences-receives-fda-fast-track-designation-for-givastomig-in-first-line-her2-negative-metastatic-gastric-cancer.html"
-        },
-        {
-          "text": "Context Therapeutics — CTIM-76 — Platinum-resistant ovarian cancer — Phase 1 trial reported positive interim efficacy and safety results with 29% confirmed overall response rate.",
-          "url": "https://globenewswire.com/news-release/2026/06/15/3311621/0/en/context-therapeutics-announces-positive-interim-efficacy-and-safety-results-from-ongoing-phase-1-clinical-trial-for-ctim-76.html"
-        },
-        {
-          "text": "University of Virginia — HER2 BATs (anti-CD3 x anti-HER2 bispecific) + Pembrolizumab — Metastatic Breast Cancer — Phase I/II trial: 35% stable disease rate, median OS 21.4 months, no dose-limiting toxicities observed in 17 evaluable patients.",
+          "text": "University of Virginia — HER2 BATs (anti-CD3 x anti-HER2 bispecific armed T-cells) — Metastatic breast cancer — Phase I/II trial completed; 35% stable disease rate; median OS 21.4 months; no dose-limiting toxicities observed.",
           "url": "https://cancernetwork.com/view/64-a-phase-i-ii-study-of-pembrolizumab-and-anti-cd3-x-anti-her2-armed-activated-t-cells-in-metastatic-breast-cancer"
         },
         {
-          "text": "Lyon Sud Hospital / Roche (implied via Mosunetuzumab) — Mosunetuzumab (SC) + Lenalidomide — First-line Follicular Lymphoma — Phase 1b/2 CO41942: 87% 24-month PFS, 90% ORR, 88% CR; no ICANS or grade 5 AEs reported in 43 patients.",
+          "text": "Genentech/Roche — Mosunetuzumab (Lunsumio VELO) — Follicular Lymphoma — Phase 1b/2 CO41942 study: SC CD20/CD3 bispecific + lenalidomide induction achieved 90% ORR and 88% CR with 87% 24-month PFS; no ICANS or grade 5 AEs reported.",
           "url": "https://cancernetwork.com/view/elucidating-first-line-sc-mosunetuzumab-benefit-in-follicular-lymphoma"
         },
         {
-          "text": "Genmab / AbbVie — Epcoritamab-bysp (Epkinly) — Relapsed/refractory LBCL — Phase 3 EPCORE DLBCL-1: Median PFS 3.5 months vs 3.0 months CIT (HR 0.74, p=0.0059); 26% risk reduction; CR rate 38% vs 26%.",
-          "url": "https://cancernetwork.com/view/epcoritamab-yields-superior-pfs-vs-chemoimmunotherapy-in-pretreated-lbcl"
-        },
-        {
-          "text": "Roche — Glofitamab-gxbm (Columvi) + GemOx — LBCL bridging therapy — Combination yielded 75% ORR and 42% CR rate during bridging, superior to bispecific monotherapy (65% ORR).",
-          "url": "https://cancernetwork.com/view/cd20-cd3-bispecific-antibodies-may-be-feasible-bridging-strategy-in-lbcl"
-        },
-        {
-          "text": "Unspecified Biopharma — CD20×CD3 Bispecifics — LBCL bridging — Analysis of 67 patients (BisCAR) vs 45 (ConCAR): Grade 3-4 cytopenia 3% vs 22%; CRS grade 3-4 4% vs 7% in post-CAR T setting.",
-          "url": "https://cancernetwork.com/view/cd20-cd3-bispecific-antibodies-may-be-feasible-bridging-strategy-in-lbcl"
-        },
-        {
-          "text": "CSPC Pharmaceutical Group — Anbenitamab — HER2-positive breast cancer — Phase 3 HEALER trial: significantly prolonged PFS vs THP regimen; trend toward overall survival benefit observed.",
-          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
-        },
-        {
-          "text": "CSPC Pharmaceutical Group — Anbenitamab — Early/locally advanced HER2-positive breast cancer — Phase 3 Neo-Healer trial: BIRC-assessed tpCR 62.4% vs 51.2% (absolute difference 11.4%) vs THP regimen.",
-          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
-        },
-        {
-          "text": "UCB / Candid Therapeutics — Bispecific oncology assets — Oncology — $2.2 billion deal announced in 2026 for acquisition of bispecific drug developer.",
+          "text": "UCB — Candid Therapeutics — Bispecific pipeline — $2.2 billion deal announced to acquire bispecific drug developer, expanding UCB's oncology portfolio.",
           "url": "https://pharmavoice.com/news/biotech-market-rebounding-where-executive-jobs-drug/822860/"
-        },
-        {
-          "text": "Lung Cancer — Bispecific Antibodies vs ADCs — Market Analysis — Dual modality competition emerging in non-small cell lung cancer treatment landscape; strategic alliances between modalities under consideration.",
-          "url": "https://pharmavoice.com/news/competition-merck-summit-akeso-cancer-adc-bispecific/822585/"
-        },
-        {
-          "text": "Roche — Mosunetuzumab (Lunsumio VELO) — First-line Follicular Lymphoma — Phase 1b/2 CO41942: SC CD20/CD3 bispecific + lenalidomide induction (12 months) resulted in 87% 24-month PFS, 90% ORR, 88% CR; no ICANS or grade 5 AEs reported.",
-          "url": "https://cancernetwork.com/view/elucidating-first-line-sc-mosunetuzumab-benefit-in-follicular-lymphoma"
-        },
-        {
-          "text": "Roche — Glofitamab-gxbm (Columvi) — Large B-Cell Lymphoma (Bridging) — Combination with GemOx achieved 75% ORR and 42% CR during bridging therapy prior to CAR T-cell infusion.",
-          "url": "https://cancernetwork.com/view/cd20-cd3-bispecific-antibodies-may-be-feasible-bridging-strategy-in-lbcl"
-        },
-        {
-          "text": "Roche — Mosunetuzumab — First-line Follicular Lymphoma — Phase 3 MorningLyte trial (NCT06284122) initiated to compare SC bispecific + lenalidomide regimen against standard immunochemotherapy.",
-          "url": "https://cancernetwork.com/view/elucidating-first-line-sc-mosunetuzumab-benefit-in-follicular-lymphoma"
-        },
-        {
-          "text": "Genmab/AbbVie — Epcoritamab-bysp (Epkinly) — Relapsed/refractory large B-cell lymphoma — Phase 3 EPCORE DLBCL-1 met primary endpoint: median PFS 3.5 months vs 3.0 months CIT (HR 0.74; p=0.0059); 26% risk reduction; CR rate 38% vs 26%.",
-          "url": "https://cancernetwork.com/view/epcoritamab-yields-superior-pfs-vs-chemoimmunotherapy-in-pretreated-lbcl"
-        },
-        {
-          "text": "CSPC Pharmaceutical Group — Anbenitamab (KN026/Ennituo) — HER2-positive advanced breast cancer — Phase 3 HEALER trial met primary PFS endpoint with anbenitamab + albumin-bound docetaxel vs THP; full data pending conference presentation.",
-          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
-        },
-        {
-          "text": "CSPC Pharmaceutical Group — Anbenitamab (KN026/Ennituo) — HER2-positive gastric/gastroesophageal junction adenocarcinoma — NMPA approved combination with chemotherapy in May 2026 for patients with ≥1 prior trastuzumab line.",
-          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
-        },
-        {
-          "text": "CSPC Pharmaceutical Group — Anbenitamab (KN026/Ennituo) — Early/locally advanced HER2-positive breast cancer — Phase 3 Neo-Healer trial: tpCR 62.4% vs 51.2% (p<0.05) with anbenitamab + HB1801 vs THP; 521 patients enrolled.",
-          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
-        },
-        {
-          "text": "UCB — Candid Therapeutics — Bispecific oncology programs — Agreed to acquire the company for up to $2.2 billion, marking a major consolidation in the bispecific space.",
-          "url": "https://pharmavoice.com/news/biotech-market-rebounding-where-executive-jobs-drug/822860/"
-        },
-        {
-          "text": "Merck / Akeso — Lung cancer bispecifics vs ADCs — Clinical competition — Market dynamics shifting as both bispecific antibodies and ADCs advance in lung cancer indications.",
-          "url": "https://pharmavoice.com/news/competition-merck-summit-akeso-cancer-adc-bispecific/822585/"
         }
       ]
     },
@@ -261,84 +141,56 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Genmab A/S — Bispecific antibody development — Multiple late-stage programs — Maintains broad pipeline of bispecific antibodies, ADCs, and immune-modulating antibodies with eight approved medicines.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312970/0/en/capital-increase-in-genmab-as-a-result-of-employee-warrant-exercise.html"
+          "text": "Jazz Pharmaceuticals — Expansion into solid tumor immunotherapy via multispecific antibody/T-cell engager platform — AbCellera partnership — $56M upfront; up to $1.6B+ potential value across three programs.",
+          "url": "https://biopharmadive.com/news/jazz-abcellera-t-cell-engager-multispecific-antibodies-deal/823125/"
         },
         {
-          "text": "AmMax Bio — Bispecific ADC commercialization strategy — AMB-104 + bispecific ADC pipeline — Appointed Travis Read (ex-Emerald Bioventures/Gurnet Point Capital) as President/COO to lead clinical and operational growth for bispecific programs.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312540/0/en/ammax-bio-names-biopharmaceutical-executive-travis-read-as-president-and-chief-operating-officer.html"
-        },
-        {
-          "text": "Genmab A/S — Bispecific antibody development — Broad pipeline including wholly owned programs — 25+ years of experience advancing antibody formats; 8 approved antibody medicines; capital structure adjusted via 185-share employee warrant exercise in June 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/15/3312002/0/en/major-shareholder-announcement.html"
-        },
-        {
-          "text": "Context Therapeutics — T cell engaging bispecific antibody development — CTIM-76 (Claudin 6 x CD3), CT-95 (Mesothelin x CD3), CT-202 (Nectin-4 x CD3) — Clinical-stage portfolio targeting solid tumors; CTIM-76 Phase 1 ongoing.",
-          "url": "https://globenewswire.com/news-release/2026/06/15/3311621/0/en/context-therapeutics-announces-positive-interim-efficacy-and-safety-results-from-ongoing-phase-1-clinical-trial-for-ctim-76.html"
-        },
-        {
-          "text": "Johnson & Johnson — Bispecific antibody expansion in hematology — Talvey (talquetamab) — Advancing label expansion for relapsed/refractory multiple myeloma based on 53% mortality risk reduction data.",
+          "text": "Johnson & Johnson — Label expansion for bispecific antibody Talvey — Teclistamab + Darzalex Faspro regimen — 53% mortality reduction in relapsed/refractory multiple myeloma; data presented June 15, 2026.",
           "url": "https://biopharmadive.com/news/jj-multiple-myeloma-drug-talvey-earlier-stage-disease/822904/"
         },
         {
-          "text": "AmMax Bio — Clinical-stage ADC development — AMB-104 + bispecific ADCs — Private company accelerating multi-asset targeted oncology portfolio with lead program entering clinic and two bispecific ADCs in pipeline for solid tumors.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312540/0/en/ammax-bio-names-biopharmaceutical-executive-travis-read-as-president-and-chief-operating-officer.html"
+          "text": "VERAXA Biotech — Commercialization of bispecific T-cell engagers and ADCs — BiTAC platform pipeline — Nasdaq-listed (VRXA) post-SPAC merger; $77.5M total capital raised to advance solid tumor programs.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314047/0/en/veraxa-biotech-establishes-in-vitro-proof-of-concept-for-novel-bitac-adc-technology-platform-and-launches-partnering-discussions-at-bio-international-convention-2026.html"
         },
         {
-          "text": "NovaBridge Biosciences — Accelerating bispecific antibody development — Givastomig (Claudin 18.2 x 4-1BB) + Ragistomig (PD-L1 x 4-1BB) — Givastomig Phase 2 randomized; Ragistomig in collaborative development with ABL Bio.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312417/0/en/novabridge-biosciences-receives-fda-fast-track-designation-for-givastomig-in-first-line-her2-negative-metastatic-gastric-cancer.html"
+          "text": "Johnson & Johnson — Bispecific antibody leadership in multiple myeloma — TALVEY (talquetamab) portfolio — Secured third consecutive positive Phase 3 data; advancing bispecific combinations into earlier treatment lines with MonumenTAL-3 results.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314021/0/de/neue-daten-zu-talvey-talquetamab-in-kombination-mit-daratumumab-belegen-das-potenzial-einer-neuartigen-bispezifischen-kombinationsbehandlung-bei-rezidiviertem-oder-refrakt%c3%a4rem-mult.html"
         },
         {
-          "text": "Genmab A/S — Advancing next-generation antibody modalities — Bispecific antibodies pipeline — Portfolio includes eight approved antibody medicines and late-stage clinical programs.",
-          "url": "https://globenewswire.com/news-release/2026/06/15/3312002/0/en/major-shareholder-announcement.html"
+          "text": "Genmab A/S — Bispecific antibody development — Broad pipeline including wholly owned programs — Maintains international presence across North America, Europe, and Asia Pacific with science powering eight approved antibody medicines and active late-stage clinical programs.",
+          "url": "https://globenewswire.com/news-release/2026/06/16/3312970/0/en/capital-increase-in-genmab-as-a-result-of-employee-warrant-exercise.html"
         },
         {
-          "text": "Context Therapeutics — T cell engaging bispecific antibody development — CTIM-76 (Claudin 6 x CD3), CT-95 (Mesothelin x CD3), CT-202 (Nectin-4 x CD3) — Clinical-stage portfolio advancing for solid tumors.",
-          "url": "https://globenewswire.com/news-release/2026/06/15/3311621/0/en/context-therapeutics-announces-positive-interim-efficacy-and-safety-results-from-ongoing-phase-1-clinical-trial-for-ctim-76.html"
+          "text": "Jazz Pharmaceuticals — Expansion into solid tumor T-cell engagers — Multispecific antibody programs via AbCellera — $56M upfront; potential $4B total deal value; focus on next-gen bispecific/multispecific formats.",
+          "url": "https://biopharmadive.com/news/jazz-abcellera-t-cell-engager-multispecific-antibodies-deal/823125/"
         },
         {
-          "text": "University of Virginia — Clinical development of armed T-cell bispecific platforms — HER2 BATs (anti-CD3 x anti-HER2) — Phase I/II data supports safety and feasibility in metastatic breast cancer; best response was stable disease in 35% of patients.",
+          "text": "AbCellera — Discovery platform for multispecific T-cell engagers — Partnership with Jazz Pharmaceuticals — $56M upfront; $28M trigger for third program; up to $792M per program in milestones.",
+          "url": "https://biopharmadive.com/news/jazz-abcellera-t-cell-engager-multispecific-antibodies-deal/823125/"
+        },
+        {
+          "text": "Memento Medicines — Retinal disease biologic therapy development — MMT-205 (Tie2/VEGF bispecific) — $93M Series A raised; exclusive license from MabTics/Curacle; Memento is fifth Sera Medicines subsidiary.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314508/0/en/memento-medicines-launches-with-93-million-series-a-financing-to-advance-tie2-agonist-and-vegf-inhibitor-bispecific-antibody-therapy-for-retinal-diseases.html"
+        },
+        {
+          "text": "MabTics Co., Ltd. / Curacle Co., Ltd. — Bispecific antibody licensing — MMT-205 — Received upfront cash and equity from Memento Medicines; eligible for development, regulatory, and commercial milestones plus tiered royalties.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314508/0/en/memento-medicines-launches-with-93-million-series-a-financing-to-advance-tie2-agonist-and-vegf-inhibitor-bispecific-antibody-therapy-for-retinal-diseases.html"
+        },
+        {
+          "text": "NovaBridge Biosciences — Development of first-in-class CLDN18.2 x 4-1BB bispecific antibody — Givastomig (TJ033721/ABL111) — FDA Fast Track designation secured; Phase 3 initiation planned Q4 2026; Phase 1b data supports robust efficacy in gastric cancer.",
+          "url": "https://cancernetwork.com/view/givastomig-earns-fda-fast-track-designation-in-her2-negative-gastric-cancer"
+        },
+        {
+          "text": "University of Virginia — Clinical evaluation of bispecific antibody-armed T-cell therapy — HER2 BATs (anti-CD3 x anti-HER2) — Phase I/II study in metastatic breast cancer demonstrated safety and stable disease in 35% of patients.",
           "url": "https://cancernetwork.com/view/64-a-phase-i-ii-study-of-pembrolizumab-and-anti-cd3-x-anti-her2-armed-activated-t-cells-in-metastatic-breast-cancer"
         },
         {
-          "text": "Lyon Sud Hospital (Academic) — First-line bispecific antibody optimization — Mosunetuzumab (CD20/CD3) — Phase 1b/2 data (88% CR) driving Phase 3 MorningLyte trial design against standard immunochemotherapy.",
-          "url": "https://cancernetwork.com/view/elucidating-first-line-sc-mosunetuzumab-benefit-in-follicular-lymphoma"
-        },
-        {
-          "text": "Genmab / AbbVie — Commercialization of CD3×CD20 bispecific platform — Epcoritamab (Epkinly) — Phase 3 data confirms superiority over chemoimmunotherapy in 2L+ LBCL with 30% PFS at 24 months vs 13% CIT.",
-          "url": "https://cancernetwork.com/view/epcoritamab-yields-superior-pfs-vs-chemoimmunotherapy-in-pretreated-lbcl"
-        },
-        {
-          "text": "Roche — Advancing CD20×CD3 bispecific combinations — Glofitamab (Columvi) — GemOx combination strategy identified to accelerate deep remissions (42% CR) in LBCL bridging settings.",
-          "url": "https://cancernetwork.com/view/cd20-cd3-bispecific-antibodies-may-be-feasible-bridging-strategy-in-lbcl"
-        },
-        {
-          "text": "CSPC Pharmaceutical Group — Commercialization of HER2 bispecific antibody — Anbenitamab (KN026) — Phase 3 positive in breast cancer; NMPA approval secured for gastric cancer in May 2026.",
-          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
-        },
-        {
-          "text": "Candid Therapeutics — Bispecific drug development — Oncology pipeline — Acquired by UCB for up to $2.2 billion in 2026.",
+          "text": "Candid Therapeutics — Bispecific drug development — Oncology bispecific pipeline — Acquired by UCB in a deal valued up to $2.2 billion.",
           "url": "https://pharmavoice.com/news/biotech-market-rebounding-where-executive-jobs-drug/822860/"
         },
         {
-          "text": "Roche — Advancing CD20/CD3 bispecific platform in first-line and bridging settings — Mosunetuzumab + Glofitamab — Phase 3 MorningLyte trial launched; bridging data presented at EHA 2026 showing superior safety profile vs conventional therapy.",
+          "text": "Genentech/Roche — CD20/CD3 bispecific commercialization — Mosunetuzumab — Phase 3 MorningLyte trial initiated to compare SC mosunetuzumab + lenalidomide vs standard immunochemotherapy in first-line follicular lymphoma.",
           "url": "https://cancernetwork.com/view/elucidating-first-line-sc-mosunetuzumab-benefit-in-follicular-lymphoma"
-        },
-        {
-          "text": "Genmab/AbbVie — Commercialization of CD3×CD20 bispecific antibody — Epcoritamab-bysp (Epkinly) — Phase 3 EPCORE DLBCL-1 data presented at EHA 2026 showing superior PFS and CR rates vs chemoimmunotherapy in LBCL.",
-          "url": "https://cancernetwork.com/view/epcoritamab-yields-superior-pfs-vs-chemoimmunotherapy-in-pretreated-lbcl"
-        },
-        {
-          "text": "CSPC Pharmaceutical Group — HER2 bispecific antibody development — Anbenitamab (KN026/Ennituo) — NMPA approval secured for gastric cancer (May 2026); Phase 3 HEALER and Neo-Healer trials met primary endpoints in breast cancer.",
-          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
-        },
-        {
-          "text": "Candid Therapeutics — Bispecific drug development — Oncology pipeline — Acquired by UCB in a deal valued up to $2.2 billion.",
-          "url": "https://pharmavoice.com/news/biotech-market-rebounding-where-executive-jobs-drug/822860/"
-        },
-        {
-          "text": "Akeso — Bispecific antibody development — Lung cancer — Engaged in competitive landscape against ADCs as highlighted at Merck Summit.",
-          "url": "https://pharmavoice.com/news/competition-merck-summit-akeso-cancer-adc-bispecific/822585/"
         }
       ]
     },
@@ -346,92 +198,44 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "Talvey (teclistamab) — Mechanism: BCMAxCD3 bispecific T-cell engager — Phase: Late-stage (combination study) — Population: Relapsed/refractory multiple myeloma — Comparator: Standard regimen — Results: 53% reduction in risk of death at 2 years when combined with Darzalex Faspro.",
+          "text": "Talvey (teclistamab) — Mechanism: Bispecific T-cell engager (BCMA x CD3) — Phase: Late-stage/Label expansion study — Population: Relapsed/refractory multiple myeloma — Comparator: Standard of care — Results: 53% reduction in death risk; 72% reduction in progression/death risk at 2 years.",
           "url": "https://biopharmadive.com/news/jj-multiple-myeloma-drug-talvey-earlier-stage-disease/822904/"
         },
         {
-          "text": "AmMax Bispecific ADCs — Mechanism: Bispecific antibody-drug conjugate targeting solid tumors — Phase: Preclinical/early clinical (implied by 'pipeline') — Population: Solid tumor patients — Status: Two bispecific ADCs in development alongside lead AMB-104.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312540/0/en/ammax-bio-names-biopharmaceutical-executive-travis-read-as-president-and-chief-operating-officer.html"
+          "text": "BiTAC platform — Mechanism: Bispecific T-cell engager (TCE) with AND-gated dual-antigen targeting for conditional activation — Phase: Preclinical (in vitro proof-of-concept) — Population: Solid tumors with non-exclusive cancer markers — Results: Demonstrated ability to target cancer cells precisely while sparing healthy cells.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314047/0/en/veraxa-biotech-establishes-in-vitro-proof-of-concept-for-novel-bitac-adc-technology-platform-and-launches-partnering-discussions-at-bio-international-convention-2026.html"
         },
         {
-          "text": "CTIM-76 — Mechanism: Claudin 6 x CD3 bispecific antibody (T cell engager) — Phase: 1 — Population: Platinum-resistant ovarian cancer (PROC) patients with median 7 prior lines of therapy — Comparator: None stated — Endpoints/Results: 29% confirmed overall response rate per RECIST v1.1.",
-          "url": "https://globenewswire.com/news-release/2026/06/15/3311621/0/en/context-therapeutics-announces-positive-interim-efficacy-and-safety-results-from-ongoing-phase-1-clinical-trial-for-ctim-76.html"
+          "text": "TALVEY (talquetamab) — Mechanism: Bispecific anti-GPRC5D antibody — Phase: 3 (MonumenTAL-3) — Population: Relapsed/refractory multiple myeloma (earlier lines) — Comparator: Daratumumab + pomalidomide + dexamethasone — Results: 72% risk reduction in progression/death; 81.3% PFS at 24 months vs 51.2%.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314021/0/de/neue-daten-zu-talvey-talquetamab-in-kombination-mit-daratumumab-belegen-das-potenzial-einer-neuartigen-bispezifischen-kombinationsbehandlung-bei-rezidiviertem-oder-refrakt%c3%a4rem-mult.html"
         },
         {
-          "text": "Talvey (talquetamab) — Mechanism: GPRC5DxCD3 bispecific T-cell engager — Phase: 2/3 — Population: Relapsed/refractory multiple myeloma — Comparator: Standard regimen (Darzalex Faspro ± Pomalyst) — Results: 53% reduction in risk of death at 2 years.",
-          "url": "https://biopharmadive.com/news/jj-multiple-myeloma-drug-talvey-earlier-stage-disease/822904/"
+          "text": "Talquetamab — Mechanism: Bispecific GPRC5D-targeting antibody — Phase: 3 (MonumenTAL-3) — Population: Relapsed/refractory multiple myeloma in earlier treatment lines — Comparator: Daratumumab, pomalidomid, dexamethason (DPd) — Results: 81.3% PFS at 24 months vs 51.2%; 89.2% OS vs 79.1%; 72% risk reduction in progression/death.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314019/0/es/los-nuevos-datos-sobre-talvey-talquetamab-m%c3%a1s-daratumumab-demuestran-el-potencial-de-una-innovadora-combinaci%c3%b3n-biespec%c3%adfica-en-l%c3%adneas-de-tratamiento-tempranas-del-mieloma-m%c3%baltiple.html"
         },
         {
-          "text": "AmMax Bispecific ADCs — Mechanism: Bispecific antibody drug conjugate targeting solid tumor antigens — Phase: Preclinical/Early Clinical — Population: Solid tumor patients — Status: Two candidates in pipeline expected to serve unmet needs in solid tumors.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312540/0/en/ammax-bio-names-biopharmaceutical-executive-travis-read-as-president-and-chief-operating-officer.html"
+          "text": "Genmab A/S pipeline — Mechanism: Bispecific antibody format — Phase: Late-stage clinical — Population: Cancer and serious diseases — Status: Advancing wholly owned programs with goal of delivering transformative medicines; specific trial data not detailed in source.",
+          "url": "https://globenewswire.com/news-release/2026/06/16/3312970/0/en/capital-increase-in-genmab-as-a-result-of-employee-warrant-exercise.html"
         },
         {
-          "text": "Givastomig — Mechanism: Claudin 18.2 x 4-1BB bispecific antibody conditionally activating T cells via 4-1BB signaling in Claudin 18.2-expressing tumor microenvironment — Phase: 2 (global randomized) — Population: First-line HER2-negative metastatic gastric cancer — Results: Positive Phase 1b topline results reported.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312417/0/en/novabridge-biosciences-receives-fda-fast-track-designation-for-givastomig-in-first-line-her2-negative-metastatic-gastric-cancer.html"
+          "text": "T-cell engagers (multispecific antibodies) — Mechanism: Redirect T-cells to solid tumor antigens — Phase: Preclinical/discovery — Population: Solid tumor indications — Status: Early-stage research initiated under Jazz/AbCellera deal; aims to overcome limited success in solid tumors.",
+          "url": "https://biopharmadive.com/news/jazz-abcellera-t-cell-engager-multispecific-antibodies-deal/823125/"
         },
         {
-          "text": "Ragistomig — Mechanism: Bispecific antibody integrating PD-L1 as tumor engager and 4-1BB as conditional T cell activator — Phase: Not specified — Population: Solid tumors — Context: Collaborative development between NovaBridge Biosciences and ABL Bio.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312417/0/en/novabridge-biosciences-receives-fda-fast-track-designation-for-givastomig-in-first-line-her2-negative-metastatic-gastric-cancer.html"
+          "text": "MMT-205 — Mechanism: Tie2 receptor agonism combined with VEGF inhibition — Phase: Preclinical/IND-enabling — Population: Retinal vascular disease (nAMD, DME) — Comparator: Anti-VEGF monotherapies — Results: Preclinical models show greater Tie2 activation and improved retinal vasculature integrity vs current therapies.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314508/0/en/memento-medicines-launches-with-93-million-series-a-financing-to-advance-tie2-agonist-and-vegf-inhibitor-bispecific-antibody-therapy-for-retinal-diseases.html"
         },
         {
-          "text": "CTIM-76 — Mechanism: Claudin 6 x CD3 T cell engaging bispecific antibody — Phase: 1 — Population: Platinum-resistant ovarian cancer (median 7 prior lines) — Endpoints/Results: 29% confirmed overall response rate per RECIST v1.1.",
-          "url": "https://globenewswire.com/news-release/2026/06/15/3311621/0/en/context-therapeutics-announces-positive-interim-efficacy-and-safety-results-from-ongoing-phase-1-clinical-trial-for-ctim-76.html"
+          "text": "Givastomig — Mechanism: CLDN18.2 x 4-1BB bispecific antibody — Phase: 1b (expansion) — Population: First-line HER2-negative, CLDN18.2-positive, PD-L1-positive metastatic gastric cancer — Comparator: Historical benchmarks — Results: ORR 77% (8 mg/kg), median PFS 16.9 months (8 mg/kg).",
+          "url": "https://cancernetwork.com/view/givastomig-earns-fda-fast-track-designation-in-her2-negative-gastric-cancer"
         },
         {
-          "text": "HER2 BATs — Mechanism: Anti-CD3 x anti-HER2 bispecific antibody-armed activated T-cells — Phase: 1/2 — Population: Metastatic breast cancer (any HER2 status) — Comparator: None (single arm) — Results: 35% stable disease, median OS 21.4 months, no dose-limiting toxicities.",
+          "text": "HER2 BATs — Mechanism: Activated T-cells armed with anti-CD3 x anti-HER2 bispecific antibodies — Phase: 1/2 — Population: Metastatic breast cancer (any HER2 status, ≥2 prior lines) — Comparator: None (single arm) — Results: 35% stable disease, median OS 21.4 months, no dose-limiting toxicities.",
           "url": "https://cancernetwork.com/view/64-a-phase-i-ii-study-of-pembrolizumab-and-anti-cd3-x-anti-her2-armed-activated-t-cells-in-metastatic-breast-cancer"
         },
         {
-          "text": "Mosunetuzumab (SC) — Mechanism: CD20/CD3 bispecific antibody — Phase: 1b/2 — Population: First-line follicular lymphoma with high tumor burden — Comparator: Historical GALLIUM data — Results: 87% 24-month PFS, 90% ORR, 88% CR; manageable safety with no ICANS.",
+          "text": "Mosunetuzumab — Mechanism: CD20×CD3 bispecific antibody — Phase: 1b/2 (CO41942) — Population: First-line follicular lymphoma with high tumor burden — Comparator: Historical GALLIUM study data — Results: 90% ORR, 88% CR, 87% 24-month PFS; manageable safety with low-grade CRS, no ICANS.",
           "url": "https://cancernetwork.com/view/elucidating-first-line-sc-mosunetuzumab-benefit-in-follicular-lymphoma"
-        },
-        {
-          "text": "Epcoritamab-bysp — Mechanism: CD3×CD20 bispecific T-cell engager — Phase: 3 (EPCORE DLBCL-1) — Population: Relapsed/refractory LBCL ineligible for or post-HDT-ASCT — Comparator: Chemoimmunotherapy — Results: Median PFS 3.5 vs 3.0 mo; HR 0.74; CR 38% vs 26%.",
-          "url": "https://cancernetwork.com/view/epcoritamab-yields-superior-pfs-vs-chemoimmunotherapy-in-pretreated-lbcl"
-        },
-        {
-          "text": "Glofitamab-gxbm — Mechanism: CD20×CD3 bispecific antibody — Phase: Bridging strategy analysis — Population: LBCL patients awaiting CAR T — Comparator: Bispecific monotherapy — Results: GemOx combo ORR 75% vs 65% monotherapy; CR 42% vs lower monotherapy rate.",
-          "url": "https://cancernetwork.com/view/cd20-cd3-bispecific-antibodies-may-be-feasible-bridging-strategy-in-lbcl"
-        },
-        {
-          "text": "CD20×CD3 Bispecifics — Mechanism: T-cell redirection — Phase: Retrospective bridging analysis — Population: LBCL (n=67 BisCAR) — Comparator: Conventional bridging (n=45) — Results: Grade 3-4 cytopenia 3% vs 22%; ORR 69% vs 61% during bridging.",
-          "url": "https://cancernetwork.com/view/cd20-cd3-bispecific-antibodies-may-be-feasible-bridging-strategy-in-lbcl"
-        },
-        {
-          "text": "Anbenitamab — Mechanism: HER2 bispecific antibody — Phase: 3 — Population: HER2-positive advanced breast cancer — Comparator: Trastuzumab/pertuzumab/docetaxel — Endpoints: Primary PFS met; significant reduction in disease progression/death risk.",
-          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
-        },
-        {
-          "text": "Anbenitamab — Mechanism: HER2 bispecific antibody — Phase: 3 (Neo-Healer) — Population: Early/locally advanced HER2-positive breast cancer — Comparator: Trastuzumab/pertuzumab/docetaxel — Endpoints: tpCR 62.4% vs 51.2% (95% CI 3.19%-21.61%).",
-          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
-        },
-        {
-          "text": "Bispecific Antibodies — Mechanism: Dual-target engagement — Phase: Clinical development — Population: Lung cancer patients — Status: Gaining traction as alternative to ADCs; comparative efficacy data pending.",
-          "url": "https://pharmavoice.com/news/competition-merck-summit-akeso-cancer-adc-bispecific/822585/"
-        },
-        {
-          "text": "Mosunetuzumab — Mechanism: CD20×CD3 bispecific antibody — Phase: 1b/2 (CO41942) — Population: Untreated follicular lymphoma with high tumor burden — Comparator: Historical GALLIUM data — Results: 87% 24-month PFS, 88% CR, manageable toxicity with no ICANS.",
-          "url": "https://cancernetwork.com/view/elucidating-first-line-sc-mosunetuzumab-benefit-in-follicular-lymphoma"
-        },
-        {
-          "text": "Glofitamab-gxbm — Mechanism: CD20×CD3 bispecific antibody — Phase: Bridging strategy analysis — Population: Large B-cell lymphoma (LBCL) — Comparator: Conventional bridging — Results: 69% ORR (BisCAR) vs 61% (ConCAR); 3% grade 3-4 cytopenia vs 22%.",
-          "url": "https://cancernetwork.com/view/cd20-cd3-bispecific-antibodies-may-be-feasible-bridging-strategy-in-lbcl"
-        },
-        {
-          "text": "Glofitamab-gxbm + GemOx — Mechanism: CD20×CD3 bispecific + chemotherapy — Phase: Bridging strategy analysis — Population: Large B-cell lymphoma — Comparator: Bispecific monotherapy — Results: 75% ORR and 42% CR during bridging vs 65% ORR and lower CR with monotherapy.",
-          "url": "https://cancernetwork.com/view/cd20-cd3-bispecific-antibodies-may-be-feasible-bridging-strategy-in-lbcl"
-        },
-        {
-          "text": "Epcoritamab-bysp — Mechanism: CD3×CD20 bispecific T-cell engager — Phase: 3 (EPCORE DLBCL-1) — Population: Relapsed/refractory LBCL ineligible for or post-HDT-ASCT — Comparator: Chemoimmunotherapy — Endpoints: Median PFS 3.5 vs 3.0 months (HR 0.74); CR 38% vs 26%; 26% risk reduction.",
-          "url": "https://cancernetwork.com/view/epcoritamab-yields-superior-pfs-vs-chemoimmunotherapy-in-pretreated-lbcl"
-        },
-        {
-          "text": "Anbenitamab (KN026) — Mechanism: HER2 bispecific antibody — Phase: 3 (HEALER, Neo-Healer) — Population: HER2-positive advanced or early breast cancer — Comparator: THP (trastuzumab/pertuzumab/docetaxel) — Endpoints: HEALER PFS met; Neo-Healer tpCR 62.4% vs 51.2% (diff 11.4%).",
-          "url": "https://cancernetwork.com/view/anbenitamab-regimen-meets-phase-3-end-points-in-her2-breast-cancer"
-        },
-        {
-          "text": "Bispecific antibodies — Mechanism: Dual-target engagement — Phase: Varies by program — Population: Lung cancer patients — Context: Emerging as a key competitor to ADCs in lung cancer therapy.",
-          "url": "https://pharmavoice.com/news/competition-merck-summit-akeso-cancer-adc-bispecific/822585/"
         }
       ]
     },
@@ -439,31 +243,27 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "AmMax Bio — Executive leadership appointment — Bispecific ADC portfolio — Appointed Travis Read as President and COO to oversee business development and financing for bispecific ADC programs.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312540/0/en/ammax-bio-names-biopharmaceutical-executive-travis-read-as-president-and-chief-operating-officer.html"
+          "text": "Jazz Pharmaceuticals / AbCellera — Strategic collaboration for multispecific antibody discovery — Two initial programs + one optional third — $56M upfront; $28M option trigger; up to $792M per program in development/regulatory milestones.",
+          "url": "https://biopharmadive.com/news/jazz-abcellera-t-cell-engager-multispecific-antibodies-deal/823125/"
         },
         {
-          "text": "Genmab A/S — Employee warrant exercise — 185 shares issued at DKK 1,334.50/share — Total proceeds DKK 0.2 million — Represents less than 0.001% of total share capital; no impact on bispecific pipeline strategy reported.",
-          "url": "https://globenewswire.com/news-release/2026/06/15/3312002/0/en/major-shareholder-announcement.html"
+          "text": "VERAXA Biotech / Voyager Acquisition Corp — Business Combination — Nasdaq listing (VRXA) — Closed merger transaction; shareholders approved on March 12, 2026, with trading commencing June 11, 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314047/0/en/veraxa-biotech-establishes-in-vitro-proof-of-concept-for-novel-bitac-adc-technology-platform-and-launches-partnering-discussions-at-bio-international-convention-2026.html"
         },
         {
-          "text": "Context Therapeutics — Granted non-qualified stock option award to new employee — 146,000 shares at $1.71/share exercise price — Inducement grant under Nasdaq Rule 5635(c)(4) outside 2021 LTIP.",
-          "url": "https://globenewswire.com/news-release/2026/06/15/3311621/0/en/context-therapeutics-announces-positive-interim-efficacy-and-safety-results-from-ongoing-phase-1-clinical-trial-for-ctim-76.html"
+          "text": "VERAXA Biotech — Capital raise — BiTAC pipeline — Secured $27.5M senior secured note financing and $50M share purchase agreement to fund bispecific TCE and ADC development.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314047/0/en/veraxa-biotech-establishes-in-vitro-proof-of-concept-for-novel-bitac-adc-technology-platform-and-launches-partnering-discussions-at-bio-international-convention-2026.html"
         },
         {
-          "text": "AmMax Bio — Executive appointment — Travis Read (President/COO) — Appointment aimed at guiding transformational growth, business development, and financing for ADC portfolio including bispecific programs.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312540/0/en/ammax-bio-names-biopharmaceutical-executive-travis-read-as-president-and-chief-operating-officer.html"
+          "text": "Memento Medicines — $93M Series A financing — Co-led by Forbion, RA Capital Management, Avego BioScience Capital; participation by Sanofi Ventures and Samsara BioCapital to fund MMT-205 development.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314508/0/en/memento-medicines-launches-with-93-million-series-a-financing-to-advance-tie2-agonist-and-vegf-inhibitor-bispecific-antibody-therapy-for-retinal-diseases.html"
         },
         {
-          "text": "NovaBridge Biosciences — Collaboration agreement with ABL Bio — Ragistomig (bispecific antibody) — Joint development of PD-L1 x 4-1BB bispecific for solid tumors.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312417/0/en/novabridge-biosciences-receives-fda-fast-track-designation-for-givastomig-in-first-line-her2-negative-metastatic-gastric-cancer.html"
+          "text": "Memento Medicines / MabTics & Curacle — Exclusive license agreement — MMT-205 — Worldwide rights transferred; deal includes upfront cash/equity plus future milestones and tiered royalties on net sales.",
+          "url": "https://globenewswire.com/news-release/2026/06/18/3314508/0/en/memento-medicines-launches-with-93-million-series-a-financing-to-advance-tie2-agonist-and-vegf-inhibitor-bispecific-antibody-therapy-for-retinal-diseases.html"
         },
         {
-          "text": "UCB — Acquired Candid Therapeutics — Bispecific oncology assets — Deal value up to $2.2 billion announced in 2026.",
-          "url": "https://pharmavoice.com/news/biotech-market-rebounding-where-executive-jobs-drug/822860/"
-        },
-        {
-          "text": "UCB — Acquired Candid Therapeutics — Bispecific oncology assets — Deal value up to $2.2 billion; strengthens UCB's oncology portfolio with bispecific technology.",
+          "text": "UCB / Candid Therapeutics — Acquisition — Bispecific oncology assets — Deal value up to $2.2 billion announced to secure Candid's bispecific drug development capabilities.",
           "url": "https://pharmavoice.com/news/biotech-market-rebounding-where-executive-jobs-drug/822860/"
         }
       ]
