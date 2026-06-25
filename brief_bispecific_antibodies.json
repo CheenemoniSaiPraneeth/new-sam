@@ -1,90 +1,50 @@
 {
   "query": "bispecific",
-  "generated_at": "2026-06-21 09:28:55",
+  "generated_at": "2026-06-25 08:43:11",
   "article_count": 38,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Jazz Pharmaceuticals partnered with AbCellera to develop next-generation T-cell engagers for solid tumors, with T-cell engagers classified as multispecific antibodies in the deal announcement.",
-          "url": "https://biopharmadive.com/news/jazz-abcellera-t-cell-engager-multispecific-antibodies-deal/823125/"
+          "text": "Oxford BioTherapeutics advanced obrixtamig (OBT620), a DLL3-targeting bispecific T-cell engager, to global Phase 3 development for extensive-stage small cell lung cancer and extrapulmonary neuroendocrine carcinoma.",
+          "url": "https://drug-dev.com/oxford-biotherapeutics-third-partnered-programme-with-boehringer-ingelheim-enters-the-clinic-and-its-first-obrixtamig-advances-to-phase-3/"
         },
         {
-          "text": "Johnson & Johnson reported that Talvey, a bispecific antibody, combined with Darzalex Faspro reduced the risk of death by 53% in relapsed or refractory multiple myeloma patients.",
-          "url": "https://biopharmadive.com/news/jj-multiple-myeloma-drug-talvey-earlier-stage-disease/822904/"
+          "text": "Oxford BioTherapeutics initiated first-patient dosing for BI 3820768, a second Boehringer Ingelheim-partnered program from its multi-target collaboration, triggering a milestone payment.",
+          "url": "https://drug-dev.com/oxford-biotherapeutics-third-partnered-programme-with-boehringer-ingelheim-enters-the-clinic-and-its-first-obrixtamig-advances-to-phase-3/"
         },
         {
-          "text": "VERAXA Biotech established in vitro proof-of-concept for its novel BiTAC (bispecific T-cell engager) ADC technology platform and launched partnering discussions at BIO International Convention 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314047/0/en/veraxa-biotech-establishes-in-vitro-proof-of-concept-for-novel-bitac-adc-technology-platform-and-launches-partnering-discussions-at-bio-international-convention-2026.html"
+          "text": "Lonza and InduPro announced a licensing agreement to combine InduPro's bispecific antibody capabilities with Lonza's ADC platform technologies including GlycoConnect and HydraSpace.",
+          "url": "https://drug-dev.com/lonza-and-indupro-announce-licensing-agreement-to-advance-next-generation-adc-therapeutics/"
         },
         {
-          "text": "VERAXA Biotech completed a business combination with Voyager Acquisition Corp to become a Nasdaq-listed company focused on next-generation cancer therapies utilizing novel bispecific T-cell engagers (TCEs) and antibody-drug conjugates (ADCs).",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314047/0/en/veraxa-biotech-establishes-in-vitro-proof-of-concept-for-novel-bitac-adc-technology-platform-and-launches-partnering-discussions-at-bio-international-convention-2026.html"
+          "text": "InduPro will utilize the Lonza partnership to develop proximity-driven bispecific antibody-drug conjugates (ADCs) targeting up to two oncology antigens.",
+          "url": "https://drug-dev.com/lonza-and-indupro-announce-licensing-agreement-to-advance-next-generation-adc-therapeutics/"
         },
         {
-          "text": "VERAXA Biotech secured $27.5 million in senior secured note financing and a $50 million share purchase agreement to advance its pipeline of oncology drug candidates utilizing its BiTAC bispecific platform.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314047/0/en/veraxa-biotech-establishes-in-vitro-proof-of-concept-for-novel-bitac-adc-technology-platform-and-launches-partnering-discussions-at-bio-international-convention-2026.html"
+          "text": "Prolium Bioscience dosed the first patient in a multinational Phase 1/2 study of PRO-203, a CD20xCD3 T-cell engager (bispecific format), for systemic sclerosis.",
+          "url": "https://globenewswire.com/news-release/2026/06/22/3315254/0/en/prolium-bioscience-announces-first-patient-dosed-in-its-multinational-phase-1-2-study-of-pro-203-in-systemic-sclerosis-and-last-patient-last-visit-in-an-investigator-led-study-of-p.html"
         },
         {
-          "text": "Johnson & Johnson reported Phase 3 MonumenTAL-3 results for TALVEY (talquetamab), a bispecific anti-GPRC5D antibody, in combination with daratumumab for relapsed/refractory multiple myeloma, showing a 72% reduction in progression or death risk versus standard care.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314021/0/de/neue-daten-zu-talvey-talquetamab-in-kombination-mit-daratumumab-belegen-das-potenzial-einer-neuartigen-bispezifischen-kombinationsbehandlung-bei-rezidiviertem-oder-refrakt%c3%a4rem-mult.html"
+          "text": "Prolium Bioscience completed the last patient, last visit in a 26-week investigator-led study of PRO-203, a CD20xCD3 bispecific T-cell engager, in treatment-refractory lupus nephritis.",
+          "url": "https://globenewswire.com/news-release/2026/06/22/3315254/0/en/prolium-bioscience-announces-first-patient-dosed-in-its-multinational-phase-1-2-study-of-pro-203-in-systemic-sclerosis-and-last-patient-last-visit-in-an-investigator-led-study-of-p.html"
         },
         {
-          "text": "The MonumenTAL-3 study demonstrated a 24-month progression-free survival rate of 81.3% for the talquetamab-daratumumab combination compared to 51.2% for the standard daratumumab-pomalidomide-dexamethasone regimen.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314021/0/de/neue-daten-zu-talvey-talquetamab-in-kombination-mit-daratumumab-belegen-das-potenzial-einer-neuartigen-bispezifischen-kombinationsbehandlung-bei-rezidiviertem-oder-refrakt%c3%a4rem-mult.html"
+          "text": "China Medical System (CMS) received approval in China for Silevimig injection, the world's first bispecific antibody indicated for passive immunization against rabies.",
+          "url": "https://globenewswire.com/news-release/2026/06/22/3315186/0/en/cms-class-1-innovative-drug-silevimig-injection-approved-in-china-becoming-the-world-s-first-bispecific-antibody-for-passive-immunization-against-rabies.html"
         },
         {
-          "text": "Johnson & Johnson's bispecific portfolio achieved a third consecutive positive study outcome with MonumenTAL-3, marking the first Phase 3 trial to show superior progression-free survival for a bispecific GPRC5D combination in earlier lines of multiple myeloma treatment.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314020/0/fr/de-nouvelles-donn%c3%a9es-sur-l-association-talvey-talquetamab-et-daratumumab-d%c3%a9montrent-le-potentiel-d-une-nouvelle-association-bisp%c3%a9cifique-dans-les-lignes-pr%c3%a9coces-du-traitement-du-m.html"
+          "text": "Antengene licensed ATG-106, a preclinical CDH6×CD3 bispecific T-cell engager for solid tumors, to K2 Therapeutics in a deal valued at ~$1.96B including milestones and royalties.",
+          "url": "https://pharmashots.com/34044/antengene-inks-1-96b-bispecific-t-cell-engager-deal-with-k2-therapeutics/"
         },
         {
-          "text": "Genmab A/S — Bispecific antibodies — Corporate profile — Company explicitly identifies bispecific antibodies as a core therapeutic format alongside ADCs and immune-modulating antibodies within its portfolio of eight approved medicines and late-stage pipeline.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312970/0/en/capital-increase-in-genmab-as-a-result-of-employee-warrant-exercise.html"
+          "text": "Antengene granted K2 Therapeutics an option for exclusive rights to a second undisclosed bispecific T-cell engager candidate covering all global markets except Greater China.",
+          "url": "https://pharmashots.com/34044/antengene-inks-1-96b-bispecific-t-cell-engager-deal-with-k2-therapeutics/"
         },
         {
-          "text": "Memento Medicines launched with $93M Series A financing co-led by Forbion, RA Capital Management, and Avego BioScience Capital to advance MMT-205, a Tie2 agonist/VEGF inhibitor bispecific antibody for retinal diseases.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314508/0/en/memento-medicines-launches-with-93-million-series-a-financing-to-advance-tie2-agonist-and-vegf-inhibitor-bispecific-antibody-therapy-for-retinal-diseases.html"
-        },
-        {
-          "text": "Memento Medicines secured worldwide rights to MMT-205 (formerly MT-103) via exclusive license from MabTics Co., Ltd. and Curacle Co., Ltd., with upfront cash and equity payments plus tiered royalties.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314508/0/en/memento-medicines-launches-with-93-million-series-a-financing-to-advance-tie2-agonist-and-vegf-inhibitor-bispecific-antibody-therapy-for-retinal-diseases.html"
-        },
-        {
-          "text": "MMT-205 is a bispecific antibody designed to activate Tie2 and inhibit VEGF, targeting neovascular age-related macular degeneration (nAMD) and diabetic macular edema (DME).",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314508/0/en/memento-medicines-launches-with-93-million-series-a-financing-to-advance-tie2-agonist-and-vegf-inhibitor-bispecific-antibody-therapy-for-retinal-diseases.html"
-        },
-        {
-          "text": "Memento Medicines plans to use financing proceeds for IND-enabling studies for MMT-205, with clinical trials expected to initiate in 2027.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314508/0/en/memento-medicines-launches-with-93-million-series-a-financing-to-advance-tie2-agonist-and-vegf-inhibitor-bispecific-antibody-therapy-for-retinal-diseases.html"
-        },
-        {
-          "text": "NovaBridge Biosciences received FDA Fast Track designation for givastomig (TJ033721/ABL111), a CLDN18.2 x 4-1BB bispecific antibody, for first-line treatment of HER2-negative, CLDN18.2-positive, and PD-L1-positive advanced or metastatic gastroesophageal adenocarcinoma.",
-          "url": "https://cancernetwork.com/view/givastomig-earns-fda-fast-track-designation-in-her2-negative-gastric-cancer"
-        },
-        {
-          "text": "A registrational Phase 3 trial for givastomig combined with nivolumab and chemotherapy in HER2-negative metastatic gastric cancer is planned to commence in Q4 2026.",
-          "url": "https://cancernetwork.com/view/givastomig-earns-fda-fast-track-designation-in-her2-negative-gastric-cancer"
-        },
-        {
-          "text": "Phase 1b data for givastomig demonstrated an objective response rate (ORR) of 77% at the 8-mg/kg dose level and 73% at the 12-mg/kg dose level in first-line HER2-negative, CLDN18.2-positive metastatic gastric cancer.",
-          "url": "https://cancernetwork.com/view/givastomig-earns-fda-fast-track-designation-in-her2-negative-gastric-cancer"
-        },
-        {
-          "text": "University of Virginia researchers reported that HER2 BATs (activated T-cells armed with anti-CD3 x anti-HER2 bispecific antibodies) combined with pembrolizumab were safe and well-tolerated in a Phase I/II study for metastatic breast cancer.",
-          "url": "https://cancernetwork.com/view/64-a-phase-i-ii-study-of-pembrolizumab-and-anti-cd3-x-anti-her2-armed-activated-t-cells-in-metastatic-breast-cancer"
-        },
-        {
-          "text": "In the Phase I/II study of HER2 BATs and pembrolizumab, the best response was stable disease in 6 of 17 evaluable patients (35%), with a median overall survival of 21.4 months.",
-          "url": "https://cancernetwork.com/view/64-a-phase-i-ii-study-of-pembrolizumab-and-anti-cd3-x-anti-her2-armed-activated-t-cells-in-metastatic-breast-cancer"
-        },
-        {
-          "text": "Emmanuel Bachy presented phase 1b/2 CO41942 data for subcutaneous mosunetuzumab (CD20/CD3 bispecific) plus lenalidomide in first-line follicular lymphoma, reporting 87% 24-month PFS and 88% CR rate.",
-          "url": "https://cancernetwork.com/view/elucidating-first-line-sc-mosunetuzumab-benefit-in-follicular-lymphoma"
-        },
-        {
-          "text": "UCB pledged up to $2.2 billion in a deal with Candid Therapeutics, a bispecific drug developer, signaling increased M&A activity in the bispecific sector.",
-          "url": "https://pharmavoice.com/news/biotech-market-rebounding-where-executive-jobs-drug/822860/"
+          "text": "Novel bispecific antibodies and engineered cellular therapy platforms generated significant data at the 2026 ASCO Annual Meeting and 2026 EHA Congress for aggressive and indolent B-cell lymphomas.",
+          "url": "https://cancernetwork.com/view/how-are-key-lymphoma-data-from-asco-and-eha-2026-shaping-treatment"
         }
       ]
     },
@@ -92,48 +52,44 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Jazz Pharmaceuticals — AbCellera collaboration — Solid tumors (T-cell engagers/multispecific antibodies) — $56M upfront payment for two discovery programs; potential $792M per program in milestones; third program option triggers $28M.",
-          "url": "https://biopharmadive.com/news/jazz-abcellera-t-cell-engager-multispecific-antibodies-deal/823125/"
+          "text": "Oxford BioTherapeutics — Obrixtamig (OBT620) — DLL3-positive extensive-stage small cell lung cancer and extrapulmonary neuroendocrine carcinoma — Advancement to global Phase 3; DAREON®-Lung-1 trial (combo with chemo/atezolizumab) and DAREON-NEC-1 trial (combo with chemo) initiated with first patients dosed.",
+          "url": "https://drug-dev.com/oxford-biotherapeutics-third-partnered-programme-with-boehringer-ingelheim-enters-the-clinic-and-its-first-obrixtamig-advances-to-phase-3/"
         },
         {
-          "text": "Johnson & Johnson — Talvey (teclistamab) — Relapsed/refractory multiple myeloma — Combination with Darzalex Faspro reduced risk of death by 53% and progression/death by 72% at 2 years vs standard regimen.",
-          "url": "https://biopharmadive.com/news/jj-multiple-myeloma-drug-talvey-earlier-stage-disease/822904/"
+          "text": "Oxford BioTherapeutics — BI 3820768 — Advanced solid tumours — First-patient dosing achieved; triggered milestone payment to OBT as the third Boehringer Ingelheim-partnered program to enter clinic.",
+          "url": "https://drug-dev.com/oxford-biotherapeutics-third-partnered-programme-with-boehringer-ingelheim-enters-the-clinic-and-its-first-obrixtamig-advances-to-phase-3/"
         },
         {
-          "text": "VERAXA Biotech — BiTAC platform — Solid tumors — Established in vitro proof-of-concept for novel bispecific T-cell engager (TCE) ADC technology enabling conditionally activated, AND-gated therapeutic strategies targeting dual antigens.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314047/0/en/veraxa-biotech-establishes-in-vitro-proof-of-concept-for-novel-bitac-adc-technology-platform-and-launches-partnering-discussions-at-bio-international-convention-2026.html"
+          "text": "Lonza / InduPro — Next-generation bispecific ADCs — Oncology (up to two antigens) — Signed licensing agreement granting InduPro non-exclusive worldwide rights to Lonza's GlycoConnect, HydraSpace, and linker-payload technologies.",
+          "url": "https://drug-dev.com/lonza-and-indupro-announce-licensing-agreement-to-advance-next-generation-adc-therapeutics/"
         },
         {
-          "text": "VERAXA Biotech — BiTAC pipeline — Solid tumors — Completed business combination with Voyager Acquisition Corp to list on Nasdaq (VRXA) and advance bispecific TCE and ADC candidates.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314047/0/en/veraxa-biotech-establishes-in-vitro-proof-of-concept-for-novel-bitac-adc-technology-platform-and-launches-partnering-discussions-at-bio-international-convention-2026.html"
+          "text": "Prolium Bioscience — PRO-203 — Systemic Sclerosis — First patient dosed in multinational, open-label Phase 1/2 study; program is a CD20xCD3 T-cell engager (bispecific) administered subcutaneously.",
+          "url": "https://globenewswire.com/news-release/2026/06/22/3315254/0/en/prolium-bioscience-announces-first-patient-dosed-in-its-multinational-phase-1-2-study-of-pro-203-in-systemic-sclerosis-and-last-patient-last-visit-in-an-investigator-led-study-of-p.html"
         },
         {
-          "text": "Johnson & Johnson — TALVEY (talquetamab) + daratumumab — Relapsed/Refractory Multiple Myeloma — Phase 3 MonumenTAL-3 met primary endpoint: 72% reduction in progression/death risk; 24-month PFS 81.3% vs 51.2% standard; OS 89.2% vs 79.1% standard.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314021/0/de/neue-daten-zu-talvey-talquetamab-in-kombination-mit-daratumumab-belegen-das-potenzial-einer-neuartigen-bispezifischen-kombinationsbehandlung-bei-rezidiviertem-oder-refrakt%c3%a4rem-mult.html"
+          "text": "Prolium Bioscience — PRO-203 — Refractory Lupus Nephritis — Last patient, last visit completed in 26-week investigator-led study; PRO-203 is a CD20xCD3 bispecific T-cell engager.",
+          "url": "https://globenewswire.com/news-release/2026/06/22/3315254/0/en/prolium-bioscience-announces-first-patient-dosed-in-its-multinational-phase-1-2-study-of-pro-203-in-systemic-sclerosis-and-last-patient-last-visit-in-an-investigator-led-study-of-p.html"
         },
         {
-          "text": "Genmab A/S — Bispecific antibody platform — General oncology/serious diseases — Confirmed advancement of a broad range of antibody-based therapeutic formats including bispecific antibodies as part of its 25-year strategic focus on innovative antibody medicines.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312970/0/en/capital-increase-in-genmab-as-a-result-of-employee-warrant-exercise.html"
+          "text": "China Medical System — Silevimig — Rabies passive immunization — Approved as Class 1 innovative drug in China; identified as the world's first bispecific antibody for this indication.",
+          "url": "https://globenewswire.com/news-release/2026/06/22/3315186/0/en/cms-class-1-innovative-drug-silevimig-injection-approved-in-china-becoming-the-world-s-first-bispecific-antibody-for-passive-immunization-against-rabies.html"
         },
         {
-          "text": "Memento Medicines — MMT-205 — Neovascular Age-Related Macular Degeneration / Diabetic Macular Edema — Secured $93M Series A financing and exclusive global license for Tie2 agonist/VEGF inhibitor bispecific antibody; IND-enabling studies underway, clinical trials planned for 2027.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314508/0/en/memento-medicines-launches-with-93-million-series-a-financing-to-advance-tie2-agonist-and-vegf-inhibitor-bispecific-antibody-therapy-for-retinal-diseases.html"
+          "text": "Antengene — ATG-106 — Solid Tumors — Licensed CDH6×CD3 bispecific T-cell engager to K2 Therapeutics; deal includes $20M upfront, ~$960.5M in milestones, and tiered royalties.",
+          "url": "https://pharmashots.com/34044/antengene-inks-1-96b-bispecific-t-cell-engager-deal-with-k2-therapeutics/"
         },
         {
-          "text": "NovaBridge Biosciences — Givastomig (TJ033721/ABL111) — HER2-negative, CLDN18.2-positive, PD-L1-positive gastroesophageal adenocarcinoma — FDA granted Fast Track designation; Phase 3 trial planned Q4 2026; Phase 1b ORR 77% (8 mg/kg) and 73% (12 mg/kg).",
-          "url": "https://cancernetwork.com/view/givastomig-earns-fda-fast-track-designation-in-her2-negative-gastric-cancer"
+          "text": "Antengene — Undisclosed bispecific TCE — Solid Tumors — Granted K2 Therapeutics option for exclusive global rights (excl. Greater China) with ~$20M option exercise fee and ~$960.5M in potential milestones.",
+          "url": "https://pharmashots.com/34044/antengene-inks-1-96b-bispecific-t-cell-engager-deal-with-k2-therapeutics/"
         },
         {
-          "text": "University of Virginia — HER2 BATs (anti-CD3 x anti-HER2 bispecific armed T-cells) — Metastatic breast cancer — Phase I/II trial completed; 35% stable disease rate; median OS 21.4 months; no dose-limiting toxicities observed.",
-          "url": "https://cancernetwork.com/view/64-a-phase-i-ii-study-of-pembrolizumab-and-anti-cd3-x-anti-her2-armed-activated-t-cells-in-metastatic-breast-cancer"
+          "text": "Epcoritamab-bysp — Diffuse Large B-Cell Lymphoma (DLBCL) — Phase 2 study (NCT06045247) evaluating epcoritamab-bysp plus R-miniCVP in elderly and frail patients with newly diagnosed DLBCL presented at ASCO 2026.",
+          "url": "https://cancernetwork.com/view/how-are-key-lymphoma-data-from-asco-and-eha-2026-shaping-treatment"
         },
         {
-          "text": "Genentech/Roche — Mosunetuzumab (Lunsumio VELO) — Follicular Lymphoma — Phase 1b/2 CO41942 study: SC CD20/CD3 bispecific + lenalidomide induction achieved 90% ORR and 88% CR with 87% 24-month PFS; no ICANS or grade 5 AEs reported.",
-          "url": "https://cancernetwork.com/view/elucidating-first-line-sc-mosunetuzumab-benefit-in-follicular-lymphoma"
-        },
-        {
-          "text": "UCB — Candid Therapeutics — Bispecific pipeline — $2.2 billion deal announced to acquire bispecific drug developer, expanding UCB's oncology portfolio.",
-          "url": "https://pharmavoice.com/news/biotech-market-rebounding-where-executive-jobs-drug/822860/"
+          "text": "Surovatamig (AZD0486) — Follicular Lymphoma — Phase 3 SOUNDTRACK-F1 trial (NCT06549595) initial safety run-in data for previously untreated patients presented at EHA 2026.",
+          "url": "https://cancernetwork.com/view/how-are-key-lymphoma-data-from-asco-and-eha-2026-shaping-treatment"
         }
       ]
     },
@@ -141,56 +97,36 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Jazz Pharmaceuticals — Expansion into solid tumor immunotherapy via multispecific antibody/T-cell engager platform — AbCellera partnership — $56M upfront; up to $1.6B+ potential value across three programs.",
-          "url": "https://biopharmadive.com/news/jazz-abcellera-t-cell-engager-multispecific-antibodies-deal/823125/"
+          "text": "Oxford BioTherapeutics — Proteomics-driven target discovery for bispecific T-cell engagers — Obrixtamig (DLL3-targeting) + BI 3820768 + BI 765049 — Three clinical programs active; collaboration with Boehringer Ingelheim expanded in 2020 and 2023.",
+          "url": "https://drug-dev.com/oxford-biotherapeutics-third-partnered-programme-with-boehringer-ingelheim-enters-the-clinic-and-its-first-obrixtamig-advances-to-phase-3/"
         },
         {
-          "text": "Johnson & Johnson — Label expansion for bispecific antibody Talvey — Teclistamab + Darzalex Faspro regimen — 53% mortality reduction in relapsed/refractory multiple myeloma; data presented June 15, 2026.",
-          "url": "https://biopharmadive.com/news/jj-multiple-myeloma-drug-talvey-earlier-stage-disease/822904/"
+          "text": "InduPro — Proximity-guided bispecific ADC development — Pipeline of bispecific antibody-drug conjugates — Secured Lonza licensing for GlycoConnect/HydraSpace to advance first-in-class therapeutics for hard-to-treat tumors.",
+          "url": "https://drug-dev.com/lonza-and-indupro-announce-licensing-agreement-to-advance-next-generation-adc-therapeutics/"
         },
         {
-          "text": "VERAXA Biotech — Commercialization of bispecific T-cell engagers and ADCs — BiTAC platform pipeline — Nasdaq-listed (VRXA) post-SPAC merger; $77.5M total capital raised to advance solid tumor programs.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314047/0/en/veraxa-biotech-establishes-in-vitro-proof-of-concept-for-novel-bitac-adc-technology-platform-and-launches-partnering-discussions-at-bio-international-convention-2026.html"
+          "text": "Prolium Bioscience — Advancing bispecific T-cell engager pipeline — PRO-203 (CD20xCD3) — Phase 1/2 in systemic sclerosis initiated; Phase 1 SAD study in healthy volunteers completed; investigator-led lupus nephritis study completed.",
+          "url": "https://globenewswire.com/news-release/2026/06/22/3315254/0/en/prolium-bioscience-announces-first-patient-dosed-in-its-multinational-phase-1-2-study-of-pro-203-in-systemic-sclerosis-and-last-patient-last-visit-in-an-investigator-led-study-of-p.html"
         },
         {
-          "text": "Johnson & Johnson — Bispecific antibody leadership in multiple myeloma — TALVEY (talquetamab) portfolio — Secured third consecutive positive Phase 3 data; advancing bispecific combinations into earlier treatment lines with MonumenTAL-3 results.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314021/0/de/neue-daten-zu-talvey-talquetamab-in-kombination-mit-daratumumab-belegen-das-potenzial-einer-neuartigen-bispezifischen-kombinationsbehandlung-bei-rezidiviertem-oder-refrakt%c3%a4rem-mult.html"
+          "text": "China Medical System — Commercializing first-in-class rabies bispecific — Silevimig — Regulatory approval secured in China for passive immunization; distinct from its siRNA pipeline program CMS-D008.",
+          "url": "https://globenewswire.com/news-release/2026/06/22/3315186/0/en/cms-class-1-innovative-drug-silevimig-injection-approved-in-china-becoming-the-world-s-first-bispecific-antibody-for-passive-immunization-against-rabies.html"
         },
         {
-          "text": "Genmab A/S — Bispecific antibody development — Broad pipeline including wholly owned programs — Maintains international presence across North America, Europe, and Asia Pacific with science powering eight approved antibody medicines and active late-stage clinical programs.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312970/0/en/capital-increase-in-genmab-as-a-result-of-employee-warrant-exercise.html"
+          "text": "Antengene — Bispecific T-cell engager commercialization — ATG-106 + undisclosed bispecific TCE — Secured ~$1.96B deal with K2 Therapeutics; ATG-106 is preclinical CDH6×CD3 bispecific for solid tumors.",
+          "url": "https://pharmashots.com/34044/antengene-inks-1-96b-bispecific-t-cell-engager-deal-with-k2-therapeutics/"
         },
         {
-          "text": "Jazz Pharmaceuticals — Expansion into solid tumor T-cell engagers — Multispecific antibody programs via AbCellera — $56M upfront; potential $4B total deal value; focus on next-gen bispecific/multispecific formats.",
-          "url": "https://biopharmadive.com/news/jazz-abcellera-t-cell-engager-multispecific-antibodies-deal/823125/"
+          "text": "K2 Therapeutics — Acquisition of bispecific T-cell engager assets — ATG-106 + option on second bispecific — Paid $20M upfront plus equity stake; holds global rights (excl. Greater China) for development and commercialization.",
+          "url": "https://pharmashots.com/34044/antengene-inks-1-96b-bispecific-t-cell-engager-deal-with-k2-therapeutics/"
         },
         {
-          "text": "AbCellera — Discovery platform for multispecific T-cell engagers — Partnership with Jazz Pharmaceuticals — $56M upfront; $28M trigger for third program; up to $792M per program in milestones.",
-          "url": "https://biopharmadive.com/news/jazz-abcellera-t-cell-engager-multispecific-antibodies-deal/823125/"
+          "text": "AbbVie / Genmab — Bispecific antibody strategy — Epcoritamab-bysp (Epkinly) — Advancing chemotherapy-free frontline treatment in follicular lymphoma and DLBCL via Phase 2 and Phase 3 programs.",
+          "url": "https://cancernetwork.com/view/how-are-key-lymphoma-data-from-asco-and-eha-2026-shaping-treatment"
         },
         {
-          "text": "Memento Medicines — Retinal disease biologic therapy development — MMT-205 (Tie2/VEGF bispecific) — $93M Series A raised; exclusive license from MabTics/Curacle; Memento is fifth Sera Medicines subsidiary.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314508/0/en/memento-medicines-launches-with-93-million-series-a-financing-to-advance-tie2-agonist-and-vegf-inhibitor-bispecific-antibody-therapy-for-retinal-diseases.html"
-        },
-        {
-          "text": "MabTics Co., Ltd. / Curacle Co., Ltd. — Bispecific antibody licensing — MMT-205 — Received upfront cash and equity from Memento Medicines; eligible for development, regulatory, and commercial milestones plus tiered royalties.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314508/0/en/memento-medicines-launches-with-93-million-series-a-financing-to-advance-tie2-agonist-and-vegf-inhibitor-bispecific-antibody-therapy-for-retinal-diseases.html"
-        },
-        {
-          "text": "NovaBridge Biosciences — Development of first-in-class CLDN18.2 x 4-1BB bispecific antibody — Givastomig (TJ033721/ABL111) — FDA Fast Track designation secured; Phase 3 initiation planned Q4 2026; Phase 1b data supports robust efficacy in gastric cancer.",
-          "url": "https://cancernetwork.com/view/givastomig-earns-fda-fast-track-designation-in-her2-negative-gastric-cancer"
-        },
-        {
-          "text": "University of Virginia — Clinical evaluation of bispecific antibody-armed T-cell therapy — HER2 BATs (anti-CD3 x anti-HER2) — Phase I/II study in metastatic breast cancer demonstrated safety and stable disease in 35% of patients.",
-          "url": "https://cancernetwork.com/view/64-a-phase-i-ii-study-of-pembrolizumab-and-anti-cd3-x-anti-her2-armed-activated-t-cells-in-metastatic-breast-cancer"
-        },
-        {
-          "text": "Candid Therapeutics — Bispecific drug development — Oncology bispecific pipeline — Acquired by UCB in a deal valued up to $2.2 billion.",
-          "url": "https://pharmavoice.com/news/biotech-market-rebounding-where-executive-jobs-drug/822860/"
-        },
-        {
-          "text": "Genentech/Roche — CD20/CD3 bispecific commercialization — Mosunetuzumab — Phase 3 MorningLyte trial initiated to compare SC mosunetuzumab + lenalidomide vs standard immunochemotherapy in first-line follicular lymphoma.",
-          "url": "https://cancernetwork.com/view/elucidating-first-line-sc-mosunetuzumab-benefit-in-follicular-lymphoma"
+          "text": "AstraZeneca — Bispecific antibody development — Surovatamig (AZD0486) — Phase 3 SOUNDTRACK-F1 trial ongoing for previously untreated follicular lymphoma.",
+          "url": "https://cancernetwork.com/view/how-are-key-lymphoma-data-from-asco-and-eha-2026-shaping-treatment"
         }
       ]
     },
@@ -198,44 +134,32 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "Talvey (teclistamab) — Mechanism: Bispecific T-cell engager (BCMA x CD3) — Phase: Late-stage/Label expansion study — Population: Relapsed/refractory multiple myeloma — Comparator: Standard of care — Results: 53% reduction in death risk; 72% reduction in progression/death risk at 2 years.",
-          "url": "https://biopharmadive.com/news/jj-multiple-myeloma-drug-talvey-earlier-stage-disease/822904/"
+          "text": "Obrixtamig (OBT620) — Mechanism: DLL3-targeting bispecific T-cell engager — Phase: 3 — Population: Previously untreated extensive-stage small cell lung cancer and DLL3-positive extrapulmonary neuroendocrine carcinoma — Comparator: Chemotherapy ± atezolizumab — Status: First patients dosed in DAREON®-Lung-1 and DAREON-NEC-1 trials.",
+          "url": "https://drug-dev.com/oxford-biotherapeutics-third-partnered-programme-with-boehringer-ingelheim-enters-the-clinic-and-its-first-obrixtamig-advances-to-phase-3/"
         },
         {
-          "text": "BiTAC platform — Mechanism: Bispecific T-cell engager (TCE) with AND-gated dual-antigen targeting for conditional activation — Phase: Preclinical (in vitro proof-of-concept) — Population: Solid tumors with non-exclusive cancer markers — Results: Demonstrated ability to target cancer cells precisely while sparing healthy cells.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314047/0/en/veraxa-biotech-establishes-in-vitro-proof-of-concept-for-novel-bitac-adc-technology-platform-and-launches-partnering-discussions-at-bio-international-convention-2026.html"
+          "text": "InduPro bispecific ADCs — Mechanism: Proximity-guided bispecific antibody-drug conjugates targeting up to two oncology antigens — Phase: Preclinical/Early development — Population: Hard-to-treat tumors — Technology: Integration of InduPro's co-target pair identification with Lonza's GlycoConnect and HydraSpace platforms.",
+          "url": "https://drug-dev.com/lonza-and-indupro-announce-licensing-agreement-to-advance-next-generation-adc-therapeutics/"
         },
         {
-          "text": "TALVEY (talquetamab) — Mechanism: Bispecific anti-GPRC5D antibody — Phase: 3 (MonumenTAL-3) — Population: Relapsed/refractory multiple myeloma (earlier lines) — Comparator: Daratumumab + pomalidomide + dexamethasone — Results: 72% risk reduction in progression/death; 81.3% PFS at 24 months vs 51.2%.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314021/0/de/neue-daten-zu-talvey-talquetamab-in-kombination-mit-daratumumab-belegen-das-potenzial-einer-neuartigen-bispezifischen-kombinationsbehandlung-bei-rezidiviertem-oder-refrakt%c3%a4rem-mult.html"
+          "text": "PRO-203 — Mechanism: CD20xCD3 T-cell engager (bispecific) forming immunological synapse to redirect T-cells to CD20+ B-cells via TDCC — Phase: 1/2 — Population: Systemic sclerosis and refractory lupus nephritis — Comparator: None stated (open-label) — Status: First patient dosed in SSc; LPLV in LN study.",
+          "url": "https://globenewswire.com/news-release/2026/06/22/3315254/0/en/prolium-bioscience-announces-first-patient-dosed-in-its-multinational-phase-1-2-study-of-pro-203-in-systemic-sclerosis-and-last-patient-last-visit-in-an-investigator-led-study-of-p.html"
         },
         {
-          "text": "Talquetamab — Mechanism: Bispecific GPRC5D-targeting antibody — Phase: 3 (MonumenTAL-3) — Population: Relapsed/refractory multiple myeloma in earlier treatment lines — Comparator: Daratumumab, pomalidomid, dexamethason (DPd) — Results: 81.3% PFS at 24 months vs 51.2%; 89.2% OS vs 79.1%; 72% risk reduction in progression/death.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314019/0/es/los-nuevos-datos-sobre-talvey-talquetamab-m%c3%a1s-daratumumab-demuestran-el-potencial-de-una-innovadora-combinaci%c3%b3n-biespec%c3%adfica-en-l%c3%adneas-de-tratamiento-tempranas-del-mieloma-m%c3%baltiple.html"
+          "text": "Silevimig — Mechanism: Bispecific antibody for passive immunization — Phase: Approved (Class 1) — Population: Rabies exposure prophylaxis — Status: First-in-class approval in China.",
+          "url": "https://globenewswire.com/news-release/2026/06/22/3315186/0/en/cms-class-1-innovative-drug-silevimig-injection-approved-in-china-becoming-the-world-s-first-bispecific-antibody-for-passive-immunization-against-rabies.html"
         },
         {
-          "text": "Genmab A/S pipeline — Mechanism: Bispecific antibody format — Phase: Late-stage clinical — Population: Cancer and serious diseases — Status: Advancing wholly owned programs with goal of delivering transformative medicines; specific trial data not detailed in source.",
-          "url": "https://globenewswire.com/news-release/2026/06/16/3312970/0/en/capital-increase-in-genmab-as-a-result-of-employee-warrant-exercise.html"
+          "text": "ATG-106 — Mechanism: CDH6×CD3 bispecific T-cell engager — Phase: Preclinical — Population: Solid tumors — Target: CDH6 antigen on tumor cells and CD3 on T-cells — Status: Licensed for global development.",
+          "url": "https://pharmashots.com/34044/antengene-inks-1-96b-bispecific-t-cell-engager-deal-with-k2-therapeutics/"
         },
         {
-          "text": "T-cell engagers (multispecific antibodies) — Mechanism: Redirect T-cells to solid tumor antigens — Phase: Preclinical/discovery — Population: Solid tumor indications — Status: Early-stage research initiated under Jazz/AbCellera deal; aims to overcome limited success in solid tumors.",
-          "url": "https://biopharmadive.com/news/jazz-abcellera-t-cell-engager-multispecific-antibodies-deal/823125/"
+          "text": "Epcoritamab-bysp — Mechanism: CD3xCD20 bispecific antibody — Phase: 2 — Population: Elderly and frail patients with newly diagnosed DLBCL — Regimen: Epcoritamab-bysp + R-miniCVP — Context: Presented at ASCO 2026.",
+          "url": "https://cancernetwork.com/view/how-are-key-lymphoma-data-from-asco-and-eha-2026-shaping-treatment"
         },
         {
-          "text": "MMT-205 — Mechanism: Tie2 receptor agonism combined with VEGF inhibition — Phase: Preclinical/IND-enabling — Population: Retinal vascular disease (nAMD, DME) — Comparator: Anti-VEGF monotherapies — Results: Preclinical models show greater Tie2 activation and improved retinal vasculature integrity vs current therapies.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314508/0/en/memento-medicines-launches-with-93-million-series-a-financing-to-advance-tie2-agonist-and-vegf-inhibitor-bispecific-antibody-therapy-for-retinal-diseases.html"
-        },
-        {
-          "text": "Givastomig — Mechanism: CLDN18.2 x 4-1BB bispecific antibody — Phase: 1b (expansion) — Population: First-line HER2-negative, CLDN18.2-positive, PD-L1-positive metastatic gastric cancer — Comparator: Historical benchmarks — Results: ORR 77% (8 mg/kg), median PFS 16.9 months (8 mg/kg).",
-          "url": "https://cancernetwork.com/view/givastomig-earns-fda-fast-track-designation-in-her2-negative-gastric-cancer"
-        },
-        {
-          "text": "HER2 BATs — Mechanism: Activated T-cells armed with anti-CD3 x anti-HER2 bispecific antibodies — Phase: 1/2 — Population: Metastatic breast cancer (any HER2 status, ≥2 prior lines) — Comparator: None (single arm) — Results: 35% stable disease, median OS 21.4 months, no dose-limiting toxicities.",
-          "url": "https://cancernetwork.com/view/64-a-phase-i-ii-study-of-pembrolizumab-and-anti-cd3-x-anti-her2-armed-activated-t-cells-in-metastatic-breast-cancer"
-        },
-        {
-          "text": "Mosunetuzumab — Mechanism: CD20×CD3 bispecific antibody — Phase: 1b/2 (CO41942) — Population: First-line follicular lymphoma with high tumor burden — Comparator: Historical GALLIUM study data — Results: 90% ORR, 88% CR, 87% 24-month PFS; manageable safety with low-grade CRS, no ICANS.",
-          "url": "https://cancernetwork.com/view/elucidating-first-line-sc-mosunetuzumab-benefit-in-follicular-lymphoma"
+          "text": "Surovatamig (AZD0486) — Mechanism: Bispecific antibody — Phase: 3 — Population: Previously untreated follicular lymphoma — Context: Initial safety run-in data presented at EHA 2026.",
+          "url": "https://cancernetwork.com/view/how-are-key-lymphoma-data-from-asco-and-eha-2026-shaping-treatment"
         }
       ]
     },
@@ -243,28 +167,16 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Jazz Pharmaceuticals / AbCellera — Strategic collaboration for multispecific antibody discovery — Two initial programs + one optional third — $56M upfront; $28M option trigger; up to $792M per program in development/regulatory milestones.",
-          "url": "https://biopharmadive.com/news/jazz-abcellera-t-cell-engager-multispecific-antibodies-deal/823125/"
+          "text": "Oxford BioTherapeutics — Boehringer Ingelheim collaboration — BI 3820768 program — Triggered milestone payment upon first-patient dosing; partnership includes three clinical programs and one optioned target as of January 2025.",
+          "url": "https://drug-dev.com/oxford-biotherapeutics-third-partnered-programme-with-boehringer-ingelheim-enters-the-clinic-and-its-first-obrixtamig-advances-to-phase-3/"
         },
         {
-          "text": "VERAXA Biotech / Voyager Acquisition Corp — Business Combination — Nasdaq listing (VRXA) — Closed merger transaction; shareholders approved on March 12, 2026, with trading commencing June 11, 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314047/0/en/veraxa-biotech-establishes-in-vitro-proof-of-concept-for-novel-bitac-adc-technology-platform-and-launches-partnering-discussions-at-bio-international-convention-2026.html"
+          "text": "Lonza / InduPro — Licensing agreement — Bispecific ADC technologies — InduPro granted non-exclusive worldwide license to Lonza's GlycoConnect, HydraSpace, and linker-payload technologies to advance bispecific ADC pipeline.",
+          "url": "https://drug-dev.com/lonza-and-indupro-announce-licensing-agreement-to-advance-next-generation-adc-therapeutics/"
         },
         {
-          "text": "VERAXA Biotech — Capital raise — BiTAC pipeline — Secured $27.5M senior secured note financing and $50M share purchase agreement to fund bispecific TCE and ADC development.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314047/0/en/veraxa-biotech-establishes-in-vitro-proof-of-concept-for-novel-bitac-adc-technology-platform-and-launches-partnering-discussions-at-bio-international-convention-2026.html"
-        },
-        {
-          "text": "Memento Medicines — $93M Series A financing — Co-led by Forbion, RA Capital Management, Avego BioScience Capital; participation by Sanofi Ventures and Samsara BioCapital to fund MMT-205 development.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314508/0/en/memento-medicines-launches-with-93-million-series-a-financing-to-advance-tie2-agonist-and-vegf-inhibitor-bispecific-antibody-therapy-for-retinal-diseases.html"
-        },
-        {
-          "text": "Memento Medicines / MabTics & Curacle — Exclusive license agreement — MMT-205 — Worldwide rights transferred; deal includes upfront cash/equity plus future milestones and tiered royalties on net sales.",
-          "url": "https://globenewswire.com/news-release/2026/06/18/3314508/0/en/memento-medicines-launches-with-93-million-series-a-financing-to-advance-tie2-agonist-and-vegf-inhibitor-bispecific-antibody-therapy-for-retinal-diseases.html"
-        },
-        {
-          "text": "UCB / Candid Therapeutics — Acquisition — Bispecific oncology assets — Deal value up to $2.2 billion announced to secure Candid's bispecific drug development capabilities.",
-          "url": "https://pharmavoice.com/news/biotech-market-rebounding-where-executive-jobs-drug/822860/"
+          "text": "Antengene / K2 Therapeutics — ~$1.96B licensing deal — ATG-106 (CDH6×CD3 bispecific) + option on second bispecific — $20M upfront + minority equity stake + ~$960.5M in milestones + tiered royalties.",
+          "url": "https://pharmashots.com/34044/antengene-inks-1-96b-bispecific-t-cell-engager-deal-with-k2-therapeutics/"
         }
       ]
     }
