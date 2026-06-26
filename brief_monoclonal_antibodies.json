@@ -1,66 +1,42 @@
 {
   "query": "monoclonal",
-  "generated_at": "2026-06-22 11:09:25",
-  "article_count": 50,
+  "generated_at": "2026-06-26 09:30:11",
+  "article_count": 56,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Mabion S.A. reactivated its MabionCD20 monoclonal antibody program through a collaboration with Oddifact SAS to advance the asset for rare disease indications, leveraging its status as a biosimilar to Rituxan.",
-          "url": "https://drug-dev.com/mabion-reactivates-mabioncd20-through-rare-disease-collaboration-with-oddifact/"
+          "text": "Tiziana Life Sciences dosed the last patient in its Phase 2 INFORM-MS trial for foralumab, a fully human anti-CD3 monoclonal antibody, targeting non-active secondary progressive multiple sclerosis (na-SPMS).",
+          "url": "https://globenewswire.com/news-release/2026/06/25/3317416/0/en/tiziana-announces-last-patient-successfully-dosed-in-its-phase-2-inform-ms-trial.html"
         },
         {
-          "text": "MoonLake Immunotherapeutics aligned with the FDA on submission plans for sonelokimab, a Nanobody® (single-domain antibody), for hidradenitis suppurativa, with BLA submission planned for end-September 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/21/3314997/0/en/moonlake-announces-week-52-results-of-sonelokimab-from-its-phase-3-vela-program-in-hidradenitis-suppurativa-and-confirms-investor-day-on-june-22-2026.html"
+          "text": "Foralumab is the only fully human anti-CD3 monoclonal antibody currently in clinical development, utilizing an intranasal delivery route to stimulate T regulatory cells.",
+          "url": "https://globenewswire.com/news-release/2026/06/25/3317416/0/en/tiziana-announces-last-patient-successfully-dosed-in-its-phase-2-inform-ms-trial.html"
         },
         {
-          "text": "MabionCD20, a CD20-targeting monoclonal antibody, has secured two FDA Orphan Drug Designations for membranous nephropathy and autoimmune hemolytic anemia to support its repositioning strategy.",
-          "url": "https://drug-dev.com/mabion-reactivates-mabioncd20-through-rare-disease-collaboration-with-oddifact/"
+          "text": "An open-label Expanded Access Program (NCT06802328) for intranasal foralumab dosed 14 patients with na-SPMS, showing disease improvement or stability within 6 months for all participants.",
+          "url": "https://globenewswire.com/news-release/2026/06/25/3317416/0/en/tiziana-announces-last-patient-successfully-dosed-in-its-phase-2-inform-ms-trial.html"
         },
         {
-          "text": "MoonLake's sonelokimab Phase 3 VELA program reported Week 52 data in hidradenitis suppurativa, with the MIRA trial showing a ~43% HiSCR75 response and ~29 percentage point delta-to-placebo at Week 12.",
-          "url": "https://globenewswire.com/news-release/2026/06/21/3314997/0/en/moonlake-announces-week-52-results-of-sonelokimab-from-its-phase-3-vela-program-in-hidradenitis-suppurativa-and-confirms-investor-day-on-june-22-2026.html"
+          "text": "RQ Bio secured $115 million (£85.5 million) in Series A financing led by Frazier Life Sciences to advance RQB01, a long-acting antibody program for full-season influenza prevention.",
+          "url": "https://globenewswire.com/news-release/2026/06/24/3316603/0/en/rq-bio-announces-115-million-85-5-million-series-a-financing-to-advance-long-acting-antibody-programme-rqb01-for-full-season-influenza-prevention.html"
         },
         {
-          "text": "Zenas BioPharma is advancing obexelimab, a bifunctional monoclonal antibody targeting CD19 and FcγRIIb to inhibit B cell activity in autoimmune diseases without depletion.",
-          "url": "https://globenewswire.com/news-release/2026/06/17/3313812/0/en/zenas-biopharma-announces-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+          "text": "Artiva Biotherapeutics presented EULAR 2026 data for AlloNK (AB-101), an allogeneic NK cell therapy, in combination with rituximab (a monoclonal antibody) for refractory rheumatoid arthritis.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3316418/0/en/artiva-biotherapeutics-to-participate-in-the-h-c-wainwright-4th-annual-cell-therapy-virtual-conference.html"
         },
         {
-          "text": "Connect Biopharma completed enrollment in the Phase 2 Seabreeze STAT asthma study evaluating rademikibart, a next-generation antibody targeting IL-4Rα for acute exacerbations.",
-          "url": "https://globenewswire.com/news-release/2026/06/17/3313482/0/en/connect-biopharma-announces-completion-of-enrollment-of-phase-2-seabreeze-stat-asthma-study-evaluating-rademikibart-for-the-treatment-of-acute-exacerbations-in-asthma.html"
+          "text": "Coherus Oncology reported Q1 2026 net revenue of $11.8 million for LOQTORZI (toripalimab-tpzi), a PD-1 monoclonal antibody, representing a 61% year-over-year increase.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3316369/33333/en/coherus-and-zumutor-biologics-announce-clinical-collaboration-to-evaluate-zm008-in-combination-with-loqtorzi-toripalimab-tpzi.html"
         },
         {
-          "text": "Zenas BioPharma includes ZB014, a preclinical half-life extended anti-CD19 and FcγRIIb monoclonal antibody, in its earlier stage pipeline.",
-          "url": "https://globenewswire.com/news-release/2026/06/17/3313812/0/en/zenas-biopharma-announces-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+          "text": "DelveInsight's IgA Nephropathy Pipeline Insight 2026 identifies 25+ companies developing 30+ drugs, including monoclonal antibodies Zigakibart, Felzartamab, and NM8074 (Ruxoprubart).",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3316330/0/en/acute-kidney-injury-clinical-trial-pipeline-appears-robust-with-20-key-pharma-companies-actively-working-in-the-therapeutics-segment-delveinsight.html"
         },
         {
-          "text": "Connect Biopharma expects to report topline data from the Seabreeze STAT asthma study evaluating rademikibart in early September 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/17/3313482/0/en/connect-biopharma-announces-completion-of-enrollment-of-phase-2-seabreeze-stat-asthma-study-evaluating-rademikibart-for-the-treatment-of-acute-exacerbations-in-asthma.html"
-        },
-        {
-          "text": "Rezolute — Ersodetug (RZ358) — Congenital Hyperinsulinism — Presented top-line results from the global, randomized, double-blind, placebo-controlled Phase 3 sunRIZE study at the Endocrine Society Annual Meeting; described as an insulin receptor modulating antibody.",
-          "url": "https://globenewswire.com/news-release/2026/06/17/3313313/0/en/rezolute-highlights-results-presented-from-natural-history-outcomes-studies-and-its-ersodetug-clinical-program-in-hyperinsulinism-at-annual-meeting-of-the-endocrine-society.html"
-        },
-        {
-          "text": "Lundbeck's eptinezumab (Vyepti), a CGRP-targeted monoclonal antibody, demonstrated real-world improvements in cognitive symptoms (brain fog) after 12 months in migraine patients who failed prior CGRP therapies.",
-          "url": "https://www.healio.com/news/neurology/20260618/cognitive-symptoms-improve-in-migraine-with-eptinezumab"
-        },
-        {
-          "text": "Genentech/Roche's astegolimab, a human IgG2 monoclonal antibody blocking ST2-mediated IL-33 activity, significantly reduced annualized moderate/severe exacerbation rates in COPD patients regardless of eosinophil count or smoking status.",
-          "url": "https://www.healio.com/news/pulmonology/20260617/pooled-analysis-shows-moderatesevere-exacerbation-rate-reduction-with-astegolimab-in-copd"
-        },
-        {
-          "text": "Kyowa Kirin — Burosumab-twza (Crysvita) — X-linked hypophosphatemia — Monoclonal anti-fibroblast growth factor 23 antibody demonstrated superior improvements in pain, stiffness, and physical function over active vitamin D and phosphate salts in a 3-year prospective observational study (ENDO 2026).",
-          "url": "https://www.healio.com/news/endocrinology/20260616/burosumab-improves-physical-function-reduces-pain-in-xlinked-hypophosphatemia"
-        },
-        {
-          "text": "Biogen — RayThera acquisition — Immunology pipeline — $1B deal to acquire undisclosed immune drug candidates, including one anti-inflammatory program expected to enter clinical trials in Q3 2026.",
-          "url": "https://biopharmadive.com/news/biogen-raythera-deal-acquire-immune-drugs/823241/"
-        },
-        {
-          "text": "Sanofi — Sarclisa (isatuximab) — Multiple Myeloma — Subcutaneous formulation approved in Japan for patients with multiple myeloma.",
-          "url": "https://globenewswire.com/news-release/2026/06/19/3314694/0/en/press-release-sanofi-s-sarclisa-subcutaneous-formulation-approved-in-japan-for-patients-with-multiple-myeloma.html"
+          "text": "Merck received FDA approval for Keytruda (pembrolizumab) and Keytruda Qlex in combination with Trodelvy (sacituzumab govitecan) as first-line treatment for PD-L1+ (CPS ≥10) advanced triple-negative breast cancer.",
+          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186745&sid=2"
         },
         {
           "text": "Chugai Pharma's Avastin (bevacizumab), a monoclonal antibody, received approval in Japan for an additional indication.",
@@ -71,8 +47,36 @@
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186638&sid=2"
         },
         {
-          "text": "Inovio Pharmaceuticals — AK117 (anti-CD47 monoclonal antibody) — Previously untreated acute myeloid leukemia (AML) — Phase 2 trial presented at EHA 2026 showed 80.0% overall response rate vs 66.7% placebo when combined with azacitidine/venetoclax.",
-          "url": "https://cancernetwork.com/view/cd47-antibody-combo-shows-meaningful-activity-in-previously-untreated-aml"
+          "text": "TrueLab granted Bionyra exclusive worldwide rights (excluding Greater China) to TL-001, an anti-TL1A monoclonal antibody, and TL-003, a TL1A × IL-23p19 bispecific antibody, in a deal valued at ~$985M.",
+          "url": "https://pharmashots.com/34039/truelab-inks-985m-deal-with-bionyra-to-advance-two-immune-mediated-inflammatory-disease-therapies/"
+        },
+        {
+          "text": "AbbVie entered a definitive agreement to acquire Apogee Therapeutics for ~$10.9B ($135.11/share), adding the late-stage half-life-extended monoclonal antibody zumilokibart (APG777) targeting IL-13 for atopic dermatitis.",
+          "url": "https://pharmashots.com/34012/abbvie-to-acquire-apogee-therapeutics-for-10-9b/"
+        },
+        {
+          "text": "TrueLab will receive a single-digit equity stake in Bionyra following Bionyra's $165M Series A financing co-led by Jeito Capital and Sofinnova Partners.",
+          "url": "https://pharmashots.com/34039/truelab-inks-985m-deal-with-bionyra-to-advance-two-immune-mediated-inflammatory-disease-therapies/"
+        },
+        {
+          "text": "Apogee Therapeutics' pipeline includes APG273, a combination of the monoclonal antibody zumilokibart and APG333 (anti-TSLP mAb), developed for asthma.",
+          "url": "https://pharmashots.com/34012/abbvie-to-acquire-apogee-therapeutics-for-10-9b/"
+        },
+        {
+          "text": "MappBio — MBP-134 — Bundibugyo ebolavirus — Monoclonal antibody selected for Phase 2/3 clinical trial in Democratic Republic of the Congo to assess efficacy against fast-growing outbreak with 1,118 confirmed cases.",
+          "url": "https://statnews.com/2026/06/24/ebola-treatment-trials-gilead-remdesivir-mappbio-mbp-134/"
+        },
+        {
+          "text": "Rutgers Cancer Institute highlighted phase 3 frontMIND trial results for tafasitamab (Monjuvi), a CD19-directed monoclonal antibody, combined with lenalidomide and R-CHOP in newly diagnosed high-risk diffuse large B-cell lymphoma (DLBCL).",
+          "url": "https://cancernetwork.com/view/how-are-key-lymphoma-data-from-asco-and-eha-2026-shaping-treatment"
+        },
+        {
+          "text": "EHA 2026 presented phase 3 SOUNDTRACK-F1 trial safety run-in data for surovatamig (AZD0486), a bispecific antibody targeting CD20 and CD3, in previously untreated follicular lymphoma.",
+          "url": "https://cancernetwork.com/view/how-are-key-lymphoma-data-from-asco-and-eha-2026-shaping-treatment"
+        },
+        {
+          "text": "ASCO 2026 featured phase 2 study data for epcoritamab-bysp (Epkinly), a CD20xCD3 bispecific antibody, combined with R-miniCVP in elderly and frail patients with newly diagnosed DLBCL.",
+          "url": "https://cancernetwork.com/view/how-are-key-lymphoma-data-from-asco-and-eha-2026-shaping-treatment"
         }
       ]
     },
@@ -80,64 +84,64 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Mabion S.A. — MabionCD20 — Rare Diseases (Membranous Nephropathy, Autoimmune Hemolytic Anemia) — Signed LoI with Oddifact SAS to reposition CD20 monoclonal antibody; asset holds two FDA Orphan Drug Designations and completed Phase III in original indications.",
-          "url": "https://drug-dev.com/mabion-reactivates-mabioncd20-through-rare-disease-collaboration-with-oddifact/"
+          "text": "Tiziana Life Sciences — Foralumab — Non-active Secondary Progressive Multiple Sclerosis — Phase 2 INFORM- trial completed dosing; intranasal fully human anti-CD3 monoclonal antibody stimulates T regulatory cells.",
+          "url": "https://globenewswire.com/news-release/2026/06/25/3317416/0/en/tiziana-announces-last-patient-successfully-dosed-in-its-phase-2-inform-ms-trial.html"
         },
         {
-          "text": "MoonLake Immunotherapeutics — Sonelokimab — Hidradenitis Suppurativa — Final pre-BLA meeting with FDA completed; BLA submission planned end-September 2026; label expected to include adolescent data from VELA-TEEN and Week 12 HiSCR75 of ~43%.",
-          "url": "https://globenewswire.com/news-release/2026/06/21/3314997/0/en/moonlake-announces-week-52-results-of-sonelokimab-from-its-phase-3-vela-program-in-hidradenitis-suppurativa-and-confirms-investor-day-on-june-22-2026.html"
+          "text": "RQ Bio — RQB01 — Full-season influenza prevention — $115M Series A financing completed; IND-enabling studies ongoing for dual-mechanism long-acting antibody targeting conserved epitopes.",
+          "url": "https://globenewswire.com/news-release/2026/06/24/3316603/0/en/rq-bio-announces-115-million-85-5-million-series-a-financing-to-advance-long-acting-antibody-programme-rqb01-for-full-season-influenza-prevention.html"
         },
         {
-          "text": "Zenas BioPharma — Obexelimab — Autoimmune diseases — Bifunctional monoclonal antibody binding CD19 and FcγRIIb to inhibit pathogenic B cells without depletion; lead candidate advancing in clinical stage.",
-          "url": "https://globenewswire.com/news-release/2026/06/17/3313812/0/en/zenas-biopharma-announces-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+          "text": "Artiva Biotherapeutics — AlloNK + rituximab — Refractory Rheumatoid Arthritis — FDA granted RMAT designation; Phase 2a basket trial showed 71% ACR50 response at 6 months in 31 patients.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3316418/0/en/artiva-biotherapeutics-to-participate-in-the-h-c-wainwright-4th-annual-cell-therapy-virtual-conference.html"
         },
         {
-          "text": "Connect Biopharma — Rademikibart — Acute exacerbations in asthma — Phase 2 Seabreeze STAT study enrollment completed; topline data expected early September 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/17/3313482/0/en/connect-biopharma-announces-completion-of-enrollment-of-phase-2-seabreeze-stat-asthma-study-evaluating-rademikibart-for-the-treatment-of-acute-exacerbations-in-asthma.html"
+          "text": "Coherus Oncology / Zumutor Biologics — ZM008 + LOQTORZI (toripalimab-tpzi) — Combination therapy for oncology indications — Clinical collaboration announced to evaluate ZM008 with the anti-PD-1 monoclonal antibody toripalimab.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3316369/33333/en/coherus-and-zumutor-biologics-announce-clinical-collaboration-to-evaluate-zm008-in-combination-with-loqtorzi-toripalimab-tpzi.html"
         },
         {
-          "text": "Zenas BioPharma — ZB014 — Autoimmune diseases — Preclinical half-life extended anti-CD19 and FcγRIIb monoclonal antibody in development.",
-          "url": "https://globenewswire.com/news-release/2026/06/17/3313812/0/en/zenas-biopharma-announces-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+          "text": "Novartis / Vertex / Biogen / AstraZeneca / Roche — Zigakibart, Felzartamab, NM8074, ULTOMIRIS — IgA Nephropathy — Multiple monoclonal antibodies in active clinical development with 12+ candidates in late-stage trials.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3316330/0/en/acute-kidney-injury-clinical-trial-pipeline-appears-robust-with-20-key-pharma-companies-actively-working-in-the-therapeutics-segment-delveinsight.html"
         },
         {
-          "text": "Rezolute — Ersodetug (RZ358) — Congenital Hyperinsulinism — Phase 3 sunRIZE study top-line results presented at Endocrine Society Annual Meeting; program includes compassionate use case series for malignant insulin-secreting tumors.",
-          "url": "https://globenewswire.com/news-release/2026/06/17/3313313/0/en/rezolute-highlights-results-presented-from-natural-history-outcomes-studies-and-its-ersodetug-clinical-program-in-hyperinsulinism-at-annual-meeting-of-the-endocrine-society.html"
+          "text": "Merck — Keytruda (pembrolizumab) + Trodelvy (sacituzumab govitecan) — Advanced PD-L1+ (CPS ≥10) triple-negative breast cancer — FDA approved as first-line treatment regimen.",
+          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186745&sid=2"
         },
         {
-          "text": "Lundbeck — Eptinezumab (Vyepti) — Migraine (episodic/chronic) — Real-world INFUSE study (n=190) showed cognitive symptom improvement after 12 months in patients with 1+ failed prior CGRP-targeted therapy; only IV-administered CGRP mAb.",
-          "url": "https://www.healio.com/news/neurology/20260618/cognitive-symptoms-improve-in-migraine-with-eptinezumab"
-        },
-        {
-          "text": "Genentech/Roche — Astegolimab — COPD (frequent exacerbations) — Pooled analysis of Phase 2b ALIENTO and Phase 3 ARNASA trials (n=2,682) showed reduced moderate/severe exacerbation rates with 476 mg SC dose q2w/q4w vs placebo.",
-          "url": "https://www.healio.com/news/pulmonology/20260617/pooled-analysis-shows-moderatesevere-exacerbation-rate-reduction-with-astegolimab-in-copd"
-        },
-        {
-          "text": "Kyowa Kirin — Burosumab-twza (Crysvita) — X-linked hypophosphatemia — Monoclonal anti-FGF23 antibody showed greater improvement in all three Western Ontario and McMaster Universities Osteoarthritis Index domains (pain, stiffness, physical function) vs standard care in 54 patients over 3 years.",
-          "url": "https://www.healio.com/news/endocrinology/20260616/burosumab-improves-physical-function-reduces-pain-in-xlinked-hypophosphatemia"
-        },
-        {
-          "text": "Biogen — RayThera acquisition — Immunology — $1B total value deal (undisclosed upfront + milestones) to acquire portfolio of anti-inflammatory drug candidates, with one program targeting Q3 2026 clinical entry.",
-          "url": "https://biopharmadive.com/news/biogen-raythera-deal-acquire-immune-drugs/823241/"
-        },
-        {
-          "text": "MoonLake Immunotherapeutics — sonelokimab — Hidradenitis Suppurativa — Phase 3 VELA program Week 52 data released; FDA accepted MIRA trial data for substantial evidence of effectiveness; BLA submission targeted end of September 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/21/3314997/0/en/moonlake-announces-week-52-results-of-sonelokimab-from-its-phase-3-vela-program-in-hidradenitis-suppurativa-and-confirms-investor-day-on-june-22-2026.html"
-        },
-        {
-          "text": "Sanofi — Sarclisa (isatuximab) — Multiple Myeloma — Subcutaneous formulation received regulatory approval in Japan.",
-          "url": "https://globenewswire.com/news-release/2026/06/19/3314694/0/en/press-release-sanofi-s-sarclisa-subcutaneous-formulation-approved-in-japan-for-patients-with-multiple-myeloma.html"
-        },
-        {
-          "text": "Chugai Pharma — Avastin (bevacizumab) — Additional indication (Japan) — Regulatory approval granted for expanded use of the monoclonal antibody.",
+          "text": "Chugai Pharma — Avastin (bevacizumab) — Additional indication — Japan regulatory approval granted for expanded use of the monoclonal antibody.",
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186642&sid=2"
         },
         {
-          "text": "Rituxan (rituximab) — Nephrotic syndrome (Japan) — Regulatory approval granted for additional dosage regimen of the monoclonal antibody.",
+          "text": "Roche/Chugai — Rituxan (rituximab) — Nephrotic syndrome — Japan regulatory approval granted for additional dosage regimen of the monoclonal antibody.",
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186638&sid=2"
         },
         {
-          "text": "Inovio Pharmaceuticals — AK117 — Acute Myeloid Leukemia — Phase 2 data: 80.0% ORR (95% CI 61.4%-92.3%) vs 66.7% placebo; median OS not reached vs 8.3 months (HR 0.46); median DOR 10.4 months vs 5.6 months.",
-          "url": "https://cancernetwork.com/view/cd47-antibody-combo-shows-meaningful-activity-in-previously-untreated-aml"
+          "text": "TrueLab — TL-001 — Immune-mediated inflammatory diseases — Granted exclusive worldwide rights to Bionyra; asset is an anti-TL1A monoclonal antibody; deal value ~$985M including milestones and royalties.",
+          "url": "https://pharmashots.com/34039/truelab-inks-985m-deal-with-bionyra-to-advance-two-immune-mediated-inflammatory-disease-therapies/"
+        },
+        {
+          "text": "AbbVie — Zumilokibart (APG777) — Atopic dermatitis — Acquired Apogee Therapeutics for ~$10.9B; asset is a late-stage half-life-extended monoclonal antibody targeting IL-13; transaction expected to close Q3 2026.",
+          "url": "https://pharmashots.com/34012/abbvie-to-acquire-apogee-therapeutics-for-10-9b/"
+        },
+        {
+          "text": "Apogee Therapeutics — APG273 — Asthma — Combination therapy of zumilokibart (anti-IL-13 mAb) and APG333 (anti-TSLP mAb); included in AbbVie acquisition portfolio.",
+          "url": "https://pharmashots.com/34012/abbvie-to-acquire-apogee-therapeutics-for-10-9b/"
+        },
+        {
+          "text": "MappBio — MBP-134 — Bundibugyo ebolavirus — Monoclonal antibody entering clinical trial in DRC to evaluate efficacy against third-largest recorded Ebola outbreak with 1,118 confirmed cases.",
+          "url": "https://statnews.com/2026/06/24/ebola-treatment-trials-gilead-remdesivir-mappbio-mbp-134/"
+        },
+        {
+          "text": "Incyte / MorphoSys — tafasitamab (Monjuvi) — Diffuse Large B-Cell Lymphoma — Phase 3 frontMIND trial primary results presented at ASCO 2026 evaluating combination with lenalidomide and R-CHOP in newly diagnosed high-risk patients.",
+          "url": "https://cancernetwork.com/view/how-are-key-lymphoma-data-from-asco-and-eha-2026-shaping-treatment"
+        },
+        {
+          "text": "AstraZeneca — surovatamig (AZD0486) — Follicular Lymphoma — Phase 3 SOUNDTRACK-F1 trial initial safety run-in data presented at EHA 2026 in previously untreated patients.",
+          "url": "https://cancernetwork.com/view/how-are-key-lymphoma-data-from-asco-and-eha-2026-shaping-treatment"
+        },
+        {
+          "text": "Genmab — epcoritamab-bysp (Epkinly) — Diffuse Large B-Cell Lymphoma — Phase 2 study (NCT06045247) data presented at ASCO 2026 evaluating combination with R-miniCVP in elderly and frail patients.",
+          "url": "https://cancernetwork.com/view/how-are-key-lymphoma-data-from-asco-and-eha-2026-shaping-treatment"
         }
       ]
     },
@@ -145,44 +149,28 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Mabion S.A. — Rare disease asset reactivation — MabionCD20 (CD20 monoclonal antibody) — Leveraging Phase III data and manufacturing expertise to pursue orphan indications via AI-driven platform partnership with Oddifact.",
-          "url": "https://drug-dev.com/mabion-reactivates-mabioncd20-through-rare-disease-collaboration-with-oddifact/"
+          "text": "Tiziana Life Sciences — Intranasal immunotherapy commercialization — Foralumab (anti-CD3 mAb) — Phase 2 INFORM-MS trial completed; 14 patients in Expanded Access Program showed 100% disease stability or improvement.",
+          "url": "https://globenewswire.com/news-release/2026/06/25/3317416/0/en/tiziana-announces-last-patient-successfully-dosed-in-its-phase-2-inform-ms-trial.html"
         },
         {
-          "text": "MoonLake Immunotherapeutics — Commercialization of inflammatory therapies — Sonelokimab (Nanobody®) — $357.9M cash position as of Q1 2026; cash runway to end-2027; advancing BLA for HS and Phase 3 IZAR for Psoriatic Arthritis.",
-          "url": "https://globenewswire.com/news-release/2026/06/21/3314997/0/en/moonlake-announces-week-52-results-of-sonelokimab-from-its-phase-3-vela-program-in-hidradenitis-suppurativa-and-confirms-investor-day-on-june-22-2026.html"
+          "text": "RQ Bio — Long-acting antibody therapeutics development — RQB01 (influenza prophylaxis) — $115M Series A raised; IND-enabling studies in progress; Christian S. Schade appointed Executive Chairman.",
+          "url": "https://globenewswire.com/news-release/2026/06/24/3316603/0/en/rq-bio-announces-115-million-85-5-million-series-a-financing-to-advance-long-acting-antibody-programme-rqb01-for-full-season-influenza-prevention.html"
         },
         {
-          "text": "Zenas BioPharma — Clinical-stage autoimmune therapy development — Obexelimab (bifunctional mAb) + ZB014 (preclinical mAb) — Advancing two late-stage and preclinical monoclonal antibody programs targeting B cell lineage.",
-          "url": "https://globenewswire.com/news-release/2026/06/17/3313812/0/en/zenas-biopharma-announces-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+          "text": "Artiva Biotherapeutics — Cell therapy commercialization in autoimmune disease — AlloNK (AB-101) + rituximab — RMAT designation secured; Phase 2a data supports outpatient deep B-cell depletion strategy.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3316418/0/en/artiva-biotherapeutics-to-participate-in-the-h-c-wainwright-4th-annual-cell-therapy-virtual-conference.html"
         },
         {
-          "text": "Connect Biopharma — Transforming care for inflammatory diseases — Rademikibart (anti-IL-4Rα antibody) — Phase 2 Seabreeze STAT asthma study fully enrolled; exclusive license granted to Simcere for Greater China with up to $110M in milestones.",
-          "url": "https://globenewswire.com/news-release/2026/06/17/3313482/0/en/connect-biopharma-announces-completion-of-enrollment-of-phase-2-seabreeze-stat-asthma-study-evaluating-rademikibart-for-the-treatment-of-acute-exacerbations-in-asthma.html"
+          "text": "Coherus Oncology — Commercialization of PD-1 monoclonal antibody LOQTORZI — toripalimab-tpzi — Q1 2026 revenue $11.8M (+61% YoY); Phase 2 1L HCC trial with anti-IL27 casdozokitug fully enrolled.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3316369/33333/en/coherus-and-zumutor-biologics-announce-clinical-collaboration-to-evaluate-zm008-in-combination-with-loqtorzi-toripalimab-tpzi.html"
         },
         {
-          "text": "Rezolute — Late-stage ultra-rare disease development — Ersodetug (RZ358) — Advancing insulin receptor modulating antibody program in congenital and tumor-induced hyperinsulinism; presented Phase 3 sunRIZE data and compassionate use outcomes at ENDO 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/17/3313313/0/en/rezolute-highlights-results-presented-from-natural-history-outcomes-studies-and-its-ersodetug-clinical-program-in-hyperinsulinism-at-annual-meeting-of-the-endocrine-society.html"
+          "text": "AstraZeneca (Alexion) — Monoclonal antibody development for IgA Nephropathy — ULTOMIRIS (ravulizumab) — Listed among key pipeline therapies in DelveInsight's 2026 IgA Nephropathy report.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3316330/0/en/acute-kidney-injury-clinical-trial-pipeline-appears-robust-with-20-key-pharma-companies-actively-working-in-the-therapeutics-segment-delveinsight.html"
         },
         {
-          "text": "Lundbeck — Advancing IV monoclonal antibody therapy for migraine — Eptinezumab (Vyepti) — Real-world data confirms efficacy in cognitive domains for patients failing oral or subcutaneous CGRP mAbs.",
-          "url": "https://www.healio.com/news/neurology/20260618/cognitive-symptoms-improve-in-migraine-with-eptinezumab"
-        },
-        {
-          "text": "Genentech/Roche — Developing ST2/IL-33 pathway blockade for respiratory disease — Astegolimab (human IgG2 mAb) — Phase 3 ARNASA and Phase 2b ALIENTO pooled data supports benefit-risk profile in broad COPD population.",
-          "url": "https://www.healio.com/news/pulmonology/20260617/pooled-analysis-shows-moderatesevere-exacerbation-rate-reduction-with-astegolimab-in-copd"
-        },
-        {
-          "text": "Kyowa Kirin — Monoclonal antibody commercialization — Burosumab-twza (Crysvita) — FDA-approved first-line therapy for X-linked hypophosphatemia; real-world data confirms long-term functional benefits over conventional phosphate/vitamin D therapy.",
-          "url": "https://www.healio.com/news/endocrinology/20260616/burosumab-improves-physical-function-reduces-pain-in-xlinked-hypophosphatemia"
-        },
-        {
-          "text": "Biogen — Strategic immunology expansion — RayThera acquisition — $1B deal secures undisclosed anti-inflammatory pipeline; one candidate slated for Q3 2026 clinical initiation.",
-          "url": "https://biopharmadive.com/news/biogen-raythera-deal-acquire-immune-drugs/823241/"
-        },
-        {
-          "text": "Sanofi — R&D leadership transition — Sarclisa (isatuximab) — Appointed Paulo Fontoura as Global Head of R&D Pharma effective September 1, 2026; advancing pipeline including approved subcutaneous Sarclisa in Japan.",
-          "url": "https://globenewswire.com/news-release/2026/06/19/3314694/0/en/press-release-sanofi-s-sarclisa-subcutaneous-formulation-approved-in-japan-for-patients-with-multiple-myeloma.html"
+          "text": "Merck — Expansion of immuno-oncology portfolio in breast cancer — Keytruda (pembrolizumab) — FDA approval secured for combination with Trodelvy in PD-L1+ advanced TNBC.",
+          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186745&sid=2"
         },
         {
           "text": "Chugai Pharma — Monoclonal antibody portfolio expansion — Avastin (bevacizumab) — Secured additional indication approval in Japan.",
@@ -193,8 +181,36 @@
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186638&sid=2"
         },
         {
-          "text": "Inovio Pharmaceuticals — Advancing anti-CD47 monoclonal antibody pipeline — AK117 — Phase 2 trial in AML demonstrated durable remission and favorable survival trends with manageable safety profile.",
-          "url": "https://cancernetwork.com/view/cd47-antibody-combo-shows-meaningful-activity-in-previously-untreated-aml"
+          "text": "TrueLab — Strategic licensing of monoclonal antibody assets — TL-001 (anti-TL1A mAb) and TL-003 — Secured ~$985M deal with Bionyra; received single-digit equity stake in partner.",
+          "url": "https://pharmashots.com/34039/truelab-inks-985m-deal-with-bionyra-to-advance-two-immune-mediated-inflammatory-disease-therapies/"
+        },
+        {
+          "text": "Apogee Therapeutics — Acquisition by AbbVie — Zumilokibart (APG777) — Late-stage half-life-extended monoclonal antibody targeting IL-13 for atopic dermatitis; acquired for ~$10.9B.",
+          "url": "https://pharmashots.com/34012/abbvie-to-acquire-apogee-therapeutics-for-10-9b/"
+        },
+        {
+          "text": "AbbVie — Immunology portfolio expansion — Zumilokibart (APG777) — Acquired Apogee Therapeutics to integrate late-stage monoclonal antibody targeting IL-13; deal value ~$10.9B.",
+          "url": "https://pharmashots.com/34012/abbvie-to-acquire-apogee-therapeutics-for-10-9b/"
+        },
+        {
+          "text": "Bionyra — Commercialization of anti-TL1A therapies — TL-001 (monoclonal antibody) + TL-003 (bispecific) — Secured exclusive worldwide rights from TrueLab; raised $165M Series A led by Jeito Capital and Sofinnova Partners.",
+          "url": "https://pharmashots.com/34039/truelab-inks-985m-deal-with-bionyra-to-advance-two-immune-mediated-inflammatory-disease-therapies/"
+        },
+        {
+          "text": "MappBio — Ebola therapeutic development — MBP-134 (monoclonal antibody) — Clinical trial initiated in DRC to assess monotherapy and combination efficacy with remdesivir against Bundibugyo ebolavirus.",
+          "url": "https://statnews.com/2026/06/24/ebola-treatment-trials-gilead-remdesivir-mappbio-mbp-134/"
+        },
+        {
+          "text": "Incyte / MorphoSys — Frontline DLBCL treatment advancement — tafasitamab (Monjuvi) — Phase 3 frontMIND trial results presented at ASCO 2026 supporting combination regimen in high-risk newly diagnosed patients.",
+          "url": "https://cancernetwork.com/view/how-are-key-lymphoma-data-from-asco-and-eha-2026-shaping-treatment"
+        },
+        {
+          "text": "AstraZeneca — Chemo-free follicular lymphoma strategies — surovatamig (AZD0486) — Phase 3 SOUNDTRACK-F1 trial ongoing with initial safety data presented at EHA 2026.",
+          "url": "https://cancernetwork.com/view/how-are-key-lymphoma-data-from-asco-and-eha-2026-shaping-treatment"
+        },
+        {
+          "text": "Genmab — Elderly/frail DLBCL treatment optimization — epcoritamab-bysp (Epkinly) — Phase 2 trial data presented at ASCO 2026 evaluating reduced-intensity combination with R-miniCVP.",
+          "url": "https://cancernetwork.com/view/how-are-key-lymphoma-data-from-asco-and-eha-2026-shaping-treatment"
         }
       ]
     },
@@ -202,56 +218,76 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "MabionCD20 — Mechanism: CD20-targeting monoclonal antibody (biosimilar to Rituxan/MabThera) — Phase: Completed Phase III (original indication) — Population: Lymphoma/Rheumatoid Arthritis (historical) / Orphan indications (current focus) — Status: Repositioning for membranous nephropathy and autoimmune hemolytic anemia with FDA ODDs secured.",
-          "url": "https://drug-dev.com/mabion-reactivates-mabioncd20-through-rare-disease-collaboration-with-oddifact/"
+          "text": "Foralumab — Mechanism: Fully human anti-CD3 monoclonal antibody stimulating T regulatory cells — Phase: 2 (INFORM-MS) — Population: Non-active Secondary Progressive Multiple Sclerosis — Comparator: Placebo (in Phase 2a) — Results: 100% of 14 patients in Expanded Access Program showed improvement or stability within 6 months.",
+          "url": "https://globenewswire.com/news-release/2026/06/25/3317416/0/en/tiziana-announces-last-patient-successfully-dosed-in-its-phase-2-inform-ms-trial.html"
         },
         {
-          "text": "Sonelokimab — Mechanism: Nanobody® (single-domain antibody) targeting IL-17A and IL-17F — Phase: 3 (VELA, MIRA, VELA-TEEN) — Population: Hidradenitis Suppurativa (including adolescents ≥12 years) — Comparator: Placebo — Results: ~43% HiSCR75 response at Week 12; ~29 percentage point delta-to-placebo; Week 52 data released.",
-          "url": "https://globenewswire.com/news-release/2026/06/21/3314997/0/en/moonlake-announces-week-52-results-of-sonelokimab-from-its-phase-3-vela-program-in-hidradenitis-suppurativa-and-confirms-investor-day-on-june-22-2026.html"
+          "text": "RQB01 — Mechanism: Dual-mechanism long-acting antibody targeting conserved influenza epitopes — Phase: IND-enabling — Population: High-risk and immunocompromised populations — Goal: Single-administration seasonal protection.",
+          "url": "https://globenewswire.com/news-release/2026/06/24/3316603/0/en/rq-bio-announces-115-million-85-5-million-series-a-financing-to-advance-long-acting-antibody-programme-rqb01-for-full-season-influenza-prevention.html"
         },
         {
-          "text": "Obexelimab — Mechanism: Bifunctional binding to CD19 and FcγRIIb to inhibit B cell activity without depletion — Phase: Clinical — Population: Autoimmune disease patients — Outcome: Designed to address pathogenic B cell role via subcutaneous injection.",
-          "url": "https://globenewswire.com/news-release/2026/06/17/3313812/0/en/zenas-biopharma-announces-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+          "text": "AlloNK + rituximab — Mechanism: Allogeneic NK cell therapy combined with anti-CD20 monoclonal antibody (rituximab) — Phase: 2a — Population: Refractory rheumatoid arthritis, Sjögren disease, systemic sclerosis — Comparator: None stated — Results: 71% ACR50 response at 6 months in 31 patients; deep B-cell depletion observed.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3316418/0/en/artiva-biotherapeutics-to-participate-in-the-h-c-wainwright-4th-annual-cell-therapy-virtual-conference.html"
         },
         {
-          "text": "Rademikibart — Mechanism: Targeting IL-4Rα — Phase: 2 (Seabreeze STAT) — Population: Patients with acute exacerbations of asthma — Endpoint: Enrollment completed; topline data expected early September 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/17/3313482/0/en/connect-biopharma-announces-completion-of-enrollment-of-phase-2-seabreeze-stat-asthma-study-evaluating-rademikibart-for-the-treatment-of-acute-exacerbations-in-asthma.html"
+          "text": "LOQTORZI (toripalimab-tpzi) — Mechanism: PD-1 checkpoint inhibitor monoclonal antibody — Phase: Commercial/Combination trials — Population: Recurrent, locally advanced or metastatic nasopharyngeal carcinoma — Status: Only FDA-approved therapy in U.S. for this indication.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3316369/33333/en/coherus-and-zumutor-biologics-announce-clinical-collaboration-to-evaluate-zm008-in-combination-with-loqtorzi-toripalimab-tpzi.html"
         },
         {
-          "text": "ZB014 — Mechanism: Anti-CD19 and FcγRIIb binding with half-life extension — Phase: Preclinical — Population: Not specified — Status: Potentially best-in-class monoclonal antibody candidate.",
-          "url": "https://globenewswire.com/news-release/2026/06/17/3313812/0/en/zenas-biopharma-announces-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+          "text": "Zigakibart (FUB523) — Mechanism: Monoclonal antibody targeting B-cell activating factor (BAFF) — Phase: Clinical development — Population: IgA Nephropathy — Status: Active pipeline candidate per DelveInsight 2026 report.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3316330/0/en/acute-kidney-injury-clinical-trial-pipeline-appears-robust-with-20-key-pharma-companies-actively-working-in-the-therapeutics-segment-delveinsight.html"
         },
         {
-          "text": "Ersodetug (RZ358) — Mechanism: Insulin receptor modulating antibody — Phase: 3 (sunRIZE) — Population: Congenital hyperinsulinism — Comparator: Placebo — Results: Top-line data presented at Endocrine Society Annual Meeting; additional compassionate use case series reported for malignant insulin-secreting tumors.",
-          "url": "https://globenewswire.com/news-release/2026/06/17/3313313/0/en/rezolute-highlights-results-presented-from-natural-history-outcomes-studies-and-its-ersodetug-clinical-program-in-hyperinsulinism-at-annual-meeting-of-the-endocrine-society.html"
+          "text": "Felzartamab (MOR202) — Mechanism: Monoclonal antibody targeting CD38 — Phase: Clinical development — Population: IgA Nephropathy — Status: Active pipeline candidate per DelveInsight 2026 report.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3316330/0/en/acute-kidney-injury-clinical-trial-pipeline-appears-robust-with-20-key-pharma-companies-actively-working-in-the-therapeutics-segment-delveinsight.html"
         },
         {
-          "text": "Eptinezumab — Mechanism: CGRP receptor blockade — Phase: Real-world (INFUSE) — Population: Adults with chronic/episodic migraine failing 1+ prior CGRP therapy — Comparator: Historical/implicit prior therapy — Results: Improvement in brain fog and cognitive symptoms over 12 months.",
-          "url": "https://www.healio.com/news/neurology/20260618/cognitive-symptoms-improve-in-migraine-with-eptinezumab"
+          "text": "NM8074 (Ruxoprubart) — Mechanism: Monoclonal antibody targeting C5 — Phase: Clinical development — Population: IgA Nephropathy — Status: Active pipeline candidate per DelveInsight 2026 report.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3316330/0/en/acute-kidney-injury-clinical-trial-pipeline-appears-robust-with-20-key-pharma-companies-actively-working-in-the-therapeutics-segment-delveinsight.html"
         },
         {
-          "text": "Astegolimab — Mechanism: Human IgG2 monoclonal antibody blocking ST2-mediated IL-33 activity — Phase: 2b/3 (ALIENTO/ARNASA pooled) — Population: COPD patients with frequent exacerbations (n=2,682) — Comparator: Placebo — Results: Reduced annualized moderate/severe exacerbation rates independent of eosinophil count or smoking status.",
-          "url": "https://www.healio.com/news/pulmonology/20260617/pooled-analysis-shows-moderatesevere-exacerbation-rate-reduction-with-astegolimab-in-copd"
+          "text": "ULTOMIRIS (ravulizumab) — Mechanism: Long-acting monoclonal antibody targeting C5 — Phase: Clinical development — Population: IgA Nephropathy — Status: Active pipeline candidate per DelveInsight 2026 report.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3316330/0/en/acute-kidney-injury-clinical-trial-pipeline-appears-robust-with-20-key-pharma-companies-actively-working-in-the-therapeutics-segment-delveinsight.html"
         },
         {
-          "text": "Burosumab-twza — Mechanism: Monoclonal anti-fibroblast growth factor 23 antibody — Phase: Post-marketing observational — Population: X-linked hypophosphatemia (n=54) — Comparator: Active vitamin D + phosphate salts (n=55) — Results: Significant improvement in pain, stiffness, and physical function domains over 3 years.",
-          "url": "https://www.healio.com/news/endocrinology/20260616/burosumab-improves-physical-function-reduces-pain-in-xlinked-hypophosphatemia"
+          "text": "Keytruda (pembrolizumab) — Mechanism: PD-1 blocking monoclonal antibody — Phase: Approved — Population: PD-L1+ (CPS ≥10) advanced triple-negative breast cancer — Comparator: Not specified in approval context — Outcome: Approved in combination with Trodelvy as first-line therapy.",
+          "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186745&sid=2"
         },
         {
-          "text": "Sarclisa (isatuximab) — Mechanism: Anti-CD38 monoclonal antibody — Phase: Approved — Population: Multiple Myeloma — Comparator: N/A (Approval status) — Results: Subcutaneous formulation approved in Japan.",
-          "url": "https://globenewswire.com/news-release/2026/06/19/3314694/0/en/press-release-sanofi-s-sarclisa-subcutaneous-formulation-approved-in-japan-for-patients-with-multiple-myeloma.html"
-        },
-        {
-          "text": "Avastin (bevacizumab) — Mechanism: VEGF-A inhibition monoclonal antibody — Phase: Approved — Population: Patients with newly indicated condition in Japan — Comparator: N/A — Results: Regulatory approval granted for additional indication.",
+          "text": "Avastin (bevacizumab) — Mechanism: VEGF-A inhibition monoclonal antibody — Phase: Approved — Population: Patients with expanded indication in Japan — Comparator: N/A — Results: Regulatory approval for new indication granted.",
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186642&sid=2"
         },
         {
-          "text": "Rituxan (rituximab) — Mechanism: CD20-targeting monoclonal antibody — Phase: Approved — Population: Patients with certain nephrotic syndrome — Comparator: N/A — Results: Regulatory approval granted for additional dosage regimen.",
+          "text": "Rituxan (rituximab) — Mechanism: CD20-targeting monoclonal antibody — Phase: Approved — Population: Patients with certain nephrotic syndrome — Comparator: N/A — Results: Regulatory approval for additional dosage regimen granted.",
           "url": "https://pharmabiz.com/NewsDetails.aspx?aid=186638&sid=2"
         },
         {
-          "text": "AK117 — Mechanism: Anti-CD47 monoclonal antibody blocking 'don't eat me' signal — Phase: 2 — Population: Previously untreated AML ineligible for intensive chemotherapy — Comparator: Placebo + azacitidine/venetoclax — Endpoints/Results: 80.0% ORR, 56.7% CRc, 46.7% MRD-negative CRc, median OS not reached vs 8.3 months.",
-          "url": "https://cancernetwork.com/view/cd47-antibody-combo-shows-meaningful-activity-in-previously-untreated-aml"
+          "text": "TL-001 — Mechanism: Anti-TL1A monoclonal antibody — Phase: Preclinical/Development — Indication: Immune-mediated inflammatory diseases — Status: Rights granted to Bionyra for global development.",
+          "url": "https://pharmashots.com/34039/truelab-inks-985m-deal-with-bionyra-to-advance-two-immune-mediated-inflammatory-disease-therapies/"
+        },
+        {
+          "text": "Zumilokibart (APG777) — Mechanism: Half-life-extended monoclonal antibody targeting IL-13 — Phase: Late-stage — Indication: Atopic dermatitis — Status: Lead asset in Apogee acquisition by AbbVie.",
+          "url": "https://pharmashots.com/34012/abbvie-to-acquire-apogee-therapeutics-for-10-9b/"
+        },
+        {
+          "text": "APG333 — Mechanism: Anti-TSLP monoclonal antibody — Phase: Clinical — Indication: Asthma (in combination with zumilokibart) — Status: Part of APG273 combination therapy in Apogee pipeline.",
+          "url": "https://pharmashots.com/34012/abbvie-to-acquire-apogee-therapeutics-for-10-9b/"
+        },
+        {
+          "text": "MBP-134 — Mechanism: Monoclonal antibody targeting Bundibugyo ebolavirus — Phase: Clinical trial — Population: Patients in Democratic Republic of the Congo with confirmed Ebola infection — Comparator: Gilead Sciences' remdesivir (antiviral) — Endpoint: Efficacy of monotherapy and combination therapy against fast-growing outbreak.",
+          "url": "https://statnews.com/2026/06/24/ebola-treatment-trials-gilead-remdesivir-mappbio-mbp-134/"
+        },
+        {
+          "text": "tafasitamab (Monjuvi) — Mechanism: CD19-directed monoclonal antibody — Phase: 3 (frontMIND) — Population: Newly diagnosed high-risk DLBCL — Comparator: R-CHOP backbone — Endpoints: Primary results presented at ASCO 2026 evaluating addition of lenalidomide and tafasitamab.",
+          "url": "https://cancernetwork.com/view/how-are-key-lymphoma-data-from-asco-and-eha-2026-shaping-treatment"
+        },
+        {
+          "text": "surovatamig (AZD0486) — Mechanism: Bispecific antibody (CD20/CD3) — Phase: 3 (SOUNDTRACK-F1) — Population: Previously untreated follicular lymphoma — Comparator: Not specified — Endpoints: Initial safety run-in data presented at EHA 2026.",
+          "url": "https://cancernetwork.com/view/how-are-key-lymphoma-data-from-asco-and-eha-2026-shaping-treatment"
+        },
+        {
+          "text": "epcoritamab-bysp (Epkinly) — Mechanism: Bispecific antibody (CD20/CD3) — Phase: 2 — Population: Elderly and frail patients with newly diagnosed DLBCL — Comparator: Not specified — Endpoints: Safety and efficacy data presented at ASCO 2026 for combination with R-miniCVP.",
+          "url": "https://cancernetwork.com/view/how-are-key-lymphoma-data-from-asco-and-eha-2026-shaping-treatment"
         }
       ]
     },
@@ -259,24 +295,24 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Mabion S.A. / Oddifact SAS — Strategic collaboration — MabionCD20 — Letter of Intent signed to evaluate rare disease indications using Oddifact's S.A.V.E. AI platform; aims for partnership and registration of orphan drug program.",
-          "url": "https://drug-dev.com/mabion-reactivates-mabioncd20-through-rare-disease-collaboration-with-oddifact/"
+          "text": "Tiziana Life Sciences — Executive Chairman share purchase — Foralumab pipeline — Gabriele Cerrone acquired 15,000 common shares at $1.11/share, increasing total holding to 44,772,230 shares (34.89% of issued capital).",
+          "url": "https://globenewswire.com/news-release/2026/06/25/3317416/0/en/tiziana-announces-last-patient-successfully-dosed-in-its-phase-2-inform-ms-trial.html"
         },
         {
-          "text": "Connect Biopharma / Simcere Pharmaceutical — Rademikibart licensing — Greater China — Exclusive license granted; Connect eligible for up to $110M in development, regulatory, and commercial milestones plus low double-digit tiered royalties on net sales.",
-          "url": "https://globenewswire.com/news-release/2026/06/17/3313482/0/en/connect-biopharma-announces-completion-of-enrollment-of-phase-2-seabreeze-stat-asthma-study-evaluating-rademikibart-for-the-treatment-of-acute-exacerbations-in-asthma.html"
+          "text": "RQ Bio — Secured $115 million (£85.5 million) Series A financing led by Frazier Life Sciences with participation from EQT Life Sciences, Forbion, Monograph, Wellington Management, and LifeArc Ventures.",
+          "url": "https://globenewswire.com/news-release/2026/06/24/3316603/0/en/rq-bio-announces-115-million-85-5-million-series-a-financing-to-advance-long-acting-antibody-programme-rqb01-for-full-season-influenza-prevention.html"
         },
         {
-          "text": "Biogen / RayThera — Acquisition — Immunology pipeline — $1B total value (undisclosed upfront + clinical/regulatory milestones) for portfolio of anti-inflammatory candidates; RayThera founded 2023, pipeline details undisclosed.",
-          "url": "https://biopharmadive.com/news/biogen-raythera-deal-acquire-immune-drugs/823241/"
+          "text": "Coherus Oncology — Clinical collaboration agreement — ZM008 + LOQTORZI (toripalimab-tpzi) — Partnership with Zumutor Biologics to evaluate combination of ZM008 with the PD-1 monoclonal antibody toripalimab.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3316369/33333/en/coherus-and-zumutor-biologics-announce-clinical-collaboration-to-evaluate-zm008-in-combination-with-loqtorzi-toripalimab-tpzi.html"
         },
         {
-          "text": "MoonLake Immunotherapeutics — BLA submission strategy — sonelokimab — Final pre-BLA meeting completed with FDA; submission planned end of September 2026; Priority Review designation decision expected by end of November 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/21/3314997/0/en/moonlake-announces-week-52-results-of-sonelokimab-from-its-phase-3-vela-program-in-hidradenitis-suppurativa-and-confirms-investor-day-on-june-22-2026.html"
+          "text": "TrueLab / Bionyra — ~$985M licensing deal — TL-001 (anti-TL1A mAb) and TL-003 — Includes upfront, milestone, and royalty payments; TrueLab receives single-digit equity stake in Bionyra.",
+          "url": "https://pharmashots.com/34039/truelab-inks-985m-deal-with-bionyra-to-advance-two-immune-mediated-inflammatory-disease-therapies/"
         },
         {
-          "text": "Sanofi — Regulatory expansion — Sarclisa (isatuximab) — Subcutaneous formulation approved in Japan for multiple myeloma patients.",
-          "url": "https://globenewswire.com/news-release/2026/06/19/3314694/0/en/press-release-sanofi-s-sarclisa-subcutaneous-formulation-approved-in-japan-for-patients-with-multiple-myeloma.html"
+          "text": "AbbVie / Apogee Therapeutics — ~$10.9B acquisition — Zumilokibart (APG777) and APG273 — Cash offer of $135.11/share; expected closing Q3 2026 subject to regulatory approval.",
+          "url": "https://pharmashots.com/34012/abbvie-to-acquire-apogee-therapeutics-for-10-9b/"
         }
       ]
     }
