@@ -1,22 +1,30 @@
 {
   "query": "molecular glue",
-  "generated_at": "2026-06-27 08:13:26",
-  "article_count": 42,
+  "generated_at": "2026-07-01 09:09:25",
+  "article_count": 34,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Erasca Inc. (ERAS) stock fell 48% ($9.25) following RevMed's patent infringement accusation regarding Erasca's pan-RAS molecular glue ERAS-0015 and a patient death one month post-dosing.",
+          "text": "Biodexa Pharmaceuticals — MTX240 — Gastrointestinal Stromal Tumors (GIST) — Molecular glue mechanism identified; brings PDE3a and SLFN12 proteins into proximity to form stable complex, driving RNase-mediated apoptosis independent of KIT signaling.",
+          "url": "https://globenewswire.com/news-release/2026/06/30/3319615/0/en/biodexa-announces-pricing-of-3-5-million-registered-direct-offering-concurrent-private-placement-of-pre-funded-warrants-and-warrants.html"
+        },
+        {
+          "text": "Biodexa Pharmaceuticals — MTX240 — Gastrointestinal Stromal Tumors (GIST) — Molecular glue candidate advancing in pipeline; mechanism stabilizes SLFN12 to induce apoptosis in GIST cells co-expressing PDE3a and SLFN12.",
+          "url": "https://globenewswire.com/news-release/2026/06/29/3318956/0/en/approval-from-health-canada-to-expand-serenta-registrational-phase-3-trial-in-fap-and-update-on-serenta-progress.html"
+        },
+        {
+          "text": "Erasca Inc. (ERAS) faces a securities class action lawsuit following a $2.8 billion market cap loss after Revolution Medicines accused the company of patent infringement regarding its pan-RAS molecular glue candidate ERAS-0015.",
           "url": "https://globenewswire.com/news-release/2026/06/26/3318502/32716/en/erasca-inc-eras-faces-securities-class-action-amid-patient-death-intellectual-property-questions-2-8-billion-market-cap-loss-hagens-berman.html"
         },
         {
-          "text": "Hagens Berman filed a securities class action against Erasca Inc. for the period Jan. 14, 2025 – Apr. 26, 2026, alleging misleading claims about ERAS-0015's equivalence to RevMed's RMC-6236 and intellectual property validity.",
+          "text": "Erasca's lead program ERAS-0015, an investigational oral pan-RAS molecular glue for RAS-mutant solid tumors including pancreatic ductal adenocarcinoma, was linked to a patient death one month post-treatment, triggering regulatory and legal scrutiny.",
           "url": "https://globenewswire.com/news-release/2026/06/26/3318502/32716/en/erasca-inc-eras-faces-securities-class-action-amid-patient-death-intellectual-property-questions-2-8-billion-market-cap-loss-hagens-berman.html"
         },
         {
-          "text": "Verastem Oncology announced intent to evaluate VS-7375 (KRAS G12D inhibitor) in combination with ERAS-0015, an investigational pan-RAS molecular glue.",
-          "url": "https://cancernetwork.com/view/vs-7375-exhibits-activity-in-kras-g12d-mutated-solid-tumors"
+          "text": "Novartis entered a ~$1.44B strategic collaboration with Orionis to advance molecular glue therapies for multiple targets, as referenced in industry coverage of concurrent oncology deals.",
+          "url": "https://pharmashots.com/34091/antares-therapeutics-inks-1-9b-deal-with-novartis-for-undruggable-oncology-targets/"
         }
       ]
     },
@@ -24,20 +32,16 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Erasca Inc. — ERAS-0015 — RAS-mutant solid tumors (including pancreatic ductal adenocarcinoma) — Pan-RAS molecular glue; RevMed accused Erasca of patent infringement and trade secret misappropriation; patient death reported one month after dosing; stock lost $2.8B market cap.",
+          "text": "Biodexa Pharmaceuticals — MTX240 — Gastrointestinal Stromal Tumors (GIST) — Molecular glue program defined; induces RNase-mediated apoptosis via PDE3a/SLFN12 complex formation, bypassing KIT signaling dependency.",
+          "url": "https://globenewswire.com/news-release/2026/06/30/3319615/0/en/biodexa-announces-pricing-of-3-5-million-registered-direct-offering-concurrent-private-placement-of-pre-funded-warrants-and-warrants.html"
+        },
+        {
+          "text": "Erasca — ERAS-0015 — RAS-mutant solid tumors — Revolution Medicines issued a legal challenge alleging patent infringement and trade secret misappropriation concerning Erasca's pan-RAS molecular glue, while the company disclosed a patient death following treatment.",
           "url": "https://globenewswire.com/news-release/2026/06/26/3318502/32716/en/erasca-inc-eras-faces-securities-class-action-amid-patient-death-intellectual-property-questions-2-8-billion-market-cap-loss-hagens-berman.html"
         },
         {
-          "text": "Verastem Oncology — VS-7375 + ERAS-0015 — KRAS G12D-mutated solid tumors — Announced intent to evaluate combination of oral KRAS G12D dual ON/OFF inhibitor with investigational pan-RAS molecular glue; Phase 1/2 TARGET-D 101 trial data showed 93% CA19-9 reduction in PDAC patients at 900 mg monotherapy.",
-          "url": "https://cancernetwork.com/view/vs-7375-exhibits-activity-in-kras-g12d-mutated-solid-tumors"
-        },
-        {
-          "text": "Verastem Oncology — VS-7375 — KRAS G12D–mutated solid tumors — Phase 1/2 TARGET-D 101 trial: 93% (n=13/14) of heavily pretreated metastatic PDAC patients on 900 mg monotherapy achieved >50% CA19-9 reduction; combination with cetuximab showed deeper tumor reductions.",
-          "url": "https://cancernetwork.com/view/vs-7375-exhibits-activity-in-kras-g12d-mutated-solid-tumors"
-        },
-        {
-          "text": "Verastem Oncology — ERAS-0015 — Pan-RAS indications — Investigational pan-RAS molecular glue identified for future combination evaluation with VS-7375 in KRAS G12D–mutated solid tumors.",
-          "url": "https://cancernetwork.com/view/vs-7375-exhibits-activity-in-kras-g12d-mutated-solid-tumors"
+          "text": "Novartis — Orionis Collaboration — Molecular Glue Therapies — ~$1.44B deal to discover and develop small molecule degraders for multiple targets; specific program names and phases not disclosed in source.",
+          "url": "https://pharmashots.com/34091/antares-therapeutics-inks-1-9b-deal-with-novartis-for-undruggable-oncology-targets/"
         }
       ]
     },
@@ -45,16 +49,16 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Erasca Inc. — Pan-RAS molecular glue development — ERAS-0015 — Facing securities class action and IP dispute with Revolution Medicines; in-licensed patent family from Joyo includes one issued US patent and thirteen pending foreign applications.",
+          "text": "Biodexa Pharmaceuticals — Molecular glue development — MTX240 — Clinical stage biopharma advancing PDE3a/SLFN12-targeting molecular glue for GIST; headquarters and R&D located in Cardiff, UK.",
+          "url": "https://globenewswire.com/news-release/2026/06/30/3319615/0/en/biodexa-announces-pricing-of-3-5-million-registered-direct-offering-concurrent-private-placement-of-pre-funded-warrants-and-warrants.html"
+        },
+        {
+          "text": "Erasca — Pan-RAS molecular glue development — ERAS-0015 — Stock price dropped 48% to $9.25 amid patent infringement allegations from Revolution Medicines and a reported patient fatality; facing securities class action for alleged misleading IP claims.",
           "url": "https://globenewswire.com/news-release/2026/06/26/3318502/32716/en/erasca-inc-eras-faces-securities-class-action-amid-patient-death-intellectual-property-questions-2-8-billion-market-cap-loss-hagens-berman.html"
         },
         {
-          "text": "Revolution Medicines — Intellectual property enforcement — RMC-6236 (competitor to ERAS-0015) — Accused Erasca of deceptively comparing ERAS-0015 40mg cohort to RMC-6236 400mg cohort and misappropriating trade secrets.",
-          "url": "https://globenewswire.com/news-release/2026/06/26/3318502/32716/en/erasca-inc-eras-faces-securities-class-action-amid-patient-death-intellectual-property-questions-2-8-billion-market-cap-loss-hagens-berman.html"
-        },
-        {
-          "text": "Verastem Oncology — KRAS G12D inhibitor and molecular glue combination strategy — VS-7375 + ERAS-0015 — Phase 1/2 TARGET-D 101 trial ongoing; preliminary data supports advancing combination with pan-RAS molecular glue ERAS-0015.",
-          "url": "https://cancernetwork.com/view/vs-7375-exhibits-activity-in-kras-g12d-mutated-solid-tumors"
+          "text": "Orionis — Molecular glue discovery platform — Undisclosed oncology targets — Secured ~$1.44B collaboration with Novartis to advance small molecule degrader programs.",
+          "url": "https://pharmashots.com/34091/antares-therapeutics-inks-1-9b-deal-with-novartis-for-undruggable-oncology-targets/"
         }
       ]
     },
@@ -62,16 +66,16 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "ERAS-0015 — Mechanism: Pan-RAS molecular glue — Phase: Investigational (oral) — Population: RAS-mutant solid tumors including pancreatic ductal adenocarcinoma — Comparator: Alleged improper comparison to RMC-6236 400mg vs ERAS-0015 40mg — Outcome: Patient death reported one month post-dosing; IP validity challenged.",
+          "text": "MTX240 — Mechanism: Molecular glue inducing PDE3a/SLFN12 complex formation — Phase: Clinical stage — Population: GIST cancer cells co-expressing PDE3a and SLFN12 — Comparator: None specified — Endpoints/Results: Stabilizes SLFN12 to drive RNase-mediated apoptosis independent of KIT signaling.",
+          "url": "https://globenewswire.com/news-release/2026/06/30/3319615/0/en/biodexa-announces-pricing-of-3-5-million-registered-direct-offering-concurrent-private-placement-of-pre-funded-warrants-and-warrants.html"
+        },
+        {
+          "text": "ERAS-0015 — Mechanism: Pan-RAS molecular glue — Phase: Investigational — Population: RAS-mutant solid tumors (including pancreatic ductal adenocarcinoma) — Comparator: Allegedly compared to Revolution Medicines' RMC-6236 (40mg vs 400mg dose cohorts) — Adverse Event: One patient death reported one month post-treatment.",
           "url": "https://globenewswire.com/news-release/2026/06/26/3318502/32716/en/erasca-inc-eras-faces-securities-class-action-amid-patient-death-intellectual-property-questions-2-8-billion-market-cap-loss-hagens-berman.html"
         },
         {
-          "text": "ERAS-0015 — Mechanism: Pan-RAS molecular glue — Phase: Investigational — Population: KRAS G12D–mutated solid tumors (planned) — Comparator: None stated — Status: Identified for combination evaluation with VS-7375.",
-          "url": "https://cancernetwork.com/view/vs-7375-exhibits-activity-in-kras-g12d-mutated-solid-tumors"
-        },
-        {
-          "text": "VS-7375 — Mechanism: Oral KRAS G12D dual ON/OFF inhibitor — Phase: 1/2 (TARGET-D 101) — Population: Metastatic PDAC, CRC, NSCLC with KRAS G12D mutation — Comparator: Monotherapy vs combination with cetuximab — Results: 93% CA19-9 reduction in PDAC at 900 mg; dose-dependent activity observed.",
-          "url": "https://cancernetwork.com/view/vs-7375-exhibits-activity-in-kras-g12d-mutated-solid-tumors"
+          "text": "Orionis-Novartis Pipeline — Mechanism: Molecular glue degraders — Phase: Discovery/Preclinical — Population: Multiple oncology targets — Status: Collaboration initiated for small molecule therapy development.",
+          "url": "https://pharmashots.com/34091/antares-therapeutics-inks-1-9b-deal-with-novartis-for-undruggable-oncology-targets/"
         }
       ]
     },
@@ -79,16 +83,12 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Erasca Inc. — Securities litigation — ERAS-0015 — Hagens Berman filed class action seeking investors who purchased stock Jan 14, 2025–Apr 26, 2026; market cap loss of $2.8B triggered by IP dispute and patient death disclosure.",
+          "text": "Erasca — Securities litigation — ERAS-0015 — Hagens Berman filed a class action lawsuit on behalf of investors who purchased stock between Jan 14, 2025 and Apr 26, 2026, citing a $2.8 billion market cap loss due to undisclosed IP disputes and patient safety issues.",
           "url": "https://globenewswire.com/news-release/2026/06/26/3318502/32716/en/erasca-inc-eras-faces-securities-class-action-amid-patient-death-intellectual-property-questions-2-8-billion-market-cap-loss-hagens-berman.html"
         },
         {
-          "text": "Erasca — Securities class action litigation — ERAS-0015 — Stock lost $2.8 billion market cap; lawsuit alleges misleading statements on safety and IP; lead plaintiff deadline set for Aug 10, 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/25/3317237/32716/en/erasca-inc-eras-faces-securities-class-action-amid-patient-death-intellectual-property-questions-2-8-billion-market-cap-loss-hagens-berman.html"
-        },
-        {
-          "text": "Erasca Inc. — Intellectual Property dispute — ERAS-0015 — Revolution Medicines accused Erasca of patent infringement; Erasca claims in-licensed patent family from Joyo (1 issued US, 1 pending US, 1 issued foreign, 13 pending foreign patents).",
-          "url": "https://globenewswire.com/news-release/2026/06/22/3315584/32716/en/erasca-inc-eras-faces-securities-class-action-amid-patient-death-intellectual-property-questions-2-8-billion-market-cap-loss-hagens-berman.html"
+          "text": "Novartis / Orionis — ~$1.44B strategic collaboration — Molecular glue therapies — Includes upfront, milestone, and royalty payments for advancing small molecule degraders against multiple targets.",
+          "url": "https://pharmashots.com/34091/antares-therapeutics-inks-1-9b-deal-with-novartis-for-undruggable-oncology-targets/"
         }
       ]
     }
