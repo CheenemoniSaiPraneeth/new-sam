@@ -1,46 +1,18 @@
 {
   "query": "CRISPR",
-  "generated_at": "2026-06-28 08:36:15",
-  "article_count": 38,
+  "generated_at": "2026-07-02 08:14:39",
+  "article_count": 18,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Chiesi Group and Arbor Biotechnologies announced that ABO-101, an investigational gene editing therapy, received Orphan Drug Designation (ODD) from the European Commission for primary hyperoxaluria type 1 (PH1).",
-          "url": "https://globenewswire.com/news-release/2026/06/25/3317844/0/en/chiesi-group-and-arbor-biotechnologies-announce-abo-101-granted-orphan-drug-designation-by-european-commission-for-primary-hyperoxaluria.html"
+          "text": "Caribou Biosciences — vispa-cel — Relapsed/Refractory Large B-Cell Lymphoma — CRISPR-engineered off-the-shelf CD19-targeted CAR-T therapy demonstrated 82% ORR, 67% CR, and 17.1-month mPFS in pivotal optimized subgroup (N=27) of ANTLER phase 1 trial.",
+          "url": "https://globenewswire.com/news-release/2026/06/29/3318882/0/en/caribou-biosciences-to-participate-in-the-h-c-wainwright-4th-annual-cell-therapy-virtual-conference.html"
         },
         {
-          "text": "ABO-101 is designed to address the underlying disease biology of PH1 by reducing hepatic oxalate production through gene editing mechanisms.",
-          "url": "https://globenewswire.com/news-release/2026/06/25/3317844/0/en/chiesi-group-and-arbor-biotechnologies-announce-abo-101-granted-orphan-drug-designation-by-european-commission-for-primary-hyperoxaluria.html"
-        },
-        {
-          "text": "The Phase 1/2 redePHine clinical study for ABO-101 is scheduled to be highlighted at the 15th International Hyperoxaluria Workshop on June 26, 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/25/3317844/0/en/chiesi-group-and-arbor-biotechnologies-announce-abo-101-granted-orphan-drug-designation-by-european-commission-for-primary-hyperoxaluria.html"
-        },
-        {
-          "text": "Scientists utilized a newer, more precise form of CRISPR in early human embryos to investigate genes active during early human development stages.",
-          "url": "https://statnews.com/2026/06/26/biotech-news-embryo-editing-advances-reignite-ethics-debates/"
-        },
-        {
-          "text": "Research published in Nature indicates base editing, a CRISPR variant, is gentler than earlier versions and avoids chromosome damage associated with previous CRISPR iterations.",
-          "url": "https://statnews.com/2026/06/26/biotech-news-embryo-editing-advances-reignite-ethics-debates/"
-        },
-        {
-          "text": "CRISPR base editing trials in human embryos resulted in frequent mosaicism, characterized by a mixture of edited and unedited cells within the same embryo.",
-          "url": "https://statnews.com/2026/06/26/biotech-news-embryo-editing-advances-reignite-ethics-debates/"
-        },
-        {
-          "text": "Researchers utilized next-generation CRISPR base editing tools on donated human embryos to investigate genes orchestrating early human development, demonstrating higher precision and lower destructiveness than earlier CRISPR iterations.",
-          "url": "https://statnews.com/2026/06/25/crispr-base-editing-human-embryo-study/"
-        },
-        {
-          "text": "A study published in Nature confirmed that human embryos can tolerate CRISPR base editing and develop to a stage suitable for uterine implantation, though edits were not consistent across all cells.",
-          "url": "https://statnews.com/2026/06/25/crispr-base-editing-human-embryo-study/"
-        },
-        {
-          "text": "Dieter Egli's lab at Columbia University reported a new preprint on base editing of human embryos, advancing CRISPR gene-editing research.",
-          "url": "https://statnews.com/2026/06/24/embryo-editing-dieter-egli-ethical-boundaries-moratorium/"
+          "text": "SUIC Worldwide Holdings Ltd. and VisionRenu Biomedical Technology Co., Ltd. signed a Strategic MOU to accelerate AI biotechnology, precision medicine, and U.S. capital market expansion.",
+          "url": "https://drug-dev.com/suic-and-visionrenu-sign-strategic-mou-to-accelerate-ai-biotechnology-precision-medicine-and-u-s-capital-market-expansion/"
         }
       ]
     },
@@ -48,24 +20,12 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Chiesi Group / Arbor Biotechnologies — ABO-101 — Primary Hyperoxaluria Type 1 — European Commission granted Orphan Drug Designation; program utilizes gene editing to reduce hepatic oxalate production.",
-          "url": "https://globenewswire.com/news-release/2026/06/25/3317844/0/en/chiesi-group-and-arbor-biotechnologies-announce-abo-101-granted-orphan-drug-designation-by-european-commission-for-primary-hyperoxaluria.html"
+          "text": "Caribou Biosciences — vispa-cel — Second-line Large B-Cell Lymphoma — ANTLER-3 pivotal phase 3 trial designed to address unmet need in patients lacking curative options; data cutoff March 6, 2026 showed 82% ORR and 67% CR in optimized subgroup.",
+          "url": "https://globenewswire.com/news-release/2026/06/29/3318882/0/en/caribou-biosciences-to-participate-in-the-h-c-wainwright-4th-annual-cell-therapy-virtual-conference.html"
         },
         {
-          "text": "Chiesi Group / Arbor Biotechnologies — ABO-101 — Primary Hyperoxaluria Type 1 — European Commission granted Orphan Drug Designation; Phase 1/2 redePHine study data to be presented at 15th International Hyperoxaluria Workshop on June 26, 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/25/3317844/0/en/chiesi-group-and-arbor-biotechnologies-announce-abo-101-granted-orphan-drug-designation-by-european-commission-for-primary-hyperoxaluria.html"
-        },
-        {
-          "text": "Unspecified Research Group — CRISPR Base Editing — Early Human Development — Published in Nature; demonstrated reduced chromosome damage compared to earlier CRISPR versions but resulted in frequent embryonic mosaicism.",
-          "url": "https://statnews.com/2026/06/26/biotech-news-embryo-editing-advances-reignite-ethics-debates/"
-        },
-        {
-          "text": "Unspecified Research Consortium — CRISPR Base Editing — Human Embryo Development — Published in Nature; demonstrated ability to edit embryos to implantation stage with improved accuracy over prior CRISPR forms, but resulted in mosaic cell populations with inconsistent edits.",
-          "url": "https://statnews.com/2026/06/25/crispr-base-editing-human-embryo-study/"
-        },
-        {
-          "text": "Columbia University — Base editing of human embryos — Heritable gene editing — New preprint data released by Dieter Egli's lab; bioethicists call for temporary moratorium on reproductive applications.",
-          "url": "https://statnews.com/2026/06/24/embryo-editing-dieter-egli-ethical-boundaries-moratorium/"
+          "text": "SUIC Worldwide Holdings Ltd. — VisionRenu Biomedical Technology Co., Ltd. — AI Biotechnology & Precision Medicine — Signed Strategic MOU to leverage AI for improving CRISPR gene-editing precision and optimizing DNA/protein design.",
+          "url": "https://drug-dev.com/suic-and-visionrenu-sign-strategic-mou-to-accelerate-ai-biotechnology-precision-medicine-and-u-s-capital-market-expansion/"
         }
       ]
     },
@@ -73,20 +33,16 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Arbor Biotechnologies — Gene editing therapy commercialization — ABO-101 — Partnered with Chiesi Group (collaboration established 2025); advancing Phase 1/2 redePHine trial for PH1.",
-          "url": "https://globenewswire.com/news-release/2026/06/25/3317844/0/en/chiesi-group-and-arbor-biotechnologies-announce-abo-101-granted-orphan-drug-designation-by-european-commission-for-primary-hyperoxaluria.html"
+          "text": "Caribou Biosciences — CRISPR genome-editing platform commercialization — vispa-cel (CD19 CAR-T) — Leading clinical-stage CRISPR biopharma; ANTLER phase 1 data supports expansion to community centers; ANTLER-3 phase 3 trial planned.",
+          "url": "https://globenewswire.com/news-release/2026/06/29/3318882/0/en/caribou-biosciences-to-participate-in-the-h-c-wainwright-4th-annual-cell-therapy-virtual-conference.html"
         },
         {
-          "text": "Chiesi Group — Rare disease gene editing expansion — ABO-101 — Secured EU Orphan Drug Designation for PH1 indication; leveraging global strategic collaboration with Arbor Biotechnologies.",
-          "url": "https://globenewswire.com/news-release/2026/06/25/3317844/0/en/chiesi-group-and-arbor-biotechnologies-announce-abo-101-granted-orphan-drug-designation-by-european-commission-for-primary-hyperoxaluria.html"
+          "text": "SUIC Worldwide Holdings Ltd. — AI-driven biotechnology expansion — CRISPR gene-editing precision via AI — Strategic MOU with VisionRenu to integrate AI into Design-Build-Test-Learn (DBTL) platforms for next-generation therapeutics.",
+          "url": "https://drug-dev.com/suic-and-visionrenu-sign-strategic-mou-to-accelerate-ai-biotechnology-precision-medicine-and-u-s-capital-market-expansion/"
         },
         {
-          "text": "Arbor Biotechnologies — Gene editing therapy commercialization — ABO-101 (PH1) — Strategic collaboration with Chiesi Group established 2025; received EC Orphan Drug Designation and US Rare Pediatric Disease Designation.",
-          "url": "https://globenewswire.com/news-release/2026/06/25/3317844/0/en/chiesi-group-and-arbor-biotechnologies-announce-abo-101-granted-orphan-drug-designation-by-european-commission-for-primary-hyperoxaluria.html"
-        },
-        {
-          "text": "Arbor Biotechnologies — Gene editing therapy commercialization — ABO-101 (PH1) — Strategic collaboration with Chiesi Group established 2025; advancing next-generation genetic medicines for rare diseases.",
-          "url": "https://globenewswire.com/news-release/2026/06/25/3317845/0/en/chiesi-group-and-arbor-biotechnologies-announce-abo-101-granted-orphan-drug-designation-by-european-commission-for-primary-hyperoxaluria.html"
+          "text": "VisionRenu Biomedical Technology Co., Ltd. — Global commercialization & capital market access — AI-enhanced CRISPR applications — Partnered with SUIC to accelerate innovation in gene technologies and U.S. market entry.",
+          "url": "https://drug-dev.com/suic-and-visionrenu-sign-strategic-mou-to-accelerate-ai-biotechnology-precision-medicine-and-u-s-capital-market-expansion/"
         }
       ]
     },
@@ -94,32 +50,12 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "ABO-101 — Mechanism: Gene editing to reduce hepatic oxalate production — Phase: 1/2 (redePHine) — Population: Primary Hyperoxaluria Type 1 (PH1) — Comparator: Not specified — Status: ODD granted by EC; data presentation planned for June 26, 2026 workshop.",
-          "url": "https://globenewswire.com/news-release/2026/06/25/3317844/0/en/chiesi-group-and-arbor-biotechnologies-announce-abo-101-granted-orphan-drug-designation-by-european-commission-for-primary-hyperoxaluria.html"
+          "text": "vispa-cel — Mechanism: CRISPR-engineered allogeneic CD19-targeted CAR-T cell therapy — Phase: 1 (ANTLER) — Population: Second-line relapsed/refractory large B-cell lymphoma (N=27 optimized subgroup) — Comparator: None (single-arm) — Endpoints/Results: 82% ORR, 67% CR, 17.1-month mPFS; no GvHD or ≥Gr 3 ICANS reported.",
+          "url": "https://globenewswire.com/news-release/2026/06/29/3318882/0/en/caribou-biosciences-to-participate-in-the-h-c-wainwright-4th-annual-cell-therapy-virtual-conference.html"
         },
         {
-          "text": "ABO-101 — Mechanism: Gene editing therapy reducing hepatic oxalate production — Phase: 1/2 (redePHine) — Population: Primary Hyperoxaluria Type 1 (PH1) patients — Endpoints: Reduction in oxalate production to prevent kidney stones and failure.",
-          "url": "https://globenewswire.com/news-release/2026/06/25/3317844/0/en/chiesi-group-and-arbor-biotechnologies-announce-abo-101-granted-orphan-drug-designation-by-european-commission-for-primary-hyperoxaluria.html"
-        },
-        {
-          "text": "CRISPR Base Editing — Mechanism: Precise nucleotide substitution without double-strand breaks — Phase: Preclinical (Human Embryo Research) — Population: Early-stage human embryos — Comparator: Earlier CRISPR versions — Results: Avoided chromosome damage but induced frequent mosaicism (mixed edited/unedited cells).",
-          "url": "https://statnews.com/2026/06/26/biotech-news-embryo-editing-advances-reignite-ethics-debates/"
-        },
-        {
-          "text": "CRISPR Base Editing — Mechanism: Advanced genome editing with reduced off-target effects compared to standard CRISPR — Phase: Preclinical (Basic Science) — Population: Donated human embryos — Results: Embryos developed to implantation stage; edits resulted in mosaic cell populations (hodgepodge of altered and unaltered cells).",
-          "url": "https://statnews.com/2026/06/25/crispr-base-editing-human-embryo-study/"
-        },
-        {
-          "text": "Human embryo base editing — Mechanism: CRISPR-based precise genome modification — Phase: Preclinical (preprint) — Population: Pre-implantation human embryos — Context: Study highlights ethical boundaries and calls for moratorium on heritable editing.",
-          "url": "https://statnews.com/2026/06/24/embryo-editing-dieter-egli-ethical-boundaries-moratorium/"
-        },
-        {
-          "text": "CRISPR Base Editing — Mechanism: Precise gene modification without double-strand breaks — Phase: Preclinical (early human embryo research) — Population: Early human embryos — Results: Avoided chromosome damage seen in earlier CRISPR versions; frequent mosaicism observed with mix of edited and unedited cells.",
-          "url": "https://statnews.com/2026/06/26/biotech-news-embryo-editing-advances-reignite-ethics-debates/"
-        },
-        {
-          "text": "CRISPR Base Editing — Mechanism: Next-generation genome editing targeting specific DNA bases without double-strand breaks — Phase: Preclinical (Human Embryo Research) — Population: Donated human embryos — Results: Successful development to implantation stage; inconsistent editing across all cells creating mosaicism; reduced off-target destruction compared to earlier CRISPR forms.",
-          "url": "https://statnews.com/2026/06/25/crispr-base-editing-human-embryo-study/"
+          "text": "AI-enabled biotechnology — Mechanism: AI optimization of CRISPR gene-editing precision and DNA/protein design — Application: Accelerating discovery of disease-related genes and shortening development cycles for next-generation therapeutics — Context: Part of Design-Build-Test-Learn (DBTL) platform transformation.",
+          "url": "https://drug-dev.com/suic-and-visionrenu-sign-strategic-mou-to-accelerate-ai-biotechnology-precision-medicine-and-u-s-capital-market-expansion/"
         }
       ]
     },
@@ -127,16 +63,8 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Chiesi Group / Arbor Biotechnologies — Global strategic collaboration — ABO-101 — Partnership established in 2025 to develop and commercialize gene editing therapies for rare diseases; EU ODD granted June 25, 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/25/3317844/0/en/chiesi-group-and-arbor-biotechnologies-announce-abo-101-granted-orphan-drug-designation-by-european-commission-for-primary-hyperoxaluria.html"
-        },
-        {
-          "text": "Chiesi Group / Arbor Biotechnologies — Global strategic collaboration — ABO-101 — Established 2025 to develop and commercialize gene editing therapies for rare diseases; EC Orphan Drug Designation secured for PH1 indication.",
-          "url": "https://globenewswire.com/news-release/2026/06/25/3317844/0/en/chiesi-group-and-arbor-biotechnologies-announce-abo-101-granted-orphan-drug-designation-by-european-commission-for-primary-hyperoxaluria.html"
-        },
-        {
-          "text": "Chiesi Group / Arbor Biotechnologies — Global strategic collaboration — ABO-101 — Partnership established 2025 to develop and commercialize gene editing therapies for rare diseases; EC ODD secures regulatory support for development lifecycle.",
-          "url": "https://globenewswire.com/news-release/2026/06/25/3317845/0/en/chiesi-group-and-arbor-biotechnologies-announce-abo-101-granted-orphan-drug-designation-by-european-commission-for-primary-hyperoxaluria.html"
+          "text": "SUIC Worldwide Holdings Ltd. / VisionRenu Biomedical Technology Co., Ltd. — Strategic MOU for AI biotechnology and capital market expansion — Focus on CRISPR precision enhancement and international growth; proposed merger and partnerships with Taiwan's Ministry of Health and Welfare (MOHW) supported AI startups.",
+          "url": "https://drug-dev.com/suic-and-visionrenu-sign-strategic-mou-to-accelerate-ai-biotechnology-precision-medicine-and-u-s-capital-market-expansion/"
         }
       ]
     }
