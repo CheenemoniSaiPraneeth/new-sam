@@ -1,30 +1,34 @@
 {
   "query": "bispecific",
-  "generated_at": "2026-07-03 08:16:51",
-  "article_count": 22,
+  "generated_at": "2026-07-07 08:33:28",
+  "article_count": 30,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "VERAXA Biotech AG is advancing its lead BiTAC®-TCE program, a bispecific T cell engager format, by initiating cell line development with ATUM to accelerate clinical development.",
-          "url": "https://globenewswire.com/news-release/2026/07/02/3321216/0/en/veraxa-biotech-initiates-cell-line-development-with-atum-to-advance-its-lead-bitac-tce-program.html"
+          "text": "Context Therapeutics reported 29% confirmed overall response rate (ORR) for CTIM-76, a CLDN6 x CD3 T cell engaging bispecific antibody, in platinum-resistant ovarian cancer (PROC) patients heavily pretreated with a median of 7 prior lines of therapy.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322747/0/en/context-therapeutics-added-to-russell-2000-and-russell-3000-indexes.html"
         },
         {
-          "text": "VERAXA Biotech AG expanded its R&D hub in Heidelberg, Germany, with a greater than 60% increase in laboratory space to support its bispecific T cell engager and bispecific ADC programs.",
-          "url": "https://globenewswire.com/news-release/2026/07/02/3321216/0/en/veraxa-biotech-initiates-cell-line-development-with-atum-to-advance-its-lead-bitac-tce-program.html"
+          "text": "Genmab announced Phase 3 EPCORE DLBCL-4 trial met primary endpoint for epcoritamab (CD3xCD20 bispecific) plus lenalidomide in relapsed/refractory DLBCL, reducing risk of progression/death by 60% (HR 0.40) vs R-GemOx chemotherapy.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322680/0/en/genmab-announces-tepkinly-epcoritamab-in-combination-with-lenalidomide-and-rituximab-is-approved-by-the-european-commission-for-the-treatment-of-relapsed-or-refractory-follicular-l.html"
         },
         {
-          "text": "Genmab announced positive Phase 3 results for epcoritamab (a bispecific antibody) plus lenalidomide in relapsed/refractory diffuse large B-cell lymphoma, demonstrating statistically significant improvement in progression-free survival.",
-          "url": "https://globenewswire.com/news-release/2026/06/29/3319290/0/en/genmab-announces-positive-phase-3-results-for-epcoritamab-plus-lenalidomide-in-patients-with-relapsed-refractory-diffuse-large-b-cell-lymphoma-demonstrating-statistically-significa.html"
+          "text": "European Commission approved Genmab's TEPKINLY (epcoritamab) in combination with lenalidomide and rituximab for relapsed or refractory follicular lymphoma, expanding the indication for this CD3xCD20 bispecific antibody.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322680/0/en/genmab-announces-tepkinly-epcoritamab-in-combination-with-lenalidomide-and-rituximab-is-approved-by-the-european-commission-for-the-treatment-of-relapsed-or-refractory-follicular-l.html"
         },
         {
-          "text": "Xilio Therapeutics — XTX501 (bispecific PD-1 / masked IL-2) — Solid tumors — On track for IND submission mid-2026 and Phase 1 initiation H2 2026; initial data expected H2 2027 in metastatic non-small cell lung cancer.",
-          "url": "https://globenewswire.com/news-release/2026/06/29/3318867/0/en/xilio-therapeutics-appoints-ben-harshbarger-as-chief-legal-officer.html"
+          "text": "Context Therapeutics received FDA Fast Track Designation for CTIM-76 bispecific antibody in platinum-resistant ovarian cancer following interim Phase 1 data showing 57% disease control rate at active doses.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322747/0/en/context-therapeutics-added-to-russell-2000-and-russell-3000-indexes.html"
         },
         {
-          "text": "NovaBridge Biosciences received FDA Fast Track Designation for givastomig, a CLDN18.2 x 4-1BB bispecific antibody, in combination with nivolumab and chemotherapy for first-line HER2-negative metastatic gastric cancer.",
-          "url": "https://globenewswire.com/news-release/2026/06/29/3318837/0/en/novabridge-biosciences-appoints-dr-srishti-gupta-as-chief-executive-officer.html"
+          "text": "VERAXA Biotech initiated cell line development with ATUM for its lead BiTAC-TCE program, a bispecific T-cell engager format, to support IND/CTA-enabling activities.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322298/0/en/veraxa-biotech-provides-business-update-and-further-details-on-partnering-strategy-and-development-timelines.html"
+        },
+        {
+          "text": "Johnson & Johnson's CHMP recommendation for TECVAYLI (teclistamab), a bispecific antibody, in combination with daratumumab for relapsed/refractory multiple myeloma cites 83% overall survival at three years in treated patients.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322355/0/fr/la-recommandation-du-cmuh-fait-passer-le-tecvayli-teclistamab-de-johnson-johnson-associ%c3%a9-au-daratumumab-au-rang-de-traitement-conventionnel-potentiel-pour-le-my%c3%a9lome-multiple-r%c3%a9cid.html"
         }
       ]
     },
@@ -32,24 +36,20 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "VERAXA Biotech — BiTAC®-TCE — Cancer — Initiated cell line development with ATUM to advance lead bispecific T cell engager program toward clinical development.",
-          "url": "https://globenewswire.com/news-release/2026/07/02/3321216/0/en/veraxa-biotech-initiates-cell-line-development-with-atum-to-advance-its-lead-bitac-tce-program.html"
+          "text": "Context Therapeutics — CTIM-76 — Platinum-Resistant Ovarian Cancer — Phase 1 interim data: 29% ORR (2/7 evaluable), 57% DCR (4/7) at 140-280µg QW; CRS limited to Grade 1 (11%); FDA Fast Track granted; Q3W dosing planned for 2H 2026.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322747/0/en/context-therapeutics-added-to-russell-2000-and-russell-3000-indexes.html"
         },
         {
-          "text": "VERAXA Biotech — BiTAC platform (bispecific TCE and ADC) — Oncology — Expanded Heidelberg R&D facility by >60% to accommodate team additions and infrastructure for bispecific drug development.",
-          "url": "https://globenewswire.com/news-release/2026/07/02/3321216/0/en/veraxa-biotech-initiates-cell-line-development-with-atum-to-advance-its-lead-bitac-tce-program.html"
+          "text": "Genmab — Epcoritamab (TEPKINLY) — Relapsed/Refractory Follicular Lymphoma — European Commission approved combination with lenalidomide and rituximab; Phase 3 EPCORE DLBCL-4 met primary endpoint in DLBCL with 60% PFS risk reduction (HR 0.40) vs R-GemOx.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322680/0/en/genmab-announces-tepkinly-epcoritamab-in-combination-with-lenalidomide-and-rituximab-is-approved-by-the-european-commission-for-the-treatment-of-relapsed-or-refractory-follicular-l.html"
         },
         {
-          "text": "Genmab — Epcoritamab + Lenalidomide — Relapsed/Refractory Diffuse Large B-Cell Lymphoma — Phase 3 trial met primary endpoint with statistically significant improvement in progression-free survival; epcoritamab is a CD20xCD3 bispecific antibody.",
-          "url": "https://globenewswire.com/news-release/2026/06/29/3319290/0/en/genmab-announces-positive-phase-3-results-for-epcoritamab-plus-lenalidomide-in-patients-with-relapsed-refractory-diffuse-large-b-cell-lymphoma-demonstrating-statistically-significa.html"
+          "text": "VERAXA Biotech — BiTAC-TCE program — T-cell engager (bispecific) — Engaged ATUM for stable clonal cell line generation using Leap-In Transposase® technology to advance CMC development and nonclinical supply.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322298/0/en/veraxa-biotech-provides-business-update-and-further-details-on-partnering-strategy-and-development-timelines.html"
         },
         {
-          "text": "Xilio Therapeutics — XTX501 — Solid tumors — Bispecific PD-1/masked IL-2 program advancing to IND-enabling studies; planned Phase 1 initiation in H2 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/29/3318867/0/en/xilio-therapeutics-appoints-ben-harshbarger-as-chief-legal-officer.html"
-        },
-        {
-          "text": "NovaBridge Biosciences — Givastomig — First-line HER2-negative metastatic gastric cancer — FDA granted Fast Track Designation for CLDN18.2 x 4-1BB bispecific antibody in combination with nivolumab and chemotherapy; Phase 3 trial expected to begin Q4 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/29/3318837/0/en/novabridge-biosciences-appoints-dr-srishti-gupta-as-chief-executive-officer.html"
+          "text": "Johnson & Johnson — TECVAYLI (teclistamab) + daratumumab — Relapsed/refractory multiple myeloma — CHMP positive opinion for second-line use; Phase 3 data demonstrates durable disease control with >90% of non-progressing patients at 6 months remaining progression-free at 3 years.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322352/0/de/empfehlung-des-chmp-bringt-tecvayli-teclistamab-von-johnson-johnson-in-kombination-mit-daratumumab-als-potenziellen-behandlungsstandard-f%c3%bcr-das-rezidivierte-refrakt%c3%a4re-multiple-mye.html"
         }
       ]
     },
@@ -57,20 +57,20 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "VERAXA Biotech — Next-generation antibody therapeutics commercialization — BiTAC bispecific T cell engagers and bispecific ADCs — R&D hub expanded in Heidelberg; cell line development initiated for lead candidate.",
-          "url": "https://globenewswire.com/news-release/2026/07/02/3321216/0/en/veraxa-biotech-initiates-cell-line-development-with-atum-to-advance-its-lead-bitac-tce-program.html"
+          "text": "Context Therapeutics — Advancing T cell engaging bispecific antibodies for solid tumors — CTIM-76 (CLDN6 x CD3) — Phase 1 ongoing; 29% ORR in PROC; Fast Track designation; planning Q3W dosing expansion in 2027.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322747/0/en/context-therapeutics-added-to-russell-2000-and-russell-3000-indexes.html"
         },
         {
-          "text": "Genmab — Bispecific antibody commercialization and pipeline expansion — Epcoritamab (CD20xCD3 bispecific) — Phase 3 positive data in DLBCL; company maintains broad portfolio including ADCs and immune-modulating antibodies.",
-          "url": "https://globenewswire.com/news-release/2026/06/29/3319290/0/en/genmab-announces-positive-phase-3-results-for-epcoritamab-plus-lenalidomide-in-patients-with-relapsed-refractory-diffuse-large-b-cell-lymphoma-demonstrating-statistically-significa.html"
+          "text": "Genmab — Commercializing CD3xCD20 bispecific antibody platform — Epcoritamab (TEPKINLY) — EC approval for R/R follicular lymphoma combo; Phase 3 positive in R/R DLBCL (HR 0.40 PFS); global regulatory submissions planned.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322680/0/en/genmab-announces-tepkinly-epcoritamab-in-combination-with-lenalidomide-and-rituximab-is-approved-by-the-european-commission-for-the-treatment-of-relapsed-or-refractory-follicular-l.html"
         },
         {
-          "text": "Xilio Therapeutics — Masked immuno-oncology bispecific development — XTX501 (bispecific PD-1/masked IL-2) — IND submission planned mid-2026; achieved financial milestone under AbbVie collaboration extending cash runway to early 2028.",
-          "url": "https://globenewswire.com/news-release/2026/06/29/3318867/0/en/xilio-therapeutics-appoints-ben-harshbarger-as-chief-legal-officer.html"
+          "text": "VERAXA Biotech — Advancing novel cancer therapies via BiTAC-TCE platform — Lead BiTAC-TCE bispecific program — Initiated cell line development with ATUM following encouraging preclinical data presented at AACR.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322298/0/en/veraxa-biotech-provides-business-update-and-further-details-on-partnering-strategy-and-development-timelines.html"
         },
         {
-          "text": "NovaBridge Biosciences — Accelerating CLDN18.2-directed bispecific therapy — Givastomig (TJ033721) — Phase 1b data supports accelerated approval pathway; registrational Phase 3 trial initiation planned for Q4 2026.",
-          "url": "https://globenewswire.com/news-release/2026/06/29/3318837/0/en/novabridge-biosciences-appoints-dr-srishti-gupta-as-chief-executive-officer.html"
+          "text": "Johnson & Johnson — Bispecific antibody standard-of-care establishment — TECVAYLI (teclistamab) + daratumumab — CHMP recommendation for RRMM; leveraging complementary immunotherapy mechanisms to improve long-term survival outcomes.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322355/0/fr/la-recommandation-du-cmuh-fait-passer-le-tecvayli-teclistamab-de-johnson-johnson-associ%c3%a9-au-daratumumab-au-rang-de-traitement-conventionnel-potentiel-pour-le-my%c3%a9lome-multiple-r%c3%a9cid.html"
         }
       ]
     },
@@ -78,20 +78,20 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "BiTAC®-TCE — Mechanism: Bispecific T cell engager utilizing two complementary precursors for tumor-restricted activation — Phase: Pre-clinical/IND-enabling — Population: Cancer patients — Status: Cell line development initiated with ATUM to support clinical entry.",
-          "url": "https://globenewswire.com/news-release/2026/07/02/3321216/0/en/veraxa-biotech-initiates-cell-line-development-with-atum-to-advance-its-lead-bitac-tce-program.html"
+          "text": "CTIM-76 — Mechanism: CLDN6 x CD3 T cell engaging bispecific antibody — Phase: 1 — Population: Platinum-resistant ovarian cancer (PROC), testicular, endometrial — Comparator: None (dose-escalation) — Endpoints/Results: 29% confirmed ORR (2/7) at 140–280µg QW; 57% DCR; Grade 1 CRS in 11%.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322747/0/en/context-therapeutics-added-to-russell-2000-and-russell-3000-indexes.html"
         },
         {
-          "text": "Epcoritamab — Mechanism: CD20xCD3 bispecific T-cell engager — Phase: 3 — Population: Relapsed/refractory diffuse large B-cell lymphoma — Comparator: Lenalidomide combination — Endpoints/Results: Statistically significant improvement in progression-free survival reported.",
-          "url": "https://globenewswire.com/news-release/2026/06/29/3319290/0/en/genmab-announces-positive-phase-3-results-for-epcoritamab-plus-lenalidomide-in-patients-with-relapsed-refractory-diffuse-large-b-cell-lymphoma-demonstrating-statistically-significa.html"
+          "text": "Epcoritamab — Mechanism: T-cell engaging bispecific antibody (DuoBody-CD3xCD20) — Phase: 3 (EPCORE DLBCL-4) — Population: Relapsed/refractory DLBCL — Comparator: R-GemOx — Results: 60% reduction in risk of progression/death (HR 0.40, p<0.0001); chemotherapy-free regimen.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322680/0/en/genmab-announces-tepkinly-epcoritamab-in-combination-with-lenalidomide-and-rituximab-is-approved-by-the-european-commission-for-the-treatment-of-relapsed-or-refractory-follicular-l.html"
         },
         {
-          "text": "XTX501 — Mechanism: Bispecific PD-1 / masked IL-2 designed to selectively stimulate PD-1 positive antigen-experienced T cells while overcoming IL-2 receptor-mediated clearance — Phase: Preclinical/IND-enabling — Population: Solid tumors (metastatic NSCLC planned) — Comparator: None stated — Results: Robust monotherapy activity in PD-1 insensitive settings; tumor-selective pharmacodynamics confirmed.",
-          "url": "https://globenewswire.com/news-release/2026/06/29/3318867/0/en/xilio-therapeutics-appoints-ben-harshbarger-as-chief-legal-officer.html"
+          "text": "BiTAC-TCE — Mechanism: Bispecific T-cell engager binding CD3 on T-cells and tumor antigen to redirect cytotoxic T-cells — Phase: Preclinical/IND-enabling — Population: Not specified — Comparator: Conventional T-cell engagers (noted for on-target off-tumor toxicity) — Endpoints: Stable clonal cell line generation for multi-chain antibody formats to improve therapeutic window.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322298/0/en/veraxa-biotech-provides-business-update-and-further-details-on-partnering-strategy-and-development-timelines.html"
         },
         {
-          "text": "Givastomig — Mechanism: CLDN18.2 x 4-1BB bispecific antibody — Phase: 1b (data presented) — Population: HER2-negative advanced/metastatic gastroesophageal adenocarcinomas (CLDN18.2+ and PD-L1+) — Comparator: Historical benchmarks for standard of care — Results: Deep and durable responses with marked improvement vs historical benchmarks; favorable tolerability in combination with immunochemotherapy.",
-          "url": "https://globenewswire.com/news-release/2026/06/29/3318837/0/en/novabridge-biosciences-appoints-dr-srishti-gupta-as-chief-executive-officer.html"
+          "text": "TECVAYLI (teclistamab) + daratumumab — Mechanism: Bispecific-like dual targeting (BCMA/CD3 via teclistamab) combined with CD38 modulation (daratumumab) to enhance T-cell activation and tumor microenvironment — Phase: 3 — Population: Relapsed/refractory multiple myeloma (second-line) — Comparator: Standard of care — Results: Statistically significant PFS and OS improvement; 83% overall survival at 3 years.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322352/0/de/empfehlung-des-chmp-bringt-tecvayli-teclistamab-von-johnson-johnson-in-kombination-mit-daratumumab-als-potenziellen-behandlungsstandard-f%c3%bcr-das-rezidivierte-refrakt%c3%a4re-multiple-mye.html"
         }
       ]
     },
@@ -99,12 +99,20 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "VERAXA Biotech — Strategic R&D expansion — BiTAC bispecific pipeline — Secured long-term lease for >60% larger laboratory space in Heidelberg, Germany, to support bispecific TCE and ADC development.",
-          "url": "https://globenewswire.com/news-release/2026/07/02/3321216/0/en/veraxa-biotech-initiates-cell-line-development-with-atum-to-advance-its-lead-bitac-tce-program.html"
+          "text": "Genmab — Regulatory filing strategy — TEPKINLY (epcoritamab) — Engaging global authorities for epcoritamab + lenalidomide in DLBCL following Phase 3 success; building on EC approval for FL.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322680/0/en/genmab-announces-tepkinly-epcoritamab-in-combination-with-lenalidomide-and-rituximab-is-approved-by-the-european-commission-for-the-treatment-of-relapsed-or-refractory-follicular-l.html"
         },
         {
-          "text": "Xilio Therapeutics — AbbVie collaboration milestone — XTX501 and masked T-cell engager programs — Achieved development milestone extending cash runway into early 2028.",
-          "url": "https://globenewswire.com/news-release/2026/06/29/3318867/0/en/xilio-therapeutics-appoints-ben-harshbarger-as-chief-legal-officer.html"
+          "text": "Johnson & Johnson — Regulatory milestone — TECVAYLI (teclistamab) + daratumumab — CHMP positive opinion for RRMM indication; poised for EU approval to establish new treatment standard.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322355/0/fr/la-recommandation-du-cmuh-fait-passer-le-tecvayli-teclistamab-de-johnson-johnson-associ%c3%a9-au-daratumumab-au-rang-de-traitement-conventionnel-potentiel-pour-le-my%c3%a9lome-multiple-r%c3%a9cid.html"
+        },
+        {
+          "text": "VERAXA Biotech — Partnership with ATUM — BiTAC-TCE program — Contract for cell line development using Leap-In Transposase technology to support IND/CTA-enabling activities for bispecific T-cell engager candidate.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322298/0/en/veraxa-biotech-provides-business-update-and-further-details-on-partnering-strategy-and-development-timelines.html"
+        },
+        {
+          "text": "Context Therapeutics — Index inclusion — CTIM-76 — Added to Russell 2000 and Russell 3000 indexes following positive Phase 1 bispecific antibody data.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322747/0/en/context-therapeutics-added-to-russell-2000-and-russell-3000-indexes.html"
         }
       ]
     }
