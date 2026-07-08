@@ -1,22 +1,102 @@
 {
   "query": "monoclonal",
-  "generated_at": "2026-07-04 07:55:25",
-  "article_count": 36,
+  "generated_at": "2026-07-08 08:12:20",
+  "article_count": 20,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Lonza announced expansion of payload-linker manufacturing capacity at its Visp site to support the antibody-drug conjugate (ADC) market, which relies on monoclonal antibody manufacture, conjugation, and drug product capabilities.",
-          "url": "https://drug-dev.com/lonza-expands-hpapi-capacity-in-visp-further-supporting-its-position-in-payload-linker-manufacturing/"
+          "text": "TaiMed Biologics received a TFDA drug license collection notice for Trogarzo (ibalizumab), the world's first FDA-approved monoclonal antibody for HIV, marking the final step toward commercial launch in Taiwan.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
         },
         {
-          "text": "Ipsen entered a definitive agreement to acquire Memo Therapeutics for >€700M, securing potravitug, a monoclonal antibody against BKPyV for BK polyomavirus-associated nephropathy.",
-          "url": "https://pharmashots.com/34241/ipsen-to-acquire-memo-therapeutics-for-e700m/"
+          "text": "TaiMed Biologics completed Phase 2b enrollment for TMB-365/380, a long-acting dual-antibody (monoclonal) regimen for HIV maintenance therapy, with interim analysis anticipated by year-end 2026.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
         },
         {
-          "text": "AstraZeneca's tozorakimab, an IL-33 biologic, achieved positive results in its third Phase III trial (MIRANDA), joining OBERON and TITANIA to support regulatory submissions for COPD.",
-          "url": "https://pharmashots.com/34215/expanding-copd-treatment-horizons-caterina-brindicci-and-frank-sciurba-on-tozorakimabs-phase-iii-journey/"
+          "text": "Acumen Pharmaceuticals nominated two Enhanced Brain Delivery (EBD) development candidates, ACU301 and ACU401, which combine JCR Pharmaceuticals' blood-brain barrier-penetrating technology with therapeutic monoclonal antibodies for Alzheimer's disease.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+        },
+        {
+          "text": "Acumen Pharmaceuticals' EBD candidates include a bispecific antibody derived from sabirnetug and a novel AβO-selective antibody (ACU234), designed to achieve 14-40x higher brain penetration in non-human primates compared to native antibodies.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+        },
+        {
+          "text": "Teva Pharmaceutical Industries Ltd. — Anti-IL-15 antibody — Vitiligo — Advancing into Phase 2b development following encouraging Phase 1b results; designed for quarterly dosing regimen.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323041/0/en/teva-to-advance-its-anti-il-15-antibody-designed-for-quarterly-dosing-into-phase-2b-development-in-vitiligo-following-encouraging-phase-1b-results.html"
+        },
+        {
+          "text": "Avalo Therapeutics — abdakibart — Hidradenitis Suppurativa — Phase 2 trial reported positive topline data; asset is an anti-IL-1β monoclonal antibody.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
+        },
+        {
+          "text": "Avalo Therapeutics — AVTX-010 — Immune-mediated inflammatory diseases — Advancing long-acting next-generation anti-IL-1β monoclonal antibody designed to extend dosing intervals.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
+        },
+        {
+          "text": "ImageneBio — IMG-007 — Atopic Dermatitis — Phase 2b clinical trial ongoing; asset is a receptor targeting, non-T cell-depleting, ADCC-silenced, anti-OX40 monoclonal antibody with ~5-week half-life.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
+        },
+        {
+          "text": "ImageneBio — IMG-007 — Alopecia Areata — Proof-of-concept trial completed; Phase 2 study initiation planned.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
+        },
+        {
+          "text": "TG Therapeutics initiated a Phase 2 trial evaluating BRIUMVI (ublituximab), an anti-CD20 monoclonal antibody, for treatment-resistant schizophrenia following positive Phase 1 data in myasthenia gravis.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
+        },
+        {
+          "text": "Invivyd received a 12-month advanced notice of Emergency Use Authorization (EUA) termination for PEMGARDA (pemivibart), a long-acting monoclonal antibody for SARS-CoV-2 prophylaxis, effective June 29, 2027.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322321/0/en/invivyd-announces-receipt-of-twelve-months-advanced-notice-of-emergency-use-authorization-eua-termination-for-pemgarda-and-provides-an-update-on-next-steps-with-the-u-s-fda.html"
+        },
+        {
+          "text": "TG Therapeutics reported that 82% of patients in a Phase 1 study of subcutaneous BRIUMVI achieved a Minimal Clinically Important Difference in MG-ADL scores at Week 24.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
+        },
+        {
+          "text": "TaiMed Biologics received TFDA drug license collection notice for Trogarzo (ibalizumab), the world's first FDA-approved monoclonal antibody for HIV, marking the final step toward commercial launch in Taiwan.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
+        },
+        {
+          "text": "TaiMed Biologics completed Phase 2b enrollment for TMB-365/380, a long-acting dual-antibody regimen for HIV maintenance therapy, with interim analysis anticipated by year-end 2026.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
+        },
+        {
+          "text": "Acumen Pharmaceuticals nominated two Enhanced Brain Delivery (EBD) development candidates, ACU301 and ACU401, combining AβO-selective antibody expertise with JCR Pharmaceuticals' blood-brain barrier-penetrating technology for Alzheimer's disease.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+        },
+        {
+          "text": "Acumen's EBD program utilizes bispecific antibodies derived from sabirnetug and ACU234 to achieve 14-40x higher brain penetration in non-human primates compared to native antibodies.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+        },
+        {
+          "text": "Avalo Therapeutics — abdakibart — Hidradenitis Suppurativa — Phase 2 trial reported positive topline data; abdakibart is an anti-IL-1β monoclonal antibody (mAb).",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
+        },
+        {
+          "text": "Avalo Therapeutics — AVTX-010 — Immune-mediated inflammatory diseases — Advancing as a long-acting next-generation anti-IL-1β monoclonal antibody designed to extend dosing intervals.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
+        },
+        {
+          "text": "ImageneBio — IMG-007 — Atopic Dermatitis — Conducting Phase 2b clinical trial; IMG-007 is a receptor targeting, non-T cell-depleting, ADCC-silenced, anti-OX40 monoclonal antibody with a ~5-week half-life.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
+        },
+        {
+          "text": "ImageneBio — IMG-007 — Alopecia Areata — Completed proof-of-concept trial; plans to initiate Phase 2 study.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
+        },
+        {
+          "text": "TG Therapeutics initiated a Phase 2 trial evaluating BRIUMVI (ublituximab), an anti-CD20 monoclonal antibody, in patients with treatment-resistant schizophrenia.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
+        },
+        {
+          "text": "TG Therapeutics reported positive Phase 1 data for subcutaneous BRIUMVI in myasthenia gravis, with 82% of patients achieving Minimal Clinically Important Difference in MG-ADL scores at Week 24.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
+        },
+        {
+          "text": "Invivyd received a 12-month advanced notice of Emergency Use Authorization (EUA) termination for PEMGARDA (pemivibart), a long-acting monoclonal antibody for SARS-CoV-2 prophylaxis.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322321/0/en/invivyd-announces-receipt-of-twelve-months-advanced-notice-of-emergency-use-authorization-eua-termination-for-pemgarda-and-provides-an-update-on-next-steps-with-the-u-s-fda.html"
         }
       ]
     },
@@ -24,16 +104,68 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Lonza — Payload-linker manufacturing expansion — ADC therapies — New commercial-scale HPAPI and linker capacity at Visp site; facility integrates with existing monoclonal antibody manufacture and conjugation capabilities; operational expected 2028.",
-          "url": "https://drug-dev.com/lonza-expands-hpapi-capacity-in-visp-further-supporting-its-position-in-payload-linker-manufacturing/"
+          "text": "TaiMed Biologics — Trogarzo (ibalizumab) — HIV — TFDA drug license collection notice received; world's first FDA-approved monoclonal antibody for HIV entering commercial launch in Taiwan.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
         },
         {
-          "text": "Ipsen — Memo Therapeutics — BK polyomavirus-associated nephropathy — Acquired for >€700M (€200M upfront); deal includes potravitug, a monoclonal antibody evaluated in Phase II (SAFE Kidney II) trial.",
-          "url": "https://pharmashots.com/34241/ipsen-to-acquire-memo-therapeutics-for-e700m/"
+          "text": "TaiMed Biologics — TMB-365/380 — HIV Maintenance Therapy — Phase 2b enrollment completed ahead of schedule; interim analysis expected year-end 2026; plans to submit Breakthrough Therapy Designation to FDA.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
         },
         {
-          "text": "AstraZeneca — Tozorakimab — COPD — Three positive Phase III trials (MIRANDA, OBERON, TITANIA) completed; first IL-33 biologic to achieve this milestone, regulatory discussions pending.",
-          "url": "https://pharmashots.com/34215/expanding-copd-treatment-horizons-caterina-brindicci-and-frank-sciurba-on-tozorakimabs-phase-iii-journey/"
+          "text": "Acumen Pharmaceuticals — ACU301/ACU401 — Alzheimer's Disease — Nominated two EBD candidates combining therapeutic monoclonal antibodies with JCR's J-Brain Cargo technology; IND submission planned mid-2027.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+        },
+        {
+          "text": "Teva Pharmaceutical Industries Ltd. — Anti-IL-15 antibody — Vitiligo — Phase 2b development initiated after Phase 1b data supported quarterly dosing strategy.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323041/0/en/teva-to-advance-its-anti-il-15-antibody-designed-for-quarterly-dosing-into-phase-2b-development-in-vitiligo-following-encouraging-phase-1b-results.html"
+        },
+        {
+          "text": "Avalo Therapeutics — abdakibart — Hidradenitis Suppurativa — Phase 2 positive topline data reported; anti-IL-1β monoclonal antibody.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
+        },
+        {
+          "text": "ImageneBio — IMG-007 — Atopic Dermatitis — Phase 2b trial ongoing; anti-OX40 monoclonal antibody with ADCC-silenced mechanism.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
+        },
+        {
+          "text": "TG Therapeutics — BRIUMVI (ublituximab) — Treatment-Resistant Schizophrenia — Initiated Phase 2 trial as maintenance therapy following efgartigimod induction; trial builds on Phase 1 data in Myasthenia Gravis.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
+        },
+        {
+          "text": "Invivyd — PEMGARDA (pemivibart) — SARS-CoV-2 Prophylaxis — Received 12-month advance notice of EUA termination from FDA; next steps pending regulatory guidance.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322321/0/en/invivyd-announces-receipt-of-twelve-months-advanced-notice-of-emergency-use-authorization-eua-termination-for-pemgarda-and-provides-an-update-on-next-steps-with-the-u-s-fda.html"
+        },
+        {
+          "text": "TaiMed Biologics — Trogarzo (ibalizumab) — HIV — TFDA drug license collection notice received; world's first FDA-approved monoclonal antibody for HIV.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
+        },
+        {
+          "text": "TaiMed Biologics — TMB-365/380 — HIV maintenance therapy — Phase 2b enrollment completed ahead of schedule; interim analysis expected year-end 2026; peak sales estimated at $3–4 billion.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
+        },
+        {
+          "text": "Acumen Pharmaceuticals — ACU301/ACU401 — Alzheimer's disease — Two EBD candidates nominated combining AβO-selective antibodies with J-Brain Cargo technology; IND submission planned mid-2027.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+        },
+        {
+          "text": "Avalo Therapeutics — abdakibart — Hidradenitis Suppurativa — Phase 2 trial met primary endpoints with positive topline data; anti-IL-1β monoclonal antibody.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
+        },
+        {
+          "text": "ImageneBio — IMG-007 — Atopic Dermatitis — Phase 2b trial ongoing; anti-OX40 monoclonal antibody featuring ADCC silencing and 5-week half-life.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
+        },
+        {
+          "text": "TG Therapeutics — BRIUMVI (ublituximab) — Treatment-Resistant Schizophrenia — Initiated Phase 2 trial evaluating anti-CD20 monoclonal antibody as maintenance therapy.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
+        },
+        {
+          "text": "TG Therapeutics — BRIUMVI (ublituximab) — Myasthenia Gravis — Phase 1 subcutaneous formulation met endpoint: 82% of patients achieved MCID in MG-ADL at Week 24; mean 4.6-point improvement observed.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
+        },
+        {
+          "text": "Invivyd — PEMGARDA (pemivibart) — SARS-CoV-2 Prophylaxis — Received 12-month advanced notice of EUA termination from FDA; next steps under discussion.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322321/0/en/invivyd-announces-receipt-of-twelve-months-advanced-notice-of-emergency-use-authorization-eua-termination-for-pemgarda-and-provides-an-update-on-next-steps-with-the-u-s-fda.html"
         }
       ]
     },
@@ -41,16 +173,56 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Lonza — Integrated ADC ecosystem expansion — Payload-linkers and monoclonal antibodies — Expanding Visp site with new HPAPI capacity, conjugation, and drug product manufacturing; facility designed for multipurpose use and scale-out.",
-          "url": "https://drug-dev.com/lonza-expands-hpapi-capacity-in-visp-further-supporting-its-position-in-payload-linker-manufacturing/"
+          "text": "TaiMed Biologics — Commercialization of HIV monoclonal antibody portfolio — Trogarzo (ibalizumab) + TMB-365/380 — Trogarzo launched in Taiwan; TMB-365/380 Phase 2b completed with peak sales estimate of $3–4 billion.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
         },
         {
-          "text": "Ipsen — Strategic acquisition of monoclonal antibody assets — Potravitug (BKPyV mAb) — Deal value >€700M; assets transfer expected Q3 2026.",
-          "url": "https://pharmashots.com/34241/ipsen-to-acquire-memo-therapeutics-for-e700m/"
+          "text": "Acumen Pharmaceuticals — Development of brain-penetrating monoclonal antibodies for Alzheimer's — ACU301/ACU401 (EBD program) — Option exercised with JCR Pharmaceuticals; IND-enabling activities ongoing for mid-2027 submission.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
         },
         {
-          "text": "AstraZeneca — Respiratory biologic expansion — Tozorakimab (IL-33 inhibitor) — Three Phase III trials positive; positioned as first-in-class COPD biologic for broad patient populations.",
-          "url": "https://pharmashots.com/34215/expanding-copd-treatment-horizons-caterina-brindicci-and-frank-sciurba-on-tozorakimabs-phase-iii-journey/"
+          "text": "Teva Pharmaceutical Industries Ltd. — Immunology pipeline expansion — Anti-IL-15 antibody — Phase 2b development in vitiligo; quarterly dosing formulation advancing.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323041/0/en/teva-to-advance-its-anti-il-15-antibody-designed-for-quarterly-dosing-into-phase-2b-development-in-vitiligo-following-encouraging-phase-1b-results.html"
+        },
+        {
+          "text": "Avalo Therapeutics — IL-1β pathway targeting — abdakibart + AVTX-010 (anti-IL-1β mAbs) — Phase 2 data positive for abdakibart; AVTX-010 in development for extended dosing.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
+        },
+        {
+          "text": "ImageneBio — Autoimmune/Inflammatory disease therapeutics — IMG-007 (anti-OX40 mAb) — Phase 2b in atopic dermatitis; Phase 2 planned for alopecia areata.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
+        },
+        {
+          "text": "TG Therapeutics — Expansion of anti-CD20 monoclonal antibody BRIUMVI beyond Multiple Sclerosis — Myasthenia Gravis and Schizophrenia — Phase 1 data showed 82% MCID achievement in MG; Phase 2 schizophrenia trial initiated.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
+        },
+        {
+          "text": "Invivyd — Commercialization of long-acting monoclonal antibody PEMGARDA — SARS-CoV-2 Prophylaxis — Facing EUA termination notice in 2027; advancing Phase 3 LIBERTY trial for VYD2311 antibody.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322321/0/en/invivyd-announces-receipt-of-twelve-months-advanced-notice-of-emergency-use-authorization-eua-termination-for-pemgarda-and-provides-an-update-on-next-steps-with-the-u-s-fda.html"
+        },
+        {
+          "text": "TaiMed Biologics — Commercialization of HIV monoclonal antibodies — Trogarzo (ibalizumab) + TMB-365/380 pipeline — Trogarzo launched in Taiwan; TMB-365/380 Phase 2b completed with potential BTD filing.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
+        },
+        {
+          "text": "Acumen Pharmaceuticals — Blood-brain barrier-penetrating antibody development — ACU301/ACU401 (EBD program) — Option exercised with JCR Pharmaceuticals; bispecific antibodies advancing to IND-enabling studies.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+        },
+        {
+          "text": "Avalo Therapeutics — IL-1β pathway targeting — abdakibart + AVTX-010 (anti-IL-1β mAbs) — Phase 2 positive data for HS; advancing long-acting next-gen mAb AVTX-010.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
+        },
+        {
+          "text": "ImageneBio — Anti-OX40 monoclonal antibody development — IMG-007 — Phase 2b in atopic dermatitis; Phase 2 planned for alopecia areata following POC completion.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
+        },
+        {
+          "text": "TG Therapeutics — Expansion of anti-CD20 monoclonal antibody BRIUMVI beyond Multiple Sclerosis — Myasthenia Gravis and Schizophrenia indications — Phase 1 data positive; Phase 2 trial initiated.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
+        },
+        {
+          "text": "Invivyd — Commercialization and regulatory strategy for long-acting monoclonal antibody PEMGARDA — SARS-CoV-2 prophylaxis — Facing EUA termination notice; advancing Phase 3 LIBERTY trial for VYD2311.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322321/0/en/invivyd-announces-receipt-of-twelve-months-advanced-notice-of-emergency-use-authorization-eua-termination-for-pemgarda-and-provides-an-update-on-next-steps-with-the-u-s-fda.html"
         }
       ]
     },
@@ -58,16 +230,64 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "ADC Payload-Linkers — Mechanism: Conjugation to monoclonal antibodies for targeted delivery — Phase: Clinical and commercial manufacturing support — Population: Patients requiring targeted ADC therapies — Endpoints: Enhanced production of complex, highly potent molecules via new Visp facility.",
-          "url": "https://drug-dev.com/lonza-expands-hpapi-capacity-in-visp-further-supporting-its-position-in-payload-linker-manufacturing/"
+          "text": "TMB-365/380 — Mechanism: Long-acting dual-antibody (monoclonal) regimen — Phase: 2b — Population: People living with HIV — Comparator: N/A (maintenance therapy) — Results: Viral suppression and biomarkers consistent with expectations after first two doses.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
         },
         {
-          "text": "Potravitug — Mechanism: Monoclonal antibody against BK polyomavirus (BKPyV) — Phase: 2 (SAFE Kidney II) — Population: Kidney transplant recipients with BKPyV-associated nephropathy — Comparator: Not specified in source — Status: Under evaluation.",
-          "url": "https://pharmashots.com/34241/ipsen-to-acquire-memo-therapeutics-for-e700m/"
+          "text": "ACU301/ACU401 — Mechanism: Bispecific/monoclonal antibodies targeting soluble amyloid beta oligomers with transferrin-receptor-mediated BBB penetration — Phase: Preclinical/IND-enabling — Population: Alzheimer's Disease — Comparator: Native antibodies — Results: 14-40x higher brain antibody levels in non-human primates.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
         },
         {
-          "text": "Tozorakimab — Mechanism: Dual inhibition of reduced and oxidized IL-33 — Phase: 3 (MIRANDA, OBERON, TITANIA) — Population: Broad COPD population including smokers and varying eosinophil levels — Comparator: Not specified in source — Results: Positive efficacy across all three trials.",
-          "url": "https://pharmashots.com/34215/expanding-copd-treatment-horizons-caterina-brindicci-and-frank-sciurba-on-tozorakimabs-phase-iii-journey/"
+          "text": "Anti-IL-15 antibody — Mechanism: Interleukin-15 blockade — Phase: 2b (following Phase 1b) — Population: Vitiligo patients — Dosing: Quarterly regimen — Status: Advancing to Phase 2b based on Phase 1b results.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323041/0/en/teva-to-advance-its-anti-il-15-antibody-designed-for-quarterly-dosing-into-phase-2b-development-in-vitiligo-following-encouraging-phase-1b-results.html"
+        },
+        {
+          "text": "abdakibart — Mechanism: Anti-IL-1β monoclonal antibody — Phase: 2 — Population: Hidradenitis suppurativa — Results: Positive topline data reported.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
+        },
+        {
+          "text": "AVTX-010 — Mechanism: Long-acting anti-IL-1β monoclonal antibody — Phase: Preclinical/Early clinical — Population: Immune-mediated inflammatory diseases — Design: Extended dosing intervals.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
+        },
+        {
+          "text": "IMG-007 — Mechanism: Anti-OX40 monoclonal antibody (receptor targeting, non-T cell-depleting, ADCC-silenced) — Phase: 2b — Population: Moderate-to-severe atopic dermatitis — PK: ~5-week half-life.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
+        },
+        {
+          "text": "IMG-007 — Mechanism: Anti-OX40 monoclonal antibody — Phase: 2 (planned) — Population: Alopecia areata — Status: Proof-of-concept trial completed.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
+        },
+        {
+          "text": "BRIUMVI (ublituximab) — Mechanism: Anti-CD20 monoclonal antibody depleting B-cells — Phase: 2 (Schizophrenia) / 1 (MG) — Population: Treatment-resistant schizophrenia / AChR-antibody-positive Myasthenia Gravis — Comparator: None (open-label Phase 1) — Results: 82% of MG patients achieved MCID in MG-ADL at Week 24; mean 4.6 point improvement.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
+        },
+        {
+          "text": "PEMGARDA (pemivibart) — Mechanism: Long-acting monoclonal antibody neutralizing SARS-CoV-2 — Phase: EUA (Terminated) — Population: Adults at risk for severe COVID-19 — Comparator: N/A — Status: Received 12-month advance notice of EUA termination effective June 29, 2027.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322321/0/en/invivyd-announces-receipt-of-twelve-months-advanced-notice-of-emergency-use-authorization-eua-termination-for-pemgarda-and-provides-an-update-on-next-steps-with-the-u-s-fda.html"
+        },
+        {
+          "text": "TMB-365/380 — Mechanism: Long-acting dual-antibody regimen (bNAb combination) — Phase: 2b — Population: People living with HIV — Comparator: None stated — Results: Viral suppression and biomarkers consistent with expectations after first two doses.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
+        },
+        {
+          "text": "ACU301/ACU401 — Mechanism: Bispecific antibodies targeting soluble amyloid beta oligomers (AβOs) with transferrin-receptor-mediated BBB penetration — Phase: Preclinical/IND-enabling — Population: Alzheimer's disease — Comparator: Native antibodies — Results: 14-40x higher brain penetration in non-human primates.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+        },
+        {
+          "text": "AVTX-010 — Mechanism: Long-acting next-generation anti-IL-1β monoclonal antibody — Phase: Preclinical/Early Clinical — Design: Extended dosing intervals.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
+        },
+        {
+          "text": "IMG-007 — Mechanism: Anti-OX40 monoclonal antibody (ADCC-silenced, non-T cell-depleting) — Phase: 2b — Population: Moderate-to-severe atopic dermatitis — PK: ~5-week half-life.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
+        },
+        {
+          "text": "BRIUMVI (ublituximab) — Mechanism: Anti-CD20 monoclonal antibody depleting B-cells — Phase: 1 (SC formulation) — Population: AChR-antibody-positive Myasthenia Gravis (n=11) — Comparator: None (open-label) — Results: 82% achieved MCID in MG-ADL at Week 24; median time to MCID 30 days.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
+        },
+        {
+          "text": "PEMGARDA (pemivibart) — Mechanism: Long-acting monoclonal antibody targeting SARS-CoV-2 — Phase: EUA status (termination notice received) — Population: Adults at risk for severe COVID-19 — Comparator: N/A — Status: Advanced notice of EUA termination issued July 1, 2026.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322321/0/en/invivyd-announces-receipt-of-twelve-months-advanced-notice-of-emergency-use-authorization-eua-termination-for-pemgarda-and-provides-an-update-on-next-steps-with-the-u-s-fda.html"
         }
       ]
     },
@@ -75,12 +295,24 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Lonza — Strategic capacity investment — ADC payload-linker and monoclonal antibody manufacturing — Expansion of Visp GMP facility to include new suites for highly potent active pharmaceutical ingredients; expected operational date 2028.",
-          "url": "https://drug-dev.com/lonza-expands-hpapi-capacity-in-visp-further-supporting-its-position-in-payload-linker-manufacturing/"
+          "text": "TaiMed Biologics — Strategic partnership exploration for TMB-365/380 — Licensing and co-development opportunities — Company exploring global development and commercialization partnerships for the dual-antibody HIV regimen.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
         },
         {
-          "text": "Ipsen — Memo Therapeutics — BK polyomavirus-associated nephropathy — Acquired for >€700M (€200M upfront); deal includes potravitug, a monoclonal antibody evaluated in Phase II (SAFE Kidney II) trial.",
-          "url": "https://pharmashots.com/34241/ipsen-to-acquire-memo-therapeutics-for-e700m/"
+          "text": "Acumen Pharmaceuticals / JCR Pharmaceuticals — License agreement option exercise — ACU301/ACU401 development — Acumen exercised option to advance two EBD candidates combining its antibody expertise with JCR's J-Brain Cargo technology.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+        },
+        {
+          "text": "TaiMed Biologics — Strategic partnerships for TMB-365/380 — HIV maintenance therapy — Exploring licensing and co-development opportunities to support global commercialization.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
+        },
+        {
+          "text": "Acumen Pharmaceuticals / JCR Pharmaceuticals — Option exercise for EBD program — Alzheimer's disease antibodies — Acumen exercised option to advance ACU301 and ACU401 combining JCR's J-Brain Cargo technology with Acumen's antibody platform.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+        },
+        {
+          "text": "Avalo Therapeutics — Index inclusion — Russell 2000® and Russell 3000® — Added to indexes effective June 26, 2026, reflecting clinical progress of anti-IL-1β monoclonal antibody portfolio.",
+          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
         }
       ]
     }
