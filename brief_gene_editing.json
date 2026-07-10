@@ -1,14 +1,30 @@
 {
   "query": "CRISPR",
-  "generated_at": "2026-07-06 09:16:59",
-  "article_count": 20,
+  "generated_at": "2026-07-10 08:21:09",
+  "article_count": 12,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "The global CRISPR-based drug development platforms market is projected to reach USD 0.79 billion by 2031, driven by precision medicine and gene therapy adoption.",
-          "url": "https://globenewswire.com/news-release/2026/07/03/3321722/28124/en/global-crispr-based-drug-development-platforms-market-to-reach-usd-0-79-billion-by-2031-precision-medicine-and-gene-therapy-drive-growth.html"
+          "text": "Cytosurge AG — CellEDIT platform — Genome engineering — Validated ability to perform multi-guide CRISPR editing in fragile human keratinocytes with controlled dosing, overcoming low transfection efficiency barriers.",
+          "url": "https://globenewswire.com/news-release/2026/07/09/3324559/0/en/cytosurge-s-celledit-conquers-impossible-genome-engineering-challenges.html"
+        },
+        {
+          "text": "Intellia Therapeutics — Lonvoguran Ziclumeran (lonvo-z) — Hereditary Angioedema (HAE) — Phase 3 HAELO trial met primary endpoint with 87% reduction in mean monthly attacks vs placebo (p<0.0001); 62% of patients achieved attack-free and therapy-free status for six months.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322739/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+        },
+        {
+          "text": "Intellia Therapeutics — Lonvoguran Ziclumeran (lonvo-z) — Hereditary Angioedema (HAE) — CRISPR-based gene editing therapy; Phase 3 data published in New England Journal of Medicine showing 91% reduction in moderate/severe attacks and 89% reduction in attacks requiring on-demand treatment.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322739/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+        },
+        {
+          "text": "Intellia Therapeutics — CRISPR gene editing platform — Hereditary Angioedema (HAE) — Phase 3 HAELO trial met primary endpoint with 87% reduction in mean monthly attacks (p<0.0001) for lonvoguran ziclumeran (lonvo-z) vs placebo.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322739/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+        },
+        {
+          "text": "Intellia Therapeutics — lonvo-z (NTLA-2002) — HAE — 62% of patients achieved attack-free and therapy-free status for six months vs 11% placebo (p<0.0001); 91% reduction in moderate/severe attacks reported.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322739/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
         }
       ]
     },
@@ -16,8 +32,50 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "CRISPR-based drug development platforms — Market Growth — Precision Medicine & Gene Therapy — Market size forecast to reach USD 0.79 billion by 2031.",
-          "url": "https://globenewswire.com/news-release/2026/07/03/3321722/28124/en/global-crispr-based-drug-development-platforms-market-to-reach-usd-0-79-billion-by-2031-precision-medicine-and-gene-therapy-drive-growth.html"
+          "text": "Cytosurge AG — CellEDIT — Dermokine knockout in keratinocytes — Enabled deterministic multi-guide CRISPR editing to create isoform-specific knockouts, revealing dermokine's role in cell-cell adhesion and wound healing.",
+          "url": "https://globenewswire.com/news-release/2026/07/09/3324559/0/en/cytosurge-s-celledit-conquers-impossible-genome-engineering-challenges.html"
+        },
+        {
+          "text": "Intellia Therapeutics — Lonvoguran Ziclumeran (lonvo-z) — Hereditary Angioedema — Phase 3 HAELO trial presented at EAACI 2026; primary endpoint met with 87% attack reduction; key secondary endpoints included 62% attack-free rate and 17.04-point improvement in AE-QoL score.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322739/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+        },
+        {
+          "text": "Intellia Therapeutics — lonvo-z (NTLA-2002) — Hereditary Angioedema — Phase 3 HAELO trial presented at EAACI 2026; data published in New England Journal of Medicine showing 89% reduction in attacks requiring on-demand treatment.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322739/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+        }
+      ]
+    },
+    {
+      "heading": "Companies in Focus",
+      "points": [
+        {
+          "text": "Cytosurge AG — Advanced genome editing services — CellEDIT workflow — Deployed to overcome CRISPR delivery challenges in difficult-to-edit models including 3D organotypic skin cultures and fragile primary cells.",
+          "url": "https://globenewswire.com/news-release/2026/07/09/3324559/0/en/cytosurge-s-celledit-conquers-impossible-genome-engineering-challenges.html"
+        },
+        {
+          "text": "Intellia Therapeutics — CRISPR gene editing commercialization — Lonvoguran Ziclumeran (lonvo-z) — Phase 3 HAELO trial positive results; 87% attack reduction in HAE; safety profile favorable with mild/moderate TEAEs only.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322739/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+        },
+        {
+          "text": "Intellia Therapeutics — CRISPR-based in vivo gene editing commercialization — lonvo-z (NTLA-2002) — Phase 3 HAELO trial positive results; favorable safety profile with no serious adverse events reported.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322739/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+        }
+      ]
+    },
+    {
+      "heading": "Clinical & Scientific Highlights",
+      "points": [
+        {
+          "text": "Dermokine isoform-specific knockouts — Mechanism: CRISPR-mediated gene editing via CellEDIT — Phase: Preclinical research — Population: Human keratinocytes — Comparator: Traditional bulk delivery methods — Results: Eliminated stress-induced bias, preserved natural phenotype, and confirmed dermokine regulation of keratinocyte differentiation.",
+          "url": "https://globenewswire.com/news-release/2026/07/09/3324559/0/en/cytosurge-s-celledit-conquers-impossible-genome-engineering-challenges.html"
+        },
+        {
+          "text": "Lonvoguran Ziclumeran (lonvo-z) — Mechanism: CRISPR gene editing targeting KNG1 gene to reduce bradykinin production — Phase: 3 — Population: Hereditary Angioedema (HAE) patients — Comparator: Placebo — Endpoints/Results: 87% reduction in mean monthly attacks (p<0.0001); 62% attack-free and therapy-free at 6 months; 91% reduction in moderate/severe attacks.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322739/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+        },
+        {
+          "text": "lonvo-z (NTLA-2002) — Mechanism: CRISPR/Cas9-mediated in vivo gene editing targeting angiopoietin-like 3 (ANGPTL3) — Phase: 3 (HAELO) — Population: Hereditary Angioedema patients — Comparator: Placebo — Results: 87% reduction in mean monthly attacks; 91% reduction in moderate/severe attacks; 17.04 point improvement in AE-QoL score.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322739/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
         }
       ]
     }
