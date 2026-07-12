@@ -1,102 +1,46 @@
 {
   "query": "monoclonal",
-  "generated_at": "2026-07-08 08:12:20",
-  "article_count": 20,
+  "generated_at": "2026-07-12 07:45:44",
+  "article_count": 28,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "TaiMed Biologics received a TFDA drug license collection notice for Trogarzo (ibalizumab), the world's first FDA-approved monoclonal antibody for HIV, marking the final step toward commercial launch in Taiwan.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
+          "text": "Yarrow Bioscience is developing YB-101, a first-in-class anti-thyroid stimulating hormone receptor (TSHR) monoclonal antibody targeting Graves' disease and thyroid eye disease.",
+          "url": "https://globenewswire.com/news-release/2026/07/10/3325444/0/en/vyne-therapeutics-declares-special-cash-dividend-in-connection-with-the-proposed-merger-with-yarrow-bioscience.html"
         },
         {
-          "text": "TaiMed Biologics completed Phase 2b enrollment for TMB-365/380, a long-acting dual-antibody (monoclonal) regimen for HIV maintenance therapy, with interim analysis anticipated by year-end 2026.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
+          "text": "AbbVie acquired Apogee Therapeutics for $10.9 billion to secure zumilokibart, an antibody for atopic dermatitis, asthma, and eosinophilic esophagitis, expanding its monoclonal antibody portfolio beyond Humira and Skyrizi.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "Acumen Pharmaceuticals nominated two Enhanced Brain Delivery (EBD) development candidates, ACU301 and ACU401, which combine JCR Pharmaceuticals' blood-brain barrier-penetrating technology with therapeutic monoclonal antibodies for Alzheimer's disease.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+          "text": "GSK purchased Nuvalent for $10.6 billion to advance its oncology pipeline, complementing its existing development of the antibody-drug conjugate risvutatug rezetecan and its recent acquisition of monoclonal antibody developer RAPT Therapeutics.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "Acumen Pharmaceuticals' EBD candidates include a bispecific antibody derived from sabirnetug and a novel AβO-selective antibody (ACU234), designed to achieve 14-40x higher brain penetration in non-human primates compared to native antibodies.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+          "text": "Incyte agreed to acquire Star Therapeutics for $1.25 billion to gain VGA039, a monoclonal antibody for von Willebrand disease currently in Phase 3 trials with multiple FDA designations.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "Teva Pharmaceutical Industries Ltd. — Anti-IL-15 antibody — Vitiligo — Advancing into Phase 2b development following encouraging Phase 1b results; designed for quarterly dosing regimen.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323041/0/en/teva-to-advance-its-anti-il-15-antibody-designed-for-quarterly-dosing-into-phase-2b-development-in-vitiligo-following-encouraging-phase-1b-results.html"
+          "text": "Teva Pharmaceuticals and Polpharma Biologics signed a global licensing agreement for a biosimilar candidate to Ocrevus (ocrelizumab), a humanized monoclonal antibody targeting CD20-positive B cells for multiple sclerosis.",
+          "url": "https://drug-dev.com/teva-and-polpharma-biologics-announce-global-licensing-agreement-for-a-biosimilar-candidate-to-ocrevus-ocrelizumab-for-multiple-sclerosis/"
         },
         {
-          "text": "Avalo Therapeutics — abdakibart — Hidradenitis Suppurativa — Phase 2 trial reported positive topline data; asset is an anti-IL-1β monoclonal antibody.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
+          "text": "FUJIFILM Biotechnologies — Holly Springs facility — Monoclonal antibody (mAb) manufacturing — Selected for FDA PreCheck Pilot Program to accelerate regulatory review and strengthen U.S. supply chain resilience.",
+          "url": "https://drug-dev.com/fujifilm-biotechnologies-selected-in-fda-precheck-pilot-program-to-advance-u-s-drug-manufacturing/"
         },
         {
-          "text": "Avalo Therapeutics — AVTX-010 — Immune-mediated inflammatory diseases — Advancing long-acting next-generation anti-IL-1β monoclonal antibody designed to extend dosing intervals.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
+          "text": "Sanofi received US approval for Sarclisa Escena (isatuximab), a subcutaneous anti-CD38 monoclonal antibody formulation administered via the CirCLIQ® on-body injector for multiple myeloma treatment.",
+          "url": "https://globenewswire.com/news-release/2026/07/10/3325483/0/fr/communiqu%c3%a9-de-presse-sarclisa-escena-de-sanofi-la-formulation-sous-cutan%c3%a9e-du-sarclisa-approuv%c3%a9-aux-%c3%89tats-unis-comme-premier-traitement-anticanc%c3%a9reux-administr%c3%a9-via-un-injecteur-po.html"
         },
         {
-          "text": "ImageneBio — IMG-007 — Atopic Dermatitis — Phase 2b clinical trial ongoing; asset is a receptor targeting, non-T cell-depleting, ADCC-silenced, anti-OX40 monoclonal antibody with ~5-week half-life.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
+          "text": "Teva Pharmaceutical Industries Ltd. — TEV-'408 — Vitiligo — Advancing anti-interleukin-15 monoclonal antibody into Phase 2b in Q4 2026 following Phase 1b data showing 75% of patients reported facial vitiligo improvement.",
+          "url": "https://globenewswire.com/news-release/2026/07/09/3324800/0/en/teva-and-polpharma-biologics-announce-global-licensing-agreement-for-a-biosimilar-candidate-to-ocrevus-ocrelizumab-for-multiple-sclerosis.html"
         },
         {
-          "text": "ImageneBio — IMG-007 — Alopecia Areata — Proof-of-concept trial completed; Phase 2 study initiation planned.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
-        },
-        {
-          "text": "TG Therapeutics initiated a Phase 2 trial evaluating BRIUMVI (ublituximab), an anti-CD20 monoclonal antibody, for treatment-resistant schizophrenia following positive Phase 1 data in myasthenia gravis.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
-        },
-        {
-          "text": "Invivyd received a 12-month advanced notice of Emergency Use Authorization (EUA) termination for PEMGARDA (pemivibart), a long-acting monoclonal antibody for SARS-CoV-2 prophylaxis, effective June 29, 2027.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322321/0/en/invivyd-announces-receipt-of-twelve-months-advanced-notice-of-emergency-use-authorization-eua-termination-for-pemgarda-and-provides-an-update-on-next-steps-with-the-u-s-fda.html"
-        },
-        {
-          "text": "TG Therapeutics reported that 82% of patients in a Phase 1 study of subcutaneous BRIUMVI achieved a Minimal Clinically Important Difference in MG-ADL scores at Week 24.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
-        },
-        {
-          "text": "TaiMed Biologics received TFDA drug license collection notice for Trogarzo (ibalizumab), the world's first FDA-approved monoclonal antibody for HIV, marking the final step toward commercial launch in Taiwan.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
-        },
-        {
-          "text": "TaiMed Biologics completed Phase 2b enrollment for TMB-365/380, a long-acting dual-antibody regimen for HIV maintenance therapy, with interim analysis anticipated by year-end 2026.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
-        },
-        {
-          "text": "Acumen Pharmaceuticals nominated two Enhanced Brain Delivery (EBD) development candidates, ACU301 and ACU401, combining AβO-selective antibody expertise with JCR Pharmaceuticals' blood-brain barrier-penetrating technology for Alzheimer's disease.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
-        },
-        {
-          "text": "Acumen's EBD program utilizes bispecific antibodies derived from sabirnetug and ACU234 to achieve 14-40x higher brain penetration in non-human primates compared to native antibodies.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
-        },
-        {
-          "text": "Avalo Therapeutics — abdakibart — Hidradenitis Suppurativa — Phase 2 trial reported positive topline data; abdakibart is an anti-IL-1β monoclonal antibody (mAb).",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
-        },
-        {
-          "text": "Avalo Therapeutics — AVTX-010 — Immune-mediated inflammatory diseases — Advancing as a long-acting next-generation anti-IL-1β monoclonal antibody designed to extend dosing intervals.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
-        },
-        {
-          "text": "ImageneBio — IMG-007 — Atopic Dermatitis — Conducting Phase 2b clinical trial; IMG-007 is a receptor targeting, non-T cell-depleting, ADCC-silenced, anti-OX40 monoclonal antibody with a ~5-week half-life.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
-        },
-        {
-          "text": "ImageneBio — IMG-007 — Alopecia Areata — Completed proof-of-concept trial; plans to initiate Phase 2 study.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
-        },
-        {
-          "text": "TG Therapeutics initiated a Phase 2 trial evaluating BRIUMVI (ublituximab), an anti-CD20 monoclonal antibody, in patients with treatment-resistant schizophrenia.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
-        },
-        {
-          "text": "TG Therapeutics reported positive Phase 1 data for subcutaneous BRIUMVI in myasthenia gravis, with 82% of patients achieving Minimal Clinically Important Difference in MG-ADL scores at Week 24.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
-        },
-        {
-          "text": "Invivyd received a 12-month advanced notice of Emergency Use Authorization (EUA) termination for PEMGARDA (pemivibart), a long-acting monoclonal antibody for SARS-CoV-2 prophylaxis.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322321/0/en/invivyd-announces-receipt-of-twelve-months-advanced-notice-of-emergency-use-authorization-eua-termination-for-pemgarda-and-provides-an-update-on-next-steps-with-the-u-s-fda.html"
+          "text": "Polpharma granted Teva exclusive rights to commercialize IV and SC formulations of a biosimilar candidate to Ocrevus (ocrelizumab), a humanized monoclonal antibody targeting CD20-positive B cells for multiple sclerosis, upon regulatory approval.",
+          "url": "https://pharmashots.com/34458/polpharma-and-teva-sign-exclusive-licensing-deal-for-a-biosimilar-candidate-to-ocrevus/"
         }
       ]
     },
@@ -104,68 +48,56 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "TaiMed Biologics — Trogarzo (ibalizumab) — HIV — TFDA drug license collection notice received; world's first FDA-approved monoclonal antibody for HIV entering commercial launch in Taiwan.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
+          "text": "VYNE Therapeutics — Merger with Yarrow Bioscience — Corporate Transaction — Declared special cash dividend of $16.5M ($0.38/share) pending closing of merger to acquire Yarrow, developer of YB-101 anti-TSHR monoclonal antibody.",
+          "url": "https://globenewswire.com/news-release/2026/07/10/3325444/0/en/vyne-therapeutics-declares-special-cash-dividend-in-connection-with-the-proposed-merger-with-yarrow-bioscience.html"
         },
         {
-          "text": "TaiMed Biologics — TMB-365/380 — HIV Maintenance Therapy — Phase 2b enrollment completed ahead of schedule; interim analysis expected year-end 2026; plans to submit Breakthrough Therapy Designation to FDA.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
+          "text": "AbbVie — Apogee Therapeutics Acquisition — Monoclonal Antibodies (zumilokibart) — $10.9 billion deal secures zumilokibart for atopic dermatitis, asthma, and eosinophilic esophagitis; marks AbbVie's first acquisition of 2026.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "Acumen Pharmaceuticals — ACU301/ACU401 — Alzheimer's Disease — Nominated two EBD candidates combining therapeutic monoclonal antibodies with JCR's J-Brain Cargo technology; IND submission planned mid-2027.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+          "text": "GSK — Nuvalent Acquisition — Oncology (zidesamtinib, risvutatug rezetecan) — $10.6 billion purchase adds zidesamtinib for NSCLC and solid tumors; reinforces pipeline alongside antibody-drug conjugate risvutatug rezetecan and prior RAPT Therapeutics mAb acquisition.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "Teva Pharmaceutical Industries Ltd. — Anti-IL-15 antibody — Vitiligo — Phase 2b development initiated after Phase 1b data supported quarterly dosing strategy.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323041/0/en/teva-to-advance-its-anti-il-15-antibody-designed-for-quarterly-dosing-into-phase-2b-development-in-vitiligo-following-encouraging-phase-1b-results.html"
+          "text": "Incyte — Star Therapeutics Acquisition — von Willebrand Disease (VGA039) — $1.25 billion deal for Phase 3 monoclonal antibody VGA039; includes up to $750 million in sales milestones; candidate holds fast track, orphan drug, and breakthrough therapy designations.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "Avalo Therapeutics — abdakibart — Hidradenitis Suppurativa — Phase 2 positive topline data reported; anti-IL-1β monoclonal antibody.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
+          "text": "Teva / Polpharma Biologics — Ocrevus Biosimilar — Multiple Sclerosis (ocrelizumab) — Global licensing agreement for biosimilar candidate to humanized monoclonal antibody ocrelizumab; Teva handles regulatory submissions and commercialization in US, EU, and other key markets.",
+          "url": "https://drug-dev.com/teva-and-polpharma-biologics-announce-global-licensing-agreement-for-a-biosimilar-candidate-to-ocrevus-ocrelizumab-for-multiple-sclerosis/"
         },
         {
-          "text": "ImageneBio — IMG-007 — Atopic Dermatitis — Phase 2b trial ongoing; anti-OX40 monoclonal antibody with ADCC-silenced mechanism.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
+          "text": "FUJIFILM Biotechnologies — Holly Springs site — Monoclonal antibodies (mAbs) — FDA PreCheck Pilot Program participant; site manufactures mAbs for clients including argenx, Johnson & Johnson, and Regeneron.",
+          "url": "https://drug-dev.com/fujifilm-biotechnologies-selected-in-fda-precheck-pilot-program-to-advance-u-s-drug-manufacturing/"
         },
         {
-          "text": "TG Therapeutics — BRIUMVI (ublituximab) — Treatment-Resistant Schizophrenia — Initiated Phase 2 trial as maintenance therapy following efgartigimod induction; trial builds on Phase 1 data in Myasthenia Gravis.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
+          "text": "Sanofi — Sarclisa Escena (isatuximab) — Multiple Myeloma — US FDA approved subcutaneous formulation administered via CirCLIQ® on-body injector, marking first anticancer treatment delivered via this device.",
+          "url": "https://globenewswire.com/news-release/2026/07/10/3325483/0/fr/communiqu%c3%a9-de-presse-sarclisa-escena-de-sanofi-la-formulation-sous-cutan%c3%a9e-du-sarclisa-approuv%c3%a9-aux-%c3%89tats-unis-comme-premier-traitement-anticanc%c3%a9reux-administr%c3%a9-via-un-injecteur-po.html"
         },
         {
-          "text": "Invivyd — PEMGARDA (pemivibart) — SARS-CoV-2 Prophylaxis — Received 12-month advance notice of EUA termination from FDA; next steps pending regulatory guidance.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322321/0/en/invivyd-announces-receipt-of-twelve-months-advanced-notice-of-emergency-use-authorization-eua-termination-for-pemgarda-and-provides-an-update-on-next-steps-with-the-u-s-fda.html"
+          "text": "VYNE Therapeutics / Yarrow Bioscience — YB-101 — Graves' Disease / Thyroid Eye Disease — Proposed merger includes clinical-stage anti-TSHR monoclonal antibody program; special cash dividend of $16.5M declared pending closing.",
+          "url": "https://globenewswire.com/news-release/2026/07/10/3325444/0/en/vyne-therapeutics-declares-special-cash-dividend-in-connection-with-the-proposed-merger-with-yarrow-bioscience.html"
         },
         {
-          "text": "TaiMed Biologics — Trogarzo (ibalizumab) — HIV — TFDA drug license collection notice received; world's first FDA-approved monoclonal antibody for HIV.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
+          "text": "Teva — TEV-'408 — Vitiligo — Phase 1b open-label study: 42% achieved F-VASI50, 21% achieved F-VASI75, 55% reported total body vitiligo improvement; Phase 2b initiation planned Q4 2026.",
+          "url": "https://globenewswire.com/news-release/2026/07/09/3324800/0/en/teva-and-polpharma-biologics-announce-global-licensing-agreement-for-a-biosimilar-candidate-to-ocrevus-ocrelizumab-for-multiple-sclerosis.html"
         },
         {
-          "text": "TaiMed Biologics — TMB-365/380 — HIV maintenance therapy — Phase 2b enrollment completed ahead of schedule; interim analysis expected year-end 2026; peak sales estimated at $3–4 billion.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
+          "text": "AbbVie — Apogee Therapeutics — Atopic dermatitis/Asthma — $10.9 billion acquisition securing zumilokibart (monoclonal antibody) and pipeline; first US pharma acquisition of 2026.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "Acumen Pharmaceuticals — ACU301/ACU401 — Alzheimer's disease — Two EBD candidates nominated combining AβO-selective antibodies with J-Brain Cargo technology; IND submission planned mid-2027.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+          "text": "Incyte — Star Therapeutics — von Willebrand disease — $1.25 billion acquisition of VGA039 (monoclonal antibody) in Phase 3; deal includes up to $750M in sales milestones.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "Avalo Therapeutics — abdakibart — Hidradenitis Suppurativa — Phase 2 trial met primary endpoints with positive topline data; anti-IL-1β monoclonal antibody.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
+          "text": "GSK — RAPT Therapeutics — Monoclonal antibody development — Acquisition of developer to expand biologics portfolio alongside ADC risvutatug rezetecan for non-small cell lung cancer.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "ImageneBio — IMG-007 — Atopic Dermatitis — Phase 2b trial ongoing; anti-OX40 monoclonal antibody featuring ADCC silencing and 5-week half-life.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
-        },
-        {
-          "text": "TG Therapeutics — BRIUMVI (ublituximab) — Treatment-Resistant Schizophrenia — Initiated Phase 2 trial evaluating anti-CD20 monoclonal antibody as maintenance therapy.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
-        },
-        {
-          "text": "TG Therapeutics — BRIUMVI (ublituximab) — Myasthenia Gravis — Phase 1 subcutaneous formulation met endpoint: 82% of patients achieved MCID in MG-ADL at Week 24; mean 4.6-point improvement observed.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
-        },
-        {
-          "text": "Invivyd — PEMGARDA (pemivibart) — SARS-CoV-2 Prophylaxis — Received 12-month advanced notice of EUA termination from FDA; next steps under discussion.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322321/0/en/invivyd-announces-receipt-of-twelve-months-advanced-notice-of-emergency-use-authorization-eua-termination-for-pemgarda-and-provides-an-update-on-next-steps-with-the-u-s-fda.html"
+          "text": "Polpharma — Biosimilar to Ocrevus (ocrelizumab) — Multiple Sclerosis — Exclusive licensing deal signed with Teva for commercialization of IV and SC formulations across US, EU, Brazil, Canada, Australia, New Zealand, Israel, and Turkey; Polpharma retains development and manufacturing lead.",
+          "url": "https://pharmashots.com/34458/polpharma-and-teva-sign-exclusive-licensing-deal-for-a-biosimilar-candidate-to-ocrevus/"
         }
       ]
     },
@@ -173,56 +105,60 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "TaiMed Biologics — Commercialization of HIV monoclonal antibody portfolio — Trogarzo (ibalizumab) + TMB-365/380 — Trogarzo launched in Taiwan; TMB-365/380 Phase 2b completed with peak sales estimate of $3–4 billion.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
+          "text": "Yarrow Bioscience — Development of first-in-class anti-TSHR monoclonal antibody — YB-101 — Clinical-stage biotechnology company focused on autoimmune thyroid diseases; targeted for acquisition by VYNE Therapeutics.",
+          "url": "https://globenewswire.com/news-release/2026/07/10/3325444/0/en/vyne-therapeutics-declares-special-cash-dividend-in-connection-with-the-proposed-merger-with-yarrow-bioscience.html"
         },
         {
-          "text": "Acumen Pharmaceuticals — Development of brain-penetrating monoclonal antibodies for Alzheimer's — ACU301/ACU401 (EBD program) — Option exercised with JCR Pharmaceuticals; IND-enabling activities ongoing for mid-2027 submission.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+          "text": "AbbVie — Monoclonal antibody portfolio expansion — zumilokibart (via Apogee) — $10.9 billion acquisition completed; adds antibody assets for atopic dermatitis, asthma, and eosinophilic esophagitis to existing Humira and Skyrizi franchise.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "Teva Pharmaceutical Industries Ltd. — Immunology pipeline expansion — Anti-IL-15 antibody — Phase 2b development in vitiligo; quarterly dosing formulation advancing.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323041/0/en/teva-to-advance-its-anti-il-15-antibody-designed-for-quarterly-dosing-into-phase-2b-development-in-vitiligo-following-encouraging-phase-1b-results.html"
+          "text": "GSK — Oncology and monoclonal antibody pipeline growth — zidesamtinib, risvutatug rezetecan — $10.6 billion Nuvalent acquisition; complements existing antibody-drug conjugate risvutatug rezetecan and prior RAPT Therapeutics mAb developer buyout.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "Avalo Therapeutics — IL-1β pathway targeting — abdakibart + AVTX-010 (anti-IL-1β mAbs) — Phase 2 data positive for abdakibart; AVTX-010 in development for extended dosing.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
+          "text": "Incyte — Bleeding disorders portfolio expansion — VGA039 — $1.25 billion acquisition of Star Therapeutics; secures Phase 3 monoclonal antibody for von Willebrand disease with multiple FDA designations.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "ImageneBio — Autoimmune/Inflammatory disease therapeutics — IMG-007 (anti-OX40 mAb) — Phase 2b in atopic dermatitis; Phase 2 planned for alopecia areata.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
+          "text": "Teva Pharmaceuticals — Biosimilars commercialization strategy — Ocrevus biosimilar (ocrelizumab) — Global licensing deal with Polpharma Biologics; leverages Teva's commercial footprint for humanized monoclonal antibody biosimilar in multiple sclerosis.",
+          "url": "https://drug-dev.com/teva-and-polpharma-biologics-announce-global-licensing-agreement-for-a-biosimilar-candidate-to-ocrevus-ocrelizumab-for-multiple-sclerosis/"
         },
         {
-          "text": "TG Therapeutics — Expansion of anti-CD20 monoclonal antibody BRIUMVI beyond Multiple Sclerosis — Myasthenia Gravis and Schizophrenia — Phase 1 data showed 82% MCID achievement in MG; Phase 2 schizophrenia trial initiated.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
+          "text": "FUJIFILM Biotechnologies — U.S. manufacturing expansion — Monoclonal antibody production — $3.2B Holly Springs site (8 x 20,000L bioreactors) accelerating expansion to add 8 x 20,000L capacity by late FY2027.",
+          "url": "https://drug-dev.com/fujifilm-biotechnologies-selected-in-fda-precheck-pilot-program-to-advance-u-s-drug-manufacturing/"
         },
         {
-          "text": "Invivyd — Commercialization of long-acting monoclonal antibody PEMGARDA — SARS-CoV-2 Prophylaxis — Facing EUA termination notice in 2027; advancing Phase 3 LIBERTY trial for VYD2311 antibody.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322321/0/en/invivyd-announces-receipt-of-twelve-months-advanced-notice-of-emergency-use-authorization-eua-termination-for-pemgarda-and-provides-an-update-on-next-steps-with-the-u-s-fda.html"
+          "text": "Sanofi — Commercialization of subcutaneous monoclonal antibody delivery — Sarclisa Escena (isatuximab) — US approval secured for on-body injector administration in multiple myeloma.",
+          "url": "https://globenewswire.com/news-release/2026/07/10/3325483/0/fr/communiqu%c3%a9-de-presse-sarclisa-escena-de-sanofi-la-formulation-sous-cutan%c3%a9e-du-sarclisa-approuv%c3%a9-aux-%c3%89tats-unis-comme-premier-traitement-anticanc%c3%a9reux-administr%c3%a9-via-un-injecteur-po.html"
         },
         {
-          "text": "TaiMed Biologics — Commercialization of HIV monoclonal antibodies — Trogarzo (ibalizumab) + TMB-365/380 pipeline — Trogarzo launched in Taiwan; TMB-365/380 Phase 2b completed with potential BTD filing.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
+          "text": "Yarrow Bioscience — Development of first-in-class TSHR-targeting therapy — YB-101 (anti-thyroid stimulating hormone receptor monoclonal antibody) — Clinical-stage asset central to merger with VYNE Therapeutics.",
+          "url": "https://globenewswire.com/news-release/2026/07/10/3325444/0/en/vyne-therapeutics-declares-special-cash-dividend-in-connection-with-the-proposed-merger-with-yarrow-bioscience.html"
         },
         {
-          "text": "Acumen Pharmaceuticals — Blood-brain barrier-penetrating antibody development — ACU301/ACU401 (EBD program) — Option exercised with JCR Pharmaceuticals; bispecific antibodies advancing to IND-enabling studies.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+          "text": "Teva Pharmaceutical Industries Ltd. — Immunology pipeline expansion — TEV-'408 (anti-IL-15 mAb) — Phase 2b initiation in vitiligo; quarterly subcutaneous dosing design.",
+          "url": "https://globenewswire.com/news-release/2026/07/09/3324800/0/en/teva-and-polpharma-biologics-announce-global-licensing-agreement-for-a-biosimilar-candidate-to-ocrevus-ocrelizumab-for-multiple-sclerosis.html"
         },
         {
-          "text": "Avalo Therapeutics — IL-1β pathway targeting — abdakibart + AVTX-010 (anti-IL-1β mAbs) — Phase 2 positive data for HS; advancing long-acting next-gen mAb AVTX-010.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
+          "text": "AbbVie — Strategic M&A for autoimmune assets — Apogee Therapeutics (zumilokibart mAb) — $10.9B acquisition; complements Humira and Skyrizi monoclonal antibody franchise.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "ImageneBio — Anti-OX40 monoclonal antibody development — IMG-007 — Phase 2b in atopic dermatitis; Phase 2 planned for alopecia areata following POC completion.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
+          "text": "Incyte — Bleeding disorders portfolio expansion — Star Therapeutics (VGA039 mAb) — $1.25B acquisition; VGA039 targets von Willebrand disease in Phase 3.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "TG Therapeutics — Expansion of anti-CD20 monoclonal antibody BRIUMVI beyond Multiple Sclerosis — Myasthenia Gravis and Schizophrenia indications — Phase 1 data positive; Phase 2 trial initiated.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
+          "text": "GSK — Oncology and biologics pipeline growth — RAPT Therapeutics (monoclonal antibody developer) — Acquisition announced June 2026; complements ADC risvutatug rezetecan.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "Invivyd — Commercialization and regulatory strategy for long-acting monoclonal antibody PEMGARDA — SARS-CoV-2 prophylaxis — Facing EUA termination notice; advancing Phase 3 LIBERTY trial for VYD2311.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322321/0/en/invivyd-announces-receipt-of-twelve-months-advanced-notice-of-emergency-use-authorization-eua-termination-for-pemgarda-and-provides-an-update-on-next-steps-with-the-u-s-fda.html"
+          "text": "Teva — Commercialization of CD20-targeting monoclonal antibody biosimilar — Ocrevus (ocrelizumab) biosimilar — Secured exclusive rights from Polpharma for global rollout pending regulatory approval; Polpharma leads manufacturing.",
+          "url": "https://pharmashots.com/34458/polpharma-and-teva-sign-exclusive-licensing-deal-for-a-biosimilar-candidate-to-ocrevus/"
+        },
+        {
+          "text": "Polpharma — Biosimilar development and manufacturing — Ocrevus (ocrelizumab) biosimilar — Partnered with Teva for global commercialization; retains lead role in development and manufacturing of the humanized monoclonal antibody candidate.",
+          "url": "https://pharmashots.com/34458/polpharma-and-teva-sign-exclusive-licensing-deal-for-a-biosimilar-candidate-to-ocrevus/"
         }
       ]
     },
@@ -230,64 +166,44 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "TMB-365/380 — Mechanism: Long-acting dual-antibody (monoclonal) regimen — Phase: 2b — Population: People living with HIV — Comparator: N/A (maintenance therapy) — Results: Viral suppression and biomarkers consistent with expectations after first two doses.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
+          "text": "YB-101 — Mechanism: Anti-thyroid stimulating hormone receptor (TSHR) monoclonal antibody — Phase: Clinical-stage — Population: Graves' disease and thyroid eye disease — Mechanism: Designed to directly disrupt central mechanism of autoimmune thyroid diseases.",
+          "url": "https://globenewswire.com/news-release/2026/07/10/3325444/0/en/vyne-therapeutics-declares-special-cash-dividend-in-connection-with-the-proposed-merger-with-yarrow-bioscience.html"
         },
         {
-          "text": "ACU301/ACU401 — Mechanism: Bispecific/monoclonal antibodies targeting soluble amyloid beta oligomers with transferrin-receptor-mediated BBB penetration — Phase: Preclinical/IND-enabling — Population: Alzheimer's Disease — Comparator: Native antibodies — Results: 14-40x higher brain antibody levels in non-human primates.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+          "text": "zumilokibart — Mechanism: Antibody targeting atopic dermatitis, asthma, and eosinophilic esophagitis — Phase: Not specified (acquired asset) — Population: Patients with atopic dermatitis, asthma, and eosinophilic esophagitis — Comparator: N/A — Status: Acquired by AbbVie for $10.9 billion.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "Anti-IL-15 antibody — Mechanism: Interleukin-15 blockade — Phase: 2b (following Phase 1b) — Population: Vitiligo patients — Dosing: Quarterly regimen — Status: Advancing to Phase 2b based on Phase 1b results.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323041/0/en/teva-to-advance-its-anti-il-15-antibody-designed-for-quarterly-dosing-into-phase-2b-development-in-vitiligo-following-encouraging-phase-1b-results.html"
+          "text": "VGA039 — Mechanism: Monoclonal antibody for von Willebrand disease — Phase: 3 — Population: Patients with von Willebrand disease (affects ~1% of population) — Comparator: Takeda's Vonvendi (implied competitor) — Endpoints/Results: Holds fast track, orphan drug, rare pediatric disease, and breakthrough therapy designations from FDA.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "abdakibart — Mechanism: Anti-IL-1β monoclonal antibody — Phase: 2 — Population: Hidradenitis suppurativa — Results: Positive topline data reported.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
+          "text": "ocrelizumab (biosimilar candidate) — Mechanism: Humanized monoclonal antibody targeting CD20-positive B cells — Phase: Pre-approval (biosimilar development) — Population: Relapsing forms and primary progressive multiple sclerosis — Comparator: Ocrevus (ocrelizumab) — Endpoints/Results: Global licensing agreement signed for commercialization upon regulatory approval.",
+          "url": "https://drug-dev.com/teva-and-polpharma-biologics-announce-global-licensing-agreement-for-a-biosimilar-candidate-to-ocrevus-ocrelizumab-for-multiple-sclerosis/"
         },
         {
-          "text": "AVTX-010 — Mechanism: Long-acting anti-IL-1β monoclonal antibody — Phase: Preclinical/Early clinical — Population: Immune-mediated inflammatory diseases — Design: Extended dosing intervals.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
+          "text": "YB-101 — Mechanism: Anti-thyroid stimulating hormone receptor (TSHR) monoclonal antibody — Phase: Clinical-stage — Population: Graves' disease and thyroid eye disease — Mechanism: Direct disruption of central disease pathway.",
+          "url": "https://globenewswire.com/news-release/2026/07/10/3325444/0/en/vyne-therapeutics-declares-special-cash-dividend-in-connection-with-the-proposed-merger-with-yarrow-bioscience.html"
         },
         {
-          "text": "IMG-007 — Mechanism: Anti-OX40 monoclonal antibody (receptor targeting, non-T cell-depleting, ADCC-silenced) — Phase: 2b — Population: Moderate-to-severe atopic dermatitis — PK: ~5-week half-life.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
+          "text": "Sarclisa Escena (isatuximab) — Mechanism: Anti-CD38 monoclonal antibody — Formulation: Subcutaneous — Delivery: CirCLIQ® on-body injector — Indication: Multiple myeloma — Status: US approved.",
+          "url": "https://globenewswire.com/news-release/2026/07/10/3325483/0/fr/communiqu%c3%a9-de-presse-sarclisa-escena-de-sanofi-la-formulation-sous-cutan%c3%a9e-du-sarclisa-approuv%c3%a9-aux-%c3%89tats-unis-comme-premier-traitement-anticanc%c3%a9reux-administr%c3%a9-via-un-injecteur-po.html"
         },
         {
-          "text": "IMG-007 — Mechanism: Anti-OX40 monoclonal antibody — Phase: 2 (planned) — Population: Alopecia areata — Status: Proof-of-concept trial completed.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
+          "text": "TEV-'408 — Mechanism: Anti-interleukin-15 monoclonal antibody — Phase: 1b (completed) / 2b (planned) — Population: Active or stable non-segmental vitiligo — Endpoints: 75% facial improvement, 42% F-VASI50, 21% F-VASI75; quarterly subcutaneous dosing.",
+          "url": "https://globenewswire.com/news-release/2026/07/09/3324800/0/en/teva-and-polpharma-biologics-announce-global-licensing-agreement-for-a-biosimilar-candidate-to-ocrevus-ocrelizumab-for-multiple-sclerosis.html"
         },
         {
-          "text": "BRIUMVI (ublituximab) — Mechanism: Anti-CD20 monoclonal antibody depleting B-cells — Phase: 2 (Schizophrenia) / 1 (MG) — Population: Treatment-resistant schizophrenia / AChR-antibody-positive Myasthenia Gravis — Comparator: None (open-label Phase 1) — Results: 82% of MG patients achieved MCID in MG-ADL at Week 24; mean 4.6 point improvement.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
+          "text": "VGA039 — Mechanism: Monoclonal antibody targeting von Willebrand disease — Phase: 3 — Population: Patients with inherited bleeding disorder (1% of population) — Status: FDA fast track, orphan drug, rare pediatric disease, breakthrough therapy designations.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "PEMGARDA (pemivibart) — Mechanism: Long-acting monoclonal antibody neutralizing SARS-CoV-2 — Phase: EUA (Terminated) — Population: Adults at risk for severe COVID-19 — Comparator: N/A — Status: Received 12-month advance notice of EUA termination effective June 29, 2027.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322321/0/en/invivyd-announces-receipt-of-twelve-months-advanced-notice-of-emergency-use-authorization-eua-termination-for-pemgarda-and-provides-an-update-on-next-steps-with-the-u-s-fda.html"
+          "text": "zumilokibart — Mechanism: Monoclonal antibody for atopic dermatitis/asthma — Phase: Pre-commercial (acquired by AbbVie) — Indication: Atopic dermatitis, asthma, eosinophilic esophagitis — Status: Acquired via $10.9B Apogee deal.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "TMB-365/380 — Mechanism: Long-acting dual-antibody regimen (bNAb combination) — Phase: 2b — Population: People living with HIV — Comparator: None stated — Results: Viral suppression and biomarkers consistent with expectations after first two doses.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
-        },
-        {
-          "text": "ACU301/ACU401 — Mechanism: Bispecific antibodies targeting soluble amyloid beta oligomers (AβOs) with transferrin-receptor-mediated BBB penetration — Phase: Preclinical/IND-enabling — Population: Alzheimer's disease — Comparator: Native antibodies — Results: 14-40x higher brain penetration in non-human primates.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
-        },
-        {
-          "text": "AVTX-010 — Mechanism: Long-acting next-generation anti-IL-1β monoclonal antibody — Phase: Preclinical/Early Clinical — Design: Extended dosing intervals.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
-        },
-        {
-          "text": "IMG-007 — Mechanism: Anti-OX40 monoclonal antibody (ADCC-silenced, non-T cell-depleting) — Phase: 2b — Population: Moderate-to-severe atopic dermatitis — PK: ~5-week half-life.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323019/0/en/imagenebio-appoints-matt-robbins-as-general-counsel.html"
-        },
-        {
-          "text": "BRIUMVI (ublituximab) — Mechanism: Anti-CD20 monoclonal antibody depleting B-cells — Phase: 1 (SC formulation) — Population: AChR-antibody-positive Myasthenia Gravis (n=11) — Comparator: None (open-label) — Results: 82% achieved MCID in MG-ADL at Week 24; median time to MCID 30 days.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322333/8790/en/tg-therapeutics-announces-initiation-of-phase-2-trial-evaluating-briumvi-in-patients-with-treatment-resistant-schizophrenia.html"
-        },
-        {
-          "text": "PEMGARDA (pemivibart) — Mechanism: Long-acting monoclonal antibody targeting SARS-CoV-2 — Phase: EUA status (termination notice received) — Population: Adults at risk for severe COVID-19 — Comparator: N/A — Status: Advanced notice of EUA termination issued July 1, 2026.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322321/0/en/invivyd-announces-receipt-of-twelve-months-advanced-notice-of-emergency-use-authorization-eua-termination-for-pemgarda-and-provides-an-update-on-next-steps-with-the-u-s-fda.html"
+          "text": "Ocrelizumab biosimilar — Mechanism: Humanized monoclonal antibody targeting CD20-positive B cells — Phase: Pre-approval (biosimilar development) — Population: Multiple sclerosis patients — Comparator: Reference product Ocrevus — Status: Exclusive licensing deal signed for IV and SC formulations.",
+          "url": "https://pharmashots.com/34458/polpharma-and-teva-sign-exclusive-licensing-deal-for-a-biosimilar-candidate-to-ocrevus/"
         }
       ]
     },
@@ -295,24 +211,48 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "TaiMed Biologics — Strategic partnership exploration for TMB-365/380 — Licensing and co-development opportunities — Company exploring global development and commercialization partnerships for the dual-antibody HIV regimen.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
+          "text": "VYNE Therapeutics / Yarrow Bioscience — Proposed merger — Acquisition of Yarrow Bioscience — Special cash dividend of $16.5M declared; closing expected July 24, 2026 subject to stockholder approval.",
+          "url": "https://globenewswire.com/news-release/2026/07/10/3325444/0/en/vyne-therapeutics-declares-special-cash-dividend-in-connection-with-the-proposed-merger-with-yarrow-bioscience.html"
         },
         {
-          "text": "Acumen Pharmaceuticals / JCR Pharmaceuticals — License agreement option exercise — ACU301/ACU401 development — Acumen exercised option to advance two EBD candidates combining its antibody expertise with JCR's J-Brain Cargo technology.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+          "text": "AbbVie — Acquired Apogee Therapeutics for $10.9 billion; deal includes zumilokibart antibody assets for atopic dermatitis, asthma, and eosinophilic esophagitis; first acquisition of 2026.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "TaiMed Biologics — Strategic partnerships for TMB-365/380 — HIV maintenance therapy — Exploring licensing and co-development opportunities to support global commercialization.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323761/0/en/taimed-biologics-4147-receives-tfda-drug-license-collection-notice-for-trogarzo-marking-the-final-step-toward-commercial-launch-in-taiwan.html"
+          "text": "GSK — Acquired Nuvalent for $10.6 billion; adds zidesamtinib for NSCLC and solid tumors; complements existing antibody-drug conjugate risvutatug rezetecan and prior RAPT Therapeutics mAb acquisition.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "Acumen Pharmaceuticals / JCR Pharmaceuticals — Option exercise for EBD program — Alzheimer's disease antibodies — Acumen exercised option to advance ACU301 and ACU401 combining JCR's J-Brain Cargo technology with Acumen's antibody platform.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+          "text": "Incyte — Acquired Star Therapeutics for $1.25 billion; includes up to $750 million in sales milestones for VGA039, a Phase 3 monoclonal antibody for von Willebrand disease.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
         },
         {
-          "text": "Avalo Therapeutics — Index inclusion — Russell 2000® and Russell 3000® — Added to indexes effective June 26, 2026, reflecting clinical progress of anti-IL-1β monoclonal antibody portfolio.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323012/0/en/avalo-therapeutics-to-participate-in-the-leerink-partners-therapeutics-forum.html"
+          "text": "Teva / Polpharma Biologics — Signed global licensing agreement for ocrelizumab biosimilar; Polpharma retains development/manufacturing, Teva handles regulatory submissions and commercialization in US, EU, Brazil, Canada, Australia, New Zealand, Israel, and Turkey.",
+          "url": "https://drug-dev.com/teva-and-polpharma-biologics-announce-global-licensing-agreement-for-a-biosimilar-candidate-to-ocrevus-ocrelizumab-for-multiple-sclerosis/"
+        },
+        {
+          "text": "FUJIFILM Biotechnologies — Manufacturing capacity expansion — Monoclonal antibody production — Accelerating drug substance capacity doubling (adding 8 x 20,000L bioreactors) by 6 months to target late FY2027.",
+          "url": "https://drug-dev.com/fujifilm-biotechnologies-selected-in-fda-precheck-pilot-program-to-advance-u-s-drug-manufacturing/"
+        },
+        {
+          "text": "VYNE Therapeutics — Proposed merger with Yarrow Bioscience — Acquisition of YB-101 monoclonal antibody program — $16.5M special cash dividend declared; closing expected July 24, 2026.",
+          "url": "https://globenewswire.com/news-release/2026/07/10/3325444/0/en/vyne-therapeutics-declares-special-cash-dividend-in-connection-with-the-proposed-merger-with-yarrow-bioscience.html"
+        },
+        {
+          "text": "AbbVie — Acquired Apogee Therapeutics for $10.9 billion; secures zumilokibart (monoclonal antibody) and pipeline for autoimmune indications.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
+        },
+        {
+          "text": "Incyte — Acquired Star Therapeutics for $1.25 billion; gains VGA039 (monoclonal antibody) for von Willebrand disease with up to $750 million in potential sales milestones.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
+        },
+        {
+          "text": "GSK — Acquired RAPT Therapeutics (monoclonal antibody developer) to expand biologics capabilities; deal announced June 2026.",
+          "url": "https://www.labiotech.eu/trends-news/top-biotech-deals-in-june-2026/"
+        },
+        {
+          "text": "Polpharma / Teva — Exclusive licensing agreement — Ocrevus (ocrelizumab) biosimilar — Polpharma granted Teva exclusive commercialization rights for IV and SC formulations in US, EU, Brazil, Canada, Australia, New Zealand, Israel, and Turkey; deal value undisclosed.",
+          "url": "https://pharmashots.com/34458/polpharma-and-teva-sign-exclusive-licensing-deal-for-a-biosimilar-candidate-to-ocrevus/"
         }
       ]
     }
