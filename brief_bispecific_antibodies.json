@@ -1,38 +1,34 @@
 {
   "query": "bispecific",
-  "generated_at": "2026-07-11 07:46:51",
-  "article_count": 22,
+  "generated_at": "2026-07-15 07:07:14",
+  "article_count": 20,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Context Therapeutics — advancing T cell engaging (TCE) bispecific antibodies for solid tumors — added to Russell 2000 and Russell 3000 indexes effective June 26, 2026.",
-          "url": "https://globenewswire.com/news-release/2026/07/10/3325745/0/en/context-therapeutics-announces-inducement-grant-under-nasdaq-listing-rule-5635-c-4.html"
+          "text": "Molecular Partners — MP0712 — Small Cell Lung Cancer — Phase 1/2a trial dosing ongoing in first cohort; initial data expected within months, comprehensive efficacy data anticipated in 2027.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
         },
         {
-          "text": "VERAXA Biotech — novel conditionally active T cell engagers (BiTAC) and bispecific ADCs (bs ADCs) — recorded tangible industry interest at BIO International; targeting first BiTAC-TCE candidate VXA-102 IND/CTA readiness by early 2028.",
-          "url": "https://globenewswire.com/news-release/2026/07/10/3325749/0/en/veraxa-biotech-ag-appoints-carl-von-halem-as-interim-chief-financial-officer-and-successor-to-torsten-b%c3%bcrgermeister.html"
+          "text": "Molecular Partners — MP0726 — Mesothelioma (MSLN-targeted) — First-in-human imaging for this bispecific Radio-DARPin candidate planned to start in H2 2026.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
         },
         {
-          "text": "Acumen Pharmaceuticals nominated two Enhanced Brain Delivery (EBD) candidates for Alzheimer's disease, including a bispecific antibody derived from sabirnetug and a novel AβO-selective antibody (ACU234), leveraging JCR Pharmaceuticals' J-Brain Cargo transferrin-receptor-targeting technology.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+          "text": "Molecular Partners — Pipeline Expansion — Bispecific Radio-DARPins — New target nomination planned for H2 2026 with two IND submissions scheduled for 2027.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
         },
         {
-          "text": "Genmab's epcoritamab, a T-cell engaging bispecific antibody, achieved a 60% reduction in risk of disease progression and death (HR 0.40) in the Phase 3 EPCORE DLBCL-4 trial for relapsed/refractory diffuse large B-cell lymphoma when combined with lenalidomide.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322680/0/en/genmab-announces-tepkinly-epcoritamab-in-combination-with-lenalidomide-and-rituximab-is-approved-by-the-european-commission-for-the-treatment-of-relapsed-or-refractory-follicular-l.html"
+          "text": "Molecular Partners — Bispecific Radio-DARPins — Neuroendocrine Cancers — Showcased at Gordon Research Conference; platform demonstrated as isotope-agnostic vectors for alpha-emitting payloads.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
         },
         {
-          "text": "Johnson & Johnson's teclistamab, a bispecific antibody, received a positive CHMP recommendation for combination with daratumumab in relapsed/refractory multiple myeloma, showing 83% overall survival at 3 years in Phase 3 data.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322355/0/fr/la-recommandation-du-cmuh-fait-passer-le-tecvayli-teclistamab-de-johnson-johnson-associ%c3%a9-au-daratumumab-au-rang-de-traitement-conventionnel-potentiel-pour-le-my%c3%a9lome-multiple-r%c3%a9cid.html"
+          "text": "VERAXA Biotech launched an AI-enabled drug discovery collaboration with Ardigen to optimize target pair selection for its BiTAC® pipeline of bispecific T cell engagers (TCEs) and bispecific antibody drug conjugates (ADCs).",
+          "url": "https://globenewswire.com/news-release/2026/07/13/3326056/0/en/veraxa-biotech-to-launch-ai-enabled-drug-discovery-collaboration-with-ardigen-to-support-growing-bitac-pipeline.html"
         },
         {
-          "text": "The European Commission approved Genmab's TEPKINLY (epcoritamab) in combination with lenalidomide and rituximab for relapsed or refractory follicular lymphoma, expanding the indication for this bispecific antibody.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322680/0/en/genmab-announces-tepkinly-epcoritamab-in-combination-with-lenalidomide-and-rituximab-is-approved-by-the-european-commission-for-the-treatment-of-relapsed-or-refractory-follicular-l.html"
-        },
-        {
-          "text": "Biocytogen entered a global collaboration with Whitehawk Therapeutics to develop bispecific antibody-drug conjugates (BsADCs) using Biocytogen's RenLite platform.",
-          "url": "https://pharmashots.com/34404/biocytogen-collaborates-with-whitehawk-therapeutics-to-develop-bispecific-adc/"
+          "text": "VERAXA Biotech's BiTAC platform utilizes Boolean 'AND-gate' logic requiring co-expression of two distinct targets on cancer cells to activate bispecific TCEs and ADCs, aiming to widen the therapeutic window and reduce on-target, off-tumor toxicities.",
+          "url": "https://globenewswire.com/news-release/2026/07/13/3326056/0/en/veraxa-biotech-to-launch-ai-enabled-drug-discovery-collaboration-with-ardigen-to-support-growing-bitac-pipeline.html"
         }
       ]
     },
@@ -40,40 +36,28 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Context Therapeutics — CTIM-76, CT-95, CT-202 — Solid Tumors — advancing Claudin 6 x CD3, Mesothelin x CD3, and Nectin-4 x CD3 TCE bispecific antibodies as core portfolio assets.",
-          "url": "https://globenewswire.com/news-release/2026/07/10/3325745/0/en/context-therapeutics-announces-inducement-grant-under-nasdaq-listing-rule-5635-c-4.html"
+          "text": "Molecular Partners — MP0712 — Small Cell Lung Cancer — Phase 1/2a trial (NCT07278479) dosing ongoing; 5 centers open and recruiting; up to 4 dose levels and 4 doses per patient planned.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
         },
         {
-          "text": "VERAXA Biotech — BiTAC-TCE and BiTAC-ADC programs — Solid Tumors — four BiTAC-based T cell engager programs and two bispecific ADCs (bs ADCs) in pipeline; VXA-102 targeted for IND/CTA readiness by Q1 2028.",
-          "url": "https://globenewswire.com/news-release/2026/07/10/3325749/0/en/veraxa-biotech-ag-appoints-carl-von-halem-as-interim-chief-financial-officer-and-successor-to-torsten-b%c3%bcrgermeister.html"
+          "text": "Molecular Partners — MP0712 — Small Cell Lung Cancer — Co-developed with Orano Med; utilizes 212 Pb-based DLL3-targeted bispecific Radio-DARPin mechanism.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
         },
         {
-          "text": "Acumen Pharmaceuticals — Bispecific antibody (sabirnetug-derived) — Alzheimer's disease — Nominated as EBD candidate combining AβO-selective antibody with JCR's J-Brain Cargo transferrin-receptor-targeting technology; IND-enabling activities ongoing for mid-2027 submission.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+          "text": "Molecular Partners — DLL3 Radio-DARPin — Neuroendocrine Cancers — Nuclear Medicine Research Institute (South Africa) initiated compassionate care work using 225 Ac-loaded bispecific Radio-DARPin.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
         },
         {
-          "text": "Context Therapeutics — CTIM-76 — Platinum-resistant ovarian cancer — Phase 1 interim data: 29% confirmed overall response rate (RECIST v1.1) in patients with median 7 prior lines of therapy.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322747/0/en/context-therapeutics-added-to-russell-2000-and-russell-3000-indexes.html"
+          "text": "Molecular Partners — 225 Ac-loaded DLL3 Radio-DARPin — Small Cell Lung Cancer — Compassionate care program initiated by Nuclear Medicine Research Institute (NuMeRI) in South Africa under Section 21 framework.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
         },
         {
-          "text": "Genmab — Epcoritamab (TEPKINLY) — Relapsed/Refractory Diffuse Large B-Cell Lymphoma — Phase 3 EPCORE DLBCL-4 met primary endpoint: 60% risk reduction in progression/death (HR 0.40, p<0.0001) vs R-GemOx; chemotherapy-free regimen.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322680/0/en/genmab-announces-tepkinly-epcoritamab-in-combination-with-lenalidomide-and-rituximab-is-approved-by-the-european-commission-for-the-treatment-of-relapsed-or-refractory-follicular-l.html"
+          "text": "VERAXA Biotech — BiTAC® Pipeline — Bispecific T cell engagers and bispecific ADCs — Initiated AI collaboration with Ardigen to guide selection of synergistic cancer target pairs for conditionally active TCEs and ADCs.",
+          "url": "https://globenewswire.com/news-release/2026/07/13/3326056/0/en/veraxa-biotech-to-launch-ai-enabled-drug-discovery-collaboration-with-ardigen-to-support-growing-bitac-pipeline.html"
         },
         {
-          "text": "Genmab — Epcoritamab (TEPKINLY) — Relapsed/Refractory Follicular Lymphoma — European Commission approved combination with lenalidomide and rituximab for treatment of R/R FL.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322680/0/en/genmab-announces-tepkinly-epcoritamab-in-combination-with-lenalidomide-and-rituximab-is-approved-by-the-european-commission-for-the-treatment-of-relapsed-or-refractory-follicular-l.html"
-        },
-        {
-          "text": "Johnson & Johnson — Tecvayli (teclistamab) — Relapsed/Refractory Multiple Myeloma — EMA CHMP recommended approval for combination with daratumumab; Phase 3 data showed 83% 3-year overall survival and >90% 3-year PFS for patients progression-free at 6 months.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322355/0/fr/la-recommandation-du-cmuh-fait-passer-le-tecvayli-teclistamab-de-johnson-johnson-associ%c3%a9-au-daratumumab-au-rang-de-traitement-conventionnel-potentiel-pour-le-my%c3%a9lome-multiple-r%c3%a9cid.html"
-        },
-        {
-          "text": "Johnson & Johnson — TECVAYLI (teclistamab) — Relapsed/Refractory Multiple Myeloma — CHMP recommended extension of indication for teclistamab (BCMAxCD3 bispecific) combined with daratumumab; mechanism involves T-cell activation and immune microenvironment modulation.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322352/0/de/empfehlung-des-chmp-bringt-tecvayli-teclistamab-von-johnson-johnson-in-kombination-mit-daratumumab-als-potenziellen-behandlungsstandard-f%c3%bcr-das-rezidivierte-refrakt%c3%a4re-multiple-mye.html"
-        },
-        {
-          "text": "Biocytogen — Whitehawk Therapeutics — Bispecific ADCs — Global collaboration established to develop ~5 bispecific antibodies from RenLite platform combined with Whitehawk's ADC linker-payload technologies.",
-          "url": "https://pharmashots.com/34404/biocytogen-collaborates-with-whitehawk-therapeutics-to-develop-bispecific-adc/"
+          "text": "Veraxa Biotech — BiTAC® Pipeline — Bispecific T cell engagers and ADCs — Launched AI collaboration with Ardigen to refine dual-target combinations and rescue challenging targets via Boolean 'AND-gate' activation logic.",
+          "url": "https://globenewswire.com/news-release/2026/07/13/3326056/0/en/veraxa-biotech-to-launch-ai-enabled-drug-discovery-collaboration-with-ardigen-to-support-growing-bitac-pipeline.html"
         }
       ]
     },
@@ -81,32 +65,20 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Context Therapeutics — TCE bispecific antibody portfolio expansion — CTIM-76 (Claudin 6 x CD3), CT-95 (Mesothelin x CD3), CT-202 (Nectin-4 x CD3) — clinical-stage development for solid tumors.",
-          "url": "https://globenewswire.com/news-release/2026/07/10/3325745/0/en/context-therapeutics-announces-inducement-grant-under-nasdaq-listing-rule-5635-c-4.html"
+          "text": "Molecular Partners — Bispecific Radio-DARPin commercialization — MP0712 (DLL3) + MP0726 (MSLN) pipeline — Phase 1/2a dosing active; strategic partnership with Orano Med; 2 INDs planned for 2027.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
         },
         {
-          "text": "VERAXA Biotech — BiTAC platform monetization and bs ADC partnering — VXA-102 (BiTAC-TCE) + bsADC program with OmniAb — aiming for first BiTAC-TCE IND by 2028; non-BiTAC assets (VXA-901, HER2 ADC) available for partnership.",
-          "url": "https://globenewswire.com/news-release/2026/07/10/3325749/0/en/veraxa-biotech-ag-appoints-carl-von-halem-as-interim-chief-financial-officer-and-successor-to-torsten-b%c3%bcrgermeister.html"
+          "text": "Molecular Partners — Bispecific Radio-DARPin clinical advancement — MP0712 (DLL3) + MP0726 (MSLN) pipeline — Phase 1/2a dosing ongoing; FIH imaging for MP0726 planned H2 2026; two INDs planned for 2027.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
         },
         {
-          "text": "Acumen Pharmaceuticals — Development of bispecific antibodies for CNS delivery — Sabirnetug-derived bispecific + ACU234 — Exercised option with JCR Pharmaceuticals; candidates designed for 14-40x higher brain penetration in NHPs vs native antibodies.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+          "text": "VERAXA Biotech — Next-generation antibody-based therapeutics development — BiTAC® bispecific T cell engagers and bispecific ADCs — Partnering with Ardigen to integrate AI for precision oncology target selection and validation.",
+          "url": "https://globenewswire.com/news-release/2026/07/13/3326056/0/en/veraxa-biotech-to-launch-ai-enabled-drug-discovery-collaboration-with-ardigen-to-support-growing-bitac-pipeline.html"
         },
         {
-          "text": "Genmab — Bispecific antibody commercialization and expansion — Epcoritamab (DuoBody-CD3xCD20) — Phase 3 EPCORE DLBCL-4 positive results; EC approval for FL indication; global regulatory submissions planned for DLBCL combination.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322680/0/en/genmab-announces-tepkinly-epcoritamab-in-combination-with-lenalidomide-and-rituximab-is-approved-by-the-european-commission-for-the-treatment-of-relapsed-or-refractory-follicular-l.html"
-        },
-        {
-          "text": "Johnson & Johnson — Bispecific antibody standard-of-care establishment — Tecvayli (teclistamab) + Daratumumab — CHMP positive opinion for R/R multiple myeloma; data supports 3-year OS of 83% in second-line setting.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322355/0/fr/la-recommandation-du-cmuh-fait-passer-le-tecvayli-teclistamab-de-johnson-johnson-associ%c3%a9-au-daratumumab-au-rang-de-traitement-conventionnel-potentiel-pour-le-my%c3%a9lome-multiple-r%c3%a9cid.html"
-        },
-        {
-          "text": "Biocytogen — Bispecific ADC platform commercialization — RenLite platform (providing ~5 bispecific antibodies) — Global partnership with Whitehawk Therapeutics; revenue via upfront, milestones, and royalties.",
-          "url": "https://pharmashots.com/34404/biocytogen-collaborates-with-whitehawk-therapeutics-to-develop-bispecific-adc/"
-        },
-        {
-          "text": "Whitehawk Therapeutics — ADC linker-payload technology integration — Bispecific ADC candidates (option to advance) — Holds global rights option and full program control upon advancement of BsADCs.",
-          "url": "https://pharmashots.com/34404/biocytogen-collaborates-with-whitehawk-therapeutics-to-develop-bispecific-adc/"
+          "text": "Veraxa Biotech — Next-generation antibody-based therapeutics development — BiTAC® bispecific TCEs and ADCs — Partnering with Ardigen to integrate AI for precision oncology target selection and improved success rates.",
+          "url": "https://globenewswire.com/news-release/2026/07/13/3326056/0/en/veraxa-biotech-to-launch-ai-enabled-drug-discovery-collaboration-with-ardigen-to-support-growing-bitac-pipeline.html"
         }
       ]
     },
@@ -114,40 +86,24 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "CTIM-76 — Mechanism: Claudin 6 x CD3 T cell engager bispecific antibody — Phase: 1 — Population: Platinum-resistant ovarian cancer (PROC) patients with median 7 prior lines — Endpoints: 29% confirmed overall response rate per RECIST v1.1.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322747/0/en/context-therapeutics-added-to-russell-2000-and-russell-3000-indexes.html"
+          "text": "MP0712 — Mechanism: Bispecific Radio-DARPin targeting DLL3 with 212 Pb payload — Phase: 1/2a — Population: Small cell lung cancer and neuroendocrine cancers — Comparator: None stated — Endpoints: Safety and efficacy data expected 2027.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
         },
         {
-          "text": "CT-95 — Mechanism: Mesothelin x CD3 T cell engaging bispecific antibody — Phase: Preclinical/Early clinical — Population: Solid tumors — Status: Part of Context Therapeutics pipeline.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322747/0/en/context-therapeutics-added-to-russell-2000-and-russell-3000-indexes.html"
+          "text": "MP0726 — Mechanism: Bispecific Radio-DARPin targeting MSLN — Phase: First-in-human imaging planned — Population: Not specified — Comparator: Not specified — Endpoints: Imaging data expected H2 2026.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
         },
         {
-          "text": "CT-202 — Mechanism: Nectin-4 x CD3 T cell engaging bispecific antibody — Phase: Preclinical/Early clinical — Population: Solid tumors — Status: Part of Context Therapeutics pipeline.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322747/0/en/context-therapeutics-added-to-russell-2000-and-russell-3000-indexes.html"
+          "text": "DLL3-targeting Radio-DARPin — Mechanism: Bispecific vector with 225 Ac payload — Phase: Compassionate care (Section 21, South Africa) — Population: Neuroendocrine cancers — Comparator: Not specified — Status: Early-access program initiated by NuMeRI.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
         },
         {
-          "text": "VXA-102 — Mechanism: BiTAC conditionally active T cell engager bispecific — Phase: Preclinical/IND-enabling — Population: Solid tumors — Endpoints: IND/CTA readiness targeted for early 2028.",
-          "url": "https://globenewswire.com/news-release/2026/07/10/3325749/0/en/veraxa-biotech-ag-appoints-carl-von-halem-as-interim-chief-financial-officer-and-successor-to-torsten-b%c3%bcrgermeister.html"
+          "text": "BiTAC® TCEs — Mechanism: Boolean 'AND-gate' logic requiring co-expression of two distinct targets on cancer cells for activation — Phase: Preclinical/Discovery — Population: Cancer cells with dual target expression — Comparator: Standard TCEs — Outcome: Potential to spare healthy tissues and reduce systemic toxicity by avoiding activation on single-target positive cells.",
+          "url": "https://globenewswire.com/news-release/2026/07/13/3326056/0/en/veraxa-biotech-to-launch-ai-enabled-drug-discovery-collaboration-with-ardigen-to-support-growing-bitac-pipeline.html"
         },
         {
-          "text": "VERAXA bs ADCs — Mechanism: Bispecific antibody-drug conjugates with traditional molecular design — Phase: Early development — Population: Solid tumors — Status: Two programs in partnership with OmniAb, Inc.",
-          "url": "https://globenewswire.com/news-release/2026/07/10/3325749/0/en/veraxa-biotech-ag-appoints-carl-von-halem-as-interim-chief-financial-officer-and-successor-to-torsten-b%c3%bcrgermeister.html"
-        },
-        {
-          "text": "Sabirnetug-derived bispecific — Mechanism: AβO-selective antibody fused with J-Brain Cargo transferrin-receptor-targeting moiety — Phase: Preclinical/IND-enabling — Population: Alzheimer's disease — Results: 14-40x higher brain antibody levels in non-human primates compared to native antibodies.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
-        },
-        {
-          "text": "Epcoritamab — Mechanism: T-cell engaging bispecific antibody (DuoBody-CD3xCD20) — Phase: 3 (EPCORE DLBCL-4) — Population: Relapsed/refractory DLBCL (≥1 prior line) — Comparator: R-GemOx — Endpoints/Results: 60% reduction in progression/death risk (HR 0.40, p<0.0001); chemotherapy-free fixed duration regimen.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322680/0/en/genmab-announces-tepkinly-epcoritamab-in-combination-with-lenalidomide-and-rituximab-is-approved-by-the-european-commission-for-the-treatment-of-relapsed-or-refractory-follicular-l.html"
-        },
-        {
-          "text": "Tecvayli (teclistamab) — Mechanism: Bispecific antibody targeting BCMA and CD3 (complementary with daratumumab CD38 modulation) — Phase: 3 — Population: Relapsed/refractory multiple myeloma (≥1 prior therapy) — Comparator: Standard therapy — Endpoints/Results: 83% 3-year overall survival; >90% 3-year PFS for patients progression-free at 6 months.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322355/0/fr/la-recommandation-du-cmuh-fait-passer-le-tecvayli-teclistamab-de-johnson-johnson-associ%c3%a9-au-daratumumab-au-rang-de-traitement-conventionnel-potentiel-pour-le-my%c3%a9lome-multiple-r%c3%a9cid.html"
-        },
-        {
-          "text": "RenLite-derived bispecific antibodies — Mechanism: Bispecific antibody platform — Phase: Preclinical discovery — Population: N/A — Comparator: N/A — Status: ~5 candidates provided to Whitehawk for evaluation with ADC linker-payloads.",
-          "url": "https://pharmashots.com/34404/biocytogen-collaborates-with-whitehawk-therapeutics-to-develop-bispecific-adc/"
+          "text": "BiTAC® TCEs — Mechanism: Boolean 'AND-gate' logic requiring co-expression of two distinct cancer targets for activation — Phase: Preclinical/Discovery — Population: Cancer cells with dual target expression — Outcome: Potential to widen therapeutic window by sparing healthy tissues and reducing systemic toxicity.",
+          "url": "https://globenewswire.com/news-release/2026/07/13/3326056/0/en/veraxa-biotech-to-launch-ai-enabled-drug-discovery-collaboration-with-ardigen-to-support-growing-bitac-pipeline.html"
         }
       ]
     },
@@ -155,28 +111,20 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "VERAXA Biotech — Strategic partnering for bispecific ADCs — bsADC program with OmniAb, Inc. — leveraging traditional molecular design bsADCs alongside BiTAC platform for monetization.",
-          "url": "https://globenewswire.com/news-release/2026/07/10/3325749/0/en/veraxa-biotech-ag-appoints-carl-von-halem-as-interim-chief-financial-officer-and-successor-to-torsten-b%c3%bcrgermeister.html"
+          "text": "Molecular Partners / Orano Med — Strategic partnership — MP0712 (DLL3-targeted bispecific Radio-DARPin) — Co-development agreement active; Orano Med providing 212 Pb isotope payload for Phase 1/2a trial.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
         },
         {
-          "text": "Acumen Pharmaceuticals / JCR Pharmaceuticals — Option exercise for EBD program — Sabirnetug-derived bispecific + ACU234 — Acumen exercised option under license agreement to advance two candidates combining Acumen's antibody expertise with JCR's J-Brain Cargo technology.",
-          "url": "https://globenewswire.com/news-release/2026/07/07/3323065/0/en/acumen-pharmaceuticals-to-present-data-on-enhanced-brain-delivery-ebd-technology-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic.html"
+          "text": "Molecular Partners / Orano Med — Strategic partnership for MP0712 — DLL3-targeted Radio-DARPin — Co-development agreement active; Orano Med providing 212 Pb payload for Phase 1/2a trial.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
         },
         {
-          "text": "Context Therapeutics — Equity compensation — Inducement grant — Granted 146,000 non-qualified stock options to new employee at $0.70/share exercise price; 10-year term, 4-year vesting.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322747/0/en/context-therapeutics-added-to-russell-2000-and-russell-3000-indexes.html"
+          "text": "VERAXA Biotech / Ardigen — AI-enabled drug discovery collaboration — BiTAC® bispecific pipeline — Partnership established to develop AI tools for optimizing cancer target pair selection for bispecific TCEs and ADCs.",
+          "url": "https://globenewswire.com/news-release/2026/07/13/3326056/0/en/veraxa-biotech-to-launch-ai-enabled-drug-discovery-collaboration-with-ardigen-to-support-growing-bitac-pipeline.html"
         },
         {
-          "text": "Genmab — Regulatory milestone — Epcoritamab (TEPKINLY) — European Commission granted approval for combination with lenalidomide and rituximab for relapsed/refractory follicular lymphoma.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322680/0/en/genmab-announces-tepkinly-epcoritamab-in-combination-with-lenalidomide-and-rituximab-is-approved-by-the-european-commission-for-the-treatment-of-relapsed-or-refractory-follicular-l.html"
-        },
-        {
-          "text": "Johnson & Johnson — Regulatory milestone — Tecvayli (teclistamab) — EMA CHMP issued positive opinion for combination with daratumumab in relapsed/refractory multiple myeloma, advancing toward EU marketing authorization.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322355/0/fr/la-recommandation-du-cmuh-fait-passer-le-tecvayli-teclistamab-de-johnson-johnson-associ%c3%a9-au-daratumumab-au-rang-de-traitement-conventionnel-potentiel-pour-le-my%c3%a9lome-multiple-r%c3%a9cid.html"
-        },
-        {
-          "text": "Biocytogen / Whitehawk Therapeutics — Global collaboration for bispecific ADCs — Deal terms include upfront payment, development/regulatory/commercial milestones, and low single-digit royalties; Whitehawk may secure global rights.",
-          "url": "https://pharmashots.com/34404/biocytogen-collaborates-with-whitehawk-therapeutics-to-develop-bispecific-adc/"
+          "text": "Veraxa Biotech / Ardigen S.A. — AI-enabled drug discovery collaboration — BiTAC® bispecific pipeline — Partnership established to develop AI tools for synergistic cancer target pair selection; financial terms undisclosed.",
+          "url": "https://globenewswire.com/news-release/2026/07/13/3326056/0/en/veraxa-biotech-to-launch-ai-enabled-drug-discovery-collaboration-with-ardigen-to-support-growing-bitac-pipeline.html"
         }
       ]
     }
