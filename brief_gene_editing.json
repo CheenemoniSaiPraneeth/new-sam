@@ -1,30 +1,14 @@
 {
   "query": "CRISPR",
-  "generated_at": "2026-07-10 08:21:09",
-  "article_count": 12,
+  "generated_at": "2026-07-18 06:55:23",
+  "article_count": 10,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Cytosurge AG — CellEDIT platform — Genome engineering — Validated ability to perform multi-guide CRISPR editing in fragile human keratinocytes with controlled dosing, overcoming low transfection efficiency barriers.",
-          "url": "https://globenewswire.com/news-release/2026/07/09/3324559/0/en/cytosurge-s-celledit-conquers-impossible-genome-engineering-challenges.html"
-        },
-        {
-          "text": "Intellia Therapeutics — Lonvoguran Ziclumeran (lonvo-z) — Hereditary Angioedema (HAE) — Phase 3 HAELO trial met primary endpoint with 87% reduction in mean monthly attacks vs placebo (p<0.0001); 62% of patients achieved attack-free and therapy-free status for six months.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322739/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
-        },
-        {
-          "text": "Intellia Therapeutics — Lonvoguran Ziclumeran (lonvo-z) — Hereditary Angioedema (HAE) — CRISPR-based gene editing therapy; Phase 3 data published in New England Journal of Medicine showing 91% reduction in moderate/severe attacks and 89% reduction in attacks requiring on-demand treatment.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322739/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
-        },
-        {
-          "text": "Intellia Therapeutics — CRISPR gene editing platform — Hereditary Angioedema (HAE) — Phase 3 HAELO trial met primary endpoint with 87% reduction in mean monthly attacks (p<0.0001) for lonvoguran ziclumeran (lonvo-z) vs placebo.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322739/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
-        },
-        {
-          "text": "Intellia Therapeutics — lonvo-z (NTLA-2002) — HAE — 62% of patients achieved attack-free and therapy-free status for six months vs 11% placebo (p<0.0001); 91% reduction in moderate/severe attacks reported.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322739/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+          "text": "Lyora Therapeutics launched with $2.5M pre-seed funding to advance a pipeline of genetic medicines for inherited retinal diseases, including LYA-102 which utilizes optimized CRISPR technology.",
+          "url": "https://globenewswire.com/news-release/2026/07/14/3327096/0/en/lyora-therapeutics-launches-with-seed-funding-to-propel-its-biologically-validated-pipeline-of-genetic-medicines-to-treat-inherited-retinal-diseases.html"
         }
       ]
     },
@@ -32,16 +16,12 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Cytosurge AG — CellEDIT — Dermokine knockout in keratinocytes — Enabled deterministic multi-guide CRISPR editing to create isoform-specific knockouts, revealing dermokine's role in cell-cell adhesion and wound healing.",
-          "url": "https://globenewswire.com/news-release/2026/07/09/3324559/0/en/cytosurge-s-celledit-conquers-impossible-genome-engineering-challenges.html"
+          "text": "Lyora Therapeutics — LYA-102 — Usher Syndrome Type 2 — Utilizes optimized CRISPR technology to address mutations in exon 13 of the USH2A gene; Editas Medicine granted exclusive option to license rights.",
+          "url": "https://globenewswire.com/news-release/2026/07/14/3327096/0/en/lyora-therapeutics-launches-with-seed-funding-to-propel-its-biologically-validated-pipeline-of-genetic-medicines-to-treat-inherited-retinal-diseases.html"
         },
         {
-          "text": "Intellia Therapeutics — Lonvoguran Ziclumeran (lonvo-z) — Hereditary Angioedema — Phase 3 HAELO trial presented at EAACI 2026; primary endpoint met with 87% attack reduction; key secondary endpoints included 62% attack-free rate and 17.04-point improvement in AE-QoL score.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322739/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
-        },
-        {
-          "text": "Intellia Therapeutics — lonvo-z (NTLA-2002) — Hereditary Angioedema — Phase 3 HAELO trial presented at EAACI 2026; data published in New England Journal of Medicine showing 89% reduction in attacks requiring on-demand treatment.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322739/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+          "text": "Lyora Therapeutics — LYA-102 — Usher Syndrome Type 2 — Program uses optimized CRISPR technology to address exon 13 mutations in the USH2A gene; Editas Medicine granted exclusive option to license USH2A gene editing rights.",
+          "url": "https://globenewswire.com/news-release/2026/07/14/3327096/0/en/lyora-therapeutics-launches-with-seed-funding-to-propel-its-biologically-validated-pipeline-of-genetic-medicines-to-treat-inherited-retinal-diseases.html"
         }
       ]
     },
@@ -49,16 +29,12 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Cytosurge AG — Advanced genome editing services — CellEDIT workflow — Deployed to overcome CRISPR delivery challenges in difficult-to-edit models including 3D organotypic skin cultures and fragile primary cells.",
-          "url": "https://globenewswire.com/news-release/2026/07/09/3324559/0/en/cytosurge-s-celledit-conquers-impossible-genome-engineering-challenges.html"
+          "text": "Lyora Therapeutics — CRISPR-based gene editing for inherited retinal diseases — LYA-102 (USH2A) + LYA-101 (PRPF31) — $2.5M pre-seed funding secured; IND submission for LYA-101 planned within 18 months.",
+          "url": "https://globenewswire.com/news-release/2026/07/14/3327096/0/en/lyora-therapeutics-launches-with-seed-funding-to-propel-its-biologically-validated-pipeline-of-genetic-medicines-to-treat-inherited-retinal-diseases.html"
         },
         {
-          "text": "Intellia Therapeutics — CRISPR gene editing commercialization — Lonvoguran Ziclumeran (lonvo-z) — Phase 3 HAELO trial positive results; 87% attack reduction in HAE; safety profile favorable with mild/moderate TEAEs only.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322739/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
-        },
-        {
-          "text": "Intellia Therapeutics — CRISPR-based in vivo gene editing commercialization — lonvo-z (NTLA-2002) — Phase 3 HAELO trial positive results; favorable safety profile with no serious adverse events reported.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322739/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+          "text": "Lyora Therapeutics — CRISPR-based gene editing for retinal diseases — LYA-102 (USH2A) and LYA-101 (PRPF31) — Raised $2.5M pre-seed; plans IND submission for LYA-101 within 18 months, with LYA-102 to follow.",
+          "url": "https://globenewswire.com/news-release/2026/07/14/3327096/0/en/lyora-therapeutics-launches-with-seed-funding-to-propel-its-biologically-validated-pipeline-of-genetic-medicines-to-treat-inherited-retinal-diseases.html"
         }
       ]
     },
@@ -66,16 +42,25 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "Dermokine isoform-specific knockouts — Mechanism: CRISPR-mediated gene editing via CellEDIT — Phase: Preclinical research — Population: Human keratinocytes — Comparator: Traditional bulk delivery methods — Results: Eliminated stress-induced bias, preserved natural phenotype, and confirmed dermokine regulation of keratinocyte differentiation.",
-          "url": "https://globenewswire.com/news-release/2026/07/09/3324559/0/en/cytosurge-s-celledit-conquers-impossible-genome-engineering-challenges.html"
+          "text": "LYA-102 — Mechanism: CRISPR-mediated gene editing targeting exon 13 of USH2A — Phase: Pre-clinical — Population: Usher Syndrome Type 2 (hearing and vision loss) — Status: Exclusive licensing option secured from Editas Medicine.",
+          "url": "https://globenewswire.com/news-release/2026/07/14/3327096/0/en/lyora-therapeutics-launches-with-seed-funding-to-propel-its-biologically-validated-pipeline-of-genetic-medicines-to-treat-inherited-retinal-diseases.html"
         },
         {
-          "text": "Lonvoguran Ziclumeran (lonvo-z) — Mechanism: CRISPR gene editing targeting KNG1 gene to reduce bradykinin production — Phase: 3 — Population: Hereditary Angioedema (HAE) patients — Comparator: Placebo — Endpoints/Results: 87% reduction in mean monthly attacks (p<0.0001); 62% attack-free and therapy-free at 6 months; 91% reduction in moderate/severe attacks.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322739/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+          "text": "LYA-102 — Mechanism: CRISPR-mediated gene editing targeting exon 13 of USH2A — Phase: Pre-clinical — Population: Usher Syndrome Type 2 (potential hearing loss application) — Status: Exclusive licensing option secured from Editas Medicine.",
+          "url": "https://globenewswire.com/news-release/2026/07/14/3327096/0/en/lyora-therapeutics-launches-with-seed-funding-to-propel-its-biologically-validated-pipeline-of-genetic-medicines-to-treat-inherited-retinal-diseases.html"
+        }
+      ]
+    },
+    {
+      "heading": "Business & Deals",
+      "points": [
+        {
+          "text": "Lyora Therapeutics / Editas Medicine — CRISPR licensing agreement — USH2A gene editing rights — Editas granted Lyora exclusive option to license certain rights applicable to USH2A gene editing for LYA-102.",
+          "url": "https://globenewswire.com/news-release/2026/07/14/3327096/0/en/lyora-therapeutics-launches-with-seed-funding-to-propel-its-biologically-validated-pipeline-of-genetic-medicines-to-treat-inherited-retinal-diseases.html"
         },
         {
-          "text": "lonvo-z (NTLA-2002) — Mechanism: CRISPR/Cas9-mediated in vivo gene editing targeting angiopoietin-like 3 (ANGPTL3) — Phase: 3 (HAELO) — Population: Hereditary Angioedema patients — Comparator: Placebo — Results: 87% reduction in mean monthly attacks; 91% reduction in moderate/severe attacks; 17.04 point improvement in AE-QoL score.",
-          "url": "https://globenewswire.com/news-release/2026/07/06/3322739/0/en/intellia-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html"
+          "text": "Lyora Therapeutics — Secured exclusive option from Editas Medicine to license rights for USH2A gene editing technology — Deal supports development of LYA-102 for Usher Syndrome Type 2.",
+          "url": "https://globenewswire.com/news-release/2026/07/14/3327096/0/en/lyora-therapeutics-launches-with-seed-funding-to-propel-its-biologically-validated-pipeline-of-genetic-medicines-to-treat-inherited-retinal-diseases.html"
         }
       ]
     }
