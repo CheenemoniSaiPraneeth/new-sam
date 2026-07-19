@@ -1,34 +1,38 @@
 {
   "query": "bispecific",
-  "generated_at": "2026-07-15 07:07:14",
-  "article_count": 20,
+  "generated_at": "2026-07-19 07:33:07",
+  "article_count": 22,
   "sections": [
     {
       "heading": "Overview",
       "points": [
         {
-          "text": "Molecular Partners — MP0712 — Small Cell Lung Cancer — Phase 1/2a trial dosing ongoing in first cohort; initial data expected within months, comprehensive efficacy data anticipated in 2027.",
+          "text": "Acumen Pharmaceuticals presented data on bispecific antibodies targeting Aβ oligomers and transferrin receptors demonstrating enhanced brain delivery in cynomolgus monkeys at AAIC 2026.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327603/0/en/acumen-pharmaceuticals-highlights-enhanced-brain-delivery-ebd-program-data-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic-2026.html"
+        },
+        {
+          "text": "Genmab secured European Commission approval for TEPKINLY (epcoritamab) plus lenalidomide and rituximab as the first bispecific-based therapy for relapsed/refractory follicular lymphoma in the second-line setting.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327556/0/en/genmab-announces-net-sales-of-darzalex-daratumumab-for-second-quarter-of-2026.html"
+        },
+        {
+          "text": "Molecular Partners initiated dosing in a randomized Phase 2 TACTIC trial evaluating MP0317, a bispecific radio-DARPin, combined with chemoimmunotherapy for first-line cholangiocarcinoma.",
           "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
         },
         {
-          "text": "Molecular Partners — MP0726 — Mesothelioma (MSLN-targeted) — First-in-human imaging for this bispecific Radio-DARPin candidate planned to start in H2 2026.",
+          "text": "Genmab's TEPKINLY + R2 regimen demonstrated a 79% reduction in risk of disease progression or death (HR 0.21) versus R2 alone in the Phase 3 EPCORE FL-1 trial for follicular lymphoma.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327556/0/en/genmab-announces-net-sales-of-darzalex-daratumumab-for-second-quarter-of-2026.html"
+        },
+        {
+          "text": "Molecular Partners presented data on bispecific radio-DARPins at the Gordon Research Conference, highlighting the clinical progression of MP0317 in biliary tract carcinoma.",
           "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
         },
         {
-          "text": "Molecular Partners — Pipeline Expansion — Bispecific Radio-DARPins — New target nomination planned for H2 2026 with two IND submissions scheduled for 2027.",
-          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
+          "text": "Samsung Biologics — Bispecific antibodies — Platform strategy — Engineering approaches integrating molecular design with process development aim to resolve chain mispairing and heterogeneity while improving yields and stability for scalable manufacturing.",
+          "url": "https://lifescienceleader.com/doc/platform-strategy-for-improving-manufacturability-and-efficacy-in-bispecific-antibodies-0001"
         },
         {
-          "text": "Molecular Partners — Bispecific Radio-DARPins — Neuroendocrine Cancers — Showcased at Gordon Research Conference; platform demonstrated as isotope-agnostic vectors for alpha-emitting payloads.",
-          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
-        },
-        {
-          "text": "VERAXA Biotech launched an AI-enabled drug discovery collaboration with Ardigen to optimize target pair selection for its BiTAC® pipeline of bispecific T cell engagers (TCEs) and bispecific antibody drug conjugates (ADCs).",
-          "url": "https://globenewswire.com/news-release/2026/07/13/3326056/0/en/veraxa-biotech-to-launch-ai-enabled-drug-discovery-collaboration-with-ardigen-to-support-growing-bitac-pipeline.html"
-        },
-        {
-          "text": "VERAXA Biotech's BiTAC platform utilizes Boolean 'AND-gate' logic requiring co-expression of two distinct targets on cancer cells to activate bispecific TCEs and ADCs, aiming to widen the therapeutic window and reduce on-target, off-tumor toxicities.",
-          "url": "https://globenewswire.com/news-release/2026/07/13/3326056/0/en/veraxa-biotech-to-launch-ai-enabled-drug-discovery-collaboration-with-ardigen-to-support-growing-bitac-pipeline.html"
+          "text": "Immatics N.V. — PRAME franchise — Melanoma — Company identified as global leader in precision targeting of PRAME with multiple clinical-stage programs spanning cell therapies and bispecifics; Phase 3 SUPRAME trial for anzu-cel on track for BLA submission in 1H 2027.",
+          "url": "https://globenewswire.com/news-release/2026/07/17/3329151/0/en/immatics-announces-upcoming-presentations-across-its-prame-franchise-at-esmo-congress-2026.html"
         }
       ]
     },
@@ -36,28 +40,24 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Molecular Partners — MP0712 — Small Cell Lung Cancer — Phase 1/2a trial (NCT07278479) dosing ongoing; 5 centers open and recruiting; up to 4 dose levels and 4 doses per patient planned.",
+          "text": "Acumen Pharmaceuticals — Bispecific anti-Aβ oligomer/transferrin receptor antibodies — Alzheimer's Disease — Preclinical data presented at AAIC 2026 showing enhanced brain delivery in cynomolgus monkeys via transferrin receptor-mediated transport.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327603/0/en/acumen-pharmaceuticals-highlights-enhanced-brain-delivery-ebd-program-data-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic-2026.html"
+        },
+        {
+          "text": "Genmab — TEPKINLY (epcoritamab) + lenalidomide/rituximab — Relapsed/Refractory Follicular Lymphoma — EC approved as first bispecific-based therapy in 2L; Phase 3 EPCORE FL-1 showed 79% risk reduction (HR 0.21) and 96% ORR vs 81% for R2 alone.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327556/0/en/genmab-announces-net-sales-of-darzalex-daratumumab-for-second-quarter-of-2026.html"
+        },
+        {
+          "text": "Molecular Partners — MP0317 — Cholangiocarcinoma — Randomized Phase 2 TACTIC trial initiated with 75-patient target (50 experimental, 25 control); dosing ongoing with data update expected 2027.",
           "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
         },
         {
-          "text": "Molecular Partners — MP0712 — Small Cell Lung Cancer — Co-developed with Orano Med; utilizes 212 Pb-based DLL3-targeted bispecific Radio-DARPin mechanism.",
-          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
+          "text": "Samsung Biologics — Bispecific antibody platforms — Oncology/Complex diseases — Developed engineering strategies to promote correct heavy- and light-chain assembly, reducing downstream purification burden and maintaining biological activity in preclinical models.",
+          "url": "https://lifescienceleader.com/doc/platform-strategy-for-improving-manufacturability-and-efficacy-in-bispecific-antibodies-0001"
         },
         {
-          "text": "Molecular Partners — DLL3 Radio-DARPin — Neuroendocrine Cancers — Nuclear Medicine Research Institute (South Africa) initiated compassionate care work using 225 Ac-loaded bispecific Radio-DARPin.",
-          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
-        },
-        {
-          "text": "Molecular Partners — 225 Ac-loaded DLL3 Radio-DARPin — Small Cell Lung Cancer — Compassionate care program initiated by Nuclear Medicine Research Institute (NuMeRI) in South Africa under Section 21 framework.",
-          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
-        },
-        {
-          "text": "VERAXA Biotech — BiTAC® Pipeline — Bispecific T cell engagers and bispecific ADCs — Initiated AI collaboration with Ardigen to guide selection of synergistic cancer target pairs for conditionally active TCEs and ADCs.",
-          "url": "https://globenewswire.com/news-release/2026/07/13/3326056/0/en/veraxa-biotech-to-launch-ai-enabled-drug-discovery-collaboration-with-ardigen-to-support-growing-bitac-pipeline.html"
-        },
-        {
-          "text": "Veraxa Biotech — BiTAC® Pipeline — Bispecific T cell engagers and ADCs — Launched AI collaboration with Ardigen to refine dual-target combinations and rescue challenging targets via Boolean 'AND-gate' activation logic.",
-          "url": "https://globenewswire.com/news-release/2026/07/13/3326056/0/en/veraxa-biotech-to-launch-ai-enabled-drug-discovery-collaboration-with-ardigen-to-support-growing-bitac-pipeline.html"
+          "text": "Immatics N.V. — Anzu-cel (anzutresgene autoleucel, IMA203) — Metastatic Melanoma — Phase 1b data: 56% confirmed ORR, 14.6 months mDOR, 6.1 months mPFS, 16.2 months mOS in heavily pretreated patients; Phase 3 SUPRAME trial advancing toward BLA submission in 1H 2027.",
+          "url": "https://globenewswire.com/news-release/2026/07/17/3329151/0/en/immatics-announces-upcoming-presentations-across-its-prame-franchise-at-esmo-congress-2026.html"
         }
       ]
     },
@@ -65,20 +65,24 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Molecular Partners — Bispecific Radio-DARPin commercialization — MP0712 (DLL3) + MP0726 (MSLN) pipeline — Phase 1/2a dosing active; strategic partnership with Orano Med; 2 INDs planned for 2027.",
+          "text": "Acumen Pharmaceuticals — Enhanced Brain Delivery (EBD) technology commercialization — Bispecific anti-Aβ oligomer/transferrin receptor antibodies — Collaboration with JCR Pharmaceuticals ongoing; preclinical data presented July 2026.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327603/0/en/acumen-pharmaceuticals-highlights-enhanced-brain-delivery-ebd-program-data-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic-2026.html"
+        },
+        {
+          "text": "Genmab — Bispecific therapy commercialization in hematology — TEPKINLY (epcoritamab) — Secured EC approval for 2L follicular lymphoma indication based on Phase 3 EPCORE FL-1 data showing superior PFS and ORR.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327556/0/en/genmab-announces-net-sales-of-darzalex-daratumumab-for-second-quarter-of-2026.html"
+        },
+        {
+          "text": "Molecular Partners — Bispecific radio-DARPin development — MP0317 — Advanced to Phase 2 TACTIC trial in cholangiocarcinoma; showcasing platform at Gordon Research Conference with trial completion projected for 2028.",
           "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
         },
         {
-          "text": "Molecular Partners — Bispecific Radio-DARPin clinical advancement — MP0712 (DLL3) + MP0726 (MSLN) pipeline — Phase 1/2a dosing ongoing; FIH imaging for MP0726 planned H2 2026; two INDs planned for 2027.",
-          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
+          "text": "Samsung Biologics — Bispecific antibody manufacturability — Platform technology — Director-level team (Wooseok Yang, Kihong Kim) advancing molecular engineering to optimize developability and biological performance for next-generation targeted therapies.",
+          "url": "https://lifescienceleader.com/doc/platform-strategy-for-improving-manufacturability-and-efficacy-in-bispecific-antibodies-0001"
         },
         {
-          "text": "VERAXA Biotech — Next-generation antibody-based therapeutics development — BiTAC® bispecific T cell engagers and bispecific ADCs — Partnering with Ardigen to integrate AI for precision oncology target selection and validation.",
-          "url": "https://globenewswire.com/news-release/2026/07/13/3326056/0/en/veraxa-biotech-to-launch-ai-enabled-drug-discovery-collaboration-with-ardigen-to-support-growing-bitac-pipeline.html"
-        },
-        {
-          "text": "Veraxa Biotech — Next-generation antibody-based therapeutics development — BiTAC® bispecific TCEs and ADCs — Partnering with Ardigen to integrate AI for precision oncology target selection and improved success rates.",
-          "url": "https://globenewswire.com/news-release/2026/07/13/3326056/0/en/veraxa-biotech-to-launch-ai-enabled-drug-discovery-collaboration-with-ardigen-to-support-growing-bitac-pipeline.html"
+          "text": "Immatics N.V. — Precision targeting of PRAME via cell therapies and bispecifics — Anzu-cel (cell therapy) + Bispecific pipeline — Phase 3 SUPRAME trial for anzu-cel on track for BLA submission in 1H 2027; clinical-stage programs spanning both modalities.",
+          "url": "https://globenewswire.com/news-release/2026/07/17/3329151/0/en/immatics-announces-upcoming-presentations-across-its-prame-franchise-at-esmo-congress-2026.html"
         }
       ]
     },
@@ -86,24 +90,24 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "MP0712 — Mechanism: Bispecific Radio-DARPin targeting DLL3 with 212 Pb payload — Phase: 1/2a — Population: Small cell lung cancer and neuroendocrine cancers — Comparator: None stated — Endpoints: Safety and efficacy data expected 2027.",
+          "text": "Bispecific anti-Aβ oligomer/transferrin receptor antibodies — Mechanism: Dual binding to Aβ oligomers and transferrin receptors for BBB transport — Phase: Preclinical — Population: Cynomolgus monkeys — Endpoints/Results: Enhanced brain delivery demonstrated via transferrin receptor-mediated transport system.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327603/0/en/acumen-pharmaceuticals-highlights-enhanced-brain-delivery-ebd-program-data-and-early-alzheimer-s-disease-insights-at-the-alzheimer-s-association-international-conference-aaic-2026.html"
+        },
+        {
+          "text": "TEPKINLY (epcoritamab) — Mechanism: Bispecific T-cell engager (CD3xCD19) — Phase: 3 (EPCORE FL-1) — Population: Relapsed/refractory follicular lymphoma — Comparator: Lenalidomide + rituximab (R2) — Results: 74% complete response rate vs 43% for R2; 79% risk reduction in progression or death.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327556/0/en/genmab-announces-net-sales-of-darzalex-daratumumab-for-second-quarter-of-2026.html"
+        },
+        {
+          "text": "MP0317 — Mechanism: Bispecific radio-DARPin (immune modulating) — Phase: 2 (TACTIC) — Population: Advanced biliary tract carcinoma (cholangiocarcinoma) — Comparator: Durvalumab + gemcitabine-cisplatin vs SoC alone — Endpoint: Clinical benefit assessment; proof-of-mechanism established in Phase 1 via tumor microenvironment remodeling.",
           "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
         },
         {
-          "text": "MP0726 — Mechanism: Bispecific Radio-DARPin targeting MSLN — Phase: First-in-human imaging planned — Population: Not specified — Comparator: Not specified — Endpoints: Imaging data expected H2 2026.",
-          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
+          "text": "Bispecific antibody formats — Mechanism: Dual-target engagement for complex disease modulation — Phase: Preclinical/Platform development — Population: Tumor models — Results: Effective modulation of disease-associated signaling pathways, inhibition of tumor cell proliferation, and sustained antitumor activity without compromising target binding.",
+          "url": "https://lifescienceleader.com/doc/platform-strategy-for-improving-manufacturability-and-efficacy-in-bispecific-antibodies-0001"
         },
         {
-          "text": "DLL3-targeting Radio-DARPin — Mechanism: Bispecific vector with 225 Ac payload — Phase: Compassionate care (Section 21, South Africa) — Population: Neuroendocrine cancers — Comparator: Not specified — Status: Early-access program initiated by NuMeRI.",
-          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
-        },
-        {
-          "text": "BiTAC® TCEs — Mechanism: Boolean 'AND-gate' logic requiring co-expression of two distinct targets on cancer cells for activation — Phase: Preclinical/Discovery — Population: Cancer cells with dual target expression — Comparator: Standard TCEs — Outcome: Potential to spare healthy tissues and reduce systemic toxicity by avoiding activation on single-target positive cells.",
-          "url": "https://globenewswire.com/news-release/2026/07/13/3326056/0/en/veraxa-biotech-to-launch-ai-enabled-drug-discovery-collaboration-with-ardigen-to-support-growing-bitac-pipeline.html"
-        },
-        {
-          "text": "BiTAC® TCEs — Mechanism: Boolean 'AND-gate' logic requiring co-expression of two distinct cancer targets for activation — Phase: Preclinical/Discovery — Population: Cancer cells with dual target expression — Outcome: Potential to widen therapeutic window by sparing healthy tissues and reducing systemic toxicity.",
-          "url": "https://globenewswire.com/news-release/2026/07/13/3326056/0/en/veraxa-biotech-to-launch-ai-enabled-drug-discovery-collaboration-with-ardigen-to-support-growing-bitac-pipeline.html"
+          "text": "Anzu-cel (anzutresgene autoleucel, IMA203) — Mechanism: PRAME TCR T-cell therapy — Phase: 1b (RP2D cohort) — Population: Heavily pretreated metastatic melanoma (cutaneous and uveal) — Comparator: None (single-arm) — Results: 56% confirmed ORR, 14.6 months mDOR, 6.1 months mPFS, 16.2 months mOS; rapid, deep, durable systemic anti-tumor activity.",
+          "url": "https://globenewswire.com/news-release/2026/07/17/3329151/0/en/immatics-announces-upcoming-presentations-across-its-prame-franchise-at-esmo-congress-2026.html"
         }
       ]
     },
@@ -111,20 +115,12 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Molecular Partners / Orano Med — Strategic partnership — MP0712 (DLL3-targeted bispecific Radio-DARPin) — Co-development agreement active; Orano Med providing 212 Pb isotope payload for Phase 1/2a trial.",
+          "text": "Genmab — Regulatory milestone — TEPKINLY (epcoritamab) — European Commission granted marketing authorization for bispecific-based combination therapy in follicular lymphoma, establishing first-in-class status in the region.",
+          "url": "https://globenewswire.com/news-release/2026/07/15/3327556/0/en/genmab-announces-net-sales-of-darzalex-daratumumab-for-second-quarter-of-2026.html"
+        },
+        {
+          "text": "Molecular Partners — Clinical trial initiation — MP0317 — Launched investigator-initiated Phase 2 TACTIC study in France with 9 active sites; poster presentation accepted for ESMO 2026.",
           "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
-        },
-        {
-          "text": "Molecular Partners / Orano Med — Strategic partnership for MP0712 — DLL3-targeted Radio-DARPin — Co-development agreement active; Orano Med providing 212 Pb payload for Phase 1/2a trial.",
-          "url": "https://globenewswire.com/news-release/2026/07/15/3327452/0/en/molecular-partners-showcases-bispecific-radio-darpins-at-gordon-research-conference.html"
-        },
-        {
-          "text": "VERAXA Biotech / Ardigen — AI-enabled drug discovery collaboration — BiTAC® bispecific pipeline — Partnership established to develop AI tools for optimizing cancer target pair selection for bispecific TCEs and ADCs.",
-          "url": "https://globenewswire.com/news-release/2026/07/13/3326056/0/en/veraxa-biotech-to-launch-ai-enabled-drug-discovery-collaboration-with-ardigen-to-support-growing-bitac-pipeline.html"
-        },
-        {
-          "text": "Veraxa Biotech / Ardigen S.A. — AI-enabled drug discovery collaboration — BiTAC® bispecific pipeline — Partnership established to develop AI tools for synergistic cancer target pair selection; financial terms undisclosed.",
-          "url": "https://globenewswire.com/news-release/2026/07/13/3326056/0/en/veraxa-biotech-to-launch-ai-enabled-drug-discovery-collaboration-with-ardigen-to-support-growing-bitac-pipeline.html"
         }
       ]
     }
